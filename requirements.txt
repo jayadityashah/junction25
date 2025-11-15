@@ -7,4 +7,5 @@ openai
 google-generativeai
 python-dotenv
 tqdm
-
+flask
+flask-cors

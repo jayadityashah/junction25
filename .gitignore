@@ -2,3 +2,8 @@ legal_documents.db
 legal_documents.db-shm
 legal_documents.db-wal
 data/
+bronze_data/
+silver_data/
+.venv/
+__pycache__/
+*.pyc

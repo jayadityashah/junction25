@@ -1,0 +1,256 @@
+{
+  "risk_categories": [
+    {
+      "risk_name": "Credit Risk",
+      "description": "Capital requirements, credit risk management, and loan provisioning",
+      "overlaps": [
+        {
+          "id": "credit-overlap-1",
+          "documents": [
+            {
+              "filename": "BaselFramework.di.json",
+              "relevant_paragraphs": [
+                {"page": 45, "paragraph_index": 3},
+                {"page": 45, "paragraph_index": 4},
+                {"page": 46, "paragraph_index": 1}
+              ]
+            },
+            {
+              "filename": "CELEX_32013R0575_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 123, "paragraph_index": 0},
+                {"page": 123, "paragraph_index": 1},
+                {"page": 123, "paragraph_index": 5}
+              ]
+            }
+          ],
+          "reason": "Basel Framework provides international standards for credit risk capital requirements while CRR implements these standards in EU law. They overlap on risk-weighted asset calculations, capital buffer requirements, and leverage ratio definitions."
+        },
+        {
+          "id": "credit-overlap-2",
+          "documents": [
+            {
+              "filename": "CELEX_32023R1803_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 234, "paragraph_index": 12},
+                {"page": 234, "paragraph_index": 13}
+              ]
+            },
+            {
+              "filename": "CELEX_32013R0575_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 89, "paragraph_index": 7},
+                {"page": 89, "paragraph_index": 8}
+              ]
+            },
+            {
+              "filename": "Final Guidelines on Accounting for Expected Credit Losses (EBA-GL-2017-06).di.json",
+              "relevant_paragraphs": [
+                {"page": 15, "paragraph_index": 3},
+                {"page": 16, "paragraph_index": 0}
+              ]
+            }
+          ],
+          "reason": "IFRS 9 accounting standards, CRR, and EBA Guidelines all address expected credit loss provisioning. They overlap on definitions of default, staging criteria for impaired assets, and treatment of forbearance in credit risk assessment."
+        },
+        {
+          "id": "credit-overlap-3",
+          "documents": [
+            {
+              "filename": "CELEX_32023R1803_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 45, "paragraph_index": 2},
+                {"page": 45, "paragraph_index": 3}
+              ]
+            },
+            {
+              "filename": "CELEX_32013R0575_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 156, "paragraph_index": 4},
+                {"page": 156, "paragraph_index": 5}
+              ]
+            }
+          ],
+          "reason": "IFRS 9 and CRR both define classification and measurement of financial assets for credit risk purposes, with overlapping requirements on loss allowance calculations and impairment recognition."
+        }
+      ],
+      "contradictions": [
+        {
+          "id": "credit-contradiction-1",
+          "documents": [
+            {
+              "filename": "Guidelines on PD and LGD estimation (EBA-GL-2017-16).di.json",
+              "relevant_paragraphs": [
+                {"page": 28, "paragraph_index": 5},
+                {"page": 28, "paragraph_index": 6}
+              ]
+            },
+            {
+              "filename": "186_2023.di.json",
+              "relevant_paragraphs": [
+                {"page": 12, "paragraph_index": 3},
+                {"page": 12, "paragraph_index": 4}
+              ]
+            }
+          ],
+          "reason": "EBA guidelines specify through-the-cycle approach for PD estimation, while Finnish law 186/2023 requires point-in-time estimates for certain exposures."
+        }
+      ]
+    },
+    {
+      "risk_name": "Market Risk",
+      "description": "Trading book requirements, market risk capital, and MiFID provisions",
+      "overlaps": [
+        {
+          "id": "market-overlap-1",
+          "documents": [
+            {
+              "filename": "CELEX_32014L0065_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 177, "paragraph_index": 0},
+                {"page": 177, "paragraph_index": 1}
+              ]
+            },
+            {
+              "filename": "CELEX_32013L0036_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 67, "paragraph_index": 8},
+                {"page": 68, "paragraph_index": 0}
+              ]
+            }
+          ],
+          "reason": "MiFID II and CRD IV both contain provisions on remuneration policies for investment firms."
+        },
+        {
+          "id": "market-overlap-2",
+          "documents": [
+            {
+              "filename": "CELEX_32014L0065_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 88, "paragraph_index": 3},
+                {"page": 88, "paragraph_index": 4}
+              ]
+            },
+            {
+              "filename": "CELEX_32013L0036_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 45, "paragraph_index": 2},
+                {"page": 45, "paragraph_index": 3}
+              ]
+            }
+          ],
+          "reason": "MiFID II and CRD IV also overlap on governance and risk management requirements for investment firms."
+        },
+        {
+          "id": "market-overlap-3",
+          "documents": [
+            {
+              "filename": "CELEX_32014L0065_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 122, "paragraph_index": 7},
+                {"page": 122, "paragraph_index": 8}
+              ]
+            },
+            {
+              "filename": "CELEX_32013L0036_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 91, "paragraph_index": 5},
+                {"page": 91, "paragraph_index": 6}
+              ]
+            }
+          ],
+          "reason": "Third overlap: MiFID II and CRD IV align on reporting requirements for trading activities."
+        },
+        {
+          "id": "market-overlap-4",
+          "documents": [
+            {
+              "filename": "BaselFramework.di.json",
+              "relevant_paragraphs": [
+                {"page": 156, "paragraph_index": 2},
+                {"page": 156, "paragraph_index": 3}
+              ]
+            },
+            {
+              "filename": "444_2017.di.json",
+              "relevant_paragraphs": [
+                {"page": 12, "paragraph_index": 5},
+                {"page": 12, "paragraph_index": 6}
+              ]
+            }
+          ],
+          "reason": "Basel Framework and Finnish regulation 444/2017 overlap on VaR calculation methodologies."
+        }
+      ],
+      "contradictions": [
+        {
+          "id": "market-contradiction-1",
+          "documents": [
+            {
+              "filename": "BaselFramework.di.json",
+              "relevant_paragraphs": [
+                {"page": 234, "paragraph_index": 7},
+                {"page": 234, "paragraph_index": 8}
+              ]
+            },
+            {
+              "filename": "444_2017.di.json",
+              "relevant_paragraphs": [
+                {"page": 8, "paragraph_index": 2},
+                {"page": 8, "paragraph_index": 3}
+              ]
+            }
+          ],
+          "reason": "Basel Framework allows internal models for market risk while Finnish regulation 444/2017 restricts them for smaller institutions."
+        },
+        {
+          "id": "market-contradiction-2",
+          "documents": [
+            {
+              "filename": "CELEX_32014L0065_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 201, "paragraph_index": 4},
+                {"page": 201, "paragraph_index": 5}
+              ]
+            },
+            {
+              "filename": "CELEX_32013L0036_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 78, "paragraph_index": 1},
+                {"page": 78, "paragraph_index": 2}
+              ]
+            }
+          ],
+          "reason": "MiFID II and CRD IV contradict on specific thresholds for position reporting in commodity derivatives."
+        }
+      ]
+    },
+    {
+      "risk_name": "Resolution & Recovery",
+      "description": "Bank resolution, recovery planning, and crisis management",
+      "overlaps": [],
+      "contradictions": [
+        {
+          "id": "resolution-contradiction-1",
+          "documents": [
+            {
+              "filename": "CELEX_32014L0059_EN_TXT.di.json",
+              "relevant_paragraphs": [
+                {"page": 108, "paragraph_index": 4},
+                {"page": 108, "paragraph_index": 5}
+              ]
+            },
+            {
+              "filename": "699_2004.di.json",
+              "relevant_paragraphs": [
+                {"page": 23, "paragraph_index": 1},
+                {"page": 23, "paragraph_index": 2}
+              ]
+            }
+          ],
+          "reason": "BRRD specifies target level for resolution funds of 1% by 2024. Finnish law 699/2004 specified different target level and timeline."
+        }
+      ]
+    }
+  ]
+}
