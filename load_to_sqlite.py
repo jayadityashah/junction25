@@ -10,13 +10,21 @@ import os
 from pathlib import Path
 from tqdm import tqdm
 
-DB_PATH = "/home/quern/Documents/junction-2025/legal_documents.db"
-DATA_PATH = "/home/quern/Documents/junction-2025/data"
+# Use paths relative to this script's location
+SCRIPT_DIR = Path(__file__).parent
+DB_PATH = SCRIPT_DIR / "legal_documents.db"
+DATA_PATH = SCRIPT_DIR / "data"
 
 def create_database():
     """Create the SQLite database schema"""
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(str(DB_PATH))
     cursor = conn.cursor()
+    
+    # Performance optimizations for bulk inserts
+    cursor.execute("PRAGMA journal_mode = WAL")  # Write-Ahead Logging
+    cursor.execute("PRAGMA synchronous = NORMAL")  # Faster but still safe
+    cursor.execute("PRAGMA cache_size = 10000")  # Larger cache
+    cursor.execute("PRAGMA temp_store = MEMORY")  # Use memory for temp tables
     
     # Documents table
     cursor.execute("""
@@ -79,7 +87,7 @@ def determine_category(filepath):
         return "NATIONAL_LAWS", "FINLAND"
     return "UNKNOWN", "UNKNOWN"
 
-def process_json_file(filepath, conn):
+def process_json_file(filepath, conn, commit=True):
     """Process a single JSON file and insert into database"""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
@@ -93,6 +101,13 @@ def process_json_file(filepath, conn):
         # Get category
         category, subcategory = determine_category(filepath)
         
+        # Convert to relative path (relative to DATA_PATH)
+        try:
+            relative_filepath = str(Path(filepath).relative_to(DATA_PATH))
+        except ValueError:
+            # If not relative to DATA_PATH, just use the filename
+            relative_filepath = os.path.basename(filepath)
+        
         # Insert document
         file_size = os.path.getsize(filepath)
         page_count = len(data.get('pages', []))
@@ -100,11 +115,11 @@ def process_json_file(filepath, conn):
         cursor.execute("""
         INSERT OR IGNORE INTO documents (filename, filepath, category, subcategory, file_size, page_count)
         VALUES (?, ?, ?, ?, ?, ?)
-        """, (os.path.basename(filepath), str(filepath), category, subcategory, file_size, page_count))
+        """, (os.path.basename(filepath), relative_filepath, category, subcategory, file_size, page_count))
         
         if cursor.lastrowid == 0:
             # Document already exists
-            cursor.execute("SELECT id FROM documents WHERE filepath = ?", (str(filepath),))
+            cursor.execute("SELECT id FROM documents WHERE filepath = ?", (relative_filepath,))
             doc_id = cursor.fetchone()[0]
         else:
             doc_id = cursor.lastrowid
@@ -133,7 +148,9 @@ def process_json_file(filepath, conn):
                     VALUES (?, ?, ?, ?)
                     """, (page_id, idx, paragraph, len(paragraph)))
         
-        conn.commit()
+        # Only commit if requested (for batch processing)
+        if commit:
+            conn.commit()
         return True
     
     except Exception as e:
@@ -143,7 +160,7 @@ def process_json_file(filepath, conn):
 def find_json_files(data_path, limit=None):
     """Find all JSON files in the data directory"""
     json_files = []
-    for root, dirs, files in os.walk(data_path):
+    for root, dirs, files in os.walk(str(data_path)):
         for file in files:
             if file.endswith('.json'):
                 json_files.append(os.path.join(root, file))
@@ -166,13 +183,21 @@ def main():
     processed = 0
     failed = 0
     
-    print("Loading documents into SQLite...")
-    for filepath in tqdm(json_files, desc="Processing", unit="file"):
-        if process_json_file(filepath, conn):
+    # Batch size for commits (commit every N files)
+    BATCH_SIZE = 100
+    
+    print("Loading documents into SQLite (with batch commits)...")
+    for i, filepath in enumerate(tqdm(json_files, desc="Processing", unit="file"), 1):
+        # Only commit every BATCH_SIZE files or at the end
+        should_commit = (i % BATCH_SIZE == 0) or (i == total_files)
+        
+        if process_json_file(filepath, conn, commit=should_commit):
             processed += 1
         else:
             failed += 1
     
+    # Final commit in case there are remaining uncommitted changes
+    conn.commit()
     conn.close()
     
     print(f"\n✅ Database created successfully!")
@@ -183,7 +208,7 @@ def main():
     print(f"  - Database location: {DB_PATH}")
     
     # Print some stats from the database
-    conn = sqlite3.connect(DB_PATH)
+    conn = sqlite3.connect(str(DB_PATH))
     cursor = conn.cursor()
     
     cursor.execute("SELECT COUNT(*) FROM documents")
