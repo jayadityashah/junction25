@@ -1,0 +1,117 @@
+{
+  "category": "liquidity risk",
+  "requirements": [
+    "Credit institutions must perform risk reporting.",
+    "Deposit banks (amalgamations) must report interest rate and liquid risk according to specific and revised categories.",
+    "Implement Additional Liquidity Monitoring (ALM) reporting, including the maturity ladder, by 1 March 2018.",
+    "Regulations and guidelines regarding liquidity risk reporting previously under FIN-FSA standard RA4.7 are transferred to FIN-FSA regulations and guidelines 1/2014."
+  ],
+  "contradictions": [
+    {
+      "title": "Status of FIN-FSA standard RA4.7",
+      "documents": [
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 11
+        },
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 14
+        }
+      ],
+      "explanation": "Excerpt 1 implies FIN-FSA standard RA4.7 is an active requirement for liquidity risk reporting, while Excerpt 6 explicitly states its repeal. The repeal is the updated and definitive status.",
+      "stricter": "01_2014.m9_en.di.json, page 14 (repeal implies cessation of previous requirement)"
+    },
+    {
+      "title": "Timing of M-report repeal",
+      "documents": [
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 13
+        },
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 13
+        }
+      ],
+      "explanation": "Excerpt 4 states M-tables 'will be abolished' upon full ALM implementation, suggesting a future conditional event. Excerpt 7 states M-reports 'have been repealed', indicating a completed action, which is a more immediate status.",
+      "stricter": "01_2014.m9_en.di.json, page 13 (Excerpt 7, indicating an immediate or already completed repeal)"
+    }
+  ],
+  "overlaps": [
+    {
+      "title": "Cessation of M-report/M-table reporting",
+      "documents": [
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 13
+        },
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 13
+        }
+      ],
+      "explanation": "Both excerpts address the discontinuation of M-report/M-table liquidity risk reporting. Excerpt 7 provides a general statement of repeal, while Excerpt 4 offers more detail regarding the condition for abolishment and the specified replacement (ALM reporting)."
+    },
+    {
+      "title": "Reporting categories for deposit banks regarding liquid risk",
+      "documents": [
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 14
+        },
+        {
+          "document": "01_2014.m9_en.di.json",
+          "page": 14
+        }
+      ],
+      "explanation": "Both excerpts refer to reporting categories for amalgamations of deposit banks concerning liquid risk. Excerpt 5 mentions their existence, while Excerpt 6 specifies that changes have been made to these categories, providing updated detail."
+    }
+  ],
+  "summary": "The regulatory framework for liquidity risk reporting is in a state of transition, marked by the repeal of older standards and reporting mechanisms like FIN-FSA RA4.7 and M-reports. A new requirement for Additional Liquidity Monitoring (ALM) reporting, including the maturity ladder, is being implemented by March 2018. This indicates a move towards updated and potentially more harmonized risk reporting practices for credit institutions and deposit banks.",
+  "retrieved_chunks": [
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 11,
+      "text": "· FIN-FSA standard RA4.7, Reporting of liquidity risk.",
+      "similarity_score": 0.542186975479126
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 6,
+      "text": "(3) Credit risks are significant risks to which supervised entities with banking operations are exposed. Supervised entities' credit risk management and control are of major importance for ensuring capital adequacy in relation to operational risks and any losses resulting from materialisation of such risks.",
+      "similarity_score": 0.4963311553001404
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 1,
+      "text": "Risk reporting by credit institutions",
+      "similarity_score": 0.4758169651031494
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 13,
+      "text": "The amendments are related to the repealing of liquidity risk reporting. The M-tables will be abolished when the reporting of additional liquidity monitoring metrics (ALM reporting) has been implemented in full (the maturity ladder will be introduced on 1 March 2018).",
+      "similarity_score": 0.4755061864852905
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 14,
+      "text": "categories of amalgamations of deposit banks with respect to interest rate and liquid risk reports.",
+      "similarity_score": 0.4571789503097534
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 14,
+      "text": "The revisions relate mainly to the repeal of the FIN-FSA standard RA4.7, Reporting of liquidity risk and to the transfer of the said regulations and guidelines to the FIN-FSA regulations and guidelines 1/2014, Risk reporting by credit institutions. Moreover, certain individual revisions have been made to the wording of these regulations and guidelines as well as changes made to the reporting institution categories of amalgamations of deposit banks with respect to interest rate and liquid risk",
+      "similarity_score": 0.4538705348968506
+    },
+    {
+      "source": "01_2014.m9_en.di.json",
+      "page": 13,
+      "text": "· all regulations and guidelines regarding reporting of liquidity risk (M-report) have been repealed",
+      "similarity_score": 0.4481961131095886
+    }
+  ],
+  "query_definition": "Liquidity risk for banks is the potential inability to meet short-term cash flow obligations, such as deposit withdrawals or loan disbursements, without incurring unacceptable losses or disrupting daily operations. This critical risk arises from mismatches between maturing liabilities and illiquid assets, or from market disruptions hindering access to funding. To mitigate this, banks are subject to stringent **funding requirements** and must maintain sufficient **liquid assets**, often referred to as High-Quality Liquid Assets (HQLA). Key regulatory metrics like the **Liquidity Coverage Ratio (LCR)** ensure adequate HQLA for a 30-day stress scenario, while the **Net Stable Funding Ratio (NSFR)** promotes stable, long-term funding for illiquid assets over a one-year horizon."
+}
