@@ -1,0 +1,1463 @@
+METADATA: {"document_id": 35, "filename": "maaraykset-ja-ohjeet-3_2025.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 30, "paragraph_count": 619}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44756: FIN FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44757: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44758: Kevan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44759: Asiatunnus FIVA/2024/1584
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44760: Antopäivä 22.5.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44761: Voimaantulopäivä 30.6.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44762: Lisätietoja:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44763: Vakuutusvalvonta/Työeläkelaitokset ja sijoitustoiminnan valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44764: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44765: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44766: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44767: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44770: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44772: FIN 2 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44773: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44774: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44775: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on nouda- tettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44776: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen no- jalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44778: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44779: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44780: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44781: Finanssivalvonta.fi > Saantely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44782: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44783: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44784: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44787: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44788: FIN FIN FIN 3 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44789: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44790: Kevan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44792: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44794: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44796: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44798: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44800: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44802: 4 Johdon asiantuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44804: 4.1 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44806: 4.2 Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44808: 5 Johdon kelpoisuuden arviointi ja varmistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44810: 5.1 Yleistä kelpoisuuden varmistamisesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44812: 5.2 Hyvämaineisuuden arviointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44814: 5.3 Kirjalliset toimintaperiaatteet ja koulutus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44816: 5.4 Ilmoittaminen Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44818: 6 Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44820: 6.1 Valtuutettujen valvontatehtävä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44822: 7 Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44824: 7.1 Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44825: 7.2 Sisäisen valvonnan järjestäminen ja toimivuus 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44826: 7.3 Raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44828: 8 Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44830: 8.1 Toiminnon järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44832: 8.2 Toiminnon tarkoitus ja tehtävia
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44834: 8.3 Raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44836: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44837: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44838: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44841: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44842: FIN FIN FIN 4 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44844: Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44847: Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44849: 10.1 Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44851: 10.2 Riskienhallintajärjestelmän toimintaperiaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44854: Toiminnan hairioistä ja virheistä ilmoittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44856: 11.1 Ilmoitus toiminnan hairioista ja virheistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44858: 11.2 Vuosi-ilmoitus operatiivisen riskin aiheuttamista tappioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44861: Jatkuvuus- ja valmiussuunnittelu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44863: 12.1 Vastuut ja suunnitelmien laatiminen ja testaaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44865: 12.2 Varautuminen tietojen hallinnan ja tietojärjestelmien osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44867: 12.3 Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44869: 12.4 Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44871: 13 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44874: Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44876: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44877: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44878: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44881: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44883: FIN 5 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44884: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44885: Näitä määräyksiä ja ohjeita sovelletaan seuraavaan Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuun valvottavaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44887: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44888: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44889: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44892: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44893: FIN FIN FIN 6 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44894: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44895: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44896: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44897: · laki Kevasta (66/2016, jäljempänä KevaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44898: · laki Finanssivalvonnasta (jäljempänä FivaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44899: · valmiuslaki (1552/2011).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44900: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44901: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44902: · Keval 36 a §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44903: · FivaL 18 §:n 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44904: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44905: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44906: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44909: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44911: FIN 7 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44912: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44913: (1) Näiden määräysten ja ohjeiden tavoitteena on täydentää Kevan hallinnon järjestämistä koskevia lain säännöksiä ja siten edistää Kevan hallinnon selkeyttä, läpinäkyvyyttä ja asianmukaista järjestämistä. Tavoitteena on myös varmistaa Kevan toiminnan hairiötön jatkuminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44914: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44915: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44916: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44919: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44920: FIN FIN FIN 8 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44921: 4 Johdon asiantuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44922: 4.1 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44923: (1) KevaL 9 §:n 3 momentin mukaan hallituksen jäsenella on oltava hyvä työeläkevakuutustoiminnan asi- antuntemus. Hallituksessa on oltava myös hyvä sijoitustoiminnan asiantuntemus. KevaL 9 §:n 7 mo- mentin mukaan hallituksen varajäseneen sovelletaan, mitä laissa säädetään hallituksen jäsenestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44924: OHJE (kohdat 2-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44925: (2) Finanssivalvonta suosittaa, että hallituksessa on myös muu hallituksen tehtävien vaatima asiantunte- mus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44926: (3) Finanssivalvonnan tulkinnan mukaan KevaL 9 §:n 3 momentissa tarkoitettu hyväa työeläkevakuutustoi- minnan asiantuntemusta koskeva vaatimus täyttyy, mikäli hallituksen jäsenella on riittävän pitkältä ajalta vastaavaa kokemusta toisen työeläkelaitoksen hallituksesta tai muuta hallitusjäsenyyteen rin- nastettavaa kokemusta työeläkelaitoksesta tai mikäli hän suorittaa kattavan perehdytyskoulutuksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44927: (4) Finanssivalvonta suosittaa, että kohdassa 3 tarkoitettu perehdytyskoulutus kattaa ainakin seuraavat osa-alueet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44928: · työeläkejärjestelmä, sen toimijat ja rahoitus pääpiirteittäin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44929: · Kevan toiminnan luonne ja rajat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44930: · Kevan hallinto- ja ohjausjärjestelmä, mukaan lukien johdon tehtävät ja vastuut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44931: · vakuuttaminen ja eläke-etuudet Kevassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44932: · Kevan sijoitustoiminta ja rahoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44933: · Kevan tuloksen muodostuminen, tase ja kirjanpito.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44934: (5) Finanssivalvonnan tulkinnan mukaan KevaL 9 §:n 3 momentissa tarkoitettu hyvää sijoitustoiminnan asiantuntemusta koskeva vaatimus täyttyy, mikali vähintään yhdella kolmasosalla hallituksen jäsenistä on hyvä sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44935: 4.2 Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44936: (6) KevaL 14 §:n 1 momentin mukaan toimitusjohtajan, toimitusjohtajan sijaisen ja varatoimitusjohtajan viran kelpoisuusvaatimuksena on ylempi korkeakoulututkinto, tehtävän edellyttämä monipuolinen kokemus sekä käytännössä osoitettu johtamistaito ja johtamiskokemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44937: (7) Hallituksen esityksessä 21/2015 kerrotaan,1 mitä tarkoittavat tehtävän edellyttämä monipuolinen ko- kemus sekä käytännössä osoitettu johtamistaito ja johtamiskokemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44938: (8) KevaL 14 §:n 2 momentin mukaan toimitusjohtajalla on oltava hyvä työelakevakuutustoiminnan, sijoi- tustoiminnan ja liikkeenjohdon tuntemus. KevaL 14 §:n 1 momentin mukaan säännösta sovelletaan myös toimitusjohtajan sijaiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44939: 1 HE 21/2015, Keval 14 §:n yksityiskohtaiset perustelut, s. 16.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44940: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44941: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44942: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44945: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44946: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44948: OHJE (kohdat 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44949: (9) Finanssivalvonnan tulkinnan mukaan KevaL 14 §:n 2 momentissa tarkoitetut vaatimukset täyttyvät riit- tävän pitkän vastaavanlaisissa tehtävissä hankitun työkokemuksen kautta taikka riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisohjelman kautta. Finanssivalvonnan tulkinnan mukaan vastaavanlaisen työkokemuksen voi hankkia toimimalla työeläkevakuutusalalla vastuullisissa tehtävissä ja muun työkokemuksen voi hankkia toimimalla vastuullisissa tehtävissä esimerkiksi rahoi- tus- tai vakuutusalalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44950: (10) Finanssivalvonta suosittaa, että kohdassa 9 tarkoitettu koulutus- ja perehdyttämisohjelma sisältää eri- tyisesti työeläkevakuutustoimintaan, sijoitustoimintaan ja liikkeenjohtoon liittyviä osa-alueita. Ohjel- massa tulisi painottaa osa-alueita, joiden tuntemuksessa henkilöllä arvioidaan olevan puutteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44951: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44952: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44953: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44956: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44957: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44959: 5 Johdon kelpoisuuden arviointi ja varmistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44960: (1) KevaL 17 §:ssä säädetään hallituksen jäsenten ja toimitusjohtajan muutoksiin liittyvästä ilmoitusvelvol- lisuudesta. Säännöstä sovelletaan KevaL 9 §:n 7 momentin mukaan myös hallituksen varajäseniin ja KevaL 14 §:n 1 momentin mukaan myös toimitusjohtajan sijaiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44961: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä kohdassa 1 tarkoitetuista ilmoituksista perus- tuu KevaL 36 a §:n 1 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44962: 5.1 Yleistä kelpoisuuden varmistamisesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44963: OHJE (kohdat 3-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44964: (3) Finanssivalvonnan tulkinnan mukaan Keva vastaa KevaL 17 §:n perusteella siitä, että hallituksen jäse- net ja varajäsenet ja toimitusjohtaja ja toimitusjohtajan sijainen täyttävät tehtävässa aloittamisesta alkaen tehtävässa toimiessaan KevaL 9, 14 ja 14 a §:n mukaiset kelpoisuusvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44965: (4) Finanssivalvonta suosittaa, että kaikki kohdassa 3 tarkoitettua henkilö koskevat asiantuntemus- ja muut kelpoisuusvaatimukset saatetaan ehdokkaita asettavien tahojen ja nimityspäätöksen tekevän hallintoelimen tietoon etukäteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44966: (5) Finanssivalvonta suosittaa, että ennen kuin 3 kohdassa tarkoitettu henkilö valitaan ensimmäistä kertaa tehtäväänsä Keva varmistaa haastatteluilla, kirjallisilla arvioinneilla tai muilla tarpeellisilla toimenpi- teillä, että hän on kelpoinen tehtävään. Jos henkilön asiantuntemuksessa tai muussa kelpoisuudessa havaitaan puutteita, perehdyttämistarpeet ja muut ennen tehtävässä aloittamista tarvittavat toimenpi- teet tulisi saattaa henkilön ja nimityspäätöksen tekevän hallintoelimen tietoon ennen nimityksen teke- mistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44967: (6) Finanssivalvonta suosittaa, että vaalivaliokuntaa ja hallituksen tarkastus- ja riskienhallintavaliokuntaa valittaessa varmistutaan siitä, että valiokunnan jäsenillä on valiokunnan tehtäviin nähden riittävä am- mattitaito ja pätevyys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44968: (7) Finanssivalvonta suosittaa, että Keva ryhtyy viipymättä riittäviin toimenpiteisiin hallinnon luotettavuu- den turvaamiseksi, jos kohdassa 3 tarkoitetun henkilön asiantuntemus, hyvämaineisuus tai muu kel- poisuus kyseenalaistuu. Kevan tulisi tällöin tehdä päätös toimenpiteistä, joita se katsoo hallinnon luo- tettavuuden turvaamisen edellyttävän.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44969: 5.2 Hyvämaineisuuden arviointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44970: OHJE (kohdat 8-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44971: (8) Finanssivalvonnan tulkinnan mukaan henkilö ei ole hyvämaineinen KevaL 8 a §:n 1 momentin, 9 §:n 3 momentin ja 14 §:n 2 momentin mukaisesti, mikäli
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44972: · hänet on tuomittu viimeisen viiden vuoden aikana vankeusrangaistukseen tai viimeisen kolmen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan il- meisen sopimaton tehtävään, tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44973: . hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton tehtävään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44974: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44975: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44976: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44979: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44982: FIN 11 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44983: (9) Finanssivalvonnan tulkinnan mukaan kohdan 8 ensimmäisessä alakohdassa tarkoitettu määräaika las- ketaan valintaa tai nimittamista koskevassa tilanteessa tuomion lainvoimaiseksi tulosta tehtävässä aloittamishetkeen. Jos tuomio ei ole saanut lainvoimaa, tuomittu voi kuitenkin jatkaa Kevan johtoon kuuluvan päätösvallan käyttämistä, jos sitä on hänen aikaisempi toimintansa, tuomioon johtaneet olo- suhteet ja muut asiaan vaikuttavat seikat kokonaisuutena arvioiden pidettävä ilmeisen perusteltuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44984: 5.3 Kirjalliset toimintaperiaatteet ja koulutus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44985: OHJE (kohdat 10-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44986: (10) Finanssivalvonta suosittaa, että Kevalla on kirjalliset toimintaperiaatteet sen seuraamiseksi ja varmis- tamiseksi, että laissa säädetyt kelpoisuusvaatimukset täyttyvät. Toimintaperiaatteiden tulisi sisältää ainakin henkilöitä seka hallintoelimia kokonaisuutena koskevat asiantuntemusvaatimukset, ne menet- telyt, joita Keva noudattaa asiantuntemus- ja muiden kelpoisuusvaatimusten täyttymisen seuraa- miseksi ja varmistamiseksi, ja eri osapuolten tehtävät ja vastuut seurannassa ja varmistamisessa. Toi- mintaperiaatteiden tulisi edistää sitä, että laissa säädetyt asiantuntemus- ja muut kelpoisuusvaatimuk- set jatkuvasti täyttyvät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44987: (11) Finanssivalvonta suosittaa, että henkilöä tehtäväänsä perehdytettäessä ja muuten koulutettaessa ote- taan huomioon hänen aiempi koulutuksensa, kokemuksensa ja tehtävässä suoriutumisensa ja niissä havaitut puutteet sekä sovellettavan lainsäädännön, muun toimintaympäristön ja Kevan oman toimin- nan merkittävät muutokset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44988: (12) Finanssivalvonta suosittaa, että Kevalla on selkeä menettely, jota noudattaen perehdytys- ja muut kou- lutustavoitteet ja koulutustarpeet määritetään ja dokumentoidaan ja henkilö voi hakeutua koulutuk- seen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44989: (13) Finanssivalvonta suosittaa, että Keva säilyttää kohdan 12 soveltamiseen liittyvät perehdytys- ja koulu- tustavoitteet ja koulutustarpeiden arvioinnit niin kauan kuin se on tarpeen henkilön asiantuntemuksen johdonmukaiseksi kehittämiseksi ja asiantuntemusvaatimusten täyttymisen varmistamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44990: 5.4 Ilmoittaminen Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44991: MÄÄRÄYS (kohdat 14-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44992: (14) Kevan on tehtävä valintaa tai nimittämistä koskeva ilmoitus hallituksen jäsenen ja varajäsenen, toimi- tusjohtajan ja toimitusjohtajan sijaisen osalta viimeistään kaksi viikkoa ennen kuin henkilö aloittaa teh- tävässään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44993: (15) Kohdassa 14 tarkoitetusta ilmoituksesta on käytävä ilmi henkilön nimi, henkilötunnus, yhteystiedot, kotipaikka, tehtävä, johon hänet on valittu Kevassa, ja milloin hän aloittaa tehtävässaän. Ilmoitukseen on liitettävä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44994: · hallituksen jäsentä ja varajäsentä valittaessa vaalivaliokunnan puheenjohtajan ja toimitusjohtajan allekirjoittama vakuutus, jossa Keva ilmoittaa selvittäneensä henkilon täyttävän KevaL:ssa säädetyt kelpoisuusvaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44995: · toimitusjohtajaa ja toimitusjohtajan sijaista nimitettäessä hallituksen puheenjohtajan allekirjoit- tama vakuutus, jossa Keva ilmoittaa selvittäneensä henkilon täyttävän KevaL:ssa säädetyt kelpoi- suusvaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44996: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44997: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44998: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45001: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45003: FIN 12 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45004: (16) · perustelut sille, miksi Keva katsoo henkilön täyttävän KevaL:ssa säädetyt kelpoisuusvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45005: Kevan on ilmoitettava Finanssivalvonnalle viipymättä, jos hallituksen jäsen tai varajäsen lopettaa teh- tävässään ennen toimikautensa päättymistä tai jos toimitusjohtaja tai toimitusjohtajan sijainen eroaa tai erotetaan tehtävästään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45006: OHJE (kohdat 17-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45007: (17) Kohdassa 14 tarkoitetun henkilon uudelleenvalinnasta ei tarvitse tehdä uutta ilmoitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45008: (18) Finanssivalvonnan tulkinnan mukaan Finanssivalvonta voi KevaL 17 §:n nojalla Kevan ilmoituksen li- säksi arvioida henkilon kelpoisuusvaatimusten täyttymistä milloin tahansa omasta aloitteestaan. Jos kyseessä on 8 tai 9 kohdassa tarkoitettu tilanne, Kevan on toimitettava arviointia varten kaikki tekoon, rangaistukseen ja asian muuhun arviointiin liittyvät tiedot ja esitettävä perusteet, miksi henkilon voitai- siin kuitenkin katsoa soveltuvan tehtäväänsä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_45009: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45010: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45011: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45014: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45016: FIN 13 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45017: 6 Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45018: (1) KevaL 3 luvussa säädetään Kevan hallinnosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45019: (2) KevaL 8 a §:n 3 momentin 1 kohdan mukaan valtuutettujen tehtävänä on valvoa Kevan hallintoa ja toi- mintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45020: (3) KevaL 9 §:n 4 momentin 4 kohdan mukaan hallituksen tehtäviin kuuluu hyväksyä Kevan hallinto- ja joh- tamisjärjestelmä sekä huolehtia muusta Kevan toiminnan järjestämisestä ja ohjauksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45021: (4) KevaL 14 §:n 3 momentin mukaan toimitusjohtaja huolehtii Kevan KevaL 2 §:n mukaisten tehtävien to- teutumisesta ja hoitaa muuta päivittäistä hallintoa hallituksen antamien ohjeiden ja määräysten mu- kaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45022: (5) KevaL 8 §:n 1 momentin mukaan hallituksen ja toimitusjohtajan on johdettava Kevaa ammattitaitoi- sesti eläkelaitoksen toiminnan tarkoitus huomioon ottaen, terveiden ja varovaisten toimintaperiaattei- den sekä hyvää hallintoa koskevien periaatteiden mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45023: (6) Hallituksen esityksen 102/2019 mukaan2 Kevan kohdalla hyvän hallintotavan vaatimuksiin kuuluu olen- naisesti vastuu laissa säädetyn perustehtävän toteuttamisesta, toimintatapojen laadusta ja lainmukai- suudesta, tuloksellisuudesta, läpinäkyvyydestä ja tilivelvollisuuden toteutumisesta. Hyvä hallintotapa edellyttää asiakaslähtöistä toimintaa, organisaatiorakenteiden ja johdon eri tasojen roolien selkeyttä ja roolien mukaista toimintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45024: OHJE (kohta 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45025: (7) Finanssivalvonnan tulkinnan mukaan KevaL 8 §:n 1 momentissa tarkoitettuihin hyvää hallintoa koske- viin periaatteisiin kuuluvat ainakin seuraavat vaatimukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45026: · Kevalla on toimintansa laatuun ja laajuuteen nähden riittava ja toimiva hallintojärjestelmä, jossa organisaatiorakenteeseen sisältyvät valta-, vastuu- ja raportointisuhteet on määritelty, jaettu ja ero- tettu toisistaan ja jossa tiedonkulku on esteetontä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45027: · Kevalla on keskeisten toimintojen osalta kirjalliset toimintaperiaatteet sekä selkeät määrälliset ja laadulliset tavoitteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45028: · Tavoitteiden määrittelyssä otetaan huomioon myös terveet ja varovaiset toimintaperiaatteet ja elä- keturvaan kuuluvat edut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45029: · Toimintaperiaatteet ja tavoitteet saatetaan koko henkilöstön tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45030: · Hallitus voi tehokkaasti ja riippumattomasti valvoa toimitusjohtajaa ja muuta toimivaa johtoa sekä muuta organisaatiota.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45031: · Hallitus laatii toimintaansa varten kirjallisen työjärjestyksen, jossa on määritelty hallituksen keskei- set tehtävät ja toimintaperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45032: 2 Hallituksen esitys 102/2019, Keval 8 §:n yksityiskohtaiset perustelut, s. 11.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_45033: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45034: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45035: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45038: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45039: FIN FIN FIN 14 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45040: 6.1 Valtuutettujen valvontatehtävä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45041: OHJE (kohdat 8-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45042: (8) Finanssivalvonnan tulkinnan mukaan KevaL 8 a §:n 3 momentin 1 kohdassa tarkoitettuun valtuutettu- jen valvontatehtävään sisältyy myös sen valvominen, että hallitus ja toimitusjohtaja hoitavat tehtävi- ään sääntelyn mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45043: (9) Finanssivalvonta suosittaa, että valtuutettujen toteuttama valvonta on jatkuvaa, valvonnan toteutus- tapa vastaa kaikissa olosuhteissa Kevan tilannetta ja että valtuutetut kiinnittävät valvonnassa huo- miota etenkin Kevan toiminnan kannalta keskeisiin asioihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45044: (10) Finanssivalvonta suosittaa, että valtuutetut varmistuvat riittavästi ainakin siitä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45045: · että hallitus ja toimitusjohtaja johtavat Kevaa sääntelyn ja hyvää hallintoa koskevien periaatteiden mukaisesti Kevan toiminnan tarkoituksen kanssa yhteensopivalla tavalla ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45046: · että Kevan sisäiset valvonta-, riskienhallinta- ja raportointitoiminnot on järjestetty asianmukaisesti ja niilla on riittavä kyky tunnistaa Kevan toimintaan liittyvät riskit ja reagoida niihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45047: (11) Finanssivalvonta suosittaa, että valvontatehtävää varten valtuutetuille toimitetaan muun sen tarpeel- liseksi katsoman materiaalin lisäksi KevaL 8 §:n 2 momentissa tarkoitetut kirjalliset toimintaperiaatteet Kevan sisäisestä valvonnasta, riskienhallintajärjestelmästä ja sisäisen tarkastuksen järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_45048: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45049: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45050: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45053: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45057: 7 Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45058: (1) KevaL 26 §:ssä saadetaan Kevan sisaisesta valvonnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45059: (2) KevaL 8 §:n 2 momentin mukaan Kevalla on oltava hallituksen hyväksymät kirjalliset toimintaperiaat- teet eläkelaitoksen sisäisestä valvonnasta. KevaL 8 §:n 3 momentin mukaan Kevan hallituksen on sään- nöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45060: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämisestä perustuu KevaL 36 a §:n 2 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45061: 7.1 Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45062: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45063: (4) Finanssivalvonnan tulkinnan mukaan KevaL 26 §:n mukaisen sisäisen valvonnan tarkoituksena on var- mistaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45064: · toiminnan taloudellisuus, tehokkuus ja tuloksellisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45065: · asetettujen päämäärien ja tavoitteiden saavuttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45066: · lakien, määräysten, toimintaperiaatteiden, hallintoelinten päätösten, sisäisten suunnitelmien, sään- töjen ja menettelytapojen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45067: · toimintaan liittyvien riskien hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45068: · raportoinnin sekä muun johtamisinformaation luotettavuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45069: MÄÄRÄYS (kohdat 5-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45070: (5) Kevan hallitus vastaa sisäisen valvonnan järjestämisestä ja organisoinnista kaikille organisaatio- ja toi- mintotasoille. Hallituksen tulee määrittää sisältö sisäiselle valvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45071: (6) Kevan hallituksen hyväksymissä sisäisen valvonnan toimintaperiaatteissa tulee ottaa huomioon myös tytäryritykset, jos Kevalla on tytäryrityksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45072: (7) Kevan hallitus vastaa siitä, että sisäisen valvonnan toimintaperiaatteita noudatetaan Kevassa ja ulkois- tettujen palvelujen osalta ja että 6 kohdassa tarkoitettuja toimintaperiaatteita noudatetaan vastaavasti tytäryritysten osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45073: (8) Kevan hallituksen on vuosittain arvioitava, onko sisäinen valvonta asianmukaisesti järjestetty, mukaan lukien henkilöstön ja muiden resurssien riittävyys, ja tarvittaessa ryhdyttävä korjaaviin toimenpiteisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45074: 7.2 Sisäisen valvonnan järjestäminen ja toimivuus MÄÄRÄYS (kohdat 9-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45075: (9) Kevan organisaatiossa tehtävät, päätösvalta ja vastuut tulee jakaa asianmukaisesti ja raportointisuh- teet määritellä selkeästi. Organisaatiorakenteen tulee tukea tehokkaan sisäisen valvonnan järjestä- mista. Kevan koko henkilöstön tulee tuntea oma tehtävänsä sisäisen valvonnan toteuttamisessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_45076: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45077: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45078: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45081: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45086: (10) Työnjaot ja tehtävänkuvat tulee organisaatiossa määritellä siten, ettei kukaan voi yksin ilman asianmu- kaista valvontaa hoitaa vaikutukseltaan merkittävää toimenpidettä läpi koko käsittelyketjun.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45087: (11) KevaL 26 §:n 1 momentissa tarkoitetuissa Kevan keskeisissä toiminnoissa on oltava toimiva ja tehokas sisäinen valvonta kaikilla organisaatiotasoilla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45088: (12) Sisäisen valvonnan järjestämisessä on otettava huomioon Kevan toiminnan laatu ja laajuus sekä orga- nisaatiorakenne, ja sisäinen valvonta tulee järjestää riittäväksi suhteessa kunkin toiminnon riskeihin. Laatua ja laajuutta arvioitaessa tulee ottaa huomioon Kevan toiminnan sosiaaliturvaluonne ja työelä- kevarojen yhteiskunnallinen luonne, toiminnan riippumattomuus ja itsenäisyys sekä varojenkäytön valvontaan liittyvät vaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45089: (13) Sisäisestä valvonnasta vastaavien henkilöiden tehtävät tulee perustaa sopivalle organisaatiotasolle, joka mahdollistaa henkilöille asianmukaisen toimivallan ja painoarvon tehtäviensä hoitamiseen. Henki- löillä on oltava tehtävien vaatima Kevan toiminnan ja riskien ja Kevaa koskevan sääntelyn tuntemus ja ammatillinen kokemus tehtaviinsä kuuluvien asioiden tuloksellisesta hoitamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45090: (14) Sisäiseen valvontaan tulee olla käytettävissä riittävä määrä pätevää henkilöstöä. Sisäistä valvontaa hoitavilla henkilöillä tulee olla käytettävissä asianmukaiset tietojärjestelmät ja muut resurssit sekä pääsy tehtävissä tarvittaviin sisäisiin ja ulkoisiin tietoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45091: OHJE (kohta 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45092: (15) Finanssivalvonta suosittaa, että sisäisen valvonnan valvontatoimenpiteisiin kuuluvat esimerkiksi joh- dolle tehtävät selonteot ja raportit, tulos- ja poikkeamaraportit mukaan lukien riskirajojen noudattami- sen valvonta, fyysiset valvontatoimenpiteet, omaisuuden inventoinnit, hyväksymis- ja valtuutusjärjes- telmä, varmistukset ja täsmäytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45093: MÄÄRÄYS (kohdat 16-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45094: (16) Sisäisen valvonnan valvontatoimenpiteiden ja niiden perusteella laadittujen raporttien tulee olla osa Kevan jatkuvaa toimintakulttuuria. Sisäisen valvonnan toimivuutta on seurattava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45095: (17) Sisäisen valvonnan asianmukaiseksi järjestämiseksi ja toimivuuden seuraamiseksi sisäisen valvonnan valvontatoimenpiteet on dokumentoitava riittävällä tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45096: (18) Toiminnan jatkuvuuden varmistamisen ja varojen turvaamisen näkökulmasta Kevan tulee kiinnittää erityistä huomiota tieto- ja muuta turvallisuutta koskevien valvontatoimien riittävyyteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45097: 7.3 Raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45098: MÄÄRÄYS (kohdat 19-23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45099: (19) Sisäisen valvonnan raportoinnin on oltava selkeää, luotettavaa, oikea-aikaista ja tulevaisuuden huomi- oonottavaa. Tulosta ja olennaisia riskeja koskevan raportoinnin tulee olla riippumaton raportoitavasta toiminnosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_45100: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45101: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45102: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45105: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45107: FIN 17 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45108: (20) Raportointi on järjestettävä siten, että Kevan hallintoelimet saavat tiedon tehtäviensä hoitamisen kan- nalta olennaisista sisäisen valvonnan havainnoista ja tilintarkastajien ja viranomaisten Kevalle toimitta- mista tarkastushavainnoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45109: (21) Sisäisen valvonnan kirjallisen raportoinnin on oltava säännöllistä. Raportit on säilytettävä luotettavalla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45110: (22) Compliance-toiminnon, sisäisen tarkastuksen ja riippumattoman riskienhallintatoiminnon on voitava raportoida havainnoistaan hallintoelimille riittavan aikaisin siten, että hallintoelimet voivat ilman tur- haa viivästystä ryhtyä toimiin mahdollisten havaittujen epäkohtien poistamiseksi. Säännönmukaisen raportoinnin lisäksi näiden toimintojen on voitava raportoida havainnoistaan tarvittaessa suoraan hal- litukselle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45111: (23) Compliance-toiminnon, sisäisen tarkastuksen ja riippumattoman riskienhallintatoiminnon on järjestet- tävä niille suoritettava raportointi siten, että se tukee sisäisen valvonnan toimivaa ja tehokasta järjestä- mistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_45112: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45113: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45114: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45117: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45120: FIN 18 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45121: 8 Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45122: (1) KevaL 26 §:n 2 momentin mukaan sisäiseen valvontaan kuuluu säännösten noudattamista valvova toi- minto (compliance-toiminto). Toiminnon on myös arvioitava säännösten noudattamisessa mahdolli- sesti esiintyneiden puutteiden estämiseksi ja korjaamiseksi Kevassa tehtyjen toimenpiteiden riittä- vyyttä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45123: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämisestä perustuu KevaL 36 a §:n 2 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45124: 8.1 Toiminnon järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45125: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45126: (3) Finanssivalvonnan tulkinnan mukaan KevaL 9 §:n 4 momentin 4 ja 6 kohdassa säädetyt hallituksen vel- vollisuudet hyväksyä Kevan hallinto- ja ohjausjärjestelmä ja huolehtia toiminnan järjestämisestä ja oh- jauksesta tarkoittavat, että hallituksella on velvollisuus luoda Kevan toiminnan kannalta tarpeellinen organisaatio ja varmistaa sen toiminta sekä ryhtya tarvittaviin korjaaviin toimenpiteisiin, jos säännös- ten vastaista tai muutoin virheellistä toimintaa on havaittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45127: (4) Hallituksen esityksen 21/2015 mukaan3 Keva voi järjestää compliance-toiminnon toimintansa laatuun ja laajuuteen nähden soveltuvalla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45128: (5) Hallituksen esityksen 21/2015 mukaan compliance-toiminnon tehtävät on mahdollista yhdistää muihin toimintoihin tai tehtävät voidaan tarvittaessa ulkoistaa. Toimintoa ei voida kuitenkaan yhdistää sisäi- sen tarkastuksen toimintoon, koska sisäinen tarkastus arvioi sisäisen valvonnan riittävyyttä ja asianmu- kaisuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45129: MÄÄRÄYS (kohdat 6-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45130: (6) Compliance-toiminnon yhdistäminen muihin toimintoihin tai ulkoistaminen ei saa vaarantaa compli- ance-toiminnan riippumattomuutta ja tehokkuutta. Yhdistamisessa ja ulkoistamisessa on kiinnitettävä erityistä huomiota compliance-toiminnon itsenäiseen asemaan ja suoraan yhteyteen toimivaan joh- toon. Toiminnon valitun järjestämistavan riskit tulee tunnistaa ja ottaa huomioon Kevan toiminnan valvonnassa. Yhdistämisen ja ulkoistamisen perustelut on dokumentoitava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45131: (7) Compliance-toiminnon organisoinnin, ohjeiden ja menettelyjen on oltava riittävät riippumattoman compliance-toiminnan varmistamiseksi Kevan toiminnassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45132: (8) Compliance-toiminnon tulee toimia säännöllisessä yhteistyössä hallintoelinten, toimivan johdon, laki- asioiden, keskeisten toimintojen sekä sisäisen ja ulkoisen tarkastuksen kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45133: 3 Hallituksen esitys 21/2015, Keval 26 §:n yksityiskohtaiset perustelut, s. 21.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_45134: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45135: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45136: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45139: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45141: FIN 19 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45142: 8.2 Toiminnon tarkoitus ja tehtäviä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45143: OHJE (kohdat 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45144: (9) Compliance-toiminnon tarkoituksena on valvoa Kevan toiminnan lainmukaisuutta ja toimintaan liitty- vien muiden ulkoisten ja sisäisten sääntöjen noudattamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45145: (10) Compliance-toiminto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45146: · ennaltaehkäisee oikeudellisten riskien ja ei-toivottujen toimintamallien toteutumista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45147: · tukee hallitusta luotettavan hallinnon järjestämisessä, toimii hallituksen tietokanavana Kevan me- nettelytavoista, ja auttaa hallitusta tarvittaessa puuttumaan oikeudellisiin riskeihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45148: · toimii eläketurvan toimeenpanon tukena vähentämällä sääntöjen rikkomisesta aiheutuvia riskejä ja edistämällä Kevan arvojen noudattamista ja Kevan toiminnan tehokkuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45149: MÄÄRÄYS (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45150: (11) Tehokkuuden ja tuloksellisuuden varmistamiseksi compliance-toiminnan on oltava riskiperusteista. Compliance-toiminnon toimenpiteet tulee kohdentaa ensi sijassa Kevan toimintaa koskevan riskiarvion perusteella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45151: (12) Compliance-toiminnon on laadittava toimintaansa varten toimintaperiaatteet ja -suunnitelma. Toimin- taperiaatteissa tulee määritella toiminnon vastuut, pätevyysvaatimukset ja raportointivelvollisuudet. Raportointivelvollisuuksien tulee sisältää compliance-toiminnon itse suorittama raportointi ja compli- ance-toiminnolle suoritettava raportointi. Toimintasuunnitelmasta tulee kayda ilmi Kevan toiminnan eri osa-alueille riskiperusteisesti suunnitellut toimenpiteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45152: OHJE (kohdat 13-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45153: (13) Finanssivalvonta suosittaa, että compliance-toiminnolle kuuluu ainakin seuraavia neuvonta- ja valvon- tatehtäviä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45154: · Toiminto kouluttaa ja neuvoo Kevan henkilöstöä parhaisiin menettelytapoihin, mukaan lukien compliance-toimintaa koskevat menettelytavat, seka laatii saannosten noudattamiseen liittyvää Keva-tasoista ohjeistusta. Toiminto ylläpitää tai on mukana yllapitamässa ainakin eettisia ohjeita, eturistiriitatilanteita koskevia ohjeita ja lahjonnan vastaisia ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45155: · Toiminto arvioi säännöllisesti, onko Kevan henkilöstö riittävän tietoinen ohjeista ja menettelyta- voista sekä säännösten noudattamiseen liittyvistä vastuista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45156: · Toiminto varmistaa osaltaan, että Kevan eri toiminnoissa seurataan saannosmuutoksia, tiedotetaan niistä ja ohjeistetaan muutoksista aiheutuvista toiminnan muutostarpeista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45157: · Toiminto on osaltaan mukana uusien palvelujen ja toimintatapojen hyväksymisessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45158: · Toiminto arvioi, onko Kevan organisaatio säännösten noudattamisen kannalta toimiva ja tarkoituk- senmukainen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45159: · Toiminto tunnistaa ja arvioi ennakkoon säännösten noudattamattomuuteen liittyviä haitallisia seu- raamuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_45160: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45161: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45162: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45165: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45167: FIN 20 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45168: · Toiminto avustaa hallitusta aktiivisesti. Hyvänä käytäntöna toiminto esimerkiksi ennen hallituksen kokousta saattaa hallituksen sihteerin tietoon kokouksessa käsiteltäviin asioihin liittyvät havain- tonsa, joilla saattaa olla merkitystä hallituksen päätöksenteossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45169: (14) Finanssivalvonta suosittaa, että compliance-toiminto käyttää niin ennakoivissa kuin jälkikäteisissä val- vontatoimissaan tarkoituksenmukaisia valvontavälineitä. Näitä voivat olla ainakin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45170: · erilaiset riski-indikaattorit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45171: · sellaisten raporttien laatiminen, joilla varmistetaan johdon huomio ja joissa dokumentoidaan odo- tusten ja toteutuneiden tapahtumien väliset poikkeamat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45172: · eläketurvan toimeenpanon kannalta merkittävien toimintojen tarkkailu, asiakirjojen läpikäynti, haastattelut ja tarkastukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45173: 8.3 Raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45174: MÄÄRÄYS (kohdat 15-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45176: Compliance-toiminnon on raportoitava ainakin Kevan hallitukselle ja toimitusjohtajalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45178: Raportoinnin tulee kattaa Kevan toiminta. Raportointiin tulee sisällyttää ainakin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45179: · arvio säännösten ja ohjeiden noudattamisen nykytilasta ja tehokkuudesta toiminnoittain
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45180: · Kevan toiminnan kannalta merkittävät havainnot ja riskit sekä niihin liittyvät compliance-suosituk- set
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45181: · havaittujen riskien ja puutteiden perusteella laaditut korjaavat toimenpide-ehdotukset sekä ehdo- tuksia koskeva aikataulu asioiden saattamiseksi säännösten ja ohjeiden mukaisiksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45182: · sääntelyssä tapahtuneet ja tulevat merkittävät muutokset sekä toimenpiteet, joita on toteutettu tai toteutetaan muutosten noudattamisen varmistamiseksi, ellei näitä asioita raportoida muuten esi- merkiksi Kevan lakiasioiden toimesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45183: · seuranta Kevassa tehdyistä ja yhä tekemättömistä korjaavista toimenpiteistä ja niiden riittävyy- destä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_45184: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45185: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45186: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45189: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45191: FIN 21 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45192: 9 Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45193: (1) KevaL 27 §:ssä saadetaan Kevan sisaisesta tarkastuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45194: (2) KevaL 8 §:n 2 momentin mukaan Kevalla on oltava hallituksen hyväksymät kirjalliset toimintaperiaat- teet sisäisen tarkastuksen järjestämisestä. KevaL 8 §:n 3 momentin mukaan Kevan hallituksen on sään- nöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45195: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämisestä perustuu Keval 36 a §:n 2 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45196: OHJE (kohdat 4-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45197: (4) Finanssivalvonnan tulkinnan mukaan KevaL 9 §:n 4 momentin 4 kohdassa säädetty hallituksen velvolli- suus hyväksyä Kevan hallinto- ja johtamisjärjestelmä sekä huolehtia muusta Kevan toiminnan järjestä- misestä ja ohjauksesta tarkoittaa seuraavaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45198: · Hallituksen tulee hyväksyä sisäisen tarkastuksen vuosittainen tarkastussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45199: · Hallituksen on järjestettävä sisäisen tarkastuksen organisaatioasema ja toimivalta selkeiksi sekä varmistettava Kevan toimintojen riippumaton ja objektiivinen tarkastus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45200: · Sisäisen tarkastuksen johtoa ja valvontaa ei saa ulkoistaa. Muita sisäisen tarkastuksen palveluja voi- daan kuitenkin ostaa ulkopuolisilta palveluntuottajilta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45201: (5) Finanssivalvonnan tulkinnan mukaan KevaL 27 §:n 2 momentissa tarkoitettu sisäisen tarkastuksen riip- pumattomuus Kevan operatiivisesta toiminnasta tarkoittaa, että sisäisen tarkastuksen on oltava riippu- maton tarkastettavista toiminnoista ja tilintarkastuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45202: MÄÄRÄYS (kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45203: (6) Sisäisen tarkastuksen tarkastussuunnitelma on laadittava sisäisen tarkastuksen valvontatavoitteiden perusteella ja riskiperusteista lähestymistapaa noudattaen. Suunnitelmasta tulee käydä ilmi ainakin Kevan toiminnan eri osa-alueille suunnitellut toimenpiteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_45204: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45205: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45206: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45209: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45211: FIN 22 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45212: 10 Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45213: (1) KevaL 25 §:ssä saadetaan Kevan riskienhallinnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45214: (2) KevaL 8 §:n 2 momentin mukaan Kevalla on oltava hallituksen hyväksymät kirjalliset toimintaperiaat- teet riskienhallintajärjestelmästä. KevaL 8 §:n 3 momentin mukaan Kevan hallituksen on säännöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45215: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä riskienhallinnan järjestämisestä perustuu Ke- val 36 a §:n 2 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45216: 10.1 Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45217: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45218: (4) Finanssivalvonnan tulkinnan mukaan KevaL 25 §:ssä mainittu riskienhallinta tarkoittaa strategioita, prosesseja ja raportointimenettelyja, joilla Kevaan kohdistuvia, sen toiminnasta aiheutuvia ja toimin- taan oleellisesti liittyviä riskejä tunnistetaan, valvotaan, mitataan, seurataan ja hallitaan. Finanssival- vonnan tulkinnan mukaan riskienhallintaan kuuluvat myös ne ehkäisevät toimenpiteet, jotka riskien tunnistamisen, raportoinnin ja arvioinnin johdosta on kulloinkin päätetty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45219: MÄÄRÄYS (kohdat 5-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45220: (5) Riskienhallinnassa on otettava huomioon kaikki olennaiset Kevan toimintaan vaikuttavat sisäiset ja ulkoiset sekä ulkoistettujen toimintojen riskit. Riskienhallinnassa tulee tarkastella yksittäisiä riskejä ja yksittäisten riskien yhteisvaikutuksia Kevan toiminnassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45221: (6) Hallitus vastaa siitä, että Kevan riskienhallinta on riittävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45222: (7) Riskienhallinta on sisällytettävä toimivaksi osaksi Kevan organisaatiorakennetta ja päätöksentekopro- sesseja. Kevan organisaatiorakenteen ja päätöksentekoprosessien on tuettava tehokasta riskienhallin- taa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45223: (8) Hallituksen tulee hyväksyä kaikki merkittävät riskienhallintaa koskevat periaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45224: (9) Kevan riippumattoman riskienhallintatoiminnon on seurattava, että riskit tulevat Kevassa asianmukai- sesti ja annetun ohjeistuksen mukaisesti tunnistetuiksi, valvotuiksi, mitatuiksi, seuratuiksi, rapor- toiduiksi ja hallituiksi. Tarvittaessa sen tulee myös ylläpitää, kehittää ja valmistella riskienhallinnan pe- riaatteita hallituksen vahvistettaviksi sekä laatia menetelmiä käytettäväksi riskien arvioimisessa ja mit- taamisessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45225: (10) Riippumattoman riskienhallintatoiminnon on oltava toiminnallisesti riippumaton riskiä ottavista toi- minnoista ja rakenteeltaan sellainen, että se helpottaa riskienhallinnan täytäntöönpanoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45226: (11) Kevalla tulee olla riskienhallintaan tarvittavat menetelmät. Määrällisten mittausmenetelmien lisäksi myös laadullisia riskeja varten on oltava tarvittavat arviointimenetelmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45227: (12) Menetelmien avulla Kevan on jatkuvasti tunnistettava riittävän kattavasti kaikki riskienhallinnassa huo- mioon otettavat riskit. Kevan on voitava kohtuudella varmistua siitä, että kaikki asetettujen tavoittei- den saavuttamiseen olennaisesti vaikuttavat riskit on tunnistettu ja saatettu hallituksen käsiteltäviksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_45228: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45229: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45230: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45233: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45235: FIN FIN FIN 23 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45236: Riskien vaikutusten merkittävyys ja toteutumisen todennäköisyys on arvioitava, ja niiden hallitse- miseksi on kehitettävä asianmukaiset menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45237: OHJE (kohdat 13-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45238: (13) KevaL 25 §:n 2 momentin 3 kohdassa tarkoitetulla keskittymariskilla tarkoitetaan hallituksen esityksen 21/2015 mukaan4 riskiä, joka syntyy useista eri tekijöistä, jotka eivät yksinään aiheuta riskia mutta koh- distuessaan samaan kohteeseen muodostavat keskittymäriskin, tai joka syntyy, jos Kevan yksittäinen riski muodostaa huomattavan osan vastaavanlaisten riskien yhteismäärästä, jolloin Kevalla on normaa- lia suurempi riski tästä yksittäisestä kohteesta. Tällaisia voivat olla esimerkiksi luotto- ja sijoitusriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45239: (14) KevaL 25 §:n 2 momentin 4 kohdassa tarkoitetut operatiiviset riskit liittyvät hallituksen esityksen 21/2015 mukaan Kevan sisäisiin prosesseihin, henkilöstöön, eri järjestelmiin sekä Kevaa koskettaviin ulkoisiin tapahtumiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45240: 10.2 Riskienhallintajärjestelmän toimintaperiaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45241: MÄÄRÄYS (kohdat 15-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45242: (15) Hallituksen on vuosittain hyväksyttävä Kevan koko toiminnan kattavat kirjalliset toimintaperiaatteet riskienhallintajärjestelmästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45243: (16) Riskienhallintajärjestelmän toimintaperiaatteissa tulee määritellä Kevan merkittävimmät riskit, mitta- rit, riskinoton rajat, riskienhallinnan tavoitteet, riskinhallintatoimenpiteet, vastuut ja valvontaperiaat- teet. Lisäksi riskienhallinta tulee sisällyttää tarkoituksenmukaisesti Kevan toimintojen suunnitteluun laatimalla esimerkiksi keskeisille toiminnoille tai prosesseille erilliset riskienhallinnan toimintaperiaat- teet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45244: (17) Riskienhallintajärjestelmän toimintaperiaatteissa riskinoton rajoja määritettäessä tulee ottaa huomi- oon Kevan riskinotto- ja riskinkantokyky. Lisäksi on maariteltävä, kuka vastaa riskinotosta, miten riskiä mitataan ja seurataan sekä miten riskin pysymistä hyväksyttävissä rajoissa valvotaan. Riskienhallinta- järjestelmän toimintaperiaatteissa on otettava huomioon myös ulkoistetut toiminnot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45245: (18) Riskienhallintajärjestelmän toimintaperiaatteista on käytävä ilmi, miten riskeistä raportoidaan. Ris- kienhallintajärjestelmän toimintaperiaatteiden mukaisesta riskienhallinnan kokonaistilanteesta tulee raportoida vähintään vuosittain Kevan hallitukselle. Toimintaperiaatteiden mukaisten riskiraporttien tulee olla osa kunkin toiminnon prosesseja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45246: 4 Hallituksen esitys 21/2015, KevaL 25 §:n yksityiskohtaiset perustelut, s. 20.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_45247: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45248: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45249: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45252: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45253: FIN FIN FIN 24 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45254: 11 Toiminnan häiriöistä ja virheistä ilmoittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45255: (1) KevaL 25 §:n 2 momentin mukaan Kevan riskienhallinnan on katettava operatiiviset riskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45256: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä riskienhallintaa koskevien tietojen säännölli- sesta toimittamisesta ja toimittamistavasta perustuu FivaL 18 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45257: 11.1 Ilmoitus toiminnan hairioista ja virheistä OHJE (kohdat 3-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45258: (3) Finanssivalvonta suosittaa, että Keva ilmoittaa Finanssivalvonnalle asiakkaille tarjotuissa palveluissa seka maksu- ja tietojärjestelmissä esiintyneistä merkittävista hairioistä ja virheistä viipymättä niiden ilmaannuttua. Merkittävänä häiriona tulisi pitää pitkäaikaista palvelukatkoa eläkkeiden hoidossa tai maksussa tai muussa eläketurvan toimeenpanossa tai useisiin asiakkaisiin vaikuttavaa huomattavaa häiriötä. Finanssivalvonnalle tulisi ilmoittaa viipymättä myös sellaiset hairiöt ja virheet, jotka haittaavat tai vaarantavat Kevan kykya jatkaa toimintaansa tai vastata velvoitteistaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45259: (4) Finanssivalvonta suosittaa, että ilmoitus tehdään ainakin seuraaviin ryhmiin kuuluvista hairiöistä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45260: · murtautuminen tietojärjestelmään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45261: · haittaohjelman levittäminen tietojärjestelmään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45262: · tietojen paljastuminen asiattomille
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45263: · tietoturvaloukkaus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45264: (5) Finanssivalvonta suosittaa, että ilmoitus tehdään myös seuraavista hairioistä, jos ne vaikuttavat mer- kittävästi asiakkaiden palveluiden saatavuuteen tai käytettävyyteen:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45265: · palvelunestohyökkäys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45266: · ohjelmistovirhe
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45267: · tietoliikennehäiriö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45268: · käyttökatkos
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45269: · laiterikko.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45270: (6) Finanssivalvonta suosittaa, että asiakastietojen paljastumisesta ulkopuoliselle ilmoitetaan Finanssival- vonnalle aina, kun asiasta ilmoitetaan myös tietosuojavaltuutetulle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45271: (7) Finanssivalvonta suosittaa, että Keva tekee Finanssivalvonnalle täydentävän ilmoituksen hairiön tar- kemmista yksityiskohdista mahdollisimman pian ensimmäisen ilmoituksen tekemisen jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45272: (8) Finanssivalvonta suosittaa, että edella tässä luvussa tarkoitetut ilmoitukset tehdään Finanssivalvonnan verkkosivuilla saatavilla olevalla lomakkeella verkkosivuilla olevan ohjeen mukaisesti. Kohdassa 6 tar- koitetun ilmoituksen Keva voi kuitenkin halutessaan tehdä ohjetta noudattaen samalla ilmoituksella, jonka Keva lähettää tietosuojavaltuutetulle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_45273: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45274: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45275: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45278: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45280: FIN 25 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45281: 11.2 Vuosi-ilmoitus operatiivisen riskin aiheuttamista tappioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45282: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45283: (9) Finanssivalvonnalle toimitettava vuosi-ilmoitus operatiivisesta riskistä aiheutuneista tappioista teh- dään Kevan sisäisen tappiotietoja koskevan raportoinnin pohjalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45284: MÄÄRÄYS (kohdat 10-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45285: (10) Kevan on toimitettava Finanssivalvonnalle edellisena kalenterivuonna havaituista operatiivisen riskin aiheuttamista tappioista vuosi-ilmoitus viimeistään 28.2.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45286: (11) Vuosi-ilmoitus on tehtävä kalenterivuoden aikana ilmenneista euromäärältään viidestä suurimmasta operatiivisen riskin vahinkotapahtumasta. Ilmoitusta ei kuitenkaan tarvitse tehdä alle kymmenentu- hannen (10 000) euron vahingoista. Jos ilmoitettavia tapahtumia ei ole, ilmoitus tehdään sisällöltään tyhjänä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45287: (12) Vuosi-ilmoituksen tulee sisältää ainakin seuraavat tiedot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45288: · kuvaus tapahtumasta ja vahingon tyyppi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45289: · selvitys toimenpiteistä, joihin tapahtuman johdosta on ryhdytty,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45290: . selvitys arvioidusta tappion määrästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45291: (13) Vuosi-ilmoitus tehdään Finanssivalvonnan verkkosivuilla saatavilla olevalla lomakkeella verkkosivuilla olevan ohjeen mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_45292: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45293: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45294: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45297: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45299: FIN FIN FIN 26 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45300: 12 Jatkuvuus- ja valmiussuunnittelu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45301: (1) KevaL 8 §:n 2 momentin mukaan Kevan on asianmukaisin toimin varmistettava toimintansa jatkuvuus ja säännöllisyys kaikissa tilanteissa ja tätä varten sillä on oltava hallituksen hyväksymä jatkuvuussuun- nitelma. KevaL 8 §:n 3 momentin mukaan hallituksen on säännöllisesti arvioitava jatkuvuussuunnitel- maa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45302: (2) Hallituksen esityksen 102/2019 mukaan5 jatkuvuussuunnitelmalla Keva pyrkii varautumaan sen kan- nalta keskeisimpiin uhkiin siten, että se pystyisi jatkamaan toimintaansa myös häiriötilanteissa, esimer- kiksi tietoliikenneyhteyksien häiriöiden kohdalla. Suunnitelma liittyy Kevan riskienhallintaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45303: (3) Häiriötilanteita ovat ainakin Kevan henkilöstöä, toimitiloja, tietojärjestelmiä tai tietoliikennettä koh- danneet vahingot tai tahalliset teot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45304: (4) Valmiuslaissa tarkoitetuissa poikkeusoloissa hairiötilanne kestää tyypillisesti pidempään kuin tilanteet, joihin on varauduttu normaaliolojen jatkuvuussuunnitelmassa. Lisäksi uhat, joihin varaudutaan, ovat tyypillisesti vakavampia kuin uhat, joita kohdataan normaalioloissa. Huoltovarmuuden tavoitteista an- netussa valtioneuvoston päätöksessä (568/2024) ja Vakuutusalan poolin antamissa varautumisohjeissa kuvataan varautumisen tavoitteet ja annetaan yksityiskohtaisempia ohjeita vakaviin häiriötilanteisiin ja poikkeusoloihin varautumisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45305: (5) Poikkeusoloihin liittyviä keskeisiä Kevan tehtäviä ovat etenkin kansalaisten toimeentuloturvaan ja elä- kevarojen pysyvyyteen vaikuttavat tehtävät. Tällaisiin tehtäviin liittyviä, Kevaa ja sitä kautta kansalaisia koskevia poikkeusoloriskejä ovat ainakin eläkkeiden maksun vaarantuminen, eläkkeiden rahoituksen ja likviditeetin hallinnan vaarantuminen, erilaisten Kevan omien tai yhteiskunnan järjestelmien ja infra- struktuurin toiminnan vaarantuminen, Kevan omalla vastuulla olevien verkostojen toimimattomuus ja palvelutoiminnan pysähtyminen sekä erilaiset informaatio- ja vastapuoliriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45306: OHJE (kohdat 6-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45307: (6) Finanssivalvonta suosittaa, että Keva laatii osana riskienhallintaansa hallituksen hyväksymän valmius- suunnitelman valmiuslaissa määriteltyihin poikkeusoloihin varautumiseksi. Valmiussuunnitelma voi olla myös osa jatkuvuussuunnitelmaa, silla valmiussuunnitelma on osa niitä tarvittavia toimenpiteitä, millä Keva varmistaa toimintansa jatkuvuuden. Jatkuvuus- ja valmiussuunnitelmien tulisi muodostaa yhtenäinen kokonaisuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45308: (7) Finanssivalvonta suosittaa, että Keva säilyttää toimintakykynsä vähintään 12 kuukautta kestävien poik- keusolojen ajan. Kevan toimintakyky tulisi mitoittaa siten, että sen vastuulla olevat, etenkin kansalais- ten toimeentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat tehtävät eivät vaarannu poikkeus- oloissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45309: (8) Finanssivalvonta suosittaa, että Keva varmistaa tehtäviensä mahdollisimman hairiöttömän hoitamisen myös poikkeusoloissa osallistumalla vakuutusalan valmiussuunnitteluun ja valmistelemalla etukäteen poikkeusoloissa tapahtuvaa toimintaa sekä muin toimenpitein.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45310: 5 Hallituksen esitys 102/2019, Keval 8 §:n yksityiskohtaiset perustelut, s. 12.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_45311: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45312: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45313: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45316: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45317: FIN FIN FIN 27 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45318: 12.1 Vastuut ja suunnitelmien laatiminen ja testaaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45319: OHJE (kohdat 9-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45320: (9) Finanssivalvonta suosittaa, että Keva määrittelee selkeät tehtävät ja vastuut Kevan jatkuvuus- ja val- miussuunnitteluun. Määrittelyn tulisi kattaa ainakin normaaliolojen häiriötilanteisiin ja poikkeusoloihin varautuminen, jatkuvuus- ja valmiussuunnitelmien ajan tasalla pitäminen, suunnitelmien mukaisiin toimenpiteisiin ryhtyminen, toiminnan johtaminen, päätöksentekojärjestelmän ylläpitäminen ja vies- tintä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45321: (10) Finanssivalvonta suosittaa, että Kevalla on selkeä kirjallinen toimintamalli jatkuvuus- ja valmiussuunni- telmien laatimiseen, ylläpitoon ja testaamiseen sekä jatkuvuus- ja valmiussuunnittelun tilanteen seu- raamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45322: (11) Finanssivalvonta suosittaa, että jatkuvuus- ja valmiussuunnitelmat perustuvat Kevan toimintojen uhka- ja haavoittuvuusanalyyseihin eli arvioihin tietoihin, järjestelmiin, toimintoihin ja palveluihin kohdistu- vista uhkista, haavoittuvuuksista ja riskeistä. Suunnitelmien laajuus tulisi suhteuttaa Kevan toimintojen luonteeseen, laajuuteen ja monimutkaisuuteen. Suunnitelmien tulisi ohjata toimintaa ja tiedottamista erilaisissa häiriötilanteissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45323: (12) Finanssivalvonta suosittaa, että lähtökohtana jatkuvuus- ja valmiussuunnitelmille on, että Keva kartoit- taa ja priorisoi tärkeimmät toimintaprosessinsa ja määrittelee niille toipumisajat, joiden kuluessa pro- sessi on kyettävä palauttamaan toimintaan. Priorisoiduille prosesseille tulisi suunnitella toipumisme- nettelyt ja vaihtoehtoiset toimintamallit toiminnan katkosten varalta. Erityisesti tulisi varmistaa, että toiminnan toipumisen kannalta tärkeät tiedot ovat palautettavissa ajan tasalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45324: (13) Finanssivalvonta suosittaa, että valmiussuunnitelma turvaa poikkeusoloissa sellaiset kansalaisten toi- meentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat seikat, joihin Keva voi vaikuttaa omilla toi- millaan. Näitä olisivat ainakin eläkkeiden ratkaisu- ja maksatustoiminnan, varojenhoidon, asiakas- ja eläketurvaa koskevien tietojen, tietojärjestelmien, niiden tarvitseman tietojenkäsittelyinfrastruktuurin sekä palveluverkostojen toimivuuden ja käytettävyyden turvaaminen sekä häiriötön hoito. Kevan tulisi sopimuksilla tai muilla tarpeellisilla toimilla pyrkia varmistamaan poikkeusoloja varten sähkönsaanti ja muut palvelut, jotka ovat välttämättomia Kevan mainittujen tehtävien hoitamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45325: (14) Finanssivalvonta suosittaa, että valmiussuunnitelmassa kuvataan poikkeusolojen toimintaperiaatteet, toiminnot, palvelut sekä tarvittava yhteistyö sidosryhmien kanssa. Valmiussuunnitelman tulisi sisältää myös toimivuusvaatimukset poikkeusoloissa, palveluiden hallitun supistamisen vaiheet sekä toimenpi- teet normaalioloihin palaamiseksi. Suunnitelmassa tulisi ottaa huomioon myös tilanteet, joissa otetaan käyttöön valmiuslain mukaisia toimivaltuuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45326: (15) Finanssivalvonta suosittaa, että jatkuvuus- ja valmiussuunnitelmat päivitetään säännöllisesti ja ne so- peutetaan Kevan toiminnan ja toimintaan vaikuttavien ulkoisten tekijöiden muuttumiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45327: (16) Finanssivalvonta suosittaa, että jatkuvuus- ja valmiussuunnitelmia testataan ja niiden mukaista toimin- taa harjoitellaan säännöllisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_45328: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45329: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45330: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45333: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45334: FIN FIN FIN 28 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45335: 12.2 Varautuminen tietojen hallinnan ja tietojärjestelmien osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45336: OHJE (kohta 17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45337: (17) Finanssivalvonta suosittaa tietojen hallintaan ja tietojärjestelmiin liittyen seuraavaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45338: · Kevan tulisi turvata tietojen säilyminen ja riittävä tapahtumien kirjaaminen. Mikali tietojärjestelmät eivät ole käytössä, tietoliikenne ei toimi tai muut infrastruktuurin palvelut ovat rajoitetusti käytettä- vissä, tulisi tietojen säilyminen ja riittävä tapahtumien kirjaaminen varautua suorittamaan muulla tavoin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45339: · Kevan tulisi varmistaa tietojenkäsittelyn infrastruktuurissa varmuuskopiointi toipumisjärjestelmi- neen. Tietojärjestelmät ja ohjelmistot tulisi luokitella tärkeysjärjestykseen sen mukaan, kuinka no- peasti niiden on toivuttava erilaisissa hairiotilanteissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45340: · Kevan tulisi järjestää toiminnan jatkuvuuden kannalta riittävä tietojen ja ohjelmien varmistus toipu- misjärjestelmineen riittävän etäällä sijaitseviin turvatiloihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45341: · Kevan tulisi varmistaa kansalaisten toimeentuloturvan ja eläkevarojen pysyvyyden varmistamiseksi riittävä määrä tietojenkäsittelykapasiteettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45342: · Kevalla tulisi olla toiminnan jatkuvuuden varmistamiseksi kyky käynnistää tietojenkäsittelytoiminta uudessa ympäristössä tai varakonekeskuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45343: · Kevan tulisi varmistaa valmiiksi suunnitellut ja toimivat yhteydet tarpeellisiin yhteistyökumppanei- hin sekä yhteisiin tai keskitettyihin tietovarastoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45344: · Kevan tulisi suunnitella varmistusten käyttö siten, että niiden tietojen ja käytettävissä olevien ohjel- mistojen pohjalta kyetään käynnistämään toiminta uudelleen siinäkin tilanteessa, että varsinainen tietojenkäsittelykeskus ja sen lähialueet ovat pysyvästi tuhoutuneet. Tämä edellyttäisi varmistusten käyttövalmiuden varmistamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45345: 12.3 Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45346: OHJE (kohdat 18-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45347: (18) Finanssivalvonta suosittaa, että varautuminen, mukaan lukien myös toiminnan harjoittelu häiriötilan- teita varten, ulotetaan ulkoistettuihin toimintoihin siinä laajuudessa kuin Kevan tehtävien turvaaminen edellyttää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45348: (19) Finanssivalvonta suosittaa, että ulkoistettujen palvelujen toimivuus ja käytettävyys varmistetaan val- vonnalla ja sopimusjärjestelyillä. Varautuminen tulisi ottaa huomioon jo ulkoistamissopimuksissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45349: 12.4 Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45350: OHJE (kohta 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45351: (20) Finanssivalvonta suosittaa, että jos Keva ei noudata luvun 12 ohjeita, Keva ilmoittaa Finanssivalvon- nalle, miten ohjeista poiketaan ja poikkeamisen perustelut, sekä toimittaa selvityksen siitä, miten vas- taava varautumisvelvollisuus täytetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_45352: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45353: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45354: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45357: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45359: FIN 29 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45360: 13 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45361: Näissä määräyksissä ja ohjeissa on seuraavassa kohdassa annettu määräys tietojen säännöllisestä toi- mittamisesta Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45362: · luku 11.2, kohta 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_45363: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45364: Määräykset ja ohjeet 3/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45365: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45368: 30.6.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45369: FIN FIN FIN 30 (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45370: 14 Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45371: (1) Luvun 11 kohdassa 10 tarkoitettu vuosi-ilmoitus tehdään vuotta 2025 koskien ajalta 1.7.2025- 31.12.2025.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_45372: FIN-FSA FINANSSIVALVONTA
+

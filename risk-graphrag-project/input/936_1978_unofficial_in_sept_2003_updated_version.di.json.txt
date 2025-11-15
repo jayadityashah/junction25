@@ -1,0 +1,464 @@
+METADATA: {"document_id": 85, "filename": "936_1978_unofficial_in_sept_2003_updated_version.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "LLL", "jurisdiction": "FINNISH", "page_count": 14, "paragraph_count": 174}
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135796: (Unofficial in September 2002 updated version)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135797: Act on Mortgage Societies 8.12.1978/936
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135798: Chapter 1 General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135799: Section 1 (30.12.1993/1613)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135800: A mortgage society shall mean a credit institution referred to in the Act on Credit Institutions (1607/1993). Its special purpose shall be to use funds mostly acquired as long-term loans to grant long-term loans mainly against a mortgage or other safeguard- ing collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135802: The trading name of a mortgage society shall always include the term "mortgage society".
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135803: Only a mortgage society shall be entitled to use the term "mortgage society" in its trading name or otherwise to indicate its activity.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135804: A mortgage society shall be entitled separately to use a Finnish and Swedish trading name as well as, by permission of the Ministry of Finance, a trading name in another language.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135806: The members of a mortgage society shall comprise its establishers for five years after its establishment as well as the parties taking out loans.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135808: A party taking out a loan from the mortgage society granted out of State funds shall not be a member of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135809: A member of a mortgage society shall not be liable for the liabilities of the mort- gage society nor shall he be entitled to its property or to a share of any profit accrued.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135810: Section 4 repealed by Act of 20.12.1991/1552.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135811: Chapter 2 Establishment of a mortgage society
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135812: Section 5 (30.12.1993/1613)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135813: A mortgage society may be established by at least twenty natural or legal per- sons.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135814: At least half of the establishers shall be resident in the European Economic Area. The Ministry of Finance may grant an exemption from this requirement.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135815: A minor or a person declared bankrupt may not act as establisher. A written agreement shall be drawn up on the establishment.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135817: The establishers of a mortgage society shall apply for an authorization from the Ministry of Finance. The Ministry of Finance shall request an opinion on the matter from the Financial Supervision Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135818: A confirmation of the Ministry of Finance shall be applied for the bylaws of a mortgage society and any amendments thereto.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135821: The bylaws of the mortgage society shall prescribe the following (28.12.2001/1505):
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135822: T1) the name of the mortgage society and the location of its registered office;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135823: 2) the field of activity of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135824: 3) the purposes for which and the collateral against which the mortgage society shall grant loans;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135825: 4) the maximum portion of the value of a collateral that may not be exceeded in granting a loan by a mortgage society against the said collateral; (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135826: 5) the minimum amount of basic capital that the mortgage society shall have before it can commence its activity;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135827: 6) the manner of the determination and collection of the accession fee and addi- tional administrative fee;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135828: 7) the period in which the General Meeting of the Mortgage Society shall be held and the issues that shall be handled at that meeting;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135829: 8) when an Extraordinary Meeting of the Mortgage Society may be held and the issues that may be handled at that meeting;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135830: 9) the manner of convening the meetings of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135831: 9 a) the duties and the composition of the Supervisory Board; (28.12.2001/1505)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135832: 10) the manner applied in the election of the members of the Supervisory Board and the Board of Directors and their deputies as well as their number and term;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135833: 11) the quorum of the Supervisory Board and the Board of Directors;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135834: Subparagraph 12 repealed by Act of 19.12.1997/1345.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135835: 13) the right of a member or deputy member of the Board of Directors to receive a loan from the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135836: 14) the procedure applied to applications for credit when a member or deputy member of the Board of Directors is likely to gain a significant benefit;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135837: 15) the retirement age of the members and deputy members of the Supervisory Board and the Board of Directors;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135838: 15 a) the right of a member and a deputy member of the Board of Directors and the Supervisory Board, the Managing Director and the deputy to the Managing Director as well as an employee of the mortgage society to participate in the management of another undertaking; (28.12.2001/1505)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135840: 15 b) the procedure for deciding on the division of duties and the right to repre- sent the credit institution between the Managing Director and the members of the Board of Directors; (28.12.2001/1505)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135841: 16) the manner in which the management of a branch shall be arranged and the retirement age of the supervisor of a branch;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135842: 17) the number of auditors and deputy auditors;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135843: 18) the period for the drawing up and auditing of the annual accounts;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135844: 19) the persons entitled to sign the name of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135845: 20) whether the basic capital paid by the establishers may be repaid to them or their beneficiaries as well as the conditions of such repayment; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135846: 21) the use of the funds of the mortgage society upon its dissolution or termina- tion.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135847: Where the bylaws of the mortgage society provide that the capital invested in the mortgage society may be repaid to the establishers or their beneficiaries, such repay- ment may take place only on condition that the additional capital referred to in section 26 is fully repaid and that the solvency of the mortgage society is not endangered due to the repayment. (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135849: The General Meeting of the Mortgage Society shall decide on the amendment of the bylaws of the mortgage society on a proposal of the Board of Directors. If the major- ity of the members present at the meeting are in favour of the amendment proposal, it shall be transferred, either changed or unchanged, to another meeting to be held after one month at the earliest. If the proposal, in the form it was approved at the previous meeting, is at this meeting supported by at least two-thirds of the members present at the meeting, it shall be deemed approved.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135850: Paragraph 2 repealed by Act of 28.12.2001/1505.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135853: A mortgage society whose establishment is in the public interest shall be granted an authorization. (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135854: Paragraph 2 repealed by Act of 28.12.2001/1505.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135855: Section 10
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135856: Before a mortgage society starts its activity, it shall be notified for entry in the Trade Register. The notification, which shall be signed by all the members of the Board of Directors of the mortgage society, shall state:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135857: 1) the date on which the bylaws of the mortgage society were confirmed;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135858: 2) the trading name of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135859: 3) the place of the registered office of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135860: 4) the amount of the basic capital;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135861: 5) the manner of convening the meetings of the mortgage society;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135862: 6) full names of the Chairman, Vice-Chairman as well as the members and deputy-members of the Board of Directors and their places of residence; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135863: 7) the persons entitled to sign the trading name of the mortgage society and their places of residence.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135864: The notification shall contain a confirmation of the Board of Directors that the basic capital of the mortgage society is fully paid as well as the bylaws and a certified copy of the decision concerning their confirmation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135865: The provisions on the notifications to be made to the trade register shall other- wise be applied, where applicable.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135866: Section 11
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135867: Prior to its entry in the trade register, a mortgage society may not acquire rights or make commitments or act as an applicant, plaintiff or respondent before a court of law or other authorities. The Board of Directors may, however, speak in matters relating to the establishment of the mortgage society and otherwise undertake measures to collect the basic capital.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135868: Liability for measures taken on behalf of a mortgage society prior to its entry in the trade register shall lie jointly and severally with the persons who have participated in
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135870: the measure or in a decision relating thereto. Liability based upon the agreement of establishment of a mortgage society or incurred after its signing shall, however, be transferred to the mortgage society upon its entry in the trade register.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135871: Chapter 3 Administration of a mortgage society
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135872: Section 12
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135873: The decision-making power of the members of a mortgage society shall be used by the members present at the Meeting of the Mortgage Society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135874: The bylaws may provide that a member who wants to exercise his voting rights at a meeting shall inform the mortgage society thereof no earlier than three days in ad- vance.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135875: Section 13
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135876: Each member who has no outstanding payments to the mortgage society shall have one vote at the meeting.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135877: A private member may be represented by a proxy only by his/her spouse or another member holding a voting right. A legal person may be represented by its statu- tory representative or authorized counsel even if he is not a member of the mortgage society. No person may represent more than one member as authorized counsel.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135878: Where more than one are responsible for a loan, they may use their voting right only jointly or by authorizing one of them or another member of the mortgage society to represent them. If the spouses have joint liability for a loan, one of them has the right to represent the other spouse without a proxy.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135879: Section 14
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135880: A member of the Board of Directors may not participate in the decision-making concerning the confirmation of the annual accounts or the granting of a discharge from
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135882: liability, when the issue concerns administration for which he is liable or in the election of auditors.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135883: Section 15
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135884: The General Meeting of a mortgage society shall be held annually during a period prescribed in the bylaws. The meeting may not make a decision on a matter other than those which are to be handled at the meeting under the law or the bylaws or which are presented in writing by the Board of Directors or at least three members and stated in the notice to convene.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135885: At the meeting, a decision shall, unless otherwise provided for in this Act or the bylaws of the mortgage society, be carried by the majority of the votes cast. In the case of a tie, an election shall be decided by drawing lots, but in other matters by the opinion of the chairman.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135886: Section 16
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135887: The duties of the General Meeting of the mortgage society shall be:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135888: 1) to confirm the annual accounts for the previous financial period and to decide on the use of the annual profit or the measures called for by the loss in accordance with the confirmed annual accounts;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135889: 2) to grant discharge from liability to the Board of Directors and others liable to render accounts or to decide on the measures to be taken if discharge from liability is not granted;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135890: 3) to decide on the remunerations payable to the members of the Supervisory Board and the auditors;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135891: 4) to elect the members and deputy members of the Supervisory Board; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135892: 5) to elect for each financial period auditors for the audit of the accounts and the management of the mortgage society. (10.7.1998/528)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135893: The election of the members and deputy members of the Supervisory Board may, however, if provided for by the bylaws, be delegated to the members of the mort-
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135895: gage society to be executed separately, taking, however, into account the provisions of section 13 on voting rights.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135896: Section 17
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135897: A mortgage society shall be administered by the Supervisory Board and the Board of Directors.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135898: At least half of the members of the Board of Directors and the Managing Director shall be resident in the European Economic Area unless the Ministry of Finance grants an exemption therefrom. Only a member of the mortgage society with voting rights shall be eligible to be elected a member or a deputy member of the Supervisory Board. (30.12.1993/1613)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135899: A member or deputy member of the Board of Directors may not be a member of the Supervisory Board.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135900: Section 18
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135901: The Supervisory Board of a mortgage society shall comprise at least ten mem- bers. The duties of the Supervisory Board shall be to supervise that the mortgage soci- ety is administered with care and diligence and in accordance with the provisions of the law and the bylaws as well as in accordance with the decisions of the General Meeting of the mortgage society and the Supervisory Board.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135902: The Supervisory Board of a mortgage society shall especially:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135903: 1) elect and discharge the members and deputy members of the Board of Direc- tors provided to be elected by the Supervisory Board;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135904: 2) decide on the salaries of the members and deputy members of the Board of Directors;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135905: 3) elect and discharge the Managing Director and other directors of the mortgage society as well as decide on their salaries;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135906: 4) decide on the establishment and closing of a branch;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135907: 5) confirm the standard conditions of lending;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135908: 6) confirm the standard conditions of funding; (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135909: Subparagraph 7 repealed by Act of 20.12.1991/1552.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135911: 8) have the inspectors elected by it perform an audit of the cash, books, securi- ties and liabilities as well as on the loan and collateral documents and the management of liquidity at least twice annually;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135912: 9) attend to the appropriate inspection of the branches of the mortgage society; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135913: 10) confirm the principles applied to the annual accounts of the mortgage society with special regard to the proper and prudent valuation of the funds of the mortgage society as well as confirm the annual accounts for submission to the General Meeting of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135914: Section 19
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135915: The Board of Directors of a mortgage society shall comprise at least five mem- bers elected by the Supervisory Board. In addition, the Managing Director and another director of the mortgage society shall be members of the Board of Directors. (30.12.1993/1613)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135916: The duties of the Board of Directors shall include the management of the opera- tions of the mortgage society in compliance with the law and bylaws as well as with the decisions and instructions of the General Meeting of the mortgage society and its Su- pervisory Board.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135917: Section 20
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135918: The Board of Directors of a mortgage society shall act as plaintiff and respondent on behalf of the mortgage society. A summons shall be deemed to have been served when it has been served upon a member of the Board of Directors or upon a person who, alone or jointly with another, is entitled to sign the name of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135919: Chapter 4 The business activity of the mortgage society
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135920: Section 21
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135922: A mortgage society shall be entitled to engage in a business activity within its scope of activity subject to the restrictions provided for in this Act and elsewhere in the law.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135923: Paragraph 2 repealed by Act of 19.12.1997/1345.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135924: Sections 22 - 23 repealed by Act of 20.12.1991/1552.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135925: Section 24
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135926: A mortgage society shall use the funds it has raised primarily for loans to its members and those applying for membership. (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135927: The provisions of paragraph 1 shall not apply to the granting of loans mediated from State funds.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135928: Paragraph 3 repealed by Act of 20.12.1991/1552.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135929: Section 25
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135930: At the receipt of a loan, the borrower shall be liable to pay the accession fee of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135931: An annual additional management fee may also be collected from the borrower, when deemed necessary, to cover the management and other costs of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135932: The provisions of paragraphs 1 and 2 shall not apply to a borrower referred to in section 3, paragraph 2.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135933: The accession fees paid by the borrowers shall be transferred to the reserve fund in full.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135934: Section 26
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135935: Additional capital for a mortgage society may, by a decision of the General Meet- ing of the mortgage society on proposal of the Board of Directors, be formed from funds
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135937: acquired from third parties if this is deemed necessary for the continuation or promo- tion of the activity of the mortgage society.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135938: Additional capital may be paid back only on condition that the basic capital of the mortgage society does not diminish, the own funds of the mortgage society do not fall below the limit laid down in section 78 of the Act on Credit Institutions and that the capital paid back in any one year shall not exceed a maximum of 50 per cent of the profit of the preceding year. (30.12.1993/1613)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135939: Paragraph 3 repealed by Act of 20.12.1991/1552.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135940: Chapter 5 Liquidation and bankruptcy of a mortgage society (28.12.2001/1505)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135941: Section 27 (20.12.1991/1552)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135942: The liquidation and bankruptcy of a mortgage society shall be governed by the provisions of chapter 8 of the Act on Savings Banks (1502/2001) shall, where appropri- ate. (28.12.2001/1505)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135943: If a decision to continue the operation of a mortgage society placed in liquidation has not been made and if the property of the mortgage society has not been surren- dered in bankruptcy and after the liabilities of the mortgage society have been settled or funds for their payment have been set aside and other commitments have been fulfilled, the establishers and their beneficiaries may be repaid the capital they have invested in the mortgage society provided that the repayment complies with the bylaws.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135944: If any property remains thereafter, the surplus shall be used for the purpose prescribed in the bylaws of the mortgage society. The Ministry of Finance shall, where necessary, decide on the use of the surplus.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135945: The procedure provided for in paragraphs 2 and 3 above shall be applied also in the case that the mortgage society has been placed in bankruptcy and funds remain after the bankruptcy proceedings.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135947: Section 28
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135948: The decision upon the merger of two or more mortgage societies or on the divi- sion of a mortgage society into several mortgage societies shall be made in the order provided for the amendment of the bylaws. The same shall apply to a decision on the dissolution of a mortgage society with the exception of a case in which the funds of the mortgage society have, due to losses, diminished so that at least half of the own capital of the mortgage society shall be deemed lost and the own capital of the mortgage society no longer fulfills the requirements set on solvency or when it becomes apparent that the mortgage society is unable to meet its commitments. (22.1.1988/50)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135949: The Ministry of Finance shall, in each separate case, issue further orders on the procedure to be applied to the merger of mortgage societies or to the division of a mort- gage society into several independent mortgage societies.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135950: When the operations of a mortgage society cease due to a reason other than the losses or financial difficulties referred in paragraph 1, any surplus funds shall, in accor- dance with a decision of the General Meeting of the mortgage society, be used to a purpose prescribed in the bylaws taking into consideration the provision of section 3, paragraph 3. The establishers and their beneficiaries may, however, be repaid the capital they have invested in the mortgage society provided that the bylaws contain a provision thereon.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135951: Section 28 a (13.6.1997/582)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135952: If the mortgage society holds all the shares of a limited company, the Board of Directors of the mortgage society and the Board of Directors of the limited company may enter into an agreement on the merger of the limited company in the mortgage society. The provisions of section 81 of the Savings Banks Act shall, where applicable, be com- plied with in the merger.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135954: Miscellaneous provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135956: Section 29
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135957: This Act shall also be applied to the Mortgage Society of Finland, operating under the Act on Mortgage Societies of 24 April 1925 (130/1925) and the Housing Mortgage Bank of Finland, operating under the Act on Housing Mortgage Societies of 8 January 1927 (1/1927) upon the entry into force of this Act; however, in compliance of the follow- ing transitional provisions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135958: Unless the Ministry of Finance, upon an application, grants an extension, the Mortgage Society of Finland and the Housing Mortgage Bank of Finland shall, from the entry into force of this Act,
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135959: within two years apply for a confirmation of an amendment to the bylaws neces- sary under this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135960: within five years bring the ratio of the own capital of the mortgage society to its liabilities to comply with the provisions of section 45 of the Act on Mortgage Banks;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135961: within ten years arrange its investments in other than lending to comply with the provisions of section 22 and section 21, paragraph 2 of the Act on Mortgage Banks.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135962: The five-year period laid down above in section 23, paragraph 2 shall be calcu- lated from the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135963: The Housing Mortgage Bank of Finland shall, within two years from the entry into force of this Act, return to the State State bonds equivalent to the base fund of the bank.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135964: If either of the mortgage societies referred to in paragraph 1 should, within two years from the entry into force of this Act, make a decision to merge in another mort- gage society and the merger in question is effected, the former mortgage society shall not be liable to undertake measures to amend its bylaws.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135965: The Mortgage Society of Finland and the Housing Mortgage Bank shall, within six months from the confirmation of the amendments to the bylaws referred to in para- graph 2, be refiled for entry in the Trade Register, where applicable, in accordance with the provisions of section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135966: Section 30
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135967: This Act shall enter into force on 1 January, 1979.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135969: This Act shall repeal the Act on Mortgage Societies of 24 April 1925 (130/1925), the Act on Housing Mortgage Societies of 8 January 1927 (1/1927), the Act on Suspension of Operation of a Mortgage Society and a Housing Mortgage Society of 17 March 1933 (90/1933) and the Act on the Emergency Provisions Concerning Certain Monetary Institutions Engaged in Lending Activity with State Funds of 9 March 1945 (228/1945), with later amendments.
+

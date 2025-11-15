@@ -1,0 +1,1582 @@
+METADATA: {"document_id": 74, "filename": "EBA-GL-2014-06 Guidelines on Recovery Plan Scenarios.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "EBA", "jurisdiction": "EU", "page_count": 40, "paragraph_count": 647}
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97838: GUIDELINES ON THE RANGE OF SCENARIOS TO BE USED IN RECOVERY PLANS
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97840: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97841: EBA/GL/2014/06
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97842: 18 July 2014
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97843: Guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_97844: on the range of scenarios to be used in recovery plans
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97845: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97847: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97849: 1. Executive summary 3
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97850: 2. Background and rationale 5
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97851: 3. EBA guidelines on range of scenarios to be used in recovery plans
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97853: Title I - Subject matter and scope
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97855: Title II - Requirements regarding the scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97857: Title III - Final provisions and implementation 10
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97858: 4. Accompanying documents
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97860: 4.1 Cost-benefit analysis / impact assessment 12
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97861: 4.2 Views of the Banking Stakeholder Group (BSG) 14
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97862: 4.3 Feedback on public consultation 15
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97863: 4.4 Summary of responses to the consultation and EBA's analysis 17
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_97864: 5. Confirmation of compliance with guidelines and recommendations 40
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97866: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97868: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97869: 1. Executive summary
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97870: Directive 2014/59/EU1, establishing a framework for the recovery and resolution of credit institutions, investment firms and related entities (the Bank Recovery and Resolution Directive, or BRRD) specifies a Union-wide framework for crisis prevention, management and resolution of these entities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:SYSTEMIC_RISK]
+PARAGRAPH_97871: These guidelines have been developed by the EBA, in close cooperation with the European Systemic Risk Board (ESRB), pursuant to Article 5(7) of the BRRD, and specify the range of scenarios of severe macroeconomic and financial distress which should be considered by institutions to test the effectiveness of recovery options and the adequacy of the indicators contained in their recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97872: The objective of a recovery plan is not to forecast the factors that could prompt a crisis, but rather to identify the actions that might be available to counter those factors and to assess whether they are robust enough and their nature is sufficiently varied to cope with a wide range of shocks of different natures. For this purpose, the scenarios of severe macroeconomic and financial distress should be designed in a way that they would threaten the failure of an institution or group if recovery measures were not implemented in a timely manner. However, given that the aim of a recovery plan is to prove the capacity to restore the viability of an institution, these scenarios should be designed as 'near-default' situations; i.e. they should bring an institution close to failure but no further. This element should be taken into consideration for example when considering using reverse stress testing to identify the most appropriate scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97873: The guidelines stipulate that at least three scenarios of severe macroeconomic and financial distress should be included to ensure coverage of a system-wide event, an idiosyncratic event and a combination of system-wide and idiosyncratic events. In line with the principle of proportionality, global systemically important institutions (G-SIIs) and other systemically important institutions (O-SIIs) identified pursuant to Article 131 of the CRD should include at least four scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97874: The guidelines recognise that the risks that each institution faces vary significantly according to its business and funding model, its activities and structure, its size or its interconnectedness to other institutions or to the financial system in general. Moving from this premise, to ensure that recovery plans are tested against the main types of system-wide and idiosyncratic events, the guidelines identify the specific factors and events that should be taken into account in determining the appropriate scenarios. These factors have been selected as those that most typically threaten the failure of institutions or groups. However, the overriding principle remains
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_97875: 1 Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, (OJ L 173, 12.6.2014, p.190).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_97877: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_97879: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97880: that the scenarios should be based on the events and factors that are the most relevant to the institution or group. Hence, different events should be used where those are more relevant. On this basis and in line with the provisions of the BRRD on the assessment of recovery plans and the related technical standards pursuant to Article 6(8), competent authorities will assess the adequacy of the scenarios chosen by the banks.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97881: The EBA launched a public consultation on 20 May 2013 (EBA/CP/2013/09) on the guidelines. The decision behind this early consultation stage was to allow phasing of the delivery of the large number of technical standards/guidelines that the EBA is required to produce as mandated by the BRRD. By the time the consultation was launched, the EBA was mandated to develop technical standards for the range of scenarios to be used by firms to test their recovery plans. Following the change of the mandate, the draft technical standards have been transposed to fit the structure of the guidelines, whilst also taking into account the feedback received from respondents during the consultation period.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_97882: The comments received from stakeholders have been considered. Comments, the EBA's analysis and any consequent changes to the guidelines are reported in the feedback table at the end of this paper.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_97883: The guidelines are structured into three titles. The first title establishes the subject matter and scope of the guidelines. Title 2 provides design principles for the range of scenarios and the range of scenarios to be considered. Finally, Title 3 determines when the guidelines take effect.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97885: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97887: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97888: 2. Background and rationale
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97889: At the international level, any initiatives on recovery and resolution planning are carried out under the auspices of the Financial Stability Board (FSB), which in its Key Attributes of Effective Resolution Regimes for Financial Institutions2 identifies the essential elements of recovery and resolution plans, and recommends recovery and resolution plans to be in place at least for any financial institution that could be systemically significant or critical if it fails.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97890: At the EU level, co-legislators have adopted Directive 2014/59/EU (the BRRD), establishing a recovery and resolution framework in the European Union. The EBA has developed these guidelines in accordance with the mandate contained in Article 5(7) of the BRRD, which mandates the EBA to develop guidelines to specify the range of scenarios of severe macroeconomic and financial distress to be used to assess the arrangements that institutions have in place and the measures that would be adopted to maintain or restore the institutions' viability in a timely manner.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97891: Rationale and regulatory approach followed in the GL
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97892: The BRRD stipulates in Article 5(6) that the competent authorities should ensure that firms test their recovery plans against a range of scenarios of severe macroeconomic and financial distress, varying in their severity, including system-wide events, legal entity-specific stress and group-wide stress, while Article 7(6) requires group recovery plans to include a range of recovery options specifying actions to address those scenarios. At the same time Article 5(7) of the BRRD mandates the EBA to develop, in close cooperation with the ESRB, guidelines specifying the range of scenarios to be used for the purposes of Article 5(6).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97893: Following this mandate, these guidelines are prepared taking into account the FSB Key Attributes of Effective Resolution Regimes for Financial Institutions, the FSB Guidance on Recovery Triggers and Stress Scenarios, and current supervisory practices. The guidelines cover the key elements and essential issues that should be addressed by institutions when developing severe macroeconomic and financial distress scenarios against which the recovery plan will be tested.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97894: Drafting a recovery plan is incumbent upon institutions or groups and is to be undertaken prior to a crisis in order to assess the potential options that an institution or a group could itself implement to restore financial strength and viability should the institution or group come under severe stress. Recovery plans must be based on the assumption that extraordinary public financial support would not be provided. Financial institutions are responsible for drafting and owning their own plans, but they will be assessed by the relevant competent authority or authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_97895: 2 Key Attributes of Effective Resolution Regimes for Financial Institutions, FSB, 10.2011.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_97897: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_97899: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97900: The objective of preparing severe macroeconomic and financial distress scenarios is to define a set of hypothetical and forward-looking events against which the impact and feasibility of the recovery plan will be tested. The objective of the recovery plan is not to forecast the factors that could prompt a crisis, but rather to identify the options that might be available to counter those factors and to assess whether they are sufficiently robust and if their nature is sufficiently varied to cope with a wide range of shocks of different natures. Institutions or groups should use an appropriate number of system-wide financial distress scenarios and idiosyncratic financial distress scenarios to test their recovery planning. Severe macroeconomic and financial distress scenarios used for recovery planning should be designed so that they would threaten the failure of the institution or group concerned if the institution or group did not implement recovery measures in a timely manner.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97902: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97904: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97905: 3. EBA guidelines on the range of scenarios to be used in recovery plans
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97906: Status of guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97907: 1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ('the EBA Regulation'). In accordance with Article 16(3) of the EBA Regulation, the competent authorities and financial institutions must make every effort to comply with the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97908: 2. The guidelines specify the EBA's view on appropriate supervisory practices within the European System of Financial Supervision or on how Union law should be applied in a particular area. The EBA therefore expects all competent authorities and financial institutions to whom the guidelines are addressed to comply with them. The competent authorities to whom the guidelines apply should comply by incorporating them into their supervisory practices as appropriate (e.g. by amending their legal frameworks or their supervisory processes), including cases where the guidelines are directed primarily at institutions.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97909: Reporting requirements
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97910: 3. In accordance with Article 16(3) of the EBA Regulation, the competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by 18.09.2014. In the absence of any notification by this deadline, the competent authorities will be considered by the EBA to be non- compliant. Notifications should be sent by submitting the form provided in Section 5 to compliance@eba.europa.eu with the reference 'EBA/GL/2014/06'. Notifications should be submitted by persons with the appropriate authority to report compliance on behalf of their competent authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_97911: 4. Notifications will be published on the EBA website in line with Article 16(3).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97913: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97915: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97916: Title I - Subject matter and scope
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97917: 5. These guidelines specify the range of scenarios of severe macroeconomic and financial distress to be used for Article 5(6) and Article 7(6) of Directive 2014/59/EU3.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97918: 6. The objective of preparing the range of scenarios is to define a range of hypothetical events against which the effectiveness of recovery options and the adequacy of indicators contained in the recovery plan shall be tested.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97919: 7. These guidelines are subject to determinations made regarding the extent to which details of recovery plans apply in accordance with Article 4 of Directive 2014/59/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97920: Title II - Requirements regarding scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97921: Design principles for the range of scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97922: 8. The range of scenarios should include at least three scenarios to ensure coverage of a system- wide event, an idiosyncratic event and a combination of system-wide and idiosyncratic events.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97923: 9. Each scenario should be designed to meet each of the following requirements:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97924: a. the scenario should be based on events that are most relevant to the institution or group concerned, taking into account, among other relevant factors, its business and funding model, its activities and structure, its size or its interconnectedness to other institutions or to the financial system in general, and, in particular, any identified vulnerabilities or weaknesses of the institution or group;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97925: b. the events foreseen in the scenario would threaten to cause the failure of the institution or group, unless recovery measures were implemented in a timely manner; and
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97926: c. the scenario should be based on events that are exceptional but plausible.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97927: 10. Each scenario should include, where relevant, an assessment of the impact of the events on at least each of the following aspects of the institution or group:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97928: a. available capital;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_97929: 3 Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, (OJ L 173, 12.6.2014, p.190).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97931: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97933: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97934: b. available liquidity;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97935: c. risk profile;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97936: d. profitability;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97937: e. operations, including payment and settlement operations;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97938: f. reputation.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97939: 11. Reverse stress testing should be considered as a starting point for developing scenarios that should be only 'near-default'; i.e. they would lead to an institution's or a group's business model becoming non-viable unless the recovery actions were successfully implemented.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97940: Range of scenarios of financial distress
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97941: 12. Taking into account the principle of proportionality, the number of scenarios should be commensurate, in particular, with the nature of the business of the institution or group, its size, its interconnectedness to other institutions and to the financial system in general and its funding models.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97942: 13. At least one scenario should be included for each of the following types of events:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97943: a. a 'system-wide event', which means an event that risks having serious negative consequences for the financial system or the real economy;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97944: b. an 'idiosyncratic event', which means an event that risks having serious negative consequences for a single institution, a single group or an institution within a group; and
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97945: c. a combination of system-wide and idiosyncratic events which occur simultaneously and interactively.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97946: 14. Global systemically important institutions (G-SIIs) and other systemically important institutions (O-SIIs) identified pursuant to Article 131 of the CRD4 should include at least more than three scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97947: 15. The range of scenarios should include both slow-moving and fast-moving adverse events.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97948: 16. Both the system-wide and idiosyncratic events should relate to events that are the most relevant to the institution or group as described in paragraph 9(a). The scenarios should
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_97949: 4 Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p.338).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97951: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97953: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97954: therefore be based on different events to those specified in paragraphs 17 and 18 where the latter are less relevant for the institution or group as indicated in paragraph 9(a).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97955: System-wide events
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97956: 17. In designing scenarios based on system-wide events the relevance of at least the following system-wide events should be taken into account:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97957: a. the failure of significant counterparties affecting financial stability;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97958: b. a decrease in liquidity available in the interbank lending market;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:SOVEREIGN_RISK]
+PARAGRAPH_97959: c. increased country risk and generalised capital outflow from a significant country of operation of the institution or the group;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97960: d. adverse movements in the price of assets in one or several markets;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97961: e. a macroeconomic downturn.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97962: Idiosyncratic events
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97963: 18. In designing scenarios based on idiosyncratic events the relevance of at least the following idiosyncratic events should be taken into account:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97964: a. the failure of significant counterparties;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97965: b. damage to the institution's or group's reputation;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97966: c. a severe outflow of liquidity;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97967: d. adverse movements in the prices of assets to which the institution or group is predominantly exposed;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97968: e. severe credit losses;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_97969: f. a severe operational risk loss.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_97970: Title III - Final provisions and implementation
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97971: 19. The competent authorities and institutions should comply with these guidelines by the earlier of the following dates:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_97973: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_97975: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_97976: a. 1 January 2015;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97977: b. the date on which the Member State of the relevant competent authority applies provisions which implement Article 5(6) and Article 7(6) of Directive 2014/59/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97979: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97981: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97982: 4. Accompanying documents
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97983: 4.1 Cost-benefit analysis / impact assessment
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97984: Introduction
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97985: 20. This chapter outlines the assessment of the impact of the guidelines concerning the scenarios to be used to test recovery plans. Article 16(2) of the EBA Regulation requires that guidelines be accompanied, where appropriate, by an analysis of the related potential costs and benefits, producing an impact assessment.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97986: 21. This chapter outlines the main expected impacts of the proposed provisions and provides a summary of the nature and expected magnitude of costs and benefits arising from the requirements.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97987: Problem definition
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97988: Issues addressed by the Commission's proposal for an EU framework for bank recovery and resolution
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_97989: 22. As documented in the Commission's impact assessment of the BRRD, during the financial crisis, many institutions or groups did not have plans in place to achieve recovery in various situations of financial distress. Institutions or groups were therefore insufficiently prepared to adopt and implement appropriate measures to promptly address issues such as severe liquidity shortages and capital depletion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97990: 23. The Commission proposed that credit institutions and investment firms prepare recovery plans in which they specify the arrangements they have in place or the measures that they themselves would adopt to take early action to restore their long-term viability in the event of a material deterioration of their financial situation in situations of financial stress. Institutions or groups would be required by supervisors to test their recovery plans against a range of scenarios of severe macroeconomic and financial distress, varying in their severity, including system-wide events, legal entity-specific stress and group-wide stress.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97991: Issues addressed by the guidelines and objectives
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_97992: 24. The BRRD mandates the EBA, in close cooperation with the ESRB, to develop guidelines specifying the range of scenarios to be used for the purposes of Article 5(6). This is to avoid national competent authorities (NCAs) making substantially divergent requirements to these severe macroeconomic and financial distress scenarios, which may create uncertainty
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_97994: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_97996: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_97997: regarding the effectiveness of recovery plans to tackle problems detected early by national supervisors and to propose an appropriate set of recovery options.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_97998: 25. The guidelines will contribute to fulfilling the BRRD's objectives of increasing the preparedness of institutions for crisis situations and ensuring that recovery plans are tested against similar benchmark scenarios across the single market.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_97999: Technical options considered
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98000: 26. When preparing the guidelines the EBA considered whether:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98001: · A1 - to add the requirement of producing an upside and downside case for each scenario tested, to test for possible extreme positive and negative events of the stress considered in each scenario; or
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98002: · A2 - not to require any additional test of extreme positive and negative events in addition to the stress parameters already considered in each scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98003: 27. The EBA decided to abstain from adding this specification and selected option A2. This decision was motivated by the fact that option A1 would create an excessive burden on institutions by unnecessarily increasing the number of scenarios against which they need to test their recovery plans. In addition, the added benefit of testing against a less severe scenario next to a severe (financial distress) scenario would be in some cases very limited: if an institution is capable of implementing recovery measures in a severe scenario, it will most likely also be able to implement these measures in a less severe scenario.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98004: 28. The EBA considered also whether:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98005: · B1 - to specify a fixed type and number of scenarios to be tested; or
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_98006: . B2 - to leave the type and number of scenarios to be tested to the discretion to the NCAs.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98007: 29. Given that the design of the appropriate scenarios depends on the specific characteristics of each institution (activity, size, interconnectedness, business and funding model, etc.), the guidelines cast on institutions the responsibility of selecting relevant scenarios and vest NCAs with the task of assessing the appropriateness of the chosen scenarios. However, at least three scenarios are required by the guidelines (one covering a system-wide event, one covering an idiosyncratic event and one covering a combination of both types of events), and in order to build these scenarios the events identified in paragraphs 12-18 of the guidelines must be duly considered by institutions/NCAs while designing/assessing the scenarios. However, considering that the quality and effectiveness of the scenarios is strictly dependent on each firm's characteristics and weaknesses, relevant scenarios can be built considering events different from those provided by paragraphs 12-18. This option must be properly justified by the institution concerned and assessed by the competent authority.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98009: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98011: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98012: Impact of the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98014: 30. The costs of testing recovery plans against scenarios are mainly driven by the requirements incorporated in the BRRD itself. The guidelines specify only the range of scenarios against which recovery plans have to be tested. As a result, these guidelines will generate additional compliance costs within those Member States where fewer scenarios than the number proposed by the guidelines would have been required. These costs will mainly affect institutions, which will have to test these scenarios, and, to a lesser extent, the NCAs, which will have to verify whether the scenarios have been properly designed and tested.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98016: 31. By specifying the range of scenarios that institutions or groups should use when testing their recovery plans, these guidelines will ensure that recovery plans are effectively tested according to similar benchmarks. They will ensure the existence of common minimum standards, for the benefit of the proper functioning of the single market, on the quality of the recovery plans of institutions established in the EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98017: Proportionality of the proposal
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98018: 32. When developing the requirements proposed in these guidelines, the EBA took into account the proportionality of its proposals with regard to institutions and other stakeholders. The requirements laid down on the range of scenarios for the recovery plan will depend on many factors (for instance the nature of the businesses, their size or interconnectedness to other institutions on funding conditions or on the economy in general). In general, the greater the size, complexity and interconnectedness of an institution (or banking group), the more resources it will need to design and develop the scenarios proposed.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98019: 33. Furthermore, proportionality should also be addressed by how Member States are to apply Article 4 of BRRD, which allows Member States to determine the extent to which details of recovery plans are applied.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98020: 4.2 Views of the Banking Stakeholder Group (BSG)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_98021: 34. No comments were received from the BSG.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98023: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98025: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98026: 4.3 Feedback on public consultation
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98027: 35. The EBA launched a public consultation on 20 May 2013 (EBA/CP/2013/09) on the GL. The decision behind such an early consultation stage was to allow the delivery of the large number of technical standards/guidelines that the EBA is required to produce as mandated by the BRRD to be phased.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98028: 36. The consultation period lasted for three (3) months and ended on 20 August 2013.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98029: 37. By the time the consultation was launched, Article 5(7) of the BRRD mandated the EBA to develop technical standards for the range of scenarios to be used by firms to test their recovery plans. The following summary and table are composed on the basis of the feedback received for the draft technical standards, although the mandate was subsequently changed to require guidelines in the legislative procedure. Following the change to the mandate, the draft technical standards were transposed to fit the structure of guidelines, whilst also taking into account the feedback received from respondents during the consultation period.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98030: Summary of key issues and the EBA's response
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98031: In total, sixteen (16) responses were received; two (2) respondents asked for their response not to be published but the remainder were published on the EBA website.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98032: On the whole, the respondents welcomed the proposals and the efforts to harmonise the practices with scenarios that are being used to test the recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98033: Many of the respondents welcomed the emphasis that scenarios should be used to test the recovery plan and to facilitate its assessment and the ability of the group to recover, rather than building recovery plans around a given set of scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98034: Some of the respondents considered the proposals too detailed or prescriptive to fit individual institutions, advocating more flexibility. It was considered that 'over-engineered' scenarios may create a ranking or hierarchy of recovery options for each particular scenario. Furthermore, recovery plans need to be tailor-made for each institution/group and appropriately reflect its specificities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98035: The range of respondents' views was quite wide as far as the testing of the recovery plans on the group or individual level was concerned. Some respondents claimed that scenarios should be developed and tested at group level only, while others replied that they have already developed scenarios to test recovery plans both at individual and group level and considered these as useful.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_98036: Some respondents argued that it is important to focus only on a few scenarios that are truly relevant to the institutions. This view was endorsed in particular in those cases when the respondent was supporting testing at group level only.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_98038: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_98040: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_98041: One issue that was raised in many replies related to the suggestion to adopt reverse stress testing as a tool for identifying scenarios that would threaten to cause the failure of the institution. Some respondents considered this to be a useful tool, whereas others considered the additional value of reverse stress testing of scenarios to be of minor significance.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_98042: Some respondents considered that the proposals do not cover coordination between home/host authorities, which may give rise to significant additional costs for banks resulting from the preparation of local recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_98043: One respondent requested clarification on whether and how the 'simplified obligations' for smaller and simpler institutions are to be applied in the context of recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98045: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98047: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98048: 4.4 Summary of responses to the consultation and EBA's analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98050: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98051: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98052: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98053: General comments
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98054: Use of scenarios to test recovery plans is considered positive ...
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98055: Many of the respondents welcomed the emphasis that scenarios should be used to test the recovery plan and facilitate its assessment and the ability of the group to recover, rather than building recovery plans around a given set of scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98056: ... even though level of detail is still too great ...
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98057: Four respondents considered the draft
+proposal too detailed or prescriptive to fit
+individual institutions, advocating for more flexibility. Over-engineered scenarios may create a ranking or hierarchy of recovery options for each particular scenario. Furthermore, recovery plans need to be tailor- made for each institution/group and appropriately reflect its specificities. Scenarios that are relevant for banks are likely to be different to those for CSDs.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98058: Paragraphs 12-18 of the guidelines already
+address such flexibility.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98059: ... whilst also
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98060: On the other hand, one respondent acknowledged that the regulatory framework
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98061: acknowledging the need
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_98062: has to be adapted to the globally applicable rules, and noted the need for balance between
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98064: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98066: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98068: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98069: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98070: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98071: for harmonisation.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98072: flexibility and harmonisation.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98073: Need to ensure consistency with other supervisory tools and existing practices
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98074: Two respondents stated that the scenarios The guidelines allow for flexibility to develop developed with the purpose of assessing the scenarios that are based on events that are feasibility of recovery options were very most relevant to the institution or group. This different from those used in other supervisory flexibility should be sufficient to address these tools such as ICAAPs or stress tests. concerns. It is also worth bearing in mind that Therefore, there is need to further clarify the not all tests serve the exact same purpose. interaction and differences among scenarios for ICAAP or stress test exercises and for recovery plans. Two respondents raised the issue that certain existing stress testing work should be used/incorporated when testing recovery plans, rather than establishing new separate requirements.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98075: Recovery plans should be tested only at group level ... ... or at all levels.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98076: Threee respondents had very negative views on developing scenarios to test the recovery plans at any other than group level. Six respondents had already developed scenarios to test recovery plans both at individual and group level and considered these to be useful.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98077: The guidelines follow the mandate of the Level 1 text, according to which recovery plans need to contemplate a range of scenarios of severe macroeconomic and financial stress including system wide events, legal entity specific stress and group wide stress.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98078: Limited number of scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_98079: Four respondents stated that it is important to The guidelines address the concerns raised by focus only on a few scenarios that are truly the respondents.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98081: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98083: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98086: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98087: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98088: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98089: relevant to the institutions. This view was endorsed in particular in those cases when the respondent was also supporting testing at group level only.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98090: Reverse stress testing
+scenarios gained support ... .. but not in all cases.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98092: Three respondents considered reverse stress tests a useful instrument for identifying scenarios that would threaten to cause the failure of the institution. The additional value of reverse stress testing of scenarios was not considered (by six respondents) to be of such significance that it would merit making these mandatory. In fact, it was even regarded as being potentially detrimental to focus on a bank's weaknesses when developing recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98093: The guidelines suggest that institutions should consider using reverse stress testing as a starting point for developing scenarios, as the purpose of reverse stress testing is to identify and consider scenarios that would lead to an institution's or a group's business model becoming almost non-viable.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98094: Some calls for
+home/host coordination
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98096: Two respondents considered that the draft proposal does not cover coordination between home/host authorities, which may give rise to significant additional costs for banks resulting from preparation of local recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98097: The Level 1 text lays down a specific mandate on the functioning of resolution colleges covering all stages from the preparation of recovery and resolution plans to the actual resolution of an institution. In the event of disagreement between national authorities on decisions to be taken in accordance with the Level 1 text, the EBA should, where specified, play a role of mediation.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98098: Need to address
+proportionality ...
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98099: One respondent requested making clearer
+whether and how the 'simplified obligations' for
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_98100: It is true that proportionality in the sense of Article 4 of the Level 1 text is not directly
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98102: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98104: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98107: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98108: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98109: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98110: smaller and simpler institutions are to be applied in the context of recovery plans. Following these arguments, the proposal needs to be beefed up on proportionality.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98111: addressed in the guidelines. However, it is for the competent authorities and resolution authorities to determine the extent to which the simplified obligations and waivers are applied (Article 4(1), 4(1)(a), 4(1)(c), 4(1)(d) of the Level 1 text).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98112: ... unless we can wait
+BRRD is adopted?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98114: One respondent considered it to be too soon to elaborate on a proposal when it is not even clear which financial institutions are to hold recovery plans and how detailed these should be. Furthermore, the elaboration and review of stress scenarios entail financial efforts, which cannot be neglected.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98115: There is a need to launch processes well in advance to ensure sufficient time for the deliverables.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98116: Responses to questions in Consultation Paper EBA/CP/2013/09
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98117: Question 1.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98118: Respondents' replies were mostly positive on
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98119: Have you already
+financial distress
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98120: drafted
+scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98121: both points. However, many of them had further remarks on the matter.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98122: for the purpose of testing
+recovery plan or are
+the process of doing
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98124: you in
+so? If
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98125: Euroclear pointed out a purpose of recovery scenarios other than testing recovery options.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98126: so, are these
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98127: financial
+line
+draft
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98128: From a decision-making perspective, the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98129: distress scenarios in
+with the contents of the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98130: identification of scenarios and their potential
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_98131: impact is a helpful guide to choosing
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98133: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98135: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98137: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98138: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98139: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98140: regulatory standards (RTS)?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98142: appropriate recovery options in a crisis. BNPP stated that recovery plans consist of identifying a wide range of potential options to respond to the circumstances prevailing at the time of entry into recovery. For that reason, a single plan to be tested against financial distress scenarios does not match with reality.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98143: points
+12-18 of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98144: In one of the confidential responses it was advocated not to design the scenarios too closely based on specific factors, otherwise the scenarios may become too narrow and therefore unlikely. The factors should rather serve as to be kept in mind, instead of having to construct scenarios around them. Finally, scenarios should be based on events that are most relevant to the institution.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98145: These
+paragraphs
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98147: addressed
+guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98149: AFME argued that requirements for scenarios should not be specified at too great a level of detail as too focused scenarios will make the scenarios narrow and less effective. Furthermore, AFME suggested assessing the plans against the existing recovery planning framework (where feasible) to see how these could be best incorporated while minimising
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98150: Paragraphs
+address
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98151: 12-18
+such flexibility.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_98153: guidelines already
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98155: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98157: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98159: Summary of responses
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98161: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98162: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98163: the effort
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98164: required by the additional
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98165: requirement. This approach was supported by Nationwide.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98166: BBA considered that scenarios are best developed and used in a qualitative framework rather than as a quantitative exercise. Accordingly, BBA suggests revising Article 3(2): 'Each scenario [ ] of the institution or group' 'Where it is relevant to the scenario of financial distress an
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98167: assessment should be included of the impact of the events of one or more of the following aspects of the institution or
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98168: Flexibility is already addressed
+guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98173: e. payment and settlement operations:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98175: BBA argues that payment and settlement operations should be excluded here as these are more appropriate to the resolution of the institution. Furthermore, BBA considers that 'profitability' and 'reputation' are sub- categories of 'capital', 'liquidity' and 'business model'. It accordingly suggests revising the relevant article, emphasising that scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98176: Payment and settlement operations
+remain in the guidelines. They
+specifically covered to provide
+clarity on their importance.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98177: should
+be
+and
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_98178: deserve to
+awareness
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98180: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98182: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98185: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98186: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98187: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98188: should not be designed around specific metrics.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98189: Question 2. Have you developed
+or individual
+scenarios to
+adequacy of the
+plan?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98190: group
+specific
+test the
+recovery
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98191: Both options were covered in the responses, although a slight majority of the respondents replied that they had developed scenarios for both purposes (UniCredit, Santander, APB, Euroclear, AFME, one of the confidential responses). Three respondents confirmed having developed only group-specific scenarios (DB, BNPP, SBA). EBF was of the view that many/most European banks have developed group plans only. EBF also advocated that recovery planning should be adapted to the business model of the bank. This was endorsed by AFME ('no one-size-fits- all') and BBA ('scenarios should be flexible enough to be used both at group level as well as at individual level'). BBA was also of the view that the scope of scenarios to assess a recovery plan should reflect the scope of the recovery plan being tested.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98192: The guidelines follow the mandate of the Level 1 text, according to which recovery plans need to consider a range of scenarios of severe macroeconomic and financial stress, including system-wide events, legal entity-specific stress and group-wide stress. Furthermore, the Level 1 text states that each institution that is not part of a group subject to consolidated supervision is to draw up and maintain a recovery plan and that competent authorities may require subsidiaries to draw up recovery plans on an individual basis.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98193: Euroclear requested further guidance on the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_98194: These concerns would be counterproductive to the general principle of allowing flexibility for
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98196: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98198: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98200: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98201: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98202: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98203: group/entity element. Accordingly, when scenarios are applied to the group, should the impact be calibrated similarly for all entities (e.g., identical LGDs)? The conclusion may be that this particular scenario would only materially impact one entity but may not satisfy the local supervisor, who would like to see a similar scenario impacting the local entity. It was also requested to clarify whether scenarios should be looked at from the approach where one or several group entities are in resolution, and how the rest of the group would cope with this. DB considered separate recovery plans, scenarios or measures unnecessary at individual entity level. This was echoed by FBF.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98204: developing the scenarios to be
+testing the recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_98206: BNPP was of the view that local recovery plans are irrelevant as even local shocks are better absorbed at central level where more diversified recovery options are available. Furthermore, far-reaching recovery actions may involve modifications of the group's franchise, therefore requiring a centralised approach.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98208: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98209: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98211: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98212: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98213: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98214: Nationwide did not consider the question to be relevant due to its group structure.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98215: Question 3. Do you believe that the draft RTS on the range of scenarios for recovery plans is adequate to ensure that firms test their recovery plans against a range of scenarios of financial distress?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98216: In general, respondents considered the range of scenarios to be adequate, but were also advocating for clarifications on a number of different matters on recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98217: BNPP emphasised that recovery plans should not be assessed against scenarios, but individual recovery options.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98218: Scenarios are a way to test individual plans. This principle follows the Level 1 text.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98219: SBA considered that 'likely to fail' needs to be clearly defined to address the question and that the recovery level needs to be reflected in relation to individual levels and in relation to existing rules (CRD/CRR).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98220: The definition of 'failing or likely to fail' will be addressed in the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98221: BBA was of the view that scenarios should not be designed around specific metrics.
+Scenarios used should be relevant to the characteristics of the particular institution.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98222: Paragraphs 12-18 of the guidelines already
+address such flexibility.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98223: Euroclear questioned the need to include a combination of idiosyncratic/systemic scenarios as these events are likely to be unrelated. Euroclear was also of the view that
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_98224: This mandate follows the Level 1 text.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98226: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98228: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98230: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98231: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98232: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98233: the more complex the scenario, the more difficult it is to exploit for decision-making purposes. APB, EBF, BBA and one of the confidential respondents considered that the lists of principles/disturbances should be taken as suggestions, not as a mandatory check list. APB and EBF also asked for further clarification in defining 'slow/fast-moving' adverse events. This was supported in one of the confidential responses.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98234: Paragraphs 12-18 of the guidelines already address such flexibility. More specific definitions would not be in line with the flexibility approach given by the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98235: AFME suggested that firms should not be required to develop separate scenarios for each event (system- wide/idiosyncratic/combination). UniCredit supported the concept that scenarios should be based on the events that are the most relevant to the institutions or groups and could consequently trigger their failures. This could mean that the set of scenarios may not be fully exhaustive if compared to those currently listed in the draft RTS. UniCredit also
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_98236: The Level 1 text specifies that recovery plans need to contemplate a range of scenarios of severe macroeconomic and financial stress, including system-wide events, legal entity- specific stress and group-wide stress. The guidelines need to follow the Level 1 text. Paragraphs 12-18 of the guidelines already address such flexibility. Level 1 text lays down a specific mandate on the functioning of resolution colleges covering all
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98238: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98240: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98243: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98244: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98245: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98246: endorsed pursuing effective coordination amongst the competent authorities. Nationwide recalled that existing reverse stress testing already includes consideration of system-wide and idiosyncratic events. Accordingly, it is necessary to test only the combination of these. Nationwide suggests a redraft of Recital 3 and Article 4(1) accordingly. Santander encouraged going a step further with the RTS and providing clear, unequivocal RTS on the structure of scenarios and on the definition of severity and parameters that determine the likelihood of occurrence to ensure a level playing field in the single market.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98247: stages from the preparation of recovery and resolution plans to the actual resolution of an institution. In the event of disagreement between national authorities on decisions to be taken in accordance with the Level 1 text, the EBA should, where specified, play a role of mediation. The guidelines allow for flexibility to develop scenarios that are based on events that are most relevant to the institution or group. This flexibility should be sufficient to address these concerns. It is also worth bearing in mind that not all tests serve the exact same purpose. These matters have been addressed by the guidelines. A more in-depth approach would go beyond the mandate tasked by the Level 1 text.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98248: Question 4.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98249: In general, the respondents considered their
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98250: How many scenarios
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98252: plans to be in line with the requirements with
+regards to the scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98253: you been required
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_98255: develop to test the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98258: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98260: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98263: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98264: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98265: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98266: of the recovery plan?
+you included slow- or
+moving events?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98267: Have
+fast-
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98268: The responses showed that 3-6 scenarios had been developed, covering systemic- wide/idiosyncratic/combinations and slow/fast- moving events. Some respondents had further remarks on the matter. BNPP was of the view that a multitude of theoretical scenarios can cause the analysis of the recovery to be too prescriptive. BNPP saw no reason to link the number of scenarios to the size of institutions and used instead a small number of possible scenarios against which to assess the suitability of recovery options. BBA echoed this, arguing that too many scenarios may lead to too much analysis and produce too many details to be used effectively. BBA was also of the view that a distinction between slow- and fast-moving events may over-complicate the assessment, and that recovery plans should instead contain an indication of the likely time-frame for deployment. BBA recommended deleting Article 4(5) of the RTS. AFME considered that rather than being
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_98269: The flexibility to develop scenarios that are most relevant to the institution or group is already addressed in paragraphs 12 and 18 of the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98271: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98273: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98276: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98277: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98278: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98279: required to develop different scenarios with slow- and fast-moving events, it would be better to ensure in the assessment of recovery plans that they are sufficiently adaptable to enable recovery options to be implemented within a short time-frame. This was echoed in one of the confidential responses.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98280: Paragraphs 12-18 of the guidelines already address such flexibility. The guidelines allow for flexibility to design scenarios that best fit the institutions. These matters have been addressed by the guidelines. A more in-depth approach would go beyond the mandate tasked by the Level 1 text.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98281: In one of the confidential responses it was argued that a wide range of recovery options with different execution times would be better than separate slow/fast-moving events.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98282: Santander would welcome further guidelines covering the coordination of the design and content of scenarios in recovery plans and those envisaged in other documents for other purposes.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98283: Question 5. Have you used
+stress testing as a
+point for developing
+distress scenarios?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98284: reverse
+starting
+financial
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98285: Some of the respondents (DB, BNPP, SBA, AFME, BBA, EBF) replied that reverse stress testing for recovery planning had been used seldom or not at all, and did not agree with it being mandatory. Three respondents confirmed having used reverse stress testing (Santander, UniCredit, one of the confidential responses). APB replied that some had used it while other had not. Nationwide asked for
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_98286: Reverse stress testing is important and is being mentioned in a growing number of recovery plans as influencing the design of the scenarios against which options are tested. Reverse stress testing can help in mitigation if the 'normal' scenarios are not stressful enough. Reverse stress tests are also beneficial in helping management to identify 'points of non-
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98288: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98290: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98293: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98294: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98295: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98296: reverse stress testing to be incorporated into existing processes.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98297: viability' and the points at which it is likely that national authorities would intervene and they would lose control of the outcome.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98298: DB called to revise Recital 5 of the Consultation Paper (EBA/CP/2013/09) to specify that reverse stress testing can inform recovery planning but that its use should not undermine the plausibility of stress scenarios or the testing of recovery measures for effectiveness. Santander argued that not all supervisors and entities understand the term 'reverse stress' in the same way, ad argued that the EBA should provide a definition of reverse stress testing as well as specific examples. Santander was of the view that reverse stress tests should be complementary to other scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98299: The guidelines suggest that institutions should consider using reverse stress testing as a starting point for developing scenarios, as the purpose of reverse stress testing is to identify and consider scenarios that would lead to an institution's or a group's business model becoming non-viable unless recovery actions were successfully implemented.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98300: Question 6.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98301: Respondents considered additional costs to be
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98302: See previous comments from Question 5.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98303: What are the additional
+of developing
+distress scenarios in
+to the current practices
+reverse stress testing?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98304: costs
+financial
+respect
+of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_98305: limited (Santander, UniCredit, one of the confidential responses). DB argued that it is more a matter of questionable incremental benefits than of additional costs, as reverse stress testing has the potential to undermine the credibility of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98307: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98309: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98312: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98313: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98314: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98315: recovery measures. Two of the respondents (AFME, one of the confidential responses) considered the costs to consist mainly of additional management time.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98316: BNPP, BBA and SBA had a negative view on reverse stress testing for recovery planning.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98317: APB and EBF argued that developing is a matter of a more complex nature than simply running economic/financial stress scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98318: Question 7.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98319: Some respondents considered the range of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98320: Respondents concerns addressed extensively
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98321: Do you believe that
+events that institutions
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98323: events or requirements to be sufficiently addressed overall (DB, BNPP, BBA, UniCredit,
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98324: by flexibility outlined in paragraphs 12 and 18 of the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98325: groups need to consider
+include where relevant
+the most suitable? If
+what other events should
+taken into account?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98327: are
+not,
+be
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98328: one of the confidential responses, AFME,
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98329: Nationwide, BBA), whilst others had some remarks (in part the same as those with a positive response). EBF argued that it is not beneficial to have more than 3-6 scenarios adjusted to the respective institution. However, it is relevant to distinguish between a systemic crisis and an idiosyncratic event for the institution, and evaluate the efficiency of the different recovery options against such diverse financial
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_98330: The guidelines allow flexibility in determining the number of scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98332: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98334: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98336: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98337: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98338: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98339: conditions. SBA, DB, AFME and Santander further advocated that scenarios be adjusted to the respective institutions, i.e. those that are most relevant to the institution. Santander was, however, also of the view that the principle of proportionality should always prevail. Accordingly, institutions should use an appropriate number of financial distress scenarios against which to test their recovery plans. Santander also argued that events such as the 'failure of a significant counterparty' and 'an adverse movement in the price of assets to which the institution or group is predominantly exposed' fall exclusively within the category of system-wide events and should not be considered as idiosyncratic events (Article 4(3)), as the failure of a significant counterparty will almost always occur during a period of widespread financial instability. Santander also welcomed greater conciseness concerning the impact of events on an entity's 'business model' and its 'reputation', as proposed under Article 3(2).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_98340: Paragraphs 12-18 of the guidelines already address such flexibility. The principle of proportionality is addressed and followed in paragraph 12 of the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98342: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98344: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98347: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98348: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98349: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98350: BBA also argued in favour of flexibility and stated that an excessive number of scenarios is likely to be detrimental to the overall benefit of the scenario analysis. However, BBA welcomed the inclusion of a potential failure of significant counterparties in the list of events for scenarios, as this would likely have a very important impact, in particular for smaller banks.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98351: Paragraphs 12-18 of the guidelines already address such flexibility.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98352: Question 8. Do you have any general
+specific comments on
+draft RTS?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98354: Respondents' views varied on this point. While some had nothing to add to the remarks given in other points (BNPP, UniCredit, EBF, APB), others had a ranging number of comments with different concerns (SBA, Euroclear, AFME, Santander, one of the confidential responses, BBA). SBA and BBA considered the draft RTS too detailed to fit individual institutions, advocating for the need for flexibility to allow institutions to adjust the requirement to fit with existing regulations. AFME echoed this view, stating that too much emphasis is put on scenario testing of recovery plans, whilst the focus should be on a general assessment of the adequacy of the recovery plan to enable the group to recover from a wide range of potential
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_98355: Respondents concerns addressed extensively by flexibility outlined in paragraphs 12 and 18 of the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98357: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98359: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98361: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98362: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98363: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98364: situations. This line was echoed in one of the confidential responses. AFME also asked for clarification on how to distinguish scenario testing from other stress testing (echoed in the confidential response) and to exclude 'payment and settlement operations' from the assessment requirements for a recovery scenario (an issue more appropriate to the resolution). Following their concern on lack of flexibility, BBA suggests amending Articles 4(2) and 4(3) of the draft RTS to read 'In designing scenarios on system-wide events (idiosyncratic events), [ ... ] one or more of the following [ ... ]'. Euroclear welcomed future guidance on how precisely to express impacts and the level of detail needed in the description of scenarios. DB's response was positive and general in nature, welcoming the draft RTS approach for setting minimum high-level requirements and avoiding a prescriptive approach. Santander had a number of remarks on this point. In summary, Santander encouraged
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_98365: These concerns are counterproductive to the general principle of allowing flexibility in developing the scenarios to be used to test the recovery plans. These matters have been addressed by the guidelines. More in-depth approaches would go
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98367: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98369: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98372: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98373: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98374: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98375: developing guidelines covering the
+coordination of the design and the content of scenarios and those envisaged in other documents to provide a minimum degree of harmonisation. Accordingly, Santander believes that the draft RTS remain largely open-ended regarding the baseline structure of scenarios.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98376: beyond the mandate tasked by the Level 1 text.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98377: Question 9.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98378: Most of the respondents considered the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98379: Are the definitions
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98381: definitions and terminology to be clear (BBA,
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98382: terminology used in the
+RTS clear?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98384: Euroclear, UniCredit), whilst others considered them to be clear subject to certain clarifications (SBA, EBF, DB, APB, BNPP, Santander, one of the confidential responses).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_98385: SBA, EBF and AFME highlighted the importance of aligning terms used in the European context with the global definitions, in particular with those of the FSB. Santander welcomed further guidance on the development of 'mixed scenarios' consisting of both system-wide and idiosyncratic events which would occur 'simultaneously and interactively'. AFME asked for clarification of the definitions of 'system-wide event' and 'financial distress'. The respondent was moreover of the view that each firm should be
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98387: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98389: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98392: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98393: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98394: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98395: able to determine the level of detail and type of information included in the impact assessments. DB was concerned at the lack of alignment with the EBA's January 2013 recommendation on recovery plans and the blurring of 'hard' triggers (changes in capital, liquidity) with the qualitative factors (early warning indicators. Some respondents (EBF, APB) asked for clarification of the definition of 'failure'
+(Article 3(1)(b)), suggesting 'below regulatory minimum capital'/'lack of liquidity'/'need to resort to emergency backstops'.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98396: To be addressed in the guidelines under 'failing
+or likely to fail'.
+The guidelines allows for flexibility to develop scenarios that are based on events that are most relevant to the institution or group. This flexibility should be sufficient to address these concerns. It is also worth bearing in mind that not all tests serve the exact same purpose.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98397: One of the confidential respondents expressed the need to clarify the relationship between the draft RTS tests and other stress tests.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98398: Question 10. Do you agree that, for
+institution, the costs
+developing financial
+scenarios to test a
+plan are likely to
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98399: an
+of
+distress
+recovery
+be
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98400: Respondents' views varied on this question. While some of them agreed with the analysis in general (DB, Santander, AFME), others were of the view that the costs of developing scenarios are not necessary proportional to the
+institution's size as all institutions need to carry
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_98401: No clear results can be drawn from the replies, as the range of replies (costs of developing financial distress scenarios to test a recovery plan) broadly covered the spectrum.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98403: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98405: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98408: of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98409: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98410: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98411: proportional
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98413: the out certain minimum work (one of the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_98414: size/complexity of the
+and so of the costs its
+may create? If not, could
+explain why?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98415: firm confidential responses) or that small-to-
+failure medium size groups may be particularly
+you impacted on a relative basis (APB, BBA, EBF).
+DB added that the costs of conducting the tests will vary according to the bank's size and complexity of its activities but the cost of developing scenarios should not, as the level of detail required to conduct a robust test should be consistent. Costs of developing new scenarios will be additional, but costs will be less for systemic scenarios than idiosyncratic ones. Furthermore, costs of developing scenarios escalate if multiple jurisdictions/legal entities are involved. Santander stated that the costs of developing financial distress scenarios are likely to be proportional to the complexity of the firm but not to its size. BNPP was of the view that scenarios should not be developed in such detail that these were to have significant additional costs, regardless of the size of the institution.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98417: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98419: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98421: Summary of responses received EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98422: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98423: UniCredit's approach was positive overall, commenting that compliance costs of testing recovery actions are offset by the additional degree of transparency and clarity the group is able to reach through the group recovery plan.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98424: Question 11.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98425: BBA, UniCredit, DB and one of the confidential
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98426: Do you agree with
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98428: responses agreed with the analysis. Two of the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98429: analysis of the impact of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98431: respondents had further remarks.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98432: proposals in
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98434: Consultation Paper? If
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98435: not, DB's agreement concerned only group-level
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98436: can you provide
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98438: plans. In their view, costs involved with banks
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98439: evidence or data that
+explain why you disagree
+might further inform
+analysis of the likely
+of the proposals?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98441: or
+our
+impacts
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98442: being required to replicate recovery plans for all individual institutions within the group are not estimated. DB is of the view that additional local plans will incur significant additional costs with little additional benefit. One of the confidential respondents added that
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_98443: increasing the number of specific scenarios is likely to bring excessive additional costs.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98445: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98446: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98447: Responses received in public consultations (public) for the draft RTS on specifying the range of scenarios to be used in recovery plans.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98448: 1. Association for Financial Markets in Europe (AFME)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98449: 2. BNP Paribas (BNPP)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98450: 3. British Bankers' Association (BBA)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98451: 4. Building Societies Association (BSA)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98452: 5. Deutsche Bank (DB)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98453: 6. Euroclear
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98454: 7. European Banking Federation (EBF)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98455: 8. European Federation of Building Societies (EFBS)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98456: 9. French Banking Federation (FBF)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98457: 10. Nationwide Building Society (Nationwide)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98458: 11. Portuguese Banking Association (APB)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98459: 12. Santander
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98460: 13. Swedish Bankers' Association (SBA)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98461: 14. UniCredit
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_98462: In addition, two confidential responses were submitted.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98464: RUNNING TITLE COMES HERE IN RUNNING TITLE STYLE
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98466: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98467: 5. Confirmation of compliance with guidelines and recommendations
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98469: Member/EEA State:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98470: Competent authority:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98471: Guidelines/recommendations:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98474: Telephone number:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98475: E-mail address:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98476: I am authorised to confirm compliance with the guidelines/recommendations on behalf of my competent authority: :unselected: Yes
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98477: The competent authority complies or intends to comply with the guidelines and recommendations: :unselected: Yes :unselected: No
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98478: :unselected: Partial compliance
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98479: My competent authority does not, and does not intend to, comply with the guidelines and recommendations for the following reasons5:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98480: Details of the partial compliance and reasoning:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98481: Please send this notification to compliance@eba.europa.eu6
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_98482: 5 In cases of partial compliance, please include the extent of compliance and of non-compliance and provide the reasons for non-compliance for the respective subject matter areas.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40] [REQ_TYPE:MANDATORY]
+PARAGRAPH_98483: 6 Please note that other methods of communication of this confirmation of compliance, such as communication to an e-mail address different to the one above, or by an e-mail not containing the required form, shall not be accepted as valid.
+

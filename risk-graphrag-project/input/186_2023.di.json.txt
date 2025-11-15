@@ -1,0 +1,434 @@
+METADATA: {"document_id": 94, "filename": "186_2023.di.json", "category": "NATIONAL_LAWS", "subcategory": "FINLAND", "jurisdiction": "FINNISH", "page_count": 9, "paragraph_count": 162}
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157017: SUOMEN SÄÄDOSKOKOELMA
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157018: Julkaistu Helsingissä 20 päivänä helmikuuta 2023
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157020: Laki eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157021: Eduskunnan päätöksen mukaisesti säädetään:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157022: 1 § Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157023: Tämä laki koskee elinkeinonharjoittajia, jotka myöntävät kuluttajansuojalain (38/1978) 7 tai 7 a luvun soveltamisalaan kuuluvia kuluttajaluottoja. Laki koskee myös elinkeinon- harjoittajia, jotka välittävät luottoja kuluttajille, jos luoton myöntää jokin muu kuin kulut- tajansuojalain 7 tai 7 a luvussa tarkoitettu luotonantaja (vertaislaina).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157024: Lisäksi laki koskee elinkeinonharjoittajia, jotka myöntävät luottoja asunto-osakeyhti- öille tai muille asuntoyhteisöille (asuntoyhteisöluotto).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157025: Tämä laki ei koske:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157026: 1) Finanssivalvonnasta annetun lain (878/2008) 4 §:n 2 momentin 1 kohdassa tarkoitet- tuja luottolaitoksia ja kolmannen maan luottolaitosten sivuliikkeitä;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157027: 2) luottolaitostoiminnasta annetun lain (610/2014) 1 luvun 7 §:n 3 momentissa tarkoi- tettuja ulkomaisia ETA-luottolaitoksia;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157028: 3) panttilainauslaitoksia;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157029: 4) elinkeinonharjoittajia, jotka myöntävät kuluttajaluottoja vain myymiensä kulutus- hyödykkeiden oston rahoittamiseksi;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157030: 5) valtiota, kuntaa eikä muuta julkisyhteisöä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157031: 2 § Säännösten soveltamisen rajoitukset eräissä tapauksissa
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157032: Lain 3-12 ja 23 § eivät koske elinkeinonharjoittajia, joita Finanssivalvonta valvoo Fi- nanssivalvonnasta annetun lain 4 §:n 2 momentin 2-6, 8, 8 a ja 9-16 kohdan tai 3-6 mo- mentin nojalla, eivätkä mainitun lain 5 §:n 23 kohdassa tarkoitettuja maksupalvelujen tar- joajia.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157033: 3 § Oikeus myöntää kuluttajaluottoja ja asuntoyhteisöluottoja ja välittää vertaislainoja
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157034: Elinkeinonharjoittaja saa myöntää kuluttajaluottoja tai asuntoyhteisöluottoja vain, jos se on rekisteröity tämän lain mukaisesti luotonantajaksi. Elinkeinonharjoittaja saa välittää vertaislainoja vain, jos se on rekisteröity tämän lain mukaisesti vertaislainanvälittäjäksi tai luotonantajaksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157035: HE 101/2022 TaVM 36/2022 EV 251/2022
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157038: 4 § Luotonantaja- ja vertaislainanvälittäjärekisteri ja rekisteri-ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157039: Luotonantajien ja vertaislainanvälittäjien valvomiseksi pidetään rekisteriä (luotonanta- ja- ja vertaislainanvälittäjärekisteri), jonka rekisterinpitäjä on Finanssivalvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157040: Sen, joka aikoo tarjota kuluttajaluottoja tai asuntoyhteisöluottoja taikka välittää vertais- lainoja, on tehtävä ilmoitus Finanssivalvonnalle rekisteriin merkitsemistä varten. Rekiste- ri-ilmoitukseen on sisällytettävä:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157041: 1) 8 §:n 1 momentin 1 ja 2 kohdassa tarkoitetut tiedot;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157042: 2) tieto siitä, hakeeko ilmoituksen tekijā rekisteröintiā luotonantajaksi vai vertaislai- nanvälittäjäksi ja, jos kyse on luotonantajaksi rekisteröitymisestä, aikooko tämä myöntää myös kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvia asunto-omaisuuteen liittyviä kuluttajaluottoja tai asuntoyhteisöluottoja taikka välittää vertaislainoja;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157043: 3) selvitys 7 §:n 1 momentissa tarkoitetuista henkilöistä, joiden luotettavuus tulee ar- vioitavaksi, jos ilmoituksen tekijä on oikeushenkilö;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157044: 4) selvitys ilmoituksen tekijän tai, jos ilmoituksen tekijä on oikeushenkilö, 7 §:n 2 mo- mentissa tarkoitettujen henkilöiden koulutuksesta ja työkokemuksesta;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157045: 5) tieto siitä, onko ilmoituksen tekijällä tarkoitus vastaanottaa asiakasvaroja, ja selvitys siitä, miten ilmoituksen tekijä aikoo huolehtia asiakasvarojen säilyttämisestä ja käsittele- misestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157046: Ilmoituksen tekijän on Finanssivalvonnan pyynnöstä toimitettava muutkin tiedot, jotka ovat tarpeen rekisteröinnin edellytysten täyttymisen arvioimiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157047: Finanssivalvonta voi antaa tarkempia määräyksiä tässä pykälässä säädetyn ilmoitusvel- vollisuuden täyttämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157048: 5 § Rekisteröinnin edellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157049: Finanssivalvonnan on rekisteröitävä ilmoituksen tekijä luotonantajaksi tai vertaislai- nanvälittäjäksi, jos:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157050: 1) ilmoituksen tekijällä on oikeus harjoittaa elinkeinoa Suomessa;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157051: 2) ilmoituksen tekijä ei ole konkurssissa ja, jos hän on luonnollinen henkilö, on täysi- ikäinen eikä hänen toimintakelpoisuuttaan ole rajoitettu;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157052: 3) ilmoituksen tekijä on luotettava;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157053: 4) ilmoituksen tekijällä on sellainen luottotoiminnan tuntemus kuin harjoitetun luotto- toiminnan tai vertaislainanvälityksen luonteeseen ja laajuuteen katsoen on tarpeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157054: Finanssivalvonta voi evätä rekisteröinnin, jos olosuhteet huomioon ottaen on ilmeistä, että ilmoituksen tekijä aikoo harjoittaa kuluttajaluottojen tai asuntoyhteisöluottojen tar- joamista taikka vertaislainanvälitystä toisen välikätenä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157055: 6 § Luotettavuus
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_157056: Ilmoituksen tekijää tai 7 §:n 1 momentissa tarkoitettua henkilöä ei pidetä 5 §:n 1 mo- mentin 3 kohdassa edellytetyllä tavalla luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton harjoittamaan kuluttajaluottojen tai asuntoyhteisöluottojen tarjoamista taikka vertaislainanvälitystä, omistamaan mainitun- laista toimintaa harjoittavaa yhteisöä tai toimimaan sen hallituksen jäsenenä tai varajäse- nenā, toimitusjohtajana tai toimitusjohtajan sijaisena taikka muussa ylimmässä johdossa,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157059: taikka jos hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen so- pimaton toimimaan mainitunlaisessa tehtävässä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157060: Finanssivalvonnalla on oikeus saada sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tiedot, jotka ovat tarpeen 1 momentissa tarkoitetun henkilön luotettavuuden selvittämiseksi. Finanssivalvonnan oikeudesta saada tietoja ri- kosrekisteristä säädetään rikosrekisterilaissa (770/1993).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157061: 7 § Oikeushenkilö ilmoituksen tekijänä
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157062: Jos ilmoituksen tekijä on oikeushenkilö, 5 §:n 1 momentin 3 kohdassa säädetty vaati- mus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja va- rajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä, muuta ylimpään johtoon kuuluvaa ja sitä, jolla on suoraan tai välillisesti vähintään kymmenesosa osakeyhtiön osakkeista tai osakkeiden tuottamasta ää- nivallasta tai vastaava omistus tai määräämisvalta, jos kyse on muu yhteisö kuin osakeyh- tiö.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157063: Jos ilmoituksen tekijä on oikeushenkilö, 5 §:n 1 momentin 4 kohdassa säädetty vaati- mus luottotoiminnan tuntemuksesta koskee ylintä johtoa. Jos ilmoituksen tekijä harjoittaa myös muuta liiketoimintaa kuin kuluttajaluottojen tai asuntoyhteisöluottojen tarjoamista taikka vertaislainanvälitystä, vaatimus koskee kuitenkin niitä henkilöitä, jotka tosiasialli- sesti vastaavat luottotoiminnasta tai vertaislainanvälityksestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157064: 8 § Rekisteriin merkittävät tiedot ja muutoksista ilmoittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157065: Luotonantaja- ja vertaislainanvälittäjärekisteriin merkitään:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157066: 1) yksityisen elinkeinonharjoittajan täydellinen nimi ja henkilötunnus tai tämän puuttu- essa syntymäaika sekä toiminimi, mahdollinen aputoiminimi, yritys ja yhteisötunnus tai muu vastaava tunniste ja niiden toimipaikkojen käyntiosoite, joissa luottotoimintaa tai vertaislainanvälitystä harjoitetaan;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157067: 2) oikeushenkilön toiminimi, mahdollinen aputoiminimi, yritys ja yhteisötunnus tai muu vastaava tunniste ja niiden toimipaikkojen käyntiosoite, joissa luottotoimintaa tai vertaislainanvälitystä harjoitetaan;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157068: 3) se, onko elinkeinonharjoittaja luotonantaja vai vertaislainanvälittäjä ja, jos kyse on luotonantajasta, mahdollinen tieto siitä, että tämä myöntää myös kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvia asunto-omaisuuteen liittyviä kuluttajaluottoja tai asunto- yhteisöluottoja taikka välittää vertaislainoja;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157069: 4) niiden henkilöiden täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymä- aika, joiden luotettavuus on rekisteröinti-ilmoitusta käsiteltäessä selvitetty;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157070: 5) niiden henkilöiden täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymä- aika, joiden luottotoiminnan tuntemus on rekisteröinti-ilmoitusta käsiteltäessä selvitetty;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157071: 6) tieto siitä, onko luotonantajalla tai vertaislainanvälittäjällä oikeus ottaa vastaan asia- kasvaroja;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157072: 7) rekisteröinnin päivämäärä;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157073: 8) luotonantajalle tai vertaislainanvälittäjälle Finanssivalvonnasta annetun lain nojalla määrätyt hallinnolliset seuraamukset sekä sellaiset kehotukset ja kiellot, joiden tehosteek- si on asetettu uhkasakko;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157074: 9) rekisteristä poistamisen syy ja ajankohta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_157075: Rekisteriin merkitään myös tiedot niistä, joille on määrätty 22 §:ssä tarkoitettu kielto harjoittaa kuluttajaluottojen tai asuntoyhteisöluottojen tarjoamista taikka vertaislainanvä- litystä. Tällainen tieto sekä tieto 1 momentin 8 kohdassa tarkoitetuista seuraamuksista, ke-
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157078: hotuksista ja kielloista on poistettava rekisteristä viiden vuoden kuluttua sen vuoden päät- tymisestä, jona seuraamus tai kielto on määrätty. Tietoa rikosoikeudellisesta seuraamuk- sesta ei merkitä rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157079: Luotonantajan ja vertaislainanvälittäjän on viipymättä ilmoitettava Finanssivalvonnalle rekisteriin merkittyjen tietojen muutoksista. Lisäksi luotonantajan ja vertaislainanvälittä- jän on ilmoitettava Finanssivalvonnalle toimintansa lopettamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157080: 9 § Tietojen luovuttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157081: Finanssivalvonnan oikeudesta luovuttaa salassapitosäännösten estämättä tietoja sääde- tään Finanssivalvonnasta annetun lain 71 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157082: Sen estämättä, mitä Finanssivalvonnasta annetun lain 71 §:ssä ja viranomaisten toimin- nan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, rekisteristä saa luovuttaa henkilötietoja tulosteena taikka saattaa ne yleisesti saataville sähköisen tietover- kon kautta tai luovuttaa ne muutoin sähköisessä muodossa. Henkilötietoja voidaan hakea sähköisen tietoverkon kautta vain yksittäisinä hakuina. Tieto henkilötunnuksesta saadaan kuitenkin luovuttaa tämän lain nojalla vain, jos tieto annetaan tulosteena tai teknisenä tal- lenteena ja jos luovutuksensaajalla on oikeus henkilötunnuksen käsittelyyn tietosuojalain (1050/2018) 29 §:n tai muun lain nojalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157083: 10 § Luotonantajan ja vertaislainanvälittäjän johdon velvoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157084: Luotonantajan ja vertaislainanvälittäjän tai, jos luotonantaja tai vertaislainanvälittäjä on oikeushenkilö, sen ylimmän johdon on huolehdittava siitä, että toiminnassa noudatetaan hyvää luotonantotapaa ja että toimintaa muutoinkin harjoitetaan lainmukaisesti. Näiden on lisäksi huolehdittava siitä, että toimintaan osallistuvilla henkilöillä on tehtävässä tarvit- tava riittävä ammattitaito.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157085: Jos luotonantaja myöntää kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvia ku- luttajaluottoja, niillä luotonantajan palveluksessa olevilla ja muutoin luotonantajan lukuun toimivilla henkilöillä, jotka osallistuvat luottojen myöntämiseen, on oltava luottotoimin- taa koskeva riittävä tietämys ja pätevyys kuluttajille tarkoitetuista kiinteää asunto-omai- suutta koskevista luottosopimuksista ja direktiivien 2008/48/EY ja 2013/36/EU sekä ase- tuksen (EU) N:o 1093/2010 muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2014/17/EU III liitteessä säädetyllä tavalla. Lisäksi henkilöillä, joiden välittö- män johdon ja valvonnan alaisina edellä tarkoitetut henkilöt toimivat, on oltava vastaava asiantuntemus. Vaadittavasta asiantuntemuksesta säädetään tarkemmin valtioneuvoston asetuksella.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157086: Lisäksi kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvia kuluttajaluottoja myön- tävän luotonantajan tai, jos luotonantaja on oikeushenkilö, sen ylimmän johdon on var- mistettava, että kuluttajansuojalain 7 a luvun 3 §:n 1 momentin 1 kohdassa tarkoitetun asunto-omaisuuden arvioitsijalla on arviointitehtävään tarvittava riittävä ammattitaito.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157087: 11 § Oikeus asiakasvarojen vastaanottamiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_157088: Finanssivalvonnan on myönnettävä ilmoituksen tekijälle oikeus vastaanottaa asiakas- varoja, jos ilmoituksen tekijä on toimittanut Finanssivalvonnalle selvityksen asiakasvaro- jen säilyttämisestä ja käsittelystä 12 §:n 1 momentissa edellytetyllä tavalla eikä ilmoituk- sen tekijää ole pidettävä ilmeisen sopimattomana vastaanottamaan asiakasvaroja.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157091: Sopimattomuutta arvioitaessa Finanssivalvonnan tulee ottaa huomioon ilmoituksen te- kijän taloudellinen asema ja se, onko tämä hoitanut veroihin, lakisääteisiin eläke-, tapatur- ma- tai työttömyysvakuutusmaksuihin tai Tullin perimiin maksuihin liittyvät velvoitteen- sa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157092: Jos ilmoituksen tekijä on oikeushenkilö, sopimattomuuden arviointi tulee tehdä oikeus- henkilön lisäksi toimitusjohtajasta, hänen sijaisestaan, hallituksen jäsenestä ja varajäse- nestä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsenestä ja varajäsenestä, vastuunalaisesta yhtiömiehestä, muusta ylimpään johtoon kuuluvasta ja siitä, jolla on suo- raan tai välillisesti vähintään kymmenesosa osakeyhtiön osakkeista tai osakkeiden tuotta- masta äänivallasta tai vastaava omistus tai määräämisvalta, jos kyseessä on muu yhteisö kuin osakeyhtiö.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157093: Edellä 2 momentissa mainitut seikat tulee selvittää myös ilmoituksen tekijään ja, jos tämä on oikeushenkilö, 3 momentissa mainittuihin henkilöihin välittömästi kytkeytyvistä yritys- ja yhteisötietolain (244/2001) 3 §:ssä tarkoitetuista rekisteröitävistä yrityksistä tai yhteisöistä ilmoituksen tekemistä edeltäneiltä kolmelta vuodelta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157094: 12 § Asiakasvarojen säilytys ja käsittely
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157095: Luotonantajan ja vertaislainanvälittäjän on järjestettävä hallintaansa luovutettujen asi- akkaiden varojen säilytys ja käsittely luotettavalla tavalla. Luotonantajan ja vertaislainan- välittäjän on erityisesti huolehdittava siitä, että:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157096: 1) asiakasvarat pidetään erillään sen omista varoista;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157097: 2) asiakasvaroista pidetään kirjaa siten, että kunkin asiakkaan asiakasvarat ovat eritel- tyinä muiden asiakkaiden varoista;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157098: 3) asiakasvarat talletetaan Suomessa tai muussa ETA-valtiossa toimiluvan saaneessa talletuspankissa olevalle pankkitilille.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157099: Luotonantajan ja vertaislainanvälittäjän asiakkaalla on oikeus vaatia korvausta hänelle aiheutuneesta vahingosta myös luotonantajana tai vertaislainanvälittäjänä toimivan yhtei- sön toimitusjohtajalta, hallituksen tai siihen rinnastettavan toimielimen jäseneltä ja vas- tuunalaiselta yhtiömieheltä, jos vahinko on johtunut siitä, että tämä on tahallaan tai huoli- mattomuudesta laiminlyönyt huolehtia siitä, että asiakasvarojen säilytys ja käsittely järjes- tetään 1 momentissa tarkoitetulla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157100: Vahingonkorvauksen sovitteluun sekä korvausvastuun jakautumiseen kahden tai useamman korvausvelvollisen kesken sovelletaan, mitä vahingonkorvauslain (412/1974) 2 ja 6 luvussa säädetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157101: 13 § Maksukyvyttömyysriskien hallinta kuluttajaluotonannossa
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157102: Luotonantajan kuluttajaluotonannon on perustuttava terveisiin, etukäteen kirjallisesti määriteltyihin perusteisiin, jotka eivät ilmeisesti vaaranna kuluttajien maksukykyä. Luo- tonantajan luotonannossaan soveltama liiketoimintamalli ei saa kokonaisuutena arvioiden johtaa luottojen myöntämiseen sellaisille kuluttajille, joiden maksukyvyttömyysriski on kohtuuttoman korkea. Luotonantajan on säilytettävä luoton myöntämisessä noudatettavat perusteet vähintään kymmenen vuoden ajan sen kalenterivuoden päättymisestä, jona niitä viimeksi sovellettiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157103: Luotonantajalla on oltava riskiluokitusjärjestelmä, jolla se voi seurata ja arvioida mak- sukyvyttömyysriskejä luotettavasti kuluttajaluotonannossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_157104: Luotonantajan on toimitettava Finanssivalvonnalle valvonnan kannalta tarpeelliset tie- dot myöntämiinsä luottoihin kohdistuvista maksuviivästyksistä, järjestämättömistä saami- sista, toteutuneista luottotappioista ja luotonmyöntöhetkellä käyttämistään riskiluokituk-
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157107: sista, ellei Finanssivalvonta muun lainsäädännön nojalla saa vastaavia tietoja valvonnan kannalta tarpeellisessa laajuudessa. Tiedot on toimitettava säännöllisesti, kuitenkin vähin- tään vuosittain, sekä Finanssivalvonnan erillisestä vaatimuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157108: Finanssivalvonta voi antaa tarkempia määräyksiä:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157109: 1) 1 momentissa tarkoitetun maksukyvyttömyysriskin arvioinnin kannalta tarpeellisis- ta raja-arvoista ja jakaumista;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157110: 2) 2 momentissa tarkoitetuissa riskiluokitusjärjestelmissä käytettävistä tiedoista ja toi- mintamalleista;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157111: 3) 3 momentin mukaisesti Finanssivalvonnalle toimitettavien tietojen tietosisällöstä, tietojen toimittamistavasta, tietojen toimittamisajankohdasta ja raportointitiheydestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157112: 14 § Enimmäisluototussuhde
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157113: Luotonantaja saa myöntää kuluttajaluottoa, jonka vakuudeksi annetaan asuinhuoneis- ton hallintaan oikeuttavat yhteisöosuudet, asuinkiinteistö tai kiinteistöä koskeva käyttöoi- keus rakennuksineen, enintään tämän pykälän mukaisen luototussuhteen mukaisen mää- rän, jos luotolla on tarkoitus:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157114: 1) hankkia asuinhuoneiston hallintaan oikeuttavat yhteisöosuudet, asuinkiinteistö tai sellainen asuinrakennus, joka sijaitsee kiinteistöä koskevan käyttöoikeuden nojalla halli- tulla alueella; tai
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157115: 2) tehdä asuinhuoneiston, asuinkiinteistön tai asuinrakennuksen peruskorjaus.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157116: Edellä 1 momentissa tarkoitetun luoton määrä saa olla enintään 90 prosenttia vakuuk- sien käyvästä arvosta luottoa myönnettäessä. Ensiasunnon hankintaa varten otetun luoton määrä saa olla kuitenkin 95 prosenttia vakuuksien käyvästä arvosta luottoa myönnettäes- sä. Tässä momentissa tarkoitettuna vakuutena ei pidetä henkilötakausta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157117: Finanssivalvonta voi rahoitusvakauteen kohdistuvien riskien poikkeuksellisen kasvun rajoittamiseksi päättää alentaa 2 momentissa säädettyjä luoton enimmäismääriä enintään 10 prosenttiyksiköllä. Finanssivalvonta voi myös rajoittaa muiden vakuuksien kuin esine- vakuuksien huomioon ottamista luototussuhdetta laskettaessa, jos se on tarpeen tässä mo- mentissa tarkoitettujen riskien hallitsemiseksi. Finanssivalvonnan on vähintään vuosittain tehtävä päätös tämän momentin nojalla tehdyn päätöksen muuttamisesta tai voimassaolon jatkamisesta. Finanssivalvonnan on internetsivustollaan julkistettava periaatteet, joita se noudattaa tämän momentin soveltamisedellytysten arvioinnissa. Päätöksen valmisteluun sovelletaan, mitä luottolaitostoiminnasta annetun lain 10 luvun 4 §:ssä säädetään muuttu- vaa lisäpääomavaatimusta koskevan päätöksen valmistelusta lukuun ottamatta mainitun pykälän 2 momentissa säädettyä määräaikaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157118: Päätös, jolla tässä pykälässä tarkoitettua luoton enimmäismäärää alennetaan, tulee voi- maan kolmen kuukauden kuluttua päätöksen tekemisestä tai sitä myöhemmästä Finanssi- valvonnan päättämästä ajankohdasta lukien.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157119: Finanssivalvonta voi antaa määräyksiä tässä pykälässä tarkoitettujen vakuuksien ja nii- den käyvän arvon tarkemmasta määrittelystä sekä niistä erityisistä tilanteista, joissa luo- tonantaja tai vertaislainanvälittäjä voi poiketa 2 momentissa säädetyistā rajoituksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157120: 15 § Asuntoyhteisöluottoja koskevat rajoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157121: Luotonantaja saa myöntää asunto-osakeyhtiölle luottoa asuntokauppalain (843/1994) 1 luvun 5 §:ssä tarkoitetussa rakentamisvaiheessa enintään määrän, joka vastaa 60 pro- senttia myytäväksi tarjottavien asunto-osakkeiden velattomasta hinnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_157122: Edellä 1 momentissa tarkoitettua luottoa koskeva sopimus ei saa sisältää ehtoja, joiden mukaan velan pääomaa ei lyhennetä säännöllisesti viiden ensimmäisen vuoden aikana sii-
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157125: tä, kun rakentamisvaihe on päättynyt asuntokauppalain 1 luvun 5 §:n 2 momentissa tar- koitetulla tavalla. Luottosopimuksessa saadaan kuitenkin sopia:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157126: 1) lyhennysvapaasta tai velan pääoman säännöllistä lyhennystä pienemmistä mak- sueristä rakentamisvaiheen päättymisestä lukien enintään 12 kalenterikuukauden ajan;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157127: 2) tilapäisistä maksujärjestelyistä, jotka ovat välttämättömiä asunto-osakeyhtiön mak- suvalmiuden turvaamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157128: Lisäksi 1 momentissa tarkoitetun luoton takaisinmaksuaika saa olla enintään 30 vuotta luoton nostamispäivästä tai, jos luotto nostetaan erissä, viimeisestä erästä, kuitenkin vii- meistään rakentamisvaiheen päättymisestä lukien. Luotonantaja saa kuitenkin 10 prosen- tin osuudessa asuntoyhteisöluottojen luotonannon kokonaismäärästä kullakin vuosinel- jännesjaksolla poiketa enimmäistakaisinmaksuajasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157129: Mitä tässä pykälässä säädetään asunto-osakeyhtiöstä ja asunto-osakkeesta, koskee myös muuta asuntoyhteisöä ja asuinhuoneiston hallintaan oikeuttavaa yhteisöosuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157130: 16 § Luotonantoon ja vertaislainanvälitykseen liittyvien asiakirjojen ja tietojen säilytys
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157131: Ellei muualla laissa säädetä pidemmästä säilytysajasta, luotonantajan ja vertaislainan- välittäjän on säilytettävä luotonantoon ja vertaislainanvälitykseen liittyvät asiakirjat ja tie- dot viiden vuoden ajan siitä, kun luotto on kokonaisuudessaan erääntynyt maksettavaksi. Luottoa tai vertaislainanvälitystä koskevan erimielisyyden synnyttyä asiakirjat ja tiedot on kuitenkin säilytettävä siihen saakka, kunnes asia on sovittu tai ratkaistu.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157132: 17 § Vaitiolovelvollisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157133: Joka kuluttajaluottojen tai asuntoyhteisöluottojen myöntämistä taikka vertaislainanvä- litystä harjoittaessaan on saanut tietää kuluttajan tai jonkun muun taloudellista asemaa tai henkilökohtaisia oloja koskevan seikan tai liike- tai ammattisalaisuuden, ei saa ilmaista tätä sivulliselle, jollei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumus- taan tietojen ilmaisemiseen tai jollei laissa toisin säädetä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157134: 18 § Valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157135: Tämän lain noudattamista valvoo Finanssivalvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157136: 19 § Valvontavaltuudet Finanssivalvonnan valvontavaltuuksista säädetään Finanssivalvonnasta annetun lain 3 luvussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157137: 20 § Hallinnollisten seuraamusten määrääminen ja täytäntöönpano
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_157138: Hallinnollisten seuraamusten määräämisestä, julkistamisesta ja täytäntöönpanosta sää- detään Finanssivalvonnasta annetun lain 4 luvussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157141: 21 § Seuraamusmaksu
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157142: Finanssivalvonnasta annetun lain 40 §:n 1 momentissa tarkoitettuja säännöksiä ja pää- töksiä, joiden laiminlyönnistä ja rikkomisesta määrätään seuraamusmaksu, ovat tämän lain:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157143: 1) 10 §:n 1 momentin säännökset johdon velvoitteista;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157144: 2) 12 §:n säännökset asiakasvarojen säilytyksestä ja käsittelystä;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157145: 3) 13 §:n säännökset maksukyvyttömyysriskien hallinnasta;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157146: 4) 14 §:n säännökset enimmäisluototussuhteesta;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157147: 5) 15 §:n säännökset asuntoyhteisöluottoja koskevista rajoitteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157148: 22 § Erityinen kielto-oikeus
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157149: Finanssivalvonnan on kiellettävä kuluttajaluottojen tarjoaminen ja vertaislainanvälitys, jota harjoitetaan tämän lain vastaisesti ilman rekisteröintiä. Finanssivalvonnan on myös kiellettävä asiakasvarojen vastaanottaminen, jos asiakasvaroja vastaanotetaan ilman 11 §:n mukaisesti myönnettyä oikeutta tai jos luotonantaja tai vertaislainanvälittäjä on olosuhteissa tapahtuneen muutoksen johdosta tullut ilmeisen sopimattomaksi vastaanotta- maan asiakasvaroja. Kielto voidaan, jos siihen on erityistä syytä, kohdistaa myös tällaista toimintaa harjoittavan palveluksessa olevaan henkilöön tai muuhun, joka toimii hänen lu- kuunsa.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157150: Finanssivalvonta voi asettaa tässä pykälässä tarkoitetun kiellon tehosteeksi uhkasakon. Edellä 1 momentissa tarkoitettua kieltoa on tehostettava uhkasakolla, ellei se erityisestä syystä ole tarpeetonta tai Finanssivalvonta katso, että tulisi saattaa arvioitavaksi, täyttääkö menettely 23 §:n 1 tai 2 momentissa säädetyn rikoksen tunnusmerkistön. Uhkasakosta säädetään uhkasakkolaissa (1113/1990).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157151: 23 § Rangaistussäännökset
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157152: Joka tahallaan ilman rekisteröintiä harjoittaa kuluttajaluottojen tai asuntoyhteisöluotto- jen tarjoamista, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistus- ta, luotonantajarikoksesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157153: Joka tahallaan ilman rekisteröintiä harjoittaa vertaislainanvälitystä, on tuomittava, joll- ei teosta muualla laissa säädetä ankarampaa rangaistusta, vertaislainanvälittäjärikoksesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157154: Rangaistus 17 §:ssä säädetyn vaitiolovelvollisuuden rikkomisesta tuomitaan rikoslain (39/1889) 38 luvun 1 ja 2 §:n mukaan, jollei teosta muualla laissa säädetä ankarampaa ran- gaistusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157155: Sitä, joka rikkoo 22 §:n tai Finanssivalvonnasta annetun lain nojalla määrättyä uhkasa- kolla tehostettua kieltoa, ei voida tuomita rangaistukseen samasta teosta, jos uhkasakko on lainvoimaisella päätöksellä tuomittu maksettavaksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157156: 24 § Muutoksenhaku
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157157: Finanssivalvonnan päätökseen saa hakea muutosta valittamalla Helsingin hallinto-oi- keuteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_157158: Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan, mitä oikeudenkäyn- nistä hallintoasioissa annetussa laissa (808/2019) säädetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157161: Finanssivalvonnan päätöstä on valituksesta huolimatta noudatettava, jollei muutoksen- hakuviranomainen toisin päätä tai asiasta muualla laissa toisin säädetä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157162: 25 § Voimaantulo
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157163: Tämä laki tulee voimaan 1 päivänä heinäkuuta 2023.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157164: Tällä lailla kumotaan eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annettu laki (853/2016), jäljempänä kumottu laki.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157165: Jos muualla lainsäädännössä viitataan kumottuun lakiin, sen sijasta sovelletaan tätä la- kia.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157166: 26 § Siirtymäsäännökset
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157167: Sellaista elinkeinonharjoittajaa, joka on tämän lain voimaan tullessa ollut merkittynä kumotun lain mukaiseen luotonantaja- ja vertaislainanvälittäjärekisteriin, koskevat tiedot siirretään tämän lain mukaiseen rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157168: Jos luotonantaja myöntää 1 §:n 2 momentin mukaisia asuntoyhteisöluottoja, tulee sen ilmoittaa tästä Finanssivalvonnalle kuuden kuukauden kuluessa tämän lain voimaantulos- ta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157169: Se, joka tämän lain voimaan tullessa harjoittaa sellaista asuntoyhteisöluottojen tarjoa- mista, joka tämän lain mukaan edellyttää rekisteröintiä, saa jatkaa toimintaansa, kunnes päätös rekisteriin merkitsemisestä on tehty, jos 4 §:n 2 momentissa tarkoitettu rekisteri- ilmoitus tehdään kuuden kuukauden kuluessa lain voimaantulosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157170: Päätökset, jotka Etelä-Suomen aluehallintovirasto on antanut ennen tämän lain voi- maantuloa, ovat tämän lain voimaantulon jälkeen voimassa niin kuin Finanssivalvonta oli- si ne antanut.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157171: Tämän lain voimaan tullessa Etelä-Suomen aluehallintovirastossa vireillä olevaan asiaan sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157172: Tekoon ja laiminlyöntiin, joka on tehty ennen tämän lain voimaantuloa, sovelletaan tä- män lain voimaan tullessa voimassa olleita säännöksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157173: Helsingissä 16.2.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157174: Tasavallan Presidentti Sauli Niinistö
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157175: Valtiovarainministeri Annika Saarikko
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157176: JULKAISIJA: OIKEUSMINISTERIO
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_157177: ISSN 1455-8904
+

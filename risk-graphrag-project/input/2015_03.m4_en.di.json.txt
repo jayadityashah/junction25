@@ -1,0 +1,758 @@
+METADATA: {"document_id": 4, "filename": "2015_03.m4_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 15, "paragraph_count": 355}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25176: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25179: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25180: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25181: FS FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25183: N N FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25184: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25185: Calculation of maximum loan-to-value ratio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25186: Journal Number FIVA/2023/838
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25187: Issued 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25188: Valid from 1.7.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25189: Further information from Banking Supervision/Banking Risk Areas
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25190: FINANCIAL SUPERVISORY AUTHORITY tel. +358 9 183 51 firstname.surname@fiva.fi fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25191: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25192: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25194: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25195: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25196: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25198: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25201: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25202: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25203: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25204: FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do so.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25205: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25206: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25207: Also recommendations and other operating guidelines that are not binding are presented under this heading, as are FIN-FSA's recommendations on compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25208: The formulation of the guideline shows when it constitutes an interpretation and when it constitutes a recommendation or other operating guideline. A more detailed description of the formulation of guidelines and the legal nature of regulations and guidelines is provided on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25209: fin-fsa.fi > Regulation > Legal framework of FIN-FSA regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25210: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25211: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25213: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25214: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25215: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25218: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25220: 1.1 Scope of application 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25221: 1.2 Definitions 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25222: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25224: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25226: 2.2 FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25228: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25230: 4 Calculation of loan-to-value ratio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25232: 4.1 Appraisal of collateral (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25234: 4.2 Definition of collateral and calculation of loan-to-value ratio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25236: 4.3 Calculation formula 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25237: 4.4 Special situations where a supervised entity may deviate from the limitations 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25238: 5 Revision history 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25239: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25242: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25243: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25245: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25247: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25248: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25249: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25250: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25254: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25257: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25258: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25259: These regulations and guidelines are applicable to the following supervised entities and foreign supervised entities as referred to in the Act on the Financial Supervisory Authority
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25260: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25261: · Finnish branches of foreign credit institutions authorised in the EEA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25262: · branches of foreign credit institutions authorised in non-EEA countries (branch offices of a third-country credit institution).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25263: · foreign credit institutions authorised in the EEA providing services in Finland without establishment of a branch.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25264: These regulations and guidelines also apply to traders referred to in section 5, subsection 40 of the Act on the Financial Supervisory Authority, which are obliged under section 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries (183/2023) to enroll in the register of credit providers and crowdfunding intermediaries maintained by the FIN-FSA. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25265: 1.2 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25266: (1) Supervised entity refers to all supervised entities, foreign supervised entities and traders that fall within the scope of chapter 1.1 of these regulations and guidelines and that are referred to in the Act on the Financial Supervisory Authority. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25267: (2) Loan-to-value ratio (also LTV ratio) refers to, pursuant to chapter 15, section 11 of the Credit Institutions Act and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the loan amount granted in relation to the current value of the collateral security lodged as security for the loan at the time of granting of the loan. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25268: (3) Loan refers to a consumer credit1 under chapter 15, section 11, subsection 1 of the Credit Institutions Act and section 14, subsection 1 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, which is secured by shares in a housing corporation, residential property or right-to-use property, where the loan is intended for:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25269: 1) the purchase of shares in a corporation carrying entitlement to control an apartment, a residential property or residential building located in a plot subject to the right to use such property; or
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25270: 2) carrying out the renovation of a residential apartment, residential property or residential building. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25271: (4) Primary housing pledge refers, for example, to an apartment or detached house under construction.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25272: 1 1HE 77/2016, https://www.edilex.fi/he/20160077#OT157 (in Finnish)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25273: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25274: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25275: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25276: 25.11.2015 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25279: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25280: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25283: (5) Third-party pledge refers to collateral owned by another person.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25284: (6) Institutional as-for-own-debt guarantee is an as-for-own-debt guarantee or credit insurance granted by a sovereign state, insurance company or another credit institution, the use of which does not necessitate liquidation of collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25285: (7) Deficiency guarantee refers to a guarantee or credit insurance granted by a sovereign state, insurance company or another credit institution, under which the guarantor is liable for the primary debt only to the extent that payment cannot be extracted from the property pledged as collateral for the primary debt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25286: (8) Deficiency collateral refers to a real collateral which may only be converted to cash after the realisation of the primary collateral. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25287: (9) Housing corporation refers to a limited liability housing company as referred to in chapter 1, section 2 of the Limited Liability Housing Companies Act (1599/2009).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25288: (10) Current value is the likely sale price of an asset, ie market value. The current value typically applied by a credit institution for an apartment is its actual transaction price. In the context of the calculation of loan-to-value ratio, current value does not mean the debt-free price (which is the transaction price plus the proportion of the debt of the housing corporation allocated to the purchased shares), because the LTV calculation formula contains a variable separately for the debt of the housing corporation allocated to a share.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25289: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25290: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25291: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25292: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25293: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25296: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25297: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25300: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25301: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25303: The following legal provisions relate to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25304: · Act on Credit Institutions (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25305: · Consumer Protection Act (38/1978)2 (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25306: · Act on the Registration of Certain Credit Providers and Credit Intermediaries. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25307: 2.2 FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25309: FIN-FSA's authority to issue binding regulations on the matters covered by these regulations and guidelines is based on chapter 15, section 11, subsection 5 of the Act on Credit Institutions, chapter 9, section 24 of the Act on Credit Institutions and section 14, subsection 5 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25310: 2 HE 77/2016: Hallituksen esitys eduskunnalle laeiksi kuluttajansuojalain muuttamisesta, asunto-omaisuuteen liittyvien kuluttajaluottojen välittājistā ja eraiden luotonantajien ja luotonvalittajien rekisteröinnista seka eräiksi niihin liittyviksi laeiksi (Government Bill 77/2016 to the Parliament on amendment of the Consumer Protection Act, intermediaries of consumer credit related to residential property, the registration of certain lenders and credit intermediaries and on certain related acts).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25311: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25312: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25313: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25314: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25315: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25318: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25321: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25322: (1) The LTV ratio is a macroprudential tool, which can be used to contain excessive household indebtedness and prevent a spiral of credit expansion and inflation of market prices of assets used as collateral. This macroprudential tool is particularly appropriate for containing any overheating of the housing markets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25323: (2) Other objectives of the regulation are
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25324: · to promote advance saving for a home; and
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25325: · to prevent situations where the debt of a housing loan customer exceeds the value of the collateral in the event of a potential decrease of house prices (negative equity).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25326: (3) The objective of these regulations and guidelines is to describe the calculation of the loan-to- value ratio as referred to in chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries in Finland, and thereby harmonise the concept of LTV in the market of housing loans for personal customers. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25327: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25328: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25329: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25330: 25.11.2015 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25332: 4 Calculation of loan-to-value ratio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25333: 4.1 Appraisal of collateral (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:CREDIT_RISK]
+PARAGRAPH_25335: In accordance with chapter 15, section 11, subsection 5 of the Act on Credit Institutions and section 14, subsection 5 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the Financial Supervisory Authority may issue provisions on a more specific definition of the collateral securities as referred to in the said section and their current value. In accordance with chapter 9, section 24 of the Act on Credit Institutions, the Financial Supervisory Authority may issue provisions on credit and counterparty risk referred to in section 10. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25336: Regulation, paragraph (2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25337: (2) Supervised entities must ensure that they use reliable methods in the appraisal of the current value of eligible collateral, which take internationally acknowledged appraisal standards into account, and that the appraiser is qualified and independent enough of the credit process.3 (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25338: Regulation, paragraph (3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25339: (3) The current value of the collateral shall be appraised at the time of granting the loan referred to in chapter 15, section 11, subsection 1 of the Act on Credit Institutions and section 14, subsection 1 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries. If the loan is granted for financing an object being built or renovated, the value of the collateral equals its estimated current value after the construction has been completed. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25340: Regulation, paragraph (4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25341: (4) If shares carrying entitlement to a residential apartment, or other collateral referred to in chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, which are pledged as collateral for a loan being applied for, have been pledged as collateral both for the loan being applied for and to a third party, or correspondingly for the loan applicant's other commitments, the supervised entity may, in applying the calculation formula provided in chapter 4.3, also take into account other collateral pledged as collateral for commitments of a third party, subject to the following conditions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25342: . Any collateral pledged as collateral for a third person's commitments other than those referred to in chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries are depleted first.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25343: . If the collateral pledged as collateral for a third person's commitments other than those referred to in chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:CREDIT_RISK]
+PARAGRAPH_25344: 3Chapter 15, section 12 a of the Act on Credit Institutions, FIN-FSA Standard 4.4a on the management of credit risk, 5.4.2 collateral management, paragraphs (26)-(29), Article 208 of the CRR, Article 19 (1) and (2) of Mortgage Credit Directive 2014/17/EU, chapter 7a, section 13 of Consumer Protection Act (38/1978), Decree of the Council of State 1031/2016 on the professional requirements for lenders and credit intermediaries in consumer loans related to housing property.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25345: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25349: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25352: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25354: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25355: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25356: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25358: on the Registration of Certain Credit Providers and Credit Intermediaries are insufficient to fully cover the commitments, any remaining uncovered part of the commitments shall be counted as a reduction of the value of the collateral referred to in chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25359: . If the collateral appraised includes other than ordinary residential properties, such as commercial properties, production spaces etc or other objects that are difficult to appraise, the supervised entity shall ensure that the appraiser has sufficient expertise and that the appraisal is conducted with particular care.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25360: (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25361: Regulation, paragraphs (5)-(6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25362: (5) The value of deficiency collateral is calculated according to the situation at the time of loan approval, to represent the fair value of the underlying object posted as deficiency collateral, less any loan and pledge explosures weighing on the underlying. If the underlying object pledged as deficiency collateral for the loan also serves as deficiency collateral for another loan, the sum total of deficiency collateral must not exceed the fair value of the underlying object posted as deficiency collateral. Calculation of the imputed value of the collateral shall be made in accordance with the provisions of paragraph (7). (Issued on 18.8.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25363: (6) If the collateral is also extended as deficiency collateral to a third party, this deficiency collateral burdens the primary collateral to the extent that other collateral of the recipient of the deficiency collateral is insufficient to cover the claim at the time of granting the loan. Calculation of the imputed value of the collateral shall be made in accordance with the provisions of paragraph (7). (Issued on 18.8.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25364: Regulation, paragraph (7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25365: (7) The supervised entity shall prepare and document a calculation that indicates the liabilities and collateral of the group of customers used in the calculation at the time of granting the loan and how the imputed realisation has been conducted. The collateral appraisal shall indicate the grounds of appraisal, the appraisal methods used and the appraiser. The appraisals shall be documented and annexed to the credit documentation. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25366: 4.2 Definition of collateral and calculation of loan-to-value ratio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25367: Regulation, paragraphs (8)-(12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25368: (8) The collateral types to accepted in the calculation are the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25369: · primary housing pledge (shares in a housing corporation, mortgage deed of real estate, a right of occupancy agreement, partial ownership agreement)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25370: o mortgage deeds on a property are taken into account in an order of seniority at the maximum at the current value of the property (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25371: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25373: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25377: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25378: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25380: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25381: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25382: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25387: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25390: o the current value of a right of occupancy agreement or partial ownership agreement is determined on the basis of the market value of the agreement (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25391: · other housing pledges, including leisure time residences
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25392: · deposit collateral
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25393: · other real collateral (eg equity shares, investment fund units)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25394: · third-party pledges
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25395: · guarantees or corresponding credit insurance granted by a sovereign state, insurance company or another credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25396: (9) The impact of deficiency guarantees granted by a sovereign state, insurance company or another credit institution in the calculation of loan-to-value ratio is determined on the basis of their ratio to the value of primary pledges placed as collateral: the value of a deficiency pledge in LTV calculation equals the amount that the deficiency pledge will cover after liquidation of the primary collateral, provided that the liquidation price of the primary collateral corresponds to the current value as at the time of calculation of the loan-to-value ratio.However, the maximum LTV ratio for a state-subsidised "ASP" loan guaranteed by the state may deviate from the limits in accordance to the provisions of chapter 4.4. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25397: (10) A secondary pledge on a primary housing pledge with junior ranking to the loan being assessed does not reduce the collateral value and therefore it shall not be taken into account in the calculation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25398: (11) If the supervised entity has approved general pledges or other collateral behaving similarly to loan collateral, the supervised entity must, in the case of several loans, either
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25399: a) separate the general pledges into imputed special pledges corresponding to the credit amounts; or
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25400: b) treat the loans as a single loan, if the collateral and repayment schedules are completely uniform. This applies particularly to situations where a customer buying a residence takes several individual loans linked to different reference rates but otherwise featuring similar loan terms.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25401: (12) In a construction project, the loan amount is the entire loan amount granted. The collateral value to be used is the market value of the completed property as assessed by the supervised entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25402: Regulation, paragraphs (13)-(14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25403: (13) In the calculation, collateral is matched with the loan assessed. A single loan may be subject to several collateral items and guarantees. The LTV ratio is calculated for an individual loan, and therefore the number of borrowers does not affect the calculation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25404: (14) As-for-own-debt guarantees accepted for the LTV calculation are deducted from the liability. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25405: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25406: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25408: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25409: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25410: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25412: Guideline, paragraph (15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25413: (15) As regards the supervised entity, a deficiency guarantee granted by a sovereign state, an insurance company or other credit institution increases the current value of the collateral against impairment, but it does not generally increase the current value of the collateral in the context of the LTV calculation. For example, in a situation where the current value of an object is 100, loan amount 90, and the amount to which deficiency guarantee covers the loan is 90, the value of the deficiency guarantee used in LTV calculation is
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25414: max(0; 90 - 100) = 0.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25415: (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25416: Regulation, paragraphs (16)-(17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25417: (16) These regulations and guidelines apply to situations where houses are exchanged so that the new apartment is being purchased partly or entirely on short-term bridge finance. However, the maximum LTV ratio for short-term financing may deviate from the limits in accordance with the provisions of chapter 4.4. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25418: (17) These regulations and guidelines also apply to loans taken for the construction or renovation of a residence. However, the maximum LTV ratio for short-term financing may deviate from the limits in accordance with the provisions of chapter 4.4. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25419: 4.3 Calculation formula
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25420: Guideline, paragraph (18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25421: (18) The calculation formula for LTV ratio is as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25422: Loan - to - value ratio = EAP + YL + MOAJ + OT + MR + VVP - AP + TT Loan amount + YL + MEL - OIT
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25424: Loan amount is the amount of loan granted.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25425: YL is the proportion of a housing corporation's loan allocated to primary housing pledge, or the proportion of company loan unpaid in respect of the shares at the time of transfer of title. Other loans of the housing corporation not allocated to the shares and on which there is insufficient information for allocation at the time of granting credit, are not taken into account in the LTV calculation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25426: MEL refers to other loans related to the primary housing pledge, which have similar or senior ranking relative to the loan being assessed. An MEL loan is related to an object being financed (for example, a renovation loan or finance for the purchase of an object). (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25427: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25431: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25437: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25439: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25440: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25441: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25449: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25452: OIT refers to an as-for-own-debt guarantee granted by a sovereign state, insurance company or other credit institution. If the guarantee is limited to a certain amount of euros, this amount is used. Unlimited guarantee meeting the requirements eliminates the liability. In this case, the LTV is zero.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25453: EAP refers to primary housing pledge. The euro amount used is the current value of the object being purchased, generally the transaction price, to which the housing loan is allocated. If the transaction price no longer corresponds to current value, the updated current value shall be used.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25454: MOAJ refers to other own housing pledges and secondary pledges on own housing pledges. OT refers to own deposit collateral. Nominal deposit amount.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25455: MR is the market value of own real collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25456: VVP is received third-party pledges less credit and pledging encumbrances allocated to the pledge. If the pledge is limited to a certain euro amount, this amount is used. If the pledge is unlimited, the entire value of the pledge less liabilities with senior ranking is used.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25457: AP refers to a pledge encumbering a primary housing pledge, given to a third party for another loan of the borrower, related to another object than that being financed (eg consumer credit). (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25458: TT is an institutional deficiency guarantee (granted by a sovereign state, insurance company or other credit institution), whose value is calculated in this context as
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25459: max (0; coverage level - sum of primary collateral).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25460: The coverage level refers to the sum of deficiency guarantee, up to which it covers the loan.If the coverage level of the deficiency guarantee is lower than the sum of current values of primary collateral, the deficiency guarantee has no impact on the LTV.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25461: 4.4 Special situations where a supervised entity may deviate from the limitations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25462: Regulation, paragraphs (19)-(24)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25463: (19) A supervised entity may deviate from the maximum LTV limits in situations where houses are exchanged so that a new apartment is being purchased partly or entirely on short-term bridge finance. Short-term refers to a loan period (maturity) of less than 1 year. In addition, the supervised entity must have an estimate of the final situation, ie the LTV after the sale of the previous residence, which must be within the limits for maximum LTV ratio. (Issued on 18.8.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25464: (20) A supervised entity may deviate from the maximum LTV limits in the case of short-term bridge funding loans granted for the construction or renovation of a residence. Short-term refers to a loan period (maturity) of less than 1 year. In addition, the supervised entity must have an estimate of the final situation, ie the LTV after the project, which must be within the limits for maximum LTV ratio. (Issued on 18.8.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25465: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25466: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25467: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25468: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25469: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25472: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25476: (21) It is also possible to deviate from the limits when additional financing is used to prevent or rectify a material decrease in the value of the collateral. Examples of such circumstances include unexpected damages, such as humidity damages, latent structural deficiencies etc. The decrease in the value of the collateral must be sudden and surprising, additional financing cannot be used to compensate for a decrease in collateral values due to a decline in the price level. (Issued on 6.6.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25477: (22) The maximum loan-to-value ratio for loans referred to in the Act on bonus for home savers (1634/1992) is the percentage share of the value of the residence, up to which a loan under said Act may be granted. In order to contain the exceptional growth of risk to financial stability, FIN- FSA may decide to limit the maximum amount of lending under the Act by up to 10 percentage points ie to 85% in the case of first-home buyers. However, the loan amount for a residence purchased under the ASP scheme may, even in this case, equal the proportion of purchase price calculated according to the required savings under the law.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25478: (23) A supervised entity may deviate from the maximum LTV limits in situations where a borrower's existing loans are combined as a single new loan so that the total loan amount does not increase, as compared to the situation prevailing before the restructuring, but the value of a previously pledged collateral decreases and the borrower does not have access to new supplementary collateral. (Issued on 18.8.2017, valid from 1.10.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25479: (24) In a situation where several persons together take out a housing loan, some but not all of whom being first-home buyers, the supervised entity may apply the maximum loan amount for first- home purchase under chapter 15, section 11 of the Act on Credit Institutions and section 14 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries. (Issued on 24.5.2023, valid from 1.7.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25480: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25483: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25486: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25488: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25489: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25490: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25491: 5 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25492: These regulations and guidelines have been amended after their entry into force as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25493: Issued on 24.5.2023, valid from 1.7.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25494: · chapter 1.1 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25495: · chapter 1.2 paragraphs 1, 2 and 3 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25496: · chapter 2 paragraphs 1 and 2 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25497: · chapter 3 paragraph 3 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25498: · chapter 4.1 paragraphs 1, 3 and 4 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25499: · chapter 4.4 paragraph 24 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25500: The amendments concern the Act on the Registration of Certain Credit Providers and Credit Intermediaries (186/2023) entering into force on 1 July 2023, which extends the scope of application of the maximum loan to value ratio to certain credit providers and credit intermediaries. Certain credit providers and credit intermediaries have been added to the Scope of application and Definitions in these regulations and guidelines. In addition, the Act on the Registration of Certain Credit Providers and Credit Intermediaries has been added to Definitions, Legal framework, Objectives, Legal framework as well as chapter 4.1 Appraisal of collateral and chapter 4.4 Special situations where a supervised entity may deviate from the limitations.Issued on 18.8.2017, valid from 1.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25501: · chapter 4.1 paragraphs 5 and 6 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25502: · chapter 4.4 paragraphs 19, 20 and 23 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25503: The amendments mainly concern the regulation governing the calculation of deficiency collateral. At the same time, some other technical specifications were made elsewhere in the regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25504: Issued on 6.6.2017, valid from 1.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25505: · chapter 1.2 paragraphs 3 and 6 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25506: · chapter 2.1 paragraph 1 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25507: · chapter 2.2 paragraph 2 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25508: · new chapter 4.1 introduced
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25509: · chapter 4.2 paragraphs 8, 13, 14, 15, 16 and 17 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25510: · chapter 4.3 paragraph 18 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25511: · chapter 4.4 paragraph 21 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25512: The definition of a loan was revised so as to correspond to revisions made in the Consumer Protection Act and the Act on Credit Institutions. A new chapter on the appraisal of collateral was added to the chapter on the calculation of the loan-to-value ratio. For special situations where supervised entity may deviate from the restrictions, the concept of additional credit financing was introduced to prevent or rectify a material decrease in the value of collateral. In addition, the definitions of the calculation formula as well as the provisions on the valuation of pledged
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25513: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25514: Regulations and guidelines 3/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25516: 25.11.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25517: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25518: 1.7.2016 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25529: mortgage deeds and the valuation of right of occupancy agreements and partial ownership agreements were made more specific.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25530: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+

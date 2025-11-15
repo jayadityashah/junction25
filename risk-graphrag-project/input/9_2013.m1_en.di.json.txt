@@ -1,0 +1,1783 @@
+METADATA: {"document_id": 16, "filename": "9_2013.m1_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 42, "paragraph_count": 825}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32312: Regulations and guidelines 9/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32313: Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32314: J. No. FIVA 10/01.00/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32315: Issued 10.6.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32316: Valid from 1.7.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32317: FINANCIAL SUPERVISORY AUTHORITY tel. 010 831 51 fax 010 831 5328 firstname.surname@finanssivalvonta.fi www.fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32318: Further information from Market Supervision/Markets
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_32319: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32321: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32324: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32325: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32326: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32327: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32328: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32329: FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do so.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32330: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32331: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32332: Also recommendations and other operating guidelines that are not binding are presented under this heading, as are FIN-FSA's recommendations on compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32333: The formulation of the guideline shows when it constitutes an interpretation and when it constitutes a recommendation or other operating guideline. A more detailed description of the formulation of guidelines and the legal nature of regulations and guidelines is provided on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32334: Fin-fsa.fi > Regulation > FIN-FSA regulations > New set of regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_32335: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32338: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32339: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32340: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32345: application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32348: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32351: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32354: Legal framework
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32355: and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32358: Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32361: EU directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32364: FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32367: Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32370: General principles and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32373: General principles
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32376: Equivalent treatment
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32379: Obligation to promote the successful outcome of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32382: The matters to be decided on at the General Meeting of the
+of the offeree company
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32383: Shareholders
+11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32385: Acting in concert
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32388: Public offer
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32391: Scope of application of the takeover bid provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32394: Disclosure of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32397: Disclosure and communication of a bid or plans for a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32400: Securing the fulfilment of consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32403: Offer period
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32406: Commencement of the bid procedure
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32409: Offer period and its extension or suspension
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32412: FIN-FSA decision on extension of the offer period
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32415: Conditions of the takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32418: Competing bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32421: Disclosure of the result of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_32423: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32426: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32427: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32428: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32434: Public statements related to a takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32436: Shareholder's obligation to launch a takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32439: Arising of the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32442: Calculation of the proportion of voting rights
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32445: Decision on the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32448: Exemptions from the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32451: Procedure in a mandatory bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32453: Consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32459: Consideration in a voluntary takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32462: Consideration in a mandatory takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32468: Particular reasons affecting the minimum amount of consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32471: Notification to FIN-FSA of securities acquired
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32474: Obligation to raise the consideration and the obligation to compensate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32477: Valuation of securities-based consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32483: Highest price paid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32486: Obligation to raise the consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32489: Obligation to compensate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32491: Offer document
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32493: Takeover bid on an MTF
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32495: Repealed regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_32497: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32500: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32501: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32502: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32504: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32505: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32506: (1) These regulations and guidelines are applicable within the scope of application provided in chapter 11, sections 1-4 of the Securities Market Act (SMA) to shareholders, persons comparable to a shareholder or other persons who voluntarily or obligated by chapter 11, section 19 of the Securities Market Act (746/2012, hereinafter also SMA) launch a public offer to acquire shares admitted to trading on a regulated market, the offeree company of a such a public offer, its shareholders and persons comparable to a shareholder.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32507: (2) These regulations and guidelines are applicable to persons who publicly offer to buy shares or securities entitling them to shares admitted to trading on a multilateral trading facility (MTF) in Finland on application by the issuer of the securities in a scope described in more detail in chapter 9 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32508: 1.2 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32509: (3) Offeree company means, in accordance with chapter 2, section 8 of the SMA, an issuer of securities subject to a takeover bid referred to in chapter 11, section 1 of the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32510: (4) Person comparable to a shareholder means a person referred to in chapter 11, section 6 of the SMA who does not own shares but whose proportion of voting rights calculated in accordance with chapter 11, section 20, subsection 1 and 2 of the SMA exceeds the threshold for the obligation to launch a bid referred to in chapter 11, section 19 of the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32511: (5) Completion of the takeover bid means, in accordance with chapter 11, section 12 of the SMA, legal actions whereby the holding or voting rights attached to the shares offered to be sold in the takeover bid are transferred to the offeror in accordance with the terms of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32512: (6) Persons acting in concert mean persons referred to in chapter 11, section 5 of the SMA, who cooperate with the shareholder, the offeror or the offeree company on the basis of an agreement or otherwise, aiming at exercising or acquiring a significant control in the offeree company or at frustrating the successful outcome of a takeover bid. Chapter 4.5 of these regulations and guidelines presents FIN-FSA rules and regulations on the criteria used to determine when persons are deemed to act in concert.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_32513: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32516: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32517: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32518: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32520: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32521: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32522: These guidelines and regulations are related to the following acts and decrees:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32523: · the Securities Markets Act (746/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32524: · Decree of the Ministry of Finance (MFD) on the contents and making public of the offer document as well as the exemptions to be granted of its contents, as well as the mutual recognition of an offer document approved within the European Economic Area (1022/2012, hereinafter also MFD).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32525: 2.2 EU directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32526: These guidelines and regulations are related to the following EU directives:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32527: · Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (Text with EEA relevance); OJ L 142, 30 April 2004, p. 12- 23 (hereinafter also Takeover Bids Directive).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32528: 2.3 FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32529: FIN-FSA's right to issue binding regulations is based on the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32530: · Chapter 11, section 31 of the SMA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_32531: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32534: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32535: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32536: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32538: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32539: (1) These rules and regulations address the general principles related to takeover bids and the launching of a takeover bid, as well as the principles, procedures and the obligation to disclose information concerning a shareholder's obligation to launch a bid and the determination of consideration. In these rules and regulations, FIN-FSA also presents practical application and procedural guidelines related to takeover bids and the obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32540: (2) These rules and regulations provide FIN-FSA regulations with the grounds for determining when persons are deemed to act in concert, the grounds on which agreement or arrangements may be deemed to carry entitlement to use or control the use of voting rights, and grounds for granting exemptions from the obligation to launch a bid. In addition, these rules and regulations present FIN-FSA recommendations and interpretations on provisions on takeover bids and their application.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32541: (3) The objective of regulation on takeover bids and the obligation to launch a bid as well as these regulations and guidelines is to promote investor protection in the context of takeover bids and situations where control is, or significant voting rights in a publicly traded company become concentrated or are transferred.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32542: (4) In the context of takeover bids, questions often arise related to particular cases, which have been impossible to address at a general level in these regulations and guidelines. FIN-FSA provides specific interpretations or written statements on the application of provisions on takeover bids as well as on these regulations and guidelines in particular cases. Unless secrecy provisions require otherwise, FIN-FSA will publish such interpretations on particular cases in the interpretation register on its internet site. 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32543: ! http://www.finanssivalvonta.fi/fi/Saantely/Tulkinnat/Tulkinta rekisteri/Pages/Default.aspx.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_32544: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32547: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32548: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32549: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32551: 4 General principles and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32552: 4.1 General principles
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32553: (1) In accordance with chapter 1, section 2 of the SMA, it is prohibited to act contrary to good practice in the securities markets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32554: (2) In accordance with chapter 1, section 3 of the SMA, it is prohibited to provide false or misleading information in the marketing and exchange of securities or other financial instruments in business as well as upon fulfilling the disclosure obligation in accordance with the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32555: Information, the untruthful or misleading nature of which is revealed following the provision of the information and which may be of material significance to the investor, shall, without delay, be corrected or supplemented in an adequate manner.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32556: (3) In accordance with chapter 1, section 4 of the SMA, anyone who, by himself or on the basis of an assignment, offers securities or seeks the admission to trading of a security on a regulated market or on a multilateral trading facility (MTF) or who, under chapters 3-9 or 11 is subject to the disclosure obligation towards the investors, shall be liable to keep equally available to the investors sufficient information on factors that may have a material effect on the value of the security.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32557: (4) In accordance with chapter 11, section 7 of the SMA, an offeror launching a takeover bid shall afford equivalent treatment to all holders of the securities of the offeree company referred to in section 1 (equivalent treatment).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32558: (5) In accordance with chapter 11, section 8 of the SMA, the offeror may not, with its own actions, frustrate or materially impede the implementation of a takeover bid and the terms set on its realisation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32559: The offeror and a person acting in concert with it may not, after the disclosure of a bid and prior to the disclosure of its outcome, without a special reason, dispose of the shares issued by the offeree company or securities entitling thereto issued by the offeree company. If securities are disposed of, the offeror shall disclose information on the planned disposal in good time and at the latest five banking days prior to the disposal of the securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32560: GUIDELINE (paragraph 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32561: (6) Pursuant to article 3 of the Takeover Bids Directive, for the purpose of implementing the Directive, Member States shall ensure that the following principles are complied with:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_32562: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32565: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32566: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32567: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32569: a) All holders of the securities of the same class of an offeree company must be afforded equivalent treatment. Moreover, if a person acquires control of a company, the other holders of securities must be protected.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32570: b) The holders of the securities of an offeree company must have sufficient time and information to enable them to reach a properly informed decision on the bid. Where it advises the holders of securities, the Board of Directors of the offeree company must present its view on the effects of implementation of the bid on employment, terms of employment and the locations of the company's places of business.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32571: c) The Board of Directors of an offeree company must act in the interests of the company as a whole and must not deny the holders of securities the opportunity to decide on the merits of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32572: d) False markets must not be created in the securities of the offeree company, of the offeror company or of any other company concerned by the bid in such a way that the rise or fall of the prices of the securities becomes artificial and the normal functioning of the markets is distorted.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32573: e) An offeror must announce a bid only after ensuring that it can fulfil in full any cash consideration, if such is offered, and after taking all reasonable measures to secure the implementation of any other type of consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32574: f) An offeree company must not be hindered in the conduct of its affairs for longer than is reasonable by a bid for its securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32575: 4.2 Equivalent treatment
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32576: (7) In accordance with chapter 11, section 7 of the SMA, an offeror launching a takeover bid shall afford equivalent treatment to all holders of the securities of the offeree company referred to in section 1 (equivalent treatment).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32577: GUIDELINE (paragraphs 8-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32578: (8) According to FIN-FSA's interpretation, the requirement of equivalent treatment in chapter 11, section 7 of the SMA requires that a takeover bid is made to all holders of securities in an offeree company who own the class of securities targeted in the takeover bid. However, a bid may also target only a specific class of securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32579: (9) Where a bid targets all shares subject to public trading in a regulated market, FIN-FSA recommends that it is also extended to shares which are subscribed for before the closing of the offer period or are received on the basis of securities issued by the offeree company carrying entitlement to shares issued by it.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32580: (10) The requirement of equivalent treatment also requires, according to FIN-FSA's interpretation, that the terms of the takeover bid are consistent. A restricted or conditional bid in itself does not put holders of securities in a nonequivalent position. Therefore, a bid may concern, for example, only a given proportion of securities held by the holders of securities, if the restriction is the same for all holders of securities. For example, if in a partial takeover bid, acceptances cover a larger amount of securities than the offeror has undertaken to purchase, acceptances shall be made as a rule so that the same relative proportion of securities is purchased from all holders of securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_32581: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32582: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32583: 10.6.2013 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32584: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32586: (11) In assessing the implementation of equivalent treatment, according to FIN-FSA's interpretation, any agreements and arrangements between the offeror and holders of securities targeted by the bid are also taken into account, where they are connected with the takeover bid. Therefore, an offeror may not agree, for example, on any specific benefits to be extended to certain shareholders in share transactions preceding the takeover bid, where such benefits lead to effectively better consideration for these shareholders than that which is offered in the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32587: (12) In situations where a limited liability company acquires its own shares by way of a takeover bid, the requirement of equivalent treatment is fulfilled according to FIN-FSA's interpretation in practice through the equivalence principle provided in chapter 1, section 7 of the Companies Act (624/2006).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32588: (13) Issues concerning the requirement of equivalent treatment in relation to the consideration are addressed in more detail in chapter 7 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32589: 4.3 Obligation to promote the successful outcome of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32590: (14) In accordance with chapter 11, section 8 of the SMA, the offeror may not, with its own actions, frustrate or materially impede the implementation of a takeover bid and the terms set on its realisation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32591: The offeror and a person acting in concert with it may not, after the disclosure of a bid and prior to the disclosure of its outcome, without a special reason, dispose of the shares issued by the offeree company or securities entitling thereto issued by the offeree company. If securities are disposed of, the offeror shall disclose information on the planned disposal in good time and at the latest five banking days prior to the disposal of the securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32592: GUIDELINE (paragraphs 15-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32593: (15) The provision in chapter 11, section 8, subsection 1 of the SMA prohibits all such actions which frustrate or materially impede the implementation of a takeover bid. According to FIN-FSA's interpretation, at least the following actions are likely to frustrate or materially impede the implementation of a takeover bid:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32594: · surrendering the securities for which the bid is made in other situations than those referred to in subsection 2 of the section and other transactions on other financial instruments effectively leading to the same outcome.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32595: · invoking a condition imposed on the implementation of the bid, unless the non- fulfilment of the term has a material impact for the offeror from the perspective of the planned acquisition
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32596: · invoking a condition concerning a due diligence review imposed as a condition for the bid, where the matter invoked by the offeror has been known by it in sufficient detail already at the time of publication of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32597: (16) According to FIN-FSA's interpretation, specific reasons on the basis of which an offeror may surrender securities for which a bid is made, as referred to in chapter 11, section 8, subsection 2 of the SMA, include at least the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32598: · the surrender of securities to a person acting in concert with the offeror
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_32599: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32602: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32603: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32604: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32606: · cancellation of the takeover bid in accordance with the conditions of the takeover bid, where a term imposed on the implementation of the bid is not fulfilled and the non-fulfilment of the term has a material impact for the offeror from the perspective of the anticipated acquisition
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32607: · discontinuation of the takeover bid on the basis of a FIN-FSA resolution on the extension of the validity period of the takeover bid (chapter 11, section 12, subsection 3 of the SMA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32608: · a decision on the lapsing due to a competing takeover bid (chapter 11, section 17, subsection 2 of the SMA).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32609: 4.4 The matters to be decided on at the General Meeting of the Shareholders of the offeree company
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32610: (17) In accordance with chapter 11, section 14 of the SMA, if the Board of Directors of the offeree company intends, after a disclosed takeover bid has come to its knowledge, to exercise the share issue authorisation referred to in chapter 9, section 2, subsection 2 of the Limited Liability Companies Act or decide on actions and arrangements belonging to its general competence referred to in chapter 6, section 2, subsection 1 of the Limited Liability Companies Act so that they prevent or may result in the frustration or materially impede the implementation of the takeover bid or of its material terms, the Board of Directors shall transfer the matter to be decided by the General Meeting of the Shareholders in accordance with chapter 6, section 7, subsection 2. The matter need, however, not be transferred to be decided by the General Meeting of the shareholders if the procedure complies with the general principles of chapter 1 of the Limited Liability Companies Act and Article 3 of the Takeover Bids Directive and the Board of Directors of the offeree company discloses, without delay, the reason for the non-transfer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32611: GUIDELINE (paragraphs 18-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32612: (18) FIN-FSA recommends that the Board of Directors of the offeree company seeks a statement from a body as referred to in chapter 11, section 28 of the SMA, if in accordance with chapter 11, section 14 of the SMA, it intends not to transfer a directed issue of shares or any other issue relating to an activity or arrangement, referred to in chapter 11, section 14 of the SMA, to the General Meeting for a decision.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32613: (19) According to FIN-FSA's interpretation, the provision of chapter 11, section 14 of the SMA requires that the reason for not making the transference decision is disclosed without delay once the decision has been made.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32614: 4.5 Acting in concert
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32615: (20) In accordance with chapter 11, section 5, subsection 1 of the SMA, persons acting in concert shall in chapter 11 of the SMA mean natural or legal persons who cooperate with the shareholder, the offeror or the offeree company on the basis of an agreement or otherwise aimed at exercising or acquiring significant control of the offeree company or at frustrating the successful outcome of a takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32616: (21) In accordance with chapter 11, section 5, subsection 2 of the SMA, persons acting in concert referred to in subsection 1 shall comprise at least:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_32617: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32620: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32621: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32622: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32624: 1) a shareholder and the entities and foundations controlled by him as well as their pension foundations and pension funds
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32625: 2) the offeree company and the legal persons belonging to the same group and their pension foundations and pension funds
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32626: 3) a shareholder and the persons in a relationship with him, as referred to in chapter 12, section 4, subsection 1, paragraphs 1-4 of the SMA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32627: · a spouse referred to in the Marriage Act (234/1929)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32628: · a party to a registered partnership referred to in the Act on Registered Partnerships (950/2001)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32629: · a minor whose guardian the shareholder is
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32630: · a partner in cohabitation or another family member of the shareholder who has lived in the same household with the said shareholder for at least one year.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32631: (22) In accordance with chapter 11, section 5, subsection 3 of the SMA, the Financial Supervisory Authority may, on application and for a special reason, decide that the persons referred to in subsection 2, paragraph 3 shall not be deemed persons acting in concert.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32632: (23) In accordance with chapter 11, section 31 of the SMA, the Financial Supervisory Authority may issue further regulations on grounds under with the persons referred to in chapter 11, section 5 of the SMA shall be deemed to act in concert. These provisions are provided below in paragraphs 24-25.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32633: REGULATION (paragraphs 24-25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32634: (24) Acting in concert shall be assessed on the basis of the real action of the parties. In assessing the acting in concert, the viewpoint is the impact of the action on the actual position of the other shareholders. In the assessment, importance is also placed on how longstanding the acting in concert is or on how long-term the impacts the acting in concert have on the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32635: (25) Only such persons shall be deemed as persons acting in concert with the offeree company in order to frustrate the implementation of a takeover bid, who actively increase their proportion of voting rights in the offeree company after they have been informed of the takeover bid or a possible takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32636: GUIDELINE (paragraphs 26-29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32637: (26) According to FIN-FSA's interpretation, acting in concert may take place either on the basis of a particular agreement or otherwise without a written agreement on the basis of other types of consensus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32638: (27) According to FIN-FSA's interpretation, acting in concert triggering an obligation to launch a bid does not generally comprise any agreement to vote in a certain manner in the context of an individual decision at a General Meeting of shareholders, such as the appointment of board members or participating in the activities of a nomination committee referred to in the Finnish Corporate Governance Code consisting of shareholders or representatives of shareholders. However, acting in concert may comprise an agreement to vote in a certain
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_32639: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32642: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32643: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32644: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32646: manner in the context of an individual decision at a General Meeting of shareholders, where the decision has a significant long-term impact on the offeree company or its ownership and voting right structure.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32647: (28) For example, in listed companies with traditional family-ownership, it is normal that the family exercising control or significant influence in the company act in concert as referred to in chapter 11, section 5 of the SMA, even if the members may not have made a shareholders' agreement. In these situations, acting in concert has often begun even before the shares in the offeree company have been listed on a regulated market. In these situations, the obligation to launch a bid based on acting in concert only arises where the proportion of voting rights belonging to the persons acting in concert exceeds the bid threshold after the share of the company has been admitted to trading on a regulated market. 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32648: (29) According to FIN-FSA's interpretation, acting in concert generally also triggers the obligation to disclose major shareholdings under chapter 9, section 5-7 of the SMA. FIN- FSA guidelines on the obligation to disclose major shareholdings are provided in FIN-FSA Guideline 8/2013 Disclosure obligation of major holdings and voting rights.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32649: 2 Cf. Government bill 32/2012, p. 137-138.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_32650: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32653: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32654: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32655: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32657: 5 Public offer
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32658: 5.1 Scope of application of the takeover bid provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32659: (1) In accordance with chapter 11, section 1 of the SMA, with the exception of section 27, chapter 11 of the SMA shall be applied when launching a public offer to acquire shares admitted to trading on a regulated market in Finland whether voluntarily (voluntary bid) or as obligated by section 19 (mandatory bid).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32660: With the exception of section 27, chapter 11 of the SMA shall also be applied to bids for other securities entitling to shares if:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32661: 1) the shares are admitted to trading on a regulated market in Finland and the issuer of the securities entitling thereto is the same as of these shares; or if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32662: 2) the securities entitling to shares are admitted to trading on a regulated market in Finland and their issuer is the same as of these shares.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32663: Unless otherwise provided for in chapter 11, section 1, subsection 1 or 2, section 27 of the SMA shall be applied when launching a bid to acquire shares subject to trading on an MTF in Finland on application by the issuer of the security.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32664: (2) In accordance with chapter 11, section 2 of the SMA, the provisions of chapter 11, sections 5 and 6, section 10, subsection 2, section 11, subsection 3 as well as of sections 13, 14, 19-22, 26 and 28 of the SMA shall be applied to the offeree company and its shareholder also when the corporate law registered office of the offeree company is in Finland and the shares or securities entitling to shares issued by it are admitted to trading on a regulated market in an EEA Member State other than Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32665: GUIDELINE (paragraphs 3-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32666: (3) According to FIN-FSA's interpretation, the provisions of chapter 11 of the SMA, on a takeover bid, apply to anyone who publicly offers to purchase securities referred to in chapter 11, section 1 of the SMA. In applying the provisions of chapter 11 of the SMA, a depositary receipt carrying entitlement to a share is regarded as a share. 3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32667: (4) According to the Government Bill, an offer made for example via media, a web page or letter to purchase securities referred to in chapter 11, section 1 of the SMA shall be deemed as a takeover bid. An offer made to a very limited predetermined group of holders
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32668: 3 Cf. Government Bill 6/2006, p. 33.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_32669: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32672: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32673: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32674: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32676: of securities shall not be deemed as a takeover bid. A group with which the offeror may actually negotiate on the transaction terms in advance may be considered such a group. 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32677: (5) The shareholders' position and need for information in situations where the obligation to redeem shares has arisen on a shareholder on the basis of a provision in the articles of association (so-called poison pill) are, according to FIN-FSA's interpretation, similar to a takeover bid. According to FIN-FSA's interpretation, the provisions on a takeover bid should also be observed in these situations, in accordance with chapter 11, section 1 of the SMA taking the provisions of the articles of association into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32678: (6) According to FIN-FSA's interpretation, the provision in chapter 11, section 1 of the SMA requires that also in a joint sale where an agent of an acquirer seeking control in the offeree company or several acquirers acting in concert collect sale orders from the shareholders, and therefore shares, in order to intermediate them subsequently to the acquirer or acquirers acting in concert, the provisions on a takeover bid shall apply as applicable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32679: 5.2 Disclosure of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32680: 5.2.1 Disclosure and communication of a bid or plans for a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32681: (7) In accordance with chapter 11, section 9, subsections 1-3 of the SMA, the decision on a takeover bid shall be made public without delay as well as communicated to the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32682: After the decision is made public, it shall be communicated to the representatives of the employees of the offeree company and the offeror company or, where there are no such representatives, to the employees, without delay.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32683: The publication shall state the number of securities referred to in the bid, the time allowed for the acceptance of the bid and the consideration offered as well as any other terms of material importance to the implementation of the bid. The information made public shall also indicate the procedure to be applied if acceptances cover a greater number of securities than that referred to in the bid. The publication shall also indicate whether the offeror undertakes to comply with the recommendation referred to in chapter 11, section 28, subsection 1 of the SMA and, if not, the grounds thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32684: (8) In accordance with chapter 11, section 9, subsection 5 of the SMA, the Financial Supervisory Authority may, on application by the Board of Directors of the offeree company, set a time period for a person who has contacted the offeree company or its shareholders with an intention to launch a takeover bid or made public that he is planning to launch a takeover bid, by which the person shall either make public a takeover bid or notify that he will not launch a takeover bid. The time period may be set if information of an intended takeover bid is likely to distort the normal functioning of the securities markets of the offeree company or of any other company concerned by the bid or hinder the conduct of business operations in the offeree company for longer than is reasonable. If the takeover bid is not disclosed by the time period set or if the person subject to the time period makes a public notification to the effect that he will not launch a takeover bid, the
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32685: 4 Government Bill 32/2012, p. 135.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_32686: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32689: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32690: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32691: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32693: person subject to the time period or a person acting in concert may not launch a takeover bid within six months following the end of the time period or the public notification. The restriction on the launching of a takeover bid ends if a party other than the person subject to the time period or a person acting in concert launches a takeover bid for the securities of the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32694: (9) In accordance with chapter 11, section 10 of the SMA, notwithstanding the disclosure of the offer document, the disclosure of the information provided for in chapter 11 of the SMA shall be governed by the provisions of chapter 10 of the SMA on the procedure for disclosure of, dissemination of, and access to, the information subject to disclosure. The offeror and the party obliged to launch a bid shall also notify the offeree company of the information subject to disclosure. The offeree company shall notify the offeror of the information subject to disclosure.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32695: After the disclosure, the information required to be disclosed under chapter 11 of the SMA shall be communicated to the representatives of the employees of the offeree company and the offeror company or, where there are no such representatives, to the employees, without delay.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32696: GUIDELINE (paragraphs 10-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32697: (10) In order that the holders of securities for which a bid is made have sufficient information at their disposal, chapter 1, section 4 of the SMA, according to FIN-FSA's interpretation, requires that, in connection with the publication of the bid, the offeror discloses, in addition to the information required in chapter 11, section 9, subsection 3, other facts with material relevance for deciding on the merits of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32698: (11) The publication procedure of the bid shall apply, pursuant to chapter 11, section 10, the provisions of chapter 10 of the SMA. Where the securities of the offeror are not subject to public trading in Finland, the stock exchange has, pursuant to chapter 6, section 4, subsection 2 of the SMA, the obligation to disclose any information communicated to it on a takeover bid for a company traded on a regulated market maintained by it.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32699: (12) According to FIN-FSA's interpretation, the obligation, provided in chapter 11, sections 9- 11 and 13, to communicate the information required to be disclosed to a representative of the employees or to the employees, applies both to the offeror and the offeree company, for their own part. Hence, the offeror has no obligation to communicate the bid to a representative of the employees or employees of the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32700: (13) Pursuant to chapter 11, section 9, subsection 1 of the SMA, the disclosure and communication obligation under said provision applies to a decision to launch a bid. Before disclosing a decision on a takeover bid, a party planning a bid may also communicate it is planning a takeover bid. According to FIN-FSA's interpretation, in disclosing such information on plans on takeover bids, the general principles provided in chapters 1 and of 11 of the SMA, general principles of article 3 of the Takeover Bids Directive and provisions on market abuse in chapter 14 of the SMA and chapter 51 of the Penal Code should be taken into account. Therefore, in disclosing plans on takeover bids, attention should be paid for example on the ability of the parties being able to, assess the probability at which a bid will be launched and what is the timing of the potential bid, based on the information disclosed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_32701: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32702: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32703: 10.6.2013 9/2013 Takeover bid and the obligation to launch a bid 1.7.2013 until further notice 17 (42)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32705: If a party planning a takeover bid discloses its intentions concerning a takeover bid, according to FIN-FSA's interpretation it should concurrently disclose any information at its disposal regarding deciding on the merits of the bid, so that the holders of the securities for which a bid is made would have the sufficient information referred to in chapter 1, section 4 of the SMA at their disposal. In addition, any uncertainties related to the implementation of the takeover plans shall be disclosed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32707: Also when plans on a takeover bid have to be disclosed because information on a anticipated takeover bid has leaked, or is at risk of being leaked to outsiders, according to FIN-FSA's interpretation, the provisions of chapter 1, sections 3 and 4 of the SMA require that attempts must be made to disclose the information, where feasible, in such a manner that the information disclosed does not distort the normal functioning of the markets of the securities of the offeror or the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32709: According to the Government Proposal, the obligation to communicate a takeover bid to a representative of the employees or employees does not apply to the publication of plans on a takeover bid. 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32711: If the board of directors of the offeree company applies for FIN-FSA to set a time period as referred to in chapter 11, section 9, subsection 4 of the SMA, the application shall present the grounds on how the information on the planned takeover bid would distort the normal functioning of the securities markets of the offeree company or of any other security concerned by the bid or hinder the conduct of business operations in the offeree company for longer than is reasonable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32713: FIN-FSA regulations and guidelines on the procedure of disclosure of information, referred to in chapter 10 of the SMA, are presented in chapter 11 of FIN-FSA regulations and guidelines 7/2013 Disclosure Obligation of the Issuer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32715: Securing the fulfilment of consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32717: In accordance with chapter 11, section 9, subsection 4 of the SMA, prior to announcing the bid, the offeror shall ensure that he can fulfil any cash consideration in full, if such is offered, and take all reasonable measures to secure the implementation of any other type of consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32718: GUIDELINE (paragraphs 20-22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32720: If the financing of a takeover bid is conditional, according to FIN-FSA's interpretation, chapter 1, section 4 of the SMA requires that, in connection with the publication of the takeover bid, the offeror discloses any material terms as well as uncertainties related to the financing of the bid, in order that the holders of the securities for which the bid is made have sufficient information at their disposal.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32722: According to FIN-FSA's interpretation, the provision of chapter 11, section 9, subsection 4 and the general principles of Article 3 of the Takeover Bids Directive require that the offeror has secured access to sufficient cash funds regarding the cash consideration, or that it has agreed with sufficient certainty on the financial arrangements to implement the bid. However, according to FIN-FSA's interpretation, the amount of money corresponding
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32723: 5 Government Bill 32/2012, p. 142.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_32724: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32727: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32728: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32729: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32731: to the cash consideration does not have to be in possession of the offeror at the time of publication of the takeover bid. The financing arrangement for the cash consideration may also be conditional. Conditionality may require that the takeover bid is implemented in accordance with its terms. In addition, the financing of a takeover bid may include other terms commonly used in the financial markets, such as a term that materially detrimental changes do not take place in the financial markets or the offeree company. In this case, these terms should be described both in connection with the publication of the takeover bid and in the offer document.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32732: (22) According to FIN-FSA's interpretation, as regards the security consideration, the requirement in chapter 11, section 9, subsection 4 of the SMA and the general principles of the Takeover Bids Directive on reasonable measures to secure the implementation of security consideration means that, in connection with the publication of the takeover bid, the offeror convenes or undertakes to convene a General Meeting of shareholders to decide on a directed issue of shares, where necessary. If the offeror has particular grounds to assume that the proposed arrangement will not be supported by a sufficient number of shareholders in a General Meeting, before the publication of the takeover bid - bearing in mind the provisions on the use of inside information - the offeror should also consider the position held by such shareholders whose consent is de facto needed to make decisions in a General Meeting of shareholders, regarding the anticipated takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32733: 5.3 Offer period
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32734: 5.3.1 Commencement of the bid procedure
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32735: GUIDELINE (paragraphs 23-26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32736: (23) According to FIN-FSA's interpretation, the general principles of Article 3 of the Takeover Bids Directive require that the offeror does not delay the commencement of the bid procedure without justifications. In order that the takeover bid does not disrupt the functioning of the offeree company for an unreasonably long period or disrupt the price formation of the securities of the offeree company, FIN-FSA recommends that the bid procedure is commenced within a reasonable period of the publication of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32737: (24) The reasonableness of the period depends, among other things, on the consideration offered in the bid. FIN-FSA recommends that the offer document and prospectus for the offering of securities, if any, is compiled and submitted for approval to the competent authority without delay. In voluntary cash bids, it may usually be considered a reasonable period if the bid procedure is commenced within a month of the publication of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32738: (25) FIN-FSA recommends that, at the time of disclosing the takeover bid, the offeror presents an estimate of when the bid procedure will commence. Any delay in commencing the bid procedure should always be justified when disclosing information related to the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32739: (26) The bid procedure in a mandatory bid is addressed in chapter 6.5 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_32740: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32741: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32742: 10.6.2013 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32743: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32745: 5.3.2 Offer period and its extension or suspension
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32747: In accordance with chapter 11, section 12, subsections 1-2 of the SMA, the time allowed for the acceptance of a takeover bid may not be less than three nor more than ten weeks. Legal actions, whereby the holding or voting rights attached to the shares offered to be sold in the takeover bid are transferred to the offeror in accordance with the terms of the takeover bid (completion of the takeover bid), may not be taken before at least three weeks have elapsed from the time allowed for acceptance of the takeover bid. The time allowed for the acceptance of a takeover bid may not be less than three nor more than ten weeks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32748: The time allowed for the acceptance of a takeover bid may, for a special reason, be more than ten weeks provided that the business operations of the offeree company are not hindered for longer than is reasonable. A notice of the closing of the takeover bid shall be given at least two weeks prior to the closure of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32749: GUIDELINE (paragraphs 28-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32750: (28) The offeror determines, within the scope of the provisions of chapter 11, section 12 of the SMA, the duration of the offer period. According to FIN-FSA's interpretation, within the terms of the offer, it is possible to reserve the possibility to extend or suspend the offer period. In this case, the procedure for extension or suspension of the offer period shall be described in the terms of the offer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32751: (29) According to FIN-FSA's interpretation, the decision to extend the offer period shall be made and disclosed within the original offer period. If the fulfilment of a condition under the terms of the offer concerning the proportion of ownership or voting rights so requires, a decision on extension of the offer period may, however, be made and disclosed at the latest on the following day after the lapsing of the offer period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32752: (30) According to FIN-FSA's interpretation, the offer period may be extended either so that the offer period continues until further notice or so that it ends on a specified date, at least two weeks after the announcement of the extension of the offer period. If the validity of the bid is extended until further notice, information on the closing of the bid shall be disclosed in accordance with chapter 11, section 12, subsection 2 of the SMA, with at least two weeks' notice.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32753: (31) According to FIN-FSA's interpretation, a specific reason to extend the offer period beyond ten weeks could be, for example, that there are particular hindrances to the implementation of the bid. If, for example, the implementation of the bid requires the permission of a competition authority, the offeror shall extend the offer period until the authority has processed the matter and the offeror has had the possibility to assess the impact of the conditions, if any, included in the permission of the competition authority, on the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32754: (32) According to FIN-FSA's interpretation, in a conditional takeover bid, the offeror may, according to international practice, extend the validity of the bid after the conditions of the offer have been fulfilled and the offer has turned unconditional and the first transactions to complete the bid have been made or the offeror has confirmed it will make them. In particular, this practice may improve retail investors' opportunities to react to the situation. The unconditionality of the bid may in this case constitute a reason of such a nature that it authorises the offeror to extend the offer period beyond ten weeks. After the first
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_32755: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32758: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32759: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32760: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32762: transactions to complete the bid have been made and the offer period has been extended, FIN-FSA recommends that such completion transactions are made at regular intervals, for example every two weeks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32763: 5.3.3 FIN-FSA decision on extension of the offer period
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32765: In accordance with chapter 11, section 12, subsection 3 of the SMA, FIN-FSA may, upon an application by the offeree company and, where necessary, without hearing the offeror, order that the time allowed for the acceptance of the takeover bid and the restriction set for the completion of the takeover bid, referred to in chapter 11, section 12, subsection 1 of the SMA, be extended so that the offeree company can convene the General Meeting of the Shareholders to consider the bid. Due to an extension, the offeror shall have the right to waive the bid within five banking days from being informed of the decision of the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32766: GUIDELINE (paragraphs 34-38)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32767: (34) According to FIN-FSA's interpretation, the FIN-FSA decision on extension of the offer period may be appropriate, for example, where there is insufficient time otherwise to convene a General Meeting of the shareholders of the offeree company during the offer period to discuss the takeover bid. Correspondingly, a decision on extension of the offer period may be appropriate when it is justifiable to convene a General Meeting of the shareholders during the offer period due to issues arising during the offer period. Such issues may include, for example, a competing bid or a bid on an individual business function of the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32768: (35) Pursuant to the Companies Act, the management of the offeree company has the obligation to act with due care and promote the interests of the company. Therefore, FIN- FSA, as a rule, gives a decision to extend the offer period, where a General Meeting of the shareholders has been convened by an initiative of the Board of Directors or the Supervisory Council. In situations where the shareholders of the offeree company have required a convening of a General Meeting of the shareholders, FIN-FSA pays particular attention in its deliberations on the matters to be decided on by the General Meeting.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32769: (36) FIN-FSA recommends that the offeree company applies for a decision on the extension of the offer period without undue delay. The application shall describe the matters to be addressed by the General Meeting of the shareholders.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32770: (37) If the offeror does not waive the takeover bid, the decision on extension of the offer period shall be binding on the offeror, pursuant to chapter 11, section 12, subsection 3.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32771: (38) According to FIN-FSA's interpretation, information on a decision to extend the offer period or to waive the bid shall be disclosed and communicated in a similar manner to a decision on a takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32772: 5.4 Conditions of the takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32773: (39) In accordance with chapter 11, section 8, subsection 1 of the SMA, the offeror may not, through its own actions, frustrate or materially impede the implementation of a takeover bid and the conditions set on its realisation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_32774: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32775: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32776: 10.6.2013 9/2013 Takeover bid and the obligation to launch a bid 1.7.2013 until further notice 21 (42)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32778: In accordance with chapter 11, section 15, subsection 1 of the SMA, the offeror of a voluntary bid may set conditions for the implementation of the bid. A mandatory takeover bid may be conditional only with regard to the necessary decisions by the authorities being obtained. The offeror shall, without undue delay, disclose that the conditions of the takeover bid have been met or that the offeror waives the requirement that the conditions be met.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32780: In accordance with chapter 11, section 16, subsection 1 of the SMA, if the offeror of a voluntary takeover bid has reserved a right to waive or revise certain conditions set for the implementation of a takeover bid, the holders of the securities of the offeree company who have accepted the takeover bid may cancel their acceptance during the time allowed for acceptance of the takeover bid, until such time as the offeror has disclosed that all the conditions of the takeover bid have been met or that he has waived the requirement that they be met.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32782: In accordance with chapter 11, section 16, subsection 2 of the SMA, in situations derogating from those referred to in subsection 1, the holders of the securities of the offeree company who have accepted the takeover bid may cancel their acceptance during the time allowed for acceptance of the takeover bid, if the time allowed for acceptance has lasted over ten weeks and the completion of the takeover bid has not taken place.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32783: GUIDELINE (paragraphs 43-47)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32785: Pursuant to chapter 11, section 16 of the SMA, the offeror may reserve the right in the terms of the offer to implement a conditional bid even if all the conditions set are not fulfilled. Even a conditional bid is, pursuant to the Act on transactions on financial holdings (229/1929), binding on the offeror and the offeror may not waive the bid in other situations than those allowed by the law or where the conditions set for the implementation of the bid are not fulfilled.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32787: FIN-FSA recommends that the conditions set for the implementation of the takeover bid are unambiguous enough, such that the holders of the securities for which the bid is made could themselves assess the probability of their fulfilment. The fulfilment of the conditions should also be clearly verifiable, in order that the implementation of the bid would not in effect remain at the absolute discretion of the offeror. The conditions of the bid should also be reasonable so that the rights and obligations of the offeror as a whole would be balanced relative to the rights and obligations of the holders of the securities for which the bid is made.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32789: According to FIN-FSA's interpretation, chapter 11, section 8 of the SMA requires that the offeror does not invoke a condition set for the implementation of the bid unless the non- fulfilment of the condition has a material impact on the offeror from the perspective of the anticipated acquisition. FIN-FSA recommends that before invoking a condition set for the implementation of the bid, the offeror seeks, to the full extent possible, to contribute to the fulfilment of the conditions set for the implementation of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32791: According to FIN-FSA's interpretation, the restriction set for the completion of the takeover bid in chapter 11, section 12 of the SMA requires that securities in the book-entry system are placed on the book-entry account of the security holder who has accepted the bid or that the book-entries are segregated reliably until the conditional takeover bid is implemented. However, in this case it is possible to place a restriction on the disposal of these securities on the book-entry account of the security holder who has accepted the
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_32792: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32795: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32796: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32797: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32799: bid, or the book entries can be segregated for example by using converted shares, if this has been indicated in the terms of the offer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32800: (47) If the offeror of a conditional takeover bid wishes that the holders of paper-based securities surrender their securities before the confirmation of fulfilment of the condition, according to FIN-FSA's interpretation, the restriction provided in chapter 11, section 12 on the completion of the takeover bid requires that a provider of custody services for financial instruments, independent of the offeror and persons acting in concert with it, keeps the securities in reliable custody until it is clear that the condition is fulfilled and the bid is implemented.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32801: 5.5 Competing bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32802: (48) In accordance with chapter 11, section 17, subsection 1-2 of the SMA, if another takeover bid for the securities for which a takeover bid has been made is disclosed (competing bid) during the offer period, the first offeror may extend its bid to correspond to the competing bid irrespective of the maximum time laid down in chapter 11, section 12, subsection 1 of the SMA. At the same time, the first offeror may also revise the terms of its bid in accordance with chapter 11, section 15 of the SMA. The decision to extend the offer period and to revise the terms shall be made public. The provisions of chapter 11, section 11, subsection 4 of the SMA on supplementing an offer document shall be applied to the publication of the decision. The Board of Directors of the offeree company shall supplement its opinion on the takeover bid, referred to in chapter 11, section 13 of the SMA, as soon as possible after the competing bid has been disclosed. However, this shall be done five banking days prior to the earliest possible closure of the first bid, at the latest.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32803: If a competing bid has been launched, the offeror of the first voluntary takeover bid may decide that his bid lapses during the offer period prior to the closure of the competing bid. The decision on the lapsing shall be made public.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32804: (49) In accordance with chapter 11, section 11, subsection 4 of the SMA, the Financial Supervisory Authority may, in connection with the approval of the supplement to the offer document, require that the time allowed for acceptance be extended by ten banking days, at most, so that the holders of the securities for which the bid is made may reconsider the offer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32805: (50) In accordance with chapter 11, section 16, subsection 3 of the SMA, notwithstanding the provisions of subsections 1 and 2, the holders of the securities of the offeree company who have accepted the takeover bid may cancel their acceptance during the time allowed for acceptance of the takeover bid if a takeover bid competing with the takeover bid has been disclosed and the completion of the takeover bid has not taken place.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32806: (51) In accordance with chapter 11, section 17, subsection 3 of the SMA, FIN-FSA may, on application by the offeree company, set a date for the competing offer, after which the terms of the takeover bids may no longer be revised. The date may be set to be at the earliest at ten weeks from the disclosure of the first takeover bid if the competing takeover bids are likely to hinder the offeree company in carrying on its business operations for longer than is reasonable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_32807: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32810: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32811: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32812: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32814: GUIDELINE (paragraphs 52-55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32816: According to FIN-FSA's interpretation, a competing bid is only a takeover bid if disclosed in accordance with chapter 11, section 9 of the SMA. Disclosure of the intention to disclose a competing bid does not, according to FIN-FSA's interpretation, lead to the application of the provisions on a competing bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32817: (53) Pursuant to chapter 11, section 17 of the SMA, the publication of a competing bid triggers the obligation to supplement the offer document of the first bid. The right provided to FIN- FSA in chapter 11, section 11, subsection 4 of the SMA to require the offer period of the first bid to be extended by a maximum of ten banking days is generally necessary in the context of competing bids, so that the holders of securities in the offeree company who have accepted the first bid have sufficient time to consider the cancellation of their acceptance and the Board of Directors of the offeree company has time to supplement their statement on the first bid. Therefore, FIN-FSA will, as a rule, require extension of the offer period of the first bid so that it remains valid for at least ten banking days after the publication of the supplementation of the offer document.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32818: (54) The right of the first offeror, as referred to in chapter 11, section 17, subsection 2 of the SMA, to decide on the lapsing of the takeover bid according to the provision, applies only to situations where the first takeover bid was a voluntary takeover bid. Where the first takeover bid has been made on the basis of the obligation to launch a bid, the offeror has no right to decide on the lapsing of its takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32819: (55) According to FIN-FSA's interpretation, it must be possible to make the cancellation of an acceptance of the takeover bid, in the context of a competing bid, as referred to in chapter 11, section 16, subsection 3 of the SMA, free of charge. The cancellation right does not extend to securities acquired by the first offeror otherwise than through the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32820: 5.6 Disclosure of the result of a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32821: (56) In accordance with chapter 11, section 18 of the SMA, after the close of the offer period, the offeror shall, without delay, disclose the proportion of holdings and voting rights that he may acquire in the offeree company by acquiring the securities offered for sale subject to the bid and taking into account any securities he has otherwise acquired and previously held. If the bid has been conditional, it shall simultaneously be notified whether the offeror shall implement the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32822: GUIDELINE (paragraph 57)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32823: (57) The disclosure and communication of the result of a takeover bid is subject to the provisions of chapter 5.2.1 above on the disclosure and communication of a takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32824: 5.7 Public statements related to a takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32825: (58) In accordance with chapter 1, section 2 of the SMA, it is prohibited to act contrary to good practice in the securities markets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32826: (59) In accordance with chapter 1, section 3, subsection 1 of the SMA, it is prohibited to provide false or misleading information in the marketing and exchange of securities or other
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_32827: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32830: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32831: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32832: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32834: financial instruments in business, as well as upon fulfilling the disclosure obligation in accordance with the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32835: GUIDELINE (paragraphs 60-62)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32837: According to FIN-FSA's interpretation, the prohibition to give misleading information, provided in chapter 1, section 3 of the SMA, entails that communication on a takeover bid may not present a picture that the acceptance of a takeover bid was mandatory to the holders of securities in the offeree company or that non-acceptance of the bid would have detrimental consequences to the holders of securities in the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32838: (61) If, in addition to the disclosure of holdings and proportions of voting rights pursuant to chapter 9, section 5 of the SMA, the offeree company intends to disclose the progress of the takeover bid, FIN-FSA recommends that it indicates this in the offer document. In which case, communication on the progress of the takeover bid should be consistent and be based either on predetermined intervals (for example, weekly) or the reaching, exceeding or falling below predetermined proportions of shareholdings or voting rights.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32839: (62) FIN-FSA guidelines on the obligation to disclose major shareholdings are provided in FIN- FSA Guideline 8/2013 Disclosure obligation of major holdings and voting rights.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_32840: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32842: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32845: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32846: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32847: 6 Shareholder's obligation to launch a takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32848: 6.1 Arising of the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32849: (1) In accordance with chapter 11, section 19 of the SMA, a shareholder, whose proportion of voting rights increases to over 30 per cent or to over 50 per cent of the votes attaching to the shares of the offeree company (bid threshold) after the share of the offeree company has been admitted to trading on a regulated market (party obliged to launch a bid), shall launch a takeover bid for all other shares issued by the offeree company and for securities entitling thereto issued by the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32850: (2) In accordance with chapter 11, section 21 of the SMA, if the securities resulting in the exceeding of the bid threshold have been acquired by a takeover bid launched for all the shares of the offeree company and for securities entitling thereto issued by the offeree company or otherwise during the time allowed for acceptance of such takeover bid, the obligation to launch a mandatory bid shall, however, not arise. If the securities resulting in the exceeding of the bid threshold have otherwise been acquired by a takeover bid, the obligation to launch a mandatory takeover bid shall not arise until the voting rights attached to the securities acquired by a takeover bid have been transferred to the offeror.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32851: If there is one shareholder in the offeree company whose proportion of voting rights exceeds the bid threshold, the obligation to launch a mandatory bid shall not arise upon another shareholder until his proportion of voting rights exceeds the proportion of voting rights of the first-mentioned shareholder.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32852: If the exceeding of the bid threshold results solely from measures taken by the offeree company or by another shareholder, the obligation to launch a mandatory takeover bid shall not arise before the shareholder who has exceeded the bid threshold acquires, or subscribes to, more shares of the offeree company or otherwise raises his proportion of voting rights in the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32853: If the exceeding of the bid threshold results from the shareholders acting in concert upon launching a voluntary takeover bid for the offeree company, the obligation to launch a mandatory takeover bid shall not arise if the acting in concert is restricted solely to the launching of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32854: The obligation to launch a mandatory takeover bid shall no longer exist if the party obliged to launch a bid or another person acting in concert reduces the proportion of voting rights exceeding the bid threshold by disposing of shares in the offeree company or by otherwise reducing its proportion of voting rights in the offeree company, within one month from the
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_32855: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32858: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32859: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32860: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32862: arising of the obligation to launch a bid. In order to be exempted from the obligation to launch a bid, the party obliged to launch a bid and the persons acting in concert may not, during that time, exercise voting rights in the offeree company. The party obliged to launch a bid shall, in addition, make public its intention to reduce the proportion of voting rights exceeding the bid threshold in connection with the disclosure of the arising of the obligation to launch a bid. Information on the falling of the proportion of voting rights below the bid threshold shall be made public without delay.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32863: (3) In accordance with chapter 11, section 6 of the SMA, the provisions of chapter 11 on a shareholder shall also be applied to a person who does not own shares but whose proportion of voting rights calculated in accordance with section 20, subsection1 and 2 exceeds the threshold for the obligation to launch a bid referred to in section 19.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32864: GUIDELINE (paragraphs 4-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32865: (4) According to FIN-FSA's interpretation, in applying the provision of chapter 11, section 19 of the SMA, a depositary receipt carrying entitlement to a share is regarded as a share. 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32866: (5) Pursuant to chapter 11, section 19 of the SMA, the obligation to launch a bid concerns all shares of the offeree company, regardless of whether the share is subject to trading on a regulated market or not. In addition to the shares of the offeree company, the obligation to launch a bid concerns all securities issued by the offeree company carrying entitlement to its shares referred to in chapter 2, section 1 of the SMA. These include, for example, subscription rights, convertible bonds, option rights and other special rights to shares. Other securities issued by the offeree company which can be exchanged for or converted to shares of the offeree company, according to their terms of issue, belong in the scope of the obligation to launch a bid. According to FIN-FSA's interpretation, such securities referred to in chapter 2, section 1 of the SMA, also include securities subject to a temporary restriction on transfer. In addition to securities referred to in chapter 2, section 1 of the SMA, an offeror may, according to FIN-FSA's interpretation, extend a takeover bid to other rights issued by the offeree company carrying entitlement to its shares.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32867: (6) Pursuant to chapter 11, section 19 of the SMA, the shareholder's obligation to launch a bid arises at the same time as its proportion of voting rights in the offeree company exceeds the bid threshold. Where the obligation to launch a bid arises on the basis of a takeover bid, the obligation to launch a bid arises pursuant to chapter 11, section 21, subsection 1, only after the completion of the takeover bid is made. As a rule, the obligation to launch a bid arises separately after exceeding the 30 and 50 per cent thresholds. According to FIN- FSA's interpretation, in other situations than those referred to in chapter 11, section 21, subsection 5 of the SMA, the obligation to launch a bid remains, even if the shareholder's proportion, after exceeding the bid threshold, falls below it.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32868: (7) The point of departure of the takeover bid provisions of the SMA is a single-phase bid process. Therefore, an obligation does not arise on an offeror, pursuant to chapter 11, section 21, subsection 1 of the SMA, after a voluntary takeover bid in a situation where a voluntary bid is made for all shares in the offeree company and securities, referred to in chapter 2, section 1 of the SMA, issued by the offeree company and carrying entitlement to
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32869: 6 Cf. Government Bill 6/2006, p. 43.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_32870: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32873: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32874: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32875: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32877: shares issued by it, where the bid threshold(s) is (are) exceeded, on the basis of the takeover bid or otherwise during the offer period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32878: (8) In this case, according to FIN-FSA's interpretation, avoidance of the obligation to launch a bid requires that a voluntary takeover bid has also been made for such option rights carrying entitlement to shares whose strike price exceeds the consideration offered for the shares. The consideration for such option rights is subject to the provisions in chapter 7.3 of these regulations and guidelines on the consideration in a mandatory takeover bid for such option rights.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32879: (9) Correspondingly, pursuant to chapter 11, section 21, subsection 1 of the SMA, the obligation to launch a bid does not arise again in a situation where a mandatory takeover bid has been launched as a consequence of exceeding the 30 per cent threshold, and the 50 per cent threshold is exceeded through a mandatory takeover bid, or otherwise during the offer period. However, the obligation to launch a bid arises pursuant to chapter 11, section 19 of the SMA, where the proportion of the offeror, as a result of a voluntary or mandatory takeover bid, remains below 50 per cent of the voting rights in the offeree company, and the offeror subsequently acquires shares so that the 50 per cent threshold is exceeded. The obligation to launch a bid also arises when a voluntary takeover bid is made, for example, only for shares issued by the offeree company but not for securities issued by the offeree company carrying entitlement to its shares.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32880: (10) Although the voting rights belonging to the same sphere of control are calculated on the proportion of voting rights resulting in an obligation to launch a bid, according to FIN-FSA's interpretation, the obligation to launch a bid is assessed at the level of the owner. Therefore, an obligation to launch a bid arises generally in a situation where the voting rights of shareholders acting in concert are transferred entirely to a single shareholder or in situations where shares are transferred to another company belonging to the same group.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32881: (11) Similarly, according to FIN-FSA's interpretation, an obligation to launch a bid generally arises when the control, referred to in chapter 2, section 4 of the SMA, shifts within an entity whose voting rights in a company subject to public trading exceeds the threshold for obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32882: (12) The possibility to apply for an exemption to the obligation to launch a bid from FIN-FSA is addressed in chapter 6.4 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32883: 6.2 Calculation of the proportion of voting rights
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32884: (13) In accordance with chapter 11, section 20, subsections 1-2 of the SMA, the proportion of voting rights of a shareholder shall comprise of:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32885: 1) the shares held by the shareholder
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32886: 2) the shares held by the persons acting in concert with the shareholder
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32887: 3) the shares held by the shareholder or by the persons acting in concert with the shareholder together with another person
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32888: 4) shares, the proportion of voting rights attached to which the shareholder is entitled to use or direct, under a contract or other arrangement.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32889: In calculating the proportion of voting rights of the shareholder, a restriction on voting based on the law or the Articles of Association or on another contract shall not be taken
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32890: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32893: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32894: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32895: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32897: into account. Votes attaching to shares held by the offeree company itself or by an entity or foundation controlled by it shall not be taken into account in calculating the total number of votes of the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32898: GUIDELINE (paragraph 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32899: (14) In calculating the proportion of voting rights of the shareholder, pursuant to chapter 11, section 20 of the SMA, in addition to directly owned shares, the voting rights pertaining to indirectly owned shares or otherwise controllable by the shareholder shall also be taken into account. According to FIN-FSA's interpretation, indirect holdings are not calculated on the basis of the relative proportion of holdings or voting rights of the shareholder, but they are accounted for in full in calculating the proportion of voting rights. According to FIN- FSA's interpretation, shares referred to in chapter 11, section 20, subsection 1, paragraph 4 of the SMA, do not include shares with which an agent of the shareholder participates in a General Meeting of the shareholder, if he only votes according to instructions provided by the shareholder.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32900: 6.3 Decision on the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32901: (15) In accordance with chapter 11, section 20, subsection 3 of the SMA, the question as to which of the persons referred to in chapter 11, section 20, subsection 1 shall be obliged to launch a bid shall, in unclear cases, be decided by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32902: GUIDELINE (paragraph 16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32903: (16) According to FIN-FSA's interpretation, the obligation to launch a bid generally falls on the party with the largest interest in exercising control in the offeree company. However, in its decision on the party obliged to launch a bid, FIN-FSA may also take into account an agreement among the parties obliged to launch a bid provided that the agreed party obliged to launch a bid has the financial capabilities to fulfil the obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32904: 6.4 Exemptions from the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32905: (17) In accordance with chapter 11, section 26, subsection 1 of the SMA, the Financial Supervisory Authority may, for a special reason and on application, grant a permission to derogate from the obligation to launch a bid and the other obligations provided for in this chapter, provided that the derogation is not contrary to the general provisions of chapter 1, sections 2 - 4 of the SMA, the general principles of sections 7 and 8 of chapter 11 of the SMA, nor Article 3 of the Takeover Bids Directive.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32906: (18) In accordance with chapter 11, section 31 of the SMA, FIN-FSA may issue further regulations on the grounds for granting the exemptions, referred to in chapter 11, section 26 of the SMA. These regulations are presented in paragraphs 19-23, below.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32907: REGULATION (paragraphs 19-22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32908: (19) The consideration for granting an exemption is based on an overall assessment. The assessment takes into account, for example, the general principles laid down in chapters 1 and 11 of the SMA, the general principles of Article 3 of the Takeover Bids Directive as well as the impact of the exemption on the effective position of minority shareholders
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32909: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32912: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32913: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32914: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32916: Whether the minority shareholders of the offeree company have been aware of the arrangement in advance and been able to influence its content are also taken into account, when considering an exemption.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32917: (20) Particular reasons for granting an exemption from the obligation to launch a bid could include at least one of the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32918: a) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is not effectively transferred, for example, when transferring holdings to an entity or foundation within the same sphere of control.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32919: b) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is transferred through an inheritance, as referred to in chapter 1, section 1 of the Inheritance Code, or in another manner to the persons referred to in chapter 2 of the Inheritance Code (succession).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32920: c) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is exceeded on the basis of a share issue based on preferential rights of the shareholders, where the other shareholders have not used their preferential subscription right in full.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32921: d) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is exceeded in a corporate transaction where the consideration comprises shares in the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32922: e) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is exceeded due to an underwriting commitment related to a share issue.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32923: f) The proportion of voting rights exceeding the threshold for an obligation to launch a bid is exceeded by an arrangement whose purpose is to secure the continuity of an offeree company in financial difficulty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32924: (21) Unless the position of minority shareholders has been secured sufficiently by way of other measures, an exemption from the obligation to launch a bid under section 20, subsections d-f above is contingent upon a decision on the arrangement by a General Meeting of the shareholders of the offeree company. In this case, the offeree company must disclose sufficient information on the anticipated arrangement before the General Meeting of the shareholders. In the General Meeting of the shareholders deciding on the arrangement, shareholders of the offeree company, who are independent of the arrangement, must support the arrangement by a majority of at least two thirds of the votes cast.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32925: (22) A particular reason for an exemption from the obligation to launch a bid may also be that the mandatory bid threshold is exceeded in a situation where mutually independent shareholders begin to act in concert in order to exercise control in the offeree company. In this situation, FIN-FSA pays special attention, in its consideration, to granting an exemption on the mutual independence of the shareholders acting in concert and to considering whether the shareholders acting in concert had increased their proportion of voting rights before they began to act in concert.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32926: GUIDELINE (paragraphs 23-25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32927: (23) An exemption may be granted permanently or for a fixed period. When an exemption is granted for a fixed period, the party receiving the exemption must reduce its holdings within a specified period under the bid threshold or, if the circumstances have changed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32928: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32931: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32932: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32933: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32935: materially, apply for a new exemption. Conditions may also be set for an exemption. Such a term could be, for example, that the recipient of the exemption may not increase its proportion of voting rights in the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32936: (24) An exemption may be applied for before exceeding the bid threshold, on the condition that anticipated arrangement is implemented. An application for an exemption, and a decision on it, are in these cases secret, pursuant to the Act on the openness of government activities, until the anticipated arrangement has been disclosed. However, according to FIN-FSA's interpretation, if an exemption is applied for only after exceeding the proportion of voting rights triggering the obligation to launch a bid, the arising of the bid obligation must be disclosed in accordance with chapter 11, section 22 of the SMA. According to FIN-FSA's interpretation, in this case, an exemption must be applied for without delay after the arising of the obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32937: (25) Unless secrecy provisions require otherwise, FIN-FSA will publish any exemptions from the obligation to launch a bid on its website. Where an exemption has been applied for on condition of the implementation of an anticipated arrangement, the exemption shall be disclosed only after the anticipated arrangement has been disclosed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32938: 6.5 Procedure in a mandatory bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32939: (26) In accordance with chapter 11, section 22 of the SMA, the party obliged to launch a bid shall, without delay, disclose the arising of the obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32940: The party obliged to launch a bid shall make the bid public within one month from the arising of the obligation to launch a bid. The takeover bid procedure shall be started within one month from making the bid public.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32941: (27) In accordance with chapter 11, section 15, subsection 1 of the SMA, a mandatory takeover bid may be conditional only with regards to the necessary decisions being obtained from the authorities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32942: GUIDELINE (paragraphs 28-29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32943: (28) The disclosure and communication of the arising of an obligation to launch a bid is subject to the provisions in chapter 5.2.1 of these regulations and guidelines on the publication of a takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32944: (29) If the permissions from authorities required in a mandatory takeover bid are not granted, or the terms placed on them are not reasonable for the party obliged to launch a bid, the party obliged to launch a bid shall, according to FIN-FSA's interpretation, apply for an exemption from the obligation to launch a bid from FIN-FSA, in order to not implement the mandatory bid. In this case, the exemption is contingent upon the party obliged to launch a bid reducing its proportional holdings under the bid threshold and that the party obliged to launch a bid, or parties acting in concert with it, do not exercise voting rights in the offeree company during this time.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32945: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32948: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32949: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32950: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32952: 7 Consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32953: 7.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32954: (1) In accordance with chapter 11, section 7 of the SMA, an offeror launching a takeover bid shall afford equivalent treatment to all holders of the securities of the offeree company referred to in section 1 (equivalent treatment).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32955: GUIDELINE (paragraphs 2-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32956: (2) According to FIN-FSA's interpretation, the requirement of equivalent treatment in chapter 11, section 7 of the SMA, means that the consideration for each class of securities must be in reasonable and equitable proportion, relative to the rights produced by each class of securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32957: (3) According to FIN-FSA's interpretation, where the securities of different classes in the offeree company are subject to trading on regulated markets, a basis for determining a reasonable and equitable proportion can be sought by reference to their market prices. In this case, the premium paid for different classes of securities should generally be proportionately the same. However, the assessment should also account for the liquidity of the different classes of securities. If, for example, trading on listed option rights has been limited, it is usually more reasonable to use the consideration payable for the share as the starting point for determining a reasonable and equitable proportion, than the relative premium payable for the share.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32958: (4) When securities not subject to public trading are concerned, the assessment of considerations paid for different securities should, according to FIN-FSA's interpretation, account for the rights produced by the different securities. Where the rights are similar, offering the same consideration is warranted. In determining the consideration payable for non-listed option rights, reference could be made to pricing models generally applied in the pricing of options.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32959: (5) According to FIN-FSA's interpretation, in assessing the implementation of equivalent treatment, attention is also paid to any consideration payable for such rights carrying entitlement to shares in the offeree company which are not securities referred to in chapter 2, section 1 of the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32960: (6) In assessing the implementation of equivalent treatment of the holders of securities, any cash and securities-based considerations that may be offered are, according to FIN-FSA's interpretation, comparable with each other. Different types of considerations are comparable with each other in assessing whether equivalent treatment has been implemented with respect to the consideration offered for same-class securities of the
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32961: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32964: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32965: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32966: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32968: offeree company in different contexts. Different types of considerations are also comparable with each other in assessing whether the considerations offered for different classes of securities of the offeree company have been in a reasonable and equivalent proportion. The valuation of a securities-based consideration is discussed in more detail in chapter 7.5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32969: (7) However, even if different types of considerations are comparable with each other for the purposes of assessing the implementation of equivalent treatment, it does not mean that all holders of securities in the offeree company should be offered the same type of consideration in all situations. Hence, according to FIN-FSA's interpretation in a share transaction immediately preceding a voluntary or mandatory takeover bid, it is possible, for example, to offer a different class of consideration than that offered in the takeover bid, if the share transaction as a whole can be regarded as a separate transaction from the takeover bid. The overall assessment shall take into account the purpose of the share transaction and also other terms than those linked directly to the quality and amount of the consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32970: 7.2 Consideration in a voluntary takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32971: (8) In accordance with chapter 11, section 24 of the SMA, in a voluntary takeover bid the consideration may be paid in cash or in securities or as a combination thereof. The offeror may, in a voluntary takeover bid, decide on the consideration freely unless otherwise provided for in chapter 11, section 24, subsections 2 and 3 or in section 7.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32972: The offering of a cash consideration at least as an alternative is required when a voluntary takeover bid is launched for all the shares and securities entitling thereto, issued by the offeree company and if:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32973: 1) the securities offered as consideration are not admitted to trading on a regulated market and they are not applied to be admitted to such trading in connection with the takeover bid; or if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32974: 2) the offeror, or a person in a relationship referred to in section 5 to him, has acquired or will acquire, against a cash consideration, securities of the offeree company entitling the holder to at least five per cent of the voting rights of the offeree company within a period of time which begins six months prior to the making public of the takeover bid and ends at the close of the time allowed for the acceptance of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32975: If a voluntary takeover bid is launched for all the shares issued by the offeree company and all the securities carrying entitlement to its shares, the starting point in determining the consideration shall be the highest price paid for the securities subject to the bid within the six months preceding the making public of the bid by the offeror or by a person acting in concert with him. Such price may be derogated from for a special reason. The provisions of chapter 11, section 23, subsection 4 of the SMA on the submission of information to the Financial Supervisory Authority shall be applied to such bids.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32976: GUIDELINE (paragraphs 9-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32977: (9) In accordance with chapter 11, section 24 of the SMA, the offeror in a voluntary takeover bid generally determines the class and amount of the consideration. However, where a voluntary takeover bid is made for all the shares of the offeree company and all the
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32978: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32981: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32982: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32983: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32985: securities issued by the offeree company and carrying entitlement to its shares, the provisions of chapter 11, section 24, subsections 2 and 3 on the consideration in a voluntary takeover bid shall be applicable. These provisions apply to those takeover bids, which no longer trigger a separate obligation to launch a bid. The provisions seek to ensure the equivalent treatment of the holders of securities of the offeree company in this kind of situation, also.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32986: (10) According to FIN-FSA's interpretation, in calculating the amount of shares acquired against a cash consideration, referred to in chapter 11, section 24, subsection 2, paragraph 2 of the SMA, any shares sold during the same time are generally not deducted from the total amount of shares acquired.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32987: (11) The provision on the minimum amount of consideration to be offered in a voluntary takeover bid in chapter 11, section 24, subsection 3 of the SMA, is subject, as applicable, to the provisions on the consideration in a mandatory takeover bid in chapter 7.3 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32988: 7.3 Consideration in a mandatory takeover bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32989: 7.3.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32990: (12) In accordance with chapter 11, section 23 of the SMA, with regard to a mandatory takeover bid, the consideration shall be an equitable price. A consideration in the form of securities or a consideration in the form of a combination of securities and cash may be offered as an alternative to a cash consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32991: In determining an equitable price, the starting point shall be the highest price for the shares subject to the bid, paid during the six months preceding the arising of the obligation to launch a bid, by the party obliged to launch a bid or by a person acting in concert with him. Such price may be derogated from for a special reason.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32992: If the party obliged to launch a bid or a person acting in concert with him has not, within the six months prior to the arising of the obligation to launch a bid, acquired securities subject to the bid, the starting point for the determination of an equitable price shall be deemed to be the average of the prices paid for the securities subject to the bid in trading on a regulated market, weighted by the volume of the trade. Such price may be derogated from for a special reason.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32993: The party obliged to launch a bid and a person acting in concert with him shall notify the Financial Supervisory Authority of the shares in the offeree company and the securities issued by the offeree company carrying entitlement to the shares he has acquired during the 12 months preceding the arising of the obligation to launch a takeover bid as well as between the arising of the obligation to launch a bid and the close of the takeover bid and the considerations paid thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32994: GUIDELINE (paragraphs 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32995: (13) According to FIN-FSA's interpretation, in assessing the highest price paid, direct securities purchases are comparable to derivatives agreements and securities as well as other contractual arrangements, by which the offeror or a party acting in concert with it acquires shares in the offeree company or a right to use voting power attached to the shares.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32996: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32997: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32998: 10.6.2013 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32999: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33001: (14) A consideration is determined separately for each class of shares and securities carrying entitlement to shares subject to the takeover bid. According to FIN-FSA's interpretation, the requirement of equivalent treatment in chapter 11, section 7 of the SMA, requires that the considerations offered for different classes of securities are in a reasonable and equitable proportion to each other. The bases used to determine the fair price are presented, pursuant to section 8, subsection 1, paragraph 1 of the MFC, by security class in the offer document.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33002: (15) Option rights where the strike price for subscribing to shares exceeds the consideration payable for the shares have time value as long as there is some subscription period remaining. According to FIN-FSA's interpretation, chapter 11, section 23, requires that a cash consideration shall also be offered for such option rights. However, the consideration must be in a reasonable and equitable proportion to other securities subject to the takeover bid. Where the payment of a cash consideration, for example due to the shortness of the subscription period remaining or a considerable difference between the consideration payable for the share and the strike price, would lead to an unreasonable outcome from the viewpoint of the holders of other securities or the offeror, it is possible to derogate from the obligation to pay a cash consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33003: (16) The provision on a trade-volume weighted average over three months is, according to chapter 11, section 23, subsection 3, applicable only in a situation where the party obliged to launch a bid has not, during the six past months, acquired shares in the offeree company. Such a situation could arise for example when the party obliged to launch a bid has acquired control in an entity whose voting rights in a publicly traded company exceeds the threshold for the obligation to launch a bid, or when the obligation to launch a bid has arisen as a result of acting in concert.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33004: 7.3.2 Particular reasons affecting the minimum amount of consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33005: (17) In accordance with chapter 11, section 23, subsections 2 and 3 and section 24, subsection 3 of the SMA, it is possible to derogate from the general minimum consideration for a particular reason.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33006: GUIDELINE (paragraphs 18-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33007: (18) In the context of reviewing the offer document, FIN-FSA assesses whether the consideration offered fulfils the requirements of the SMA. FIN-FSA's assessment is based on an overall assessment. The assessment takes into account, among other things, the general principles of chapters 1 and 11 of the SMA and Article 3 of the Takeover Bids Directive. In its assessment, FIN-FSA may also take into account a statement, if any, by a body referred to in chapter 11, section 28, on the consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33008: (19) According to FIN-FSA's interpretation, situations where the implementation of equivalent treatment may require an increase of the minimum consideration from the general minimum consideration, they may, include the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33009: · The consideration paid or offered for another class of securities in the offeree company is not in a reasonable and equitable proportion to the consideration offered for another class of securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_33010: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33013: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33014: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33015: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33017: · An agreement or other arrangement closely related to the takeover bid or preceding the takeover bid has been made, in which special benefits have been agreed for some holders of securities of the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33018: · The party obliged to launch a bid, or a person acting in concert with it, has acquired a considerable amount of securities of the offeree company from individual holders of securities of the offeree company during the six to twelve months preceding the arising of the obligation to launch a bid at a price higher than the consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33019: · The market price of securities of the offeree company prevailing at the time when the obligation to launch a bid arises is significantly higher than the starting point for the determination of an equitable price, provided that the obligation to launch a bid has arisen by way of other grounds than share purchase (for example acting in concert).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33020: (20) In assessing the justifications to derogate downwards from the starting point for the determination of an equitable price, FIN-FSA takes into account, among other things, the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33021: · the time of previous securities purchases, the size of individual purchases and the proportion of the consideration paid to the market price of the security prevailing at the time of purchase
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33022: · the position of the Board of Directors of the offeree company regarding derogating from the minimum consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33023: · whether the securities acquired at a higher price have been acquired from the management of the offeror or the offeree company or other parties closely related with the offeror or the offeree company
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33024: · the total number of shares purchased during the six months preceding the arising of the obligation to launch a bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33025: 7.3.3 Notification to FIN-FSA of securities acquired
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33026: (21) In accordance with chapter 11, section 23, subsection 4 of the SMA, the party obliged to launch a bid and a person acting in concert with him shall notify FIN-FSA of the shares in the offeree company and the securities issued by the offeree company carrying entitlement to its shares that he has acquired during the twelve months preceding the arising of the obligation to launch a takeover bid as well as between the arising of the obligation to launch a bid and the close of the takeover bid and the considerations paid thereto.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33027: GUIDELINE (paragraphs 22-23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33028: (22) A notification on the securities acquired during the 12 months preceding the arising of an obligation to launch a bid and the considerations paid for them is made at the same time as the offer document compiled on the mandatory takeover bid is submitted to FIN-FSA for approval. Any securities acquired subsequently and the considerations paid for them are notified to FIN-FSA without delay.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33029: (23) The notification shall also indicate any other terms related to the acquisition, where they may have an impact on the assessment of the minimum consideration and the obligation to raise the bid. In addition, the notification shall state any such securities or rights to use voting power attached to the securities of the offeree company in the offeree company
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_33030: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33033: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33034: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33035: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33037: acquired or to be acquired through derivatives contracts or securities or other contractual arrangements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33038: 7.4 Obligation to raise the consideration and the obligation to compensate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33039: (24) In accordance with chapter 11, section 25 of the SMA, if the party launching a takeover bid or a person acting in concert with him, after the making public of a voluntary takeover bid or the arising of the obligation to launch a bid and prior to the close of the offer period, acquires securities of the offeree company on terms that are more favourable than those of the bid, the offeror shall change his bid to correspond to this acquisition on more favourable terms (obligation to raise).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33040: If the party launching a takeover bid or a person acting in concert with him, within nine months from the close of the offer period, acquires securities of the offeree company on terms that are more favourable than those of the bid, the holders of securities who have accepted the takeover bid shall be compensated for the difference between the acquisition on more favourable terms and the consideration offered in the takeover bid (obligation to compensate).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33041: If the obligation to launch a bid in accordance with chapter 11, section 19 of the SMA has arisen in a voluntary takeover bid, the holders of securities who have accepted the voluntary bid shall, in applying chapter 11, section 25, subsections 1 and 2 of the SMA, be deemed comparable to the holders of securities who have accepted a mandatory bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33042: The party launching a takeover bid shall, without delay, make public the arising of the obligation to raise or to compensate. The raise referred to in chapter 11, section 25, subsection 1 of the SMA shall, without delay, be paid to the holders of securities who have accepted the bid in connection with the payment of the consideration or, if the consideration has already been paid, without delay. The compensation referred to in chapter 11, section 25, subsection 2 of the SMA shall be paid to the holders of securities who have accepted the bid within one month from the arising of the obligation to compensate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33043: The provisions of chapter 11, section 25, subsections 1-4 of the SMA shall not be applied to the higher price ordered payable for a security of the offeree company on the basis of arbitration based on the Limited Liability Companies Act if the offeror or a person acting in concert with him has not offered to acquire securities of the offeree company on terms that are more favourable than those of the bid before or during the arbitration proceedings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33044: GUIDELINE (paragraph 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33045: (25) According to FIN-FSA's interpretation, in assessing the obligation to raise and compensate, direct securities purchases are compared with derivatives agreements and securities as well as other contractual arrangements, by which the offeror or a party acting in concert with it acquires shares in the offeree company or a right to use voting power attached to the shares.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_33046: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33048: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33051: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33052: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33053: 7.5 Valuation of securities-based consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33054: 7.5.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33055: GUIDELINE (paragraphs 26-28)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33056: (26) FIN-FSA's interpretations presented in chapter 7.5 on the valuation principles of a securities-based consideration are primarily applicable to situations where a security given as consideration is subject to trading in a regulated market supervised by an authority. The valuation principles are applied, as applicable, also to other situations where cash consideration has to be compared to a security consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33057: (27) According to FIN-FSA's interpretation, continuous fluctuation of the value of the consideration is an integral part of the nature of a securities-based consideration. Functioning corporate acquisition market require that the offeror can, already in launching a voluntary takeover bid, assess the costs incurring from an acquisition with considerable certainty. In addition, the reliable price formation of the securities of the offeree company requires that the parties have a clear conception of how an acquisition of securities beyond the scope of the takeover bid will affect the consideration offered or to be offered in the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33058: (28) When a security offered as consideration is compared to cash consideration, the security is valued according to FIN-FSA's interpretation generally at the same point in time as the cash consideration would be taken into account in a comparable situation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33059: 7.5.2 Highest price paid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33060: GUIDELINE (paragraphs 29-30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33061: (29) According to FIN-FSA's interpretation, where a cash consideration is offered in a takeover bid, in assessing the highest price paid a security consideration is valued, based on the value of the security offered as consideration at the point in time when the amount of the security consideration was agreed on.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33062: (30) According to FIN-FSA's interpretation, where a securities-based consideration is offered in a takeover bid, in assessing the highest price paid, the takeover consideration is valued according to the value of the security offered as consideration at the time of publication of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33063: 7.5.3 Obligation to raise the consideration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33064: GUIDELINE (paragraphs 31-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33065: (31) According to FIN-FSA's interpretation, where a cash consideration is offered in a takeover bid, in assessing the obligation to raise the consideration, a securities-based consideration paid for securities of the offeree company is valued based on the value of the security offered as consideration at the point in time when the amount of the security consideration was agreed on.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33066: (32) According to FIN-FSA's interpretation, where a securities-based consideration is offered in a takeover bid, the takeover consideration is valued, in assessing the obligation to raise
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_33067: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33070: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33071: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33072: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33074: the consideration, based on the value of the security offered as consideration at the point in time when the amount of the consideration paid beyond the takeover bid was agreed on.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33075: 7.5.4 Obligation to compensate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33076: GUIDELINE (paragraphs 33-34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33078: According to FIN-FSA's interpretation, where a cash consideration is offered in a takeover bid, in assessing the obligation to compensate, a securities-based consideration paid subsequently for securities of the offeree company is valued based on the value of the security offered as consideration at the point in time when the amount of the securities- based consideration was agreed on.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33079: (34) According to FIN-FSA's interpretation, where a securities based consideration is offered in a takeover bid , in assessing the obligation to compensate, the consideration is valued based on the value of the security offered as consideration at the closing of the takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_33080: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33083: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33084: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33085: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33087: 8 Offer document
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33088: (1) In accordance with chapter 11, section 11 of the SMA, prior to the entry into force of the takeover bid, the offeror shall disclose and make available to the public, during the time allowed for acceptance, an offer document, which shall contain essential and sufficient information for deciding on the merits of the bid, as well as communicate it to the offeree company and the organiser of trading on the regulated market in question.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33089: The offer document may be disclosed after the Financial Supervisory Authority has approved it. FIN-FSA shall, within five banking days from the communication of the document for its approval, decide whether the document may be disclosed. The offer document may be communicated to FIN-FSA for approval after the decision on the takeover bid has been made public, in accordance with chapter 11, section 9 of the SMA. The offer document shall be approved if it fulfils the criteria set in chapter 11, section 11, subsection 1 of the SMA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33090: After the disclosure of the offer document, the offeree company shall communicate it to the representative of its employees or, where there is no such representative, to the employees themselves.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33091: A fault or omission or material new information in the offer document which is discovered before the closing of the bid and which may be of material importance to the investor shall, without delay, be communicated to the public by disclosing a correction or supplement in the same manner as the offer document. FIN-FSA may, in connection with the approval of the supplement to the offer document, require that the time allowed for acceptance be extended by ten banking days, at most, so that the holders of the securities for which the bid is made may reconsider the offer.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33092: The Financial Supervisory Authority shall recognise as an offer document a prospectus, drawn up of the securities for which the bid is made, which is approved by a competent authority in an EEA Member State and which fulfils the criteria set for an offer document.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33093: GUIDELINE (paragraphs 2-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33094: (2) FIN-FSA recommends that, as an appendix to the application to approve the offer document, FIN-FSA is provided with a list of references stating on which page of the offer document each piece of information, based on the requirements for offer document, is presented. The list of references should list all applicable sections, subsections and paragraphs of the MFD. If a required detail is missing, this should be indicated in the list of references and justifications given, where necessary.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33095: (3) According to FIN-FSA's interpretation, the obligation to supplement the offer document, in accordance with chapter 11, section 11 of the SMA, is comparable to the obligation to
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_33096: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33099: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33100: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33101: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33103: supplement prospectuses in accordance with chapter 4 of the SMA. Details to be supplemented could include, for example, a statement of the Board of Directors of the offeree company and, if any, a related statement of the employees of the offeree company, any changes in the terms of the takeover bid, information on a competing bid, any changes in the financial position or prospects of the offeree company or in the plans of the offeror concerning the offeree company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33104: (4) As a result of a supplement to the offer document, holders of securities of the offeree company who have already accepted the offer may receive a right, pursuant to chapter 11, section 11 of the SMA, to cancel their acceptance of the offer. FIN-FSA assesses the need for the right of cancellation separately for each supplement.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33105: (5) If securities are offered as consideration in a takeover bid, the offer document shall, in accordance with section 12 of the MFD, present the information according to the content requirements of chapter 4, section 1 of the SMA. Where, as referred to in chapter 3, section 6 of the SMA, the Home Member State of the issue of the securities offered as consideration is other than Finland, the prospectus on the securities offered as consideration is, as a rule, approved in the EEA Member state which is the Home Member State of issue and notified in accordance with chapter 5, section 2 of the SMA, to FIN-FSA to be published as part of the offer document approved by FIN-FSA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33106: (6) The offer document and its approval, disclosure and the communication of an approved offer document to FIN-FSA are, as applicable, also subject to FIN-FSA Guideline 6/2013 on the offering and listing of securities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_33107: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33110: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33111: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33112: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33114: 9 Takeover bid on an MTF
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33115: (1) In accordance with chapter 11, section 27 of the SMA, anyone who publicly offers to buy shares or securities carrying entitlement to shares admitted to trading on an MTF, on application by the issuer of the securities, may not place the holders of the securities subject to the takeover bid in an unequal position.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33116: The offeror shall give the holders of the securities of the offeree company essential and adequate information on the basis of which the holders of the securities may make an informed assessment of the bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33117: The takeover bid shall be disclosed, as well as notified, to the holders of the securities, the organiser of an MTF and the Financial Supervisory Authority. Prior to disclosure of the bid, the offeror shall ensure that it can fulfil any cash consideration, if such is offered, and take all reasonable measures to secure the implementation of any other type of consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_33118: The provisions of chapter 11, section 24, subsections 1 and 3 and section 25 of the SMA shall be applied to a takeover bid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33119: GUIDELINE (paragraphs 2-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33120: (2) According to FIN-FSA's interpretation, good market practice requires that the offeror does not, by its own actions, prevent or materially hinder the fulfilment of a takeover bid or the terms set for its implementation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33121: (3) FIN-FSA recommends that in giving the essential and adequate information referred to in chapter 11, section 27, subsection 2 of the SMA, the offeror provides information comparable to the information required in an offer document. The information should be given as a single document and in a format that is readily analysable and understandable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33122: (4) Takeover bids referred to in chapter 11, section 27 of the SMA are, as applicable, subject to, the following chapters of these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33123: · chapters 4.1-4.4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33124: · chapters 5.1-5.2, 5.4 and 5.7
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33125: · chapters 7.1-7.2, 7.3.1-7.3.2 and 7.4-7.5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_33126: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33129: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33130: 1.7.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33131: 9/2013 Takeover bid and the obligation to launch a bid
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33133: 10 Repealed regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33134: When these regulations and guidelines enter into force, they repeal the following provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33135: · FIN-FSA's standard 5.2c on takeover bids and mandatory bids
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_33136: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

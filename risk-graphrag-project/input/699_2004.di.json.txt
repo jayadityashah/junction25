@@ -1,0 +1,782 @@
+METADATA: {"document_id": 96, "filename": "699_2004.di.json", "category": "NATIONAL_LAWS", "subcategory": "FINLAND", "jurisdiction": "FINNISH", "page_count": 34, "paragraph_count": 298}
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157994: (Unofficial version)
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157995: Act on the Supervision of Financial and Insurance Conglomerates 30.7.2004/699
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157996: Chapter 1 General provisions 1 § Purpose of the Act
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_157997: This Act shall govern the requirements to be set for the operations of financial and insurance conglomerates and their supervision. The purpose of the supervision shall, for its part, be to ensure the undisturbed operations of financial and insurance markets, to enhance the management of financial and insurance conglomerates in accordance with sound and prudent business principles as well as to safeguard the financial position of depositors and investors and the interests of insured persons.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157998: 2 § Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_157999: For the purposes of this Act:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158000: 1) a credit institution shall mean a credit institution within the meaning of section 2 of the Act on Credit Institutions (1607/1993) and a corresponding foreign credit institution;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158001: 2) an investment firm shall mean an investment firm within the meaning of section 4 of the Act on Investment Firms (579/1996) and a corresponding foreign investment firm;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158002: 3) a management company shall mean an asset management company within the meaning of the Act on Common Funds (48/1999) and a corresponding foreign management company;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158004: 4) an insurance company shall mean an insurance company within the meaning of the Act on Insurance Companies (1062/1979), with the exception of an employment pension insurance company within the meaning of the Act on Employment Pension Insurance Companies (354/1997), and a corresponding foreign insurance company; the provisions of this Act on an insurance company shall correspondingly apply to an insurance association referred to in the Act on Insurance Associations (1250/1987);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158005: 5) a regulated entity shall mean a credit institution, an investment firm, a management company and an insurance company;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158006: 6) an entity in the financial sector shall mean a credit institution, an investment firm, an ancillary services undertaking and a financial institution referred to in the Act on Credit Institutions and the Act on Investment Firms, a management company and a custodian as well as a foreign undertaking comparable thereto with the exception of the management company and custodian referred to in section 7;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158007: 7) an entity in the insurance sector shall mean an insurance company, an insurance holding company and an ancillary service company referred to in the Act on Insurance Companies and the Act on Insurance Associations, a management company and a custodian which is a subsidiary of an undertaking referred to above in this paragraph or a participating undertaking in which the undertakings referred to in this paragraph together own a bigger share than the undertakings referred to in paragraph 6 as well as a foreign undertaking comparable to the undertakings referred to above in this paragraph;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158008: 8) a parent company shall mean an undertaking which exercises control over another undertaking as referred to in chapter 1, section 5 of the Accounting Act (1336/1997);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158009: 9) a subsidiary shall mean an undertaking over which the parent company exercises the control referred to in paragraph 8;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158010: 10) a participating undertaking shall mean an undertaking,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_158011: a) at least 20 percent of the shares, participations, guarantee shares or partnership shares of which are, directly or indirectly, held by another undertaking;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_158012: b) at least 20 percent of the voting rights carried by the shares, participations, guarantee shares or partnership shares of which are held by another
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158014: undertaking and where these voting rights are based on ownership, membership, Articles of Association, Partnership Agreement or on bylaws comparable thereto or on another agreement;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158015: c) in which another undertaking has the right to appoint or dismiss at least one fifth of the members of the board of directors or of an organ than appoints the members of the board of directors and where the right of appointment appoint is based on the same factors as the voting rights referred to in paragraph b; or
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158016: d) in which another undertaking has another such holding that creates a durable link between the undertakings and is meant to further the operations of the undertaking or an undertaking belonging to the same group;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158017: 11) an associated undertaking shall mean a parent company and an undertaking which has a participating interest referred to in paragraph 10 in another undertaking;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158018: 12) a holding company of the conglomerate shall mean the parent company of a group of undertakings forming a financial and insurance conglomerate within the meaning of section 3, subsection 1, which is not a regulated entity;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158019: 13) a supervisory authority shall mean the Financial Supervision Authority, the Insurance Supervisory Authority and a corresponding supervisory authority of another State belonging to the European Economic Area;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158020: 14) the relevant competent authority shall mean
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158021: a) a supervisory authority which under sections 6 - 8 or under corresponding foreign legislation acts as the co-ordinating supervisory authority of a financial and insurance conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158022: b) another supervisory authority which is responsible for the consolidated supervision of a credit institution or investment firm belonging to a financial and insurance conglomerate or for the additional supervision of an insurance company belonging to the conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158023: c) an authority responsible for the supervision of a regulated entity belonging to the financial and insurance conglomerate which is not subject to consolidated supervision or additional supervision referred to in paragraph b;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_158024: d) a supervisory authority responsible for the supervision of a regulated entity belonging to the financial and insurance conglomerate other than one referred to
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158026: in paragraphs a - c if the supervisory authorities referred to in paragraphs a - c unanimously so decide.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158027: When applying subsection 1 (8) - (11), the share of ownership or voting rights shall also include the shares and participations which belong to a pension trust founded by an employer undertaking belonging to a conglomerate referred to in section 3, subsection 2 and referred to in the Act on Pension Trusts (1774/1995), where the persons within its sphere of operations are employed by the employer undertaking or to a pension fund referred to in the Act on Pension Insurance Funds (1164/1992), the sphere of operations of which may include persons employed by the employer undertaking belonging to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158028: 3 § Financial and insurance conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158029: A financial and insurance conglomerate (a conglomerate) shall mean:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158030: 1) a group of undertakings where the associated undertaking is a regulated entity and which fulfils all the following preconditions:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158031: a) at least one of the undertakings belonging to the group of undertakings is an entity in the financial sector and at least one is an entity in the insurance sector;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158032: b) the total share of entities in the financial sector and the total share of entities in the insurance sector are both separately significant in the group of undertakings calculated in accordance with section 4;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158033: 2) a group of undertakings, the parent company of which is other than a regulated entity and which fulfils all the following preconditions:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158034: a) at least one of the subsidiaries of the parent company is a regulated entity;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158035: b) at least one of the undertakings belonging to the group of undertakings is an entity in the financial sector and at least one is an entity in the insurance sector;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_158036: c) the total share of entities in the financial sector and the total share of entities in the insurance sector are both separately significant in the group of undertakings calculated in accordance with section 4;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_158038: d) the total share of entities of the group of undertakings in the financial sector and in the insurance sector is significant calculated in accordance with section 4.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158039: In applying subsection 1 (1), a group of undertakings shall mean a group comprising a parent company, the subsidiaries of the parent company and their participating undertakings or if the associated undertaking is other than a parent company, the associated undertaking and its participating undertakings as well as, in applying subsection 1 (2), a group comprising a parent company, the subsidiaries of the parent company and their participating undertakings.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158040: In addition to the provisions of this section, a conglomerate shall comprise:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_158041: 1) regulated entities connected with a close link referred to in section 4 a of the Act on Credit Institutions, section 6 a of the Act on Investment Firms and chapter 1, section 5 of the Act on Insurance Companies other than one referred to in this section as well as the subsidiaries and participating undertakings of these entities provided that at least one of the regulated entities is an entity in the financial sector and at least one an entity in the insurance sector;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_158042: 2) the organisations belonging to the consortium referred to in section 3 of the Act on Cooperative Banks and Other Credit Institutions in the Form of a Cooperative in accordance with subsection 1 of the said section and such entities in the insurance sector over which the said organisations alone or together exercise the control referred to in section 2, subsection 1 (8) or which are participating undertakings of this organisation;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_158043: provided that the total share of the entities in the financial and insurance sectors of this group as well as the shares of entities in each sector are separately significant calculated in accordance with section 4.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158044: An undertaking at the head of the conglomerate shall hereinafter in this Act mean an associated undertaking of a conglomerate referred to in subsection 1 (1), the parent company of a conglomerate referred to in paragraph 2 of the said subsection, the regulated entity in a conglomerate referred to in subsection 3 (1) with the biggest balance-sheet total as well as the central organisation of the consortium in a conglomerate referred to in subsection 3 (2).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_158046: 4 § Thresholds applicable to a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158047: The total share of entities in the financial and insurance sector in a group of undertakings and in a group referred to in section 3 (3) shall be significant in the manner referred to in section 3 (1) (2d) and in section 3 (3) if the aggregate balance sheet total of these undertakings exceeds 40 percent of the aggregate balance sheet total of all the undertakings belonging to the group of undertakings. In applying this subsection, an employment pension insurance company shall be excluded from the group of undertakings.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_158048: The total share of entities in the financial sector and the total share of entities in the insurance sector (the share of the sector) of all the entities in the financial and insurance sector belonging to the group of undertakings or to a group referred to in section 3 (3) are both significant in the manner referred to in section 3 (1) (1b) or (2c) or in section 3 (3) if at least one of the following preconditions is fulfilled:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_158049: 1) the average of relative shares of the balance-sheet total and capital adequacy requirements of both sectors calculated in accordance with subsection 3 exceeds 10 percent;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_158050: 2) the aggregate balance sheet total of undertakings belonging to the smaller sector exceeds 6 billion euros;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_158051: 3) the shares of profit from business operations of the entities in the financial sector and the entities in the insurance sector belonging to the conglomerate both exceed 10 percent of the aggregate profit of the entities in the financial and insurance sector belonging to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158052: The average referred to in subsection 2 (1) shall be arrived at by first calculating the ratio of the balance-sheet total of the undertakings in a sector to the aggregate balance-sheet total of all the entities in the financial and insurance sector (ratio 1) and the ratio of the aggregate capital adequacy requirement of the undertakings in the sector to the aggregate capital adequacy requirement of the entities in the financial and insurance sector belonging to the conglomerate (ratio 2) and by thereafter calculating the arithmetic average of ratios 1 and 2. The capital adequacy requirement shall in this subsection mean the minimum amount of own funds of a regulated entity belonging to the conglomerate calculated in accordance with section 18
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158054: (1). If a regulated entity is subject to consolidated supervision or supplementary supervision, the capital adequacy requirement shall refer to the minimum amount of own funds calculated in accordance with section 18 (2).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158055: If two or more of the undertakings of the same sector belonging to the conglomerate, or when applying subsection 1, two or more undertakings in the financial and insurance sector form a group which does not include a substantial number of undertaking of other sectors and which draws up consolidated annual accounts, the consolidated balance sheet shall be taken into consideration with regard to these undertakings instead of the balance sheet when applying the provisions of subsections 1 - 3. When applying this section, the balance sheet and consolidated balance sheet total shall be added with the credit exposure value of off-balance sheet items calculated in accordance with section 77 of the Act on Credit Institutions. When applying this section, an amount corresponding to the aggregate share held in the participating undertaking by the undertakings belonging to the conglomerate shall be taken into account of the balance sheet total, the off-balance sheet items, the capital adequacy requirement and the profit for the business of the participating undertaking. If the participation is based entirely or in part on the right of appointment or dismissal of members of the board of directors, the amount to be taken into account of the balance- sheet total, the off-balance sheet items, the capital adequacy requirement and the profit for the business when applying this subsection shall correspond to the share of the members of the board of directors subject to the right of appointment or dismissal of the total number of board members if the amount thus calculated is bigger than the amount calculated on the basis of the holding.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_158056: The supervisory authority that under section 7 or 8 acts as the co-ordinating supervisory authority of the conglomerate may issue further regulations on the application of this section and section 5.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_158057: 5 § Exemptions regarding the application of thresholds
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158058: If the aggregate share of entities in the financial and insurance sector in the conglomerate falls below the threshold provided for in section 4 (1), a 35-percent threshold shall, notwithstanding the said subsection, be applied to the conglomerate for
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158060: the following three years. If the share of entities in the financial sector or in the insurance sector in the conglomerate falls below the threshold provided for in section 4 (2) (1) or (3), an 8-percent threshold shall, notwithstanding the said subsection, be applied to the conglomerate for the following three years. If the aggregate balance sheet total of entities in the financial or insurance sector in the conglomerate falls below the threshold provided for in section 4 (2) (2), a threshold of EUR 5 billion shall, notwithstanding the said subsection, be applied to the conglomerate for the following three years. The supervisory authority that in accordance with section 7 or 8 acts as the co-ordinating supervisory authority of the conglomerate may, subject to the consent of the other relevant competent supervisory authorities of the conglomerate, decide that the provisions of this subsection shall cease to apply to the conglomerate prior to the termination of the said three-year period.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_158061: The supervisory authority that under section 7 or 8 acts as the co-ordinating supervisory authority may decide that:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158062: 1) the Act shall not be applied to the conglomerate or that is shall be applied only in part if the share of the smaller sector in the conglomerate exceeds the threshold referred to in section 4 (2) (2) but falls below the threshold referred to in paragraphs 1 and 3 of the said subsection;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_158063: 2) an undertaking with a minor significance in the conglomerate with regard to the objectives of supervision may be excluded when calculating the thresholds referred to in section 4 and in this section;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158064: 3) this Act shall not be applied to a conglomerate if only the precondition referred to in paragraph 3 of the preconditions laid down in section 4 (2) is fulfilled or if the fulfilment of the preconditions laid down in section 4 (1) or (2) is only due to the taking into account of the off-balance sheet items in accordance with section 4 (4);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158065: 4) the Act shall not be applied to a conglomerate before it has reached the thresholds in accordance with section 4 (1) and (2) continuously for at least three years.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_158066: The decision referred to in subsection 1 above and in subsection 2 (1), (2) and (4) may be made only with the consent of the other relevant competent supervisory authorities and only if the application of the Act would only be of minor significance with regard to the goals of the Act or if the application of the Act is not appropriate with regard to the goals of the Act or if it is misleading. The decision referred to in subsection
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158068: 2 (3) may be made if there is no special reason for the application of the Act due to a significant position of the conglomerate in the markets, a large number of off-balance sheet items of the conglomerate or a corresponding fact.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158069: 6 § Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158070: The Act shall be applied to a conglomerate which comprises at least one Finnish regulated entity and where
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158071: 1) the domicile of the undertaking at the head is in Finland; or
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158072: 2) the domicile of the undertaking at the head is in another State belonging to the European Economic Area and all the following preconditions are met:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158073: a) there is no regulated entity belonging to the conglomerate in the home State of the undertaking at the head of the conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158074: b) a Finnish regulated entity belonging to the conglomerate operates within the sector which is bigger in the conglomerate calculated in accordance with section 4, subsection 2 (1);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158075: c) the balance-sheet total of the regulated entity referred to in paragraph b is bigger than the balance-sheet total of any other regulated entity that operates within the same sector and has a domicile in another State belonging to the European Economic Area.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158076: The Act shall also be applied to another conglomerate than one referred to in subsection 1 which meets all the following preconditions:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158077: 1) the undertaking at the head of the conglomerate or at least one of the regulated subsidiaries of the parent company of the conglomerate referred to in section 3, subsection 1 (2) has its domicile in Finland;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158078: 2) the undertaking at the head of the conglomerate and at least one of the regulated entities belonging to the conglomerate has its domicile in a State belonging to the European Economic Area;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_158079: 3) the Financial Supervision Authority and the Insurance Supervisory Authority have, in the manner referred to in section 8 (2), concluded a contract with the relevant competent supervisory authorities to the effect that either of the first-mentioned
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_158081: supervisory authorities acts as the co-ordinating supervisory authority and that the laws of Finland are applied to the supervision of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158082: Notwithstanding the provisions of subsection 1, the Act shall not be applied if the supervisory authority which under section 7 would act as the co-ordinating supervisory authority has, in the manner referred to in section 8 (1), concluded a contract with the other relevant competent supervisory authorities to the effect that a competent authority of another State belonging to the European Economic Area assumes liability for the supervision of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158083: The Act shall not be applied to a conglomerate (a sub-conglomerate) whose parent company is a subsidiary of an undertaking belonging to a conglomerate referred to in this Act or in a corresponding Act of another State belonging to the European Economic Area and where the latter conglomerate is supervised in accordance with this Act or in a manner corresponding to this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_158084: The supervisory authority who, under section 7 or 8, acts as the co- ordinating supervisory authority may decide to derogate from the application of the Act in a case referred to in section 3 (3). The decision to derogate may be made if there is no special reason for the application of the Act to this conglomerate resulting from a close business-management connection of the regulated entities referred to in the subsection or from another corresponding factor.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_158085: 7 § Supervisory authorities
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158086: The conglomerates shall be supervised in co-operation by the Financial Supervision Authority and the Insurance Supervisory Authority. The Financial Supervision Authority and the Insurance Supervisory Authority shall also co-operate with other supervisory authorities.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158087: Unless otherwise provided for in section 8, the Financial Supervision Authority shall act as the co-ordinating supervisory authority of a conglomerate referred to in section 6, subsection 2 (1) if the undertaking at the head of the conglomerate is a credit institution, an investment firm, a management company or the holding company of the conglomerate in a conglomerate where the share of financial-sector undertakings in the conglomerate, calculated in accordance with section 4, subsection 2 (1), is bigger
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158089: than the share of insurance-sector undertakings. Unless otherwise provided for in section 8, the Insurance Supervisory Authority shall act as the co-ordinating supervisory authority of a conglomerate referred to in section 6, subsection 1 (1) if the undertaking at the head of the conglomerate is an insurance company or the holding company of the conglomerate in a conglomerate where the share of insurance-sector undertakings in the conglomerate, calculated in accordance with section 4, subsection 2 (1), is bigger than the share of financial-sector undertakings.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158090: Unless otherwise provided for in section 8, the Financial Supervision Authority shall act as the co-ordinating supervisory authority of a conglomerate referred to in section 6, subsection 1 (2) if the regulated entity referred to in the paragraph is a credit institution, an investment firm or a management company, and the Insurance Supervisory Authority if the regulated entity referred to in the paragraph is an insurance company.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158091: The provisions of this Act shall not restrict the rights and duties of another supervisory authority to supervise an undertaking or a group of undertakings belonging to the conglomerate as provided for in another Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_158092: 8 § Transfer of the supervisory duty to another supervisory authority
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158093: In derogation from the provisions of section 7, the supervisory authority which, under section 7, would act as the co-ordinating supervisory authority may conclude a contract with another supervisory authority referred to in section 7 as well as with the supervisory authority of one or more other States belonging to the European Economic Area to the effect that the supervisory authority of a State belonging to the European Economic Area shall act as the co-ordinating supervisory authority or that this other supervisory authority shall partially assume the duties of a co-ordinating supervisory authority provided for in this Act. A contract according to which a foreign supervisory authority acts as the co-ordinating supervisory authority may be concluded if the undertaking at the head of the conglomerate is not a Finnish regulated entity and if it is possible to ensure that the foreign authority holds sufficient competence to supervise the entire consolidation group in a manner corresponding to this Act
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158095: The Financial Supervision Authority and the Insurance Supervisory Authority may, subject to the preconditions set in section 6 (2), conclude a contract with the supervisory authority of one or more States belonging to the European Economic Area to the effect that the Financial Supervision Authority or the Insurance Supervisory Authority shall act as the co-ordinating supervisory authority in a conglomerate referred to in section 6 (2).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158096: The contract referred to in subsections 1 and 2 may be concluded for a weighty reason required by the efficient supervision of the conglomerate. A written Memorandum of Understanding shall be drawn up of the contract and it shall be signed by all the relevant competent supervisory authorities and communicated to the undertaking at the head of the conglomerate. The undertaking at the head of the conglomerate shall be reserved a possibility to be heard regarding the contract prior to the signing of the Memorandum of Understanding.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_158097: 9 § Recognition of a conglomerate and its holding company
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158098: A regulated entity belonging to the conglomerate referred to in section 6 (1), domiciled in Finland, shall notify the Financial Supervision Authority or the Insurance Supervisory Authority of its belonging to the conglomerate without delay after being notified thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158099: If the Financial Supervision Authority or the Insurance Supervisory Authority has received the notification referred to in subsection 1 or if they otherwise obtain information on the establishment or termination of a conglomerate, they shall notify the other supervisory authority thereof without delay. If the supervisory authority which under section 7 shall act as the co-ordinating supervisory authority of the conglomerate deems that the conglomerate belongs or has ceased to belong within the scope of application of this Act, it shall, after hearing other relevant competent supervisory authorities, make a decision thereon and communicate it to the undertaking at the head of the conglomerate, the regulated entities belonging to the conglomerate domiciled in Finland, the other relevant competent supervisory authorities as well as to the European Commission.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158101: The decision referred to in subsection 2 relating to the establishment of a conglomerate shall indicate:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158102: 1) the undertaking at the head of the conglomerate and its business sector and domicile;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158103: 2) the other undertakings belonging to the conglomerate, their business sectors and domiciles;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158104: 3) the supervisory authority acting as the co-ordinating supervisory authority as well as the other relevant competent supervisory authorities participating in the supervision of the conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158105: 4) the grounds on which the conglomerate is deemed to meet the thresholds referred to in section 4;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158106: 5) if the domicile of the parent company of the conglomerate or of any regulated entity belonging to the conglomerate is not in Finland, the grounds on which the laws of Finland shall be applied to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158107: Chapter 2 General requirements relating to undertakings belonging to the conglomerate 10 §
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158108: Regular duty to disclose
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158109: An undertaking at the head of a conglomerate shall annually, in addition to that provided for elsewhere in this Act, disclose the following information to the co- ordinating supervisory authority:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158110: 1) the names, addresses, business sectors and the balance-sheet totals of undertakings belonging to the conglomerate, the most significant owners and their holdings of all the shares or participations of the undertaking and the votes carried by them as well as the names, municipalities of residence and nationalities of the members of the Board of Directors, the Managing Director and the auditors as well as any changes in the information;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_158111: 2) the consolidated annual accounts of the parent company of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158113: The co-ordinating supervisory authority shall issue further regulations on the disclosure of the information referred to in subsection 1. An opinion of the other relevant competent supervisory authorities shall be requested on the regulation before it is issued.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14]
+PARAGRAPH_158115: Notification of an acquisition of shares and participations of the holding company of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158116: Anyone who intends, directly or indirectly, to acquire a holding in a holding company of a conglomerate which is at least 10 percent of its share capital, guarantee capital or co-operative capital or which produces at least 10 percent of the voting rights carried by its shares or participations, shall notify the Financial Supervision Authority or the Insurance Supervisory Authority of the acquisition in advance.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158117: If a holding referred to in paragraph 1 is increased so that it increases into at least 20, 33 or 50 percent of the share capital, guarantee capital or co-operative capital or carries voting rights of at least the same amount or so that the holding company of the conglomerate becomes a subsidiary, the supervisory authority referred to in subsection 1 shall also be notified of the acquisition.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158118: In calculating the portion of the holding and voting rights referred to in subsections 1 and 2, the provisions chapter 1, section 5 and chapter 2, section 9 (1) and (2) of the Securities Markets Act (495/1989) shall be applied.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158119: The notification referred to in subsections 1 and 2 shall also be made when the portion of holdings falls below the thresholds laid down in subsections 1 and 2.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158120: The authority that has received the notification referred to in subsection 1, 2 or 4 shall, without delay, notify the co-ordinating supervisory authority of the notification.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158121: The holding company of the conglomerate shall notify the co-ordinating supervisory authority of the names of the owners of holdings referred to in subsections 1 and 2 as well as of the sizes of such holdings at least once a year as well as immediately communicate any changes in the ownership of such holdings known to it.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_158124: Objection to an acquisition
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_158125: The co-ordinating supervisory authority may, within three months from the receipt of a notification referred to in section 11, object to the acquisition of the holding if, on the basis of the information obtained on the reliability or suitability of the holders or otherwise, it is likely that the holding would endanger the business operations of the holding company or conglomerate being carried out in accordance with sound and prudent business principles.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_158126: If an acquisition is not notified or if a holding is acquired despite the objection of the co-ordinating supervisory authority, the co-ordinating supervisory authority may forbid the entry in the share register and shareholder register or in the list of members of the title relating to the shares and participations acquired by a shareholder or holder of a participation. If, after the acquisition, the co-ordinating supervisory authority notes that the holding seriously endangers the operations of the holding company or conglomerate being carried out in accordance with sound and prudent business principles, the co-ordinating supervisory authority may demand that an entry relating to the title to the shares or participations made in the share register or shareholder register or in the list of members be declared void for a fixed period not exceeding one year at a time.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158127: Prior to making the decision referred to in subsections 1 and 2, the co- ordinating supervisory authority shall request an opinion from the other relevant competent supervisory authorities. Consent to the acquisition may not be given if at least one of the other relevant competent supervisory authorities objects to the acquisition.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_158128: 13 § Acquisition of control in an undertaking outside the European Economic Area
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_158129: An undertaking belonging to the conglomerate may not acquire the control referred to in chapter 1, section 5 of the Accounting Act in a credit institution, investment firm, management company or insurance company whose domicile is in a State outside
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_158131: the European Economic Area unless the undertaking has notified the co-ordinating supervisory authority thereof in advance or if the co-ordinating supervisory authority, upon receipt of the notification, has forbidden the acquisition within the period of time provided for in subsection 2.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_158132: The co-ordinating supervisory authority may, within three months from receipt of the notification referred to in subsection 1, forbid the acquisition referred to in subsection 1 if the undertaking subject to the acquisition would belong to the conglomerate and if the laws, decrees or administrative provisions applicable to the undertaking would materially hinder the efficient supervision of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158133: Prior to making the decision referred to in subsection 2, the co-ordinating supervisory authority shall request an opinion from the other relevant competent supervisory authorities. Consent to the acquisition may not be given if at least one of the other relevant competent supervisory authorities objects to the acquisition.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_158134: 14 § Management of the holding company of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158135: The Board of Directors and the Managing Director of the holding company of a conglomerate shall manage the holding company of the conglomerate with professional skill as well as in accordance with sound and prudent business principles. The members and deputy members of the Board of Directors as well as the Managing Director and deputy Managing Director shall be trustworthy persons who are not bankrupt and whose capacity has not been restricted. The members and deputy members of the Board of Directors as well as the Managing Director and the deputy Managing Director shall also possess such general knowledge of financial and insurance activity as is deemed necessary with regard to the nature and scope of the operations of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158136: A person referred to in subsection 1 shall not be deemed trustworthy if he has, with a non-appealable judgement, been sentenced to imprisonment within the last five years or to a fine within the last three years for a crime which can be deemed to indicate that he is manifestly unsuitable as a member or deputy member of the Board of Directors or the Managing Director or deputy Managing Director of the holding company of a conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158138: The co-ordinating supervisory authority may, for a fixed period of time not exceeding five years, prohibit a person from acting as a member or deputy member of the Board of Directors or as Managing Director or deputy Managing Director of a holding company of a conglomerate if:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158139: 1) the person, in attending to his duties, has shown clear incompetence or carelessness and if it is evident that this may seriously damage the stability of the business activity of the conglomerate, the position of depositors or investors or the interests of creditors; or if
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158140: 2) he no longer fulfils the requirements provided for in subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158141: The holding company of the conglomerate shall, without delay, notify the co-ordinating supervisory authority of any changes in the management referred to in subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158142: 15 § Audit of the holding company of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158143: Only a certified auditor referred to in section 2 (2) of the Accounting Act (936/1994) may be elected an auditor of the holding company of a conglomerate. At least one of the auditors of the holding company of the conglomerate shall be an auditor referred to in section 4 of the Accounting Act or an audit organisation referred to in section 5 of the said Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158144: The auditor of the holding company of a conglomerate shall, without delay, notify the co-ordinating supervisory authority of any facts and decisions relating to the holding company of a conglomerate, which he has learnt in attending to his duties and which may be deemed to:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158145: 1) violate the duties of the holding company of a conglomerate laid down by this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_158146: 2) endanger the continuance of operations of the holding company of the conglomerate or of its subsidiaries; or to
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158147: 3) result in the submission of a reprimand or of a negative statement relating to the adoption of the annual accounts in the audit report.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158148: An auditor who has acted in good faith shall not become liable for financial damage possibly resulting from the measures in accordance with this subsection.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_158150: 16 § Internal control
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158151: The parent company of the conglomerate shall have adequate internal control and adequate risk management processes vis-à-vis the operations of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158152: The holding company of the conglomerate as well as an entity in the financial and insurance sector belonging to the conglomerate shall have adequate internal control and adequate risk management processes vis-à-vis its operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_158153: The co-ordinating supervisory authority may issue further provisions on the arrangement of internal control and risk management as well as on the requirements relating to reliable administration.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_158154: Chapter 3 Supervision of the financial position of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_158156: Scope of application of the supervision of the financial position
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158157: In applying sections 18 - 23, the conglomerate shall, in derogation from section 3, only include the entities in the financial and insurance sector as well as the holding company of the conglomerate. In applying sections 21 - 23, the conglomerate shall, of the undertakings referred to above in this subsection, include only the parent company of the conglomerate and its subsidiaries as well as their joint ventures referred to in the Accounting Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158158: In applying sections 18 - 23, an undertaking belonging to the conglomerate may be excluded by decision of the co-ordinating supervisory authority if the application is not necessary with regard to the attainment of the goals of the supervision of the conglomerate. The co-ordinating supervisory authority shall request a statement of the relevant competent supervisory authorities on the decision before it is issued. An undertaking which belongs to the consolidation group of a credit institution or an investment firm belonging to the conglomerate or within the supplementary supervision of an insurance company belonging to the conglomerate may also, even without the
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158160: decision of the supervisory authority, be excluded if it has been excluded in consolidated supervision or supplementary supervision due to the minor significance of the undertaking.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158162: Calculation of the own funds and the minimum amount of own funds of undertakings belonging to a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158163: In applying the provisions of this section, the own funds and the minimum amount of own funds of an undertaking belonging to a conglomerate shall mean:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158164: a) the own funds and the minimum amount of own funds in accordance with chapter 9 of the Act on Credit Institutions with regard to a Finnish credit institution or a foreign credit institution other than one referred to in paragraph d, the holding company of a credit institution or an investment firm, the holding company of a conglomerate where the share of the financial sector, calculated in accordance with section 4, subsection2 (1), is bigger than the share of the insurance sector or another undertaking in the financial sector which is a subsidiary or a participating undertaking of a credit institution, an investment firm, their holding company or the holding company of a conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158165: b) the own funds and the minimum amount of own funds referred to in section 31 of the Act on Investment Firms with regard to a Finnish investment firm or a foreign investment firm other than one referred to in paragraph d;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158166: c) the own funds and the minimum amount of own funds referred to in section 6 of the Act on Common Funds with regard to a Finnish management company or a foreign management company other than one referred to in paragraph d;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_158167: d) the own funds and the minimum amount of own funds in accordance with the provisions of the home States of undertakings referred to in paragraphs a - c above with regard to a foreign undertaking comparable to the undertakings referred to in the said paragraphs the home State of which belongs to the European Economic Area or another foreign undertaking corresponding to the undertakings referred to in the said paragraphs which, under the laws of its home State, is subject to a licence and the operations of which are subject to requirements corresponding to the Finnish solvency requirements;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_158169: e) the solvency margin and the minimum solvency margin in accordance with chapter 11 of the Insurance Companies Act with regard to a Finnish life or indemnity insurance company or a foreign life or indemnity insurance company or a reinsurance undertaking other than a Finnish undertaking referred to in paragraph g;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_158170: f) the solvency margin and the minimum solvency margin referred to in chapter 10 a of the Act on Insurance Associations with regard to an insurance association;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_158171: g) the solvency margin and the minimum solvency margin in accordance with the provisions of the home State of the insurance undertaking with regard to a foreign insurance undertaking the home State of which belongs to the European Economic Area or another foreign insurance undertaking which, under the laws of its home State, is subject to a licence and the operations of which are subject to requirements corresponding to the Finnish solvency requirements; if such requirements are applied to insurance undertakings but not to reinsurance undertakings in the said State, the solvency margin and the minimum solvency margin of a reinsurance undertaking may be calculated as with regard to an insurance undertaking of the said State;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_158172: h) the solvency margin in accordance with chapter 11 of the Act on Insurance Companies and the minimum amount of own funds in accordance with section 78 of the Act on Credit Institutions with regard to an insurance holding company referred to in section 2 (7), an ancillary services undertaking, a management company or a custodian or a holding company of a conglomerate where the share of insurance sector, calculated in accordance with section 4, subsection 2 (1), is bigger than the share of financial sector.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_158173: 19 § Solvency requirement of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158174: In order to ensure the solvency of a conglomerate, the own funds of the conglomerate shall at all times be no less than the minimum amount of own funds of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158175: The undertaking at the head of the conglomerate shall quarter-annually draw up and submit to the co-ordinating supervisory authority a solvency calculation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_158177: indicating the own funds and the minimum amount of own funds referred to in subsection 1 as well as their difference. The co-ordinating supervisory authority may grant the undertaking at the head of the conglomerate an exemption from the application of this subsection if the undertaking at the head of the conglomerate belongs to another conglomerate governed by this section or the corresponding laws of another State belonging to the European Economic Area and if all the undertakings belonging to the first-mentioned conglomerate belong to the latter conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158178: An undertaking at the head of the conglomerate shall confirm a plan for the conglomerate to maintain its solvency.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_158179: 20 § General principles applied to the calculation of the solvency requirement of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158180: Unless otherwise provided for in subsections 2 - 4, the own funds of a conglomerate shall be deemed to include an amount arrived at by adding up the own funds of the undertakings belonging to the conglomerate and by deducting therefrom the intra-group own funds of the undertakings belonging to the conglomerate and the internal profit from intra-group transactions. The minimum amount of own funds of a conglomerate shall be deemed to be the amount arrived at by adding up the minimum own funds of the undertakings belonging to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158181: If, in a conglomerate, the aggregate own funds of undertakings operating in the same sector exceed the aggregate minimum own funds required of these undertakings, only the own funds that meet both the requirements set on own funds in accordance with the Act on Credit Institutions and the requirements set on the solvency margin in accordance with the Act on Insurance Companies may, with regard to the amount exceeding the minimum own funds, be taken into account when calculating the solvency of the conglomerate. The provisions of this subsection on own funds and minimum own funds shall correspondingly apply to consolidated own funds and the adjusted solvency margin as well as to consolidated minimum own funds and the minimum adjusted solvency margin with regard to undertakings which belong to the consolidation group of an undertaking belonging to the conglomerate or which are
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_158183: subject to the supplementary supervision of an undertaking belonging to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_158184: If the amount of own funds of an undertaking belonging to the conglomerate exceeds the minimum amount of own funds required of the undertaking, only the share of the other undertakings belonging to the conglomerate may be taken into account of these own funds with regard to the amount exceeding the minimum amount of own funds. Nor may the own funds referred to in this subsection, the eligibility for distribution of which has been restricted under an Act, the Articles of Association or Bylaws or under a decision of an authority or which otherwise are not available to cover the losses of other undertakings belonging to the conglomerate be included in the own funds of the conglomerate to the extent that the own funds of an undertaking exceed the minimum own funds of the undertaking.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158185: If the minimum amount of own funds of a subsidiary belonging to the conglomerate exceeds its own funds, the difference shall be taken into account in full when calculating the solvency of the conglomerate unless the co-ordinating supervisory authority in an individual case grants permission to take into account the difference in a proportion corresponding to the holding of the parent company in the undertaking.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158186: Further provisions on the calculation of the solvency of a conglomerate shall be issued by a Decree of the Council of State.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_158187: 21 § Exposures to customers and their disclosure
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158188: For the purposes of this Act, an exposure to a customer of an undertaking belonging to the conglomerate shall mean the total amount of claims and investments as well as off-balance sheet commitments to any one natural or legal person or to any natural or legal person sharing substantial economic interests with the said person. Credit insurance and bonding shall be deemed comparable to off-balance sheet items. The following shall, however, not be included in exposures to customers:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_158189: 1) items deducted from the own funds referred to in section 18 of an undertaking belonging to the conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_158190: 2) items arising from the purchase or sale of foreign currency incurred in the ordinary course of settlement within 48 hours from the payment;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158192: 3) items arising from the purchase or sale of securities incurred in the ordinary course of settlement within five banking days from the date on which the payment was made or the securities delivered depending on which of them is effected earlier;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158193: 4) investment targets determining the performance of an asset-backed insurance referred to in chapter 10, section 3 a of the Act on Insurance Companies.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158194: For the purposes of this Act, a large exposure to customers shall mean an exposure equal to or exceeding 10 per cent of the own funds of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158195: The parent company of a conglomerate shall notify the co-ordinating supervisory authority of large exposures to customers at least four times a year.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158196: 22 § Limitations on exposures to customers
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158197: An exposure to a customer shall not exceed 25 per cent of the own funds of the conglomerate or, if the customer organisation is the parent company or subsidiary of an undertaking belonging to the conglomerate or a subsidiary of the parent company, 20 per cent of the own funds of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158198: The total amount of large exposures to customers may not exceed 800 per cent of the own funds of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158199: If the exposure or the aggregate amount of exposures to customers of a conglomerate exceeds the limit laid down in subsection 1 or 2, the parent company of the conglomerate shall, without delay, notify the co-ordinating supervisory authority thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158200: In the application of this section, the following shall not be included in exposures to customers:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158201: 1) items included in section 76, Group I of the Act on Credit Institutions unless their inclusion in the said Group is only based on a guarantee referred to in paragraph 6 of the Group;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_158202: 2) items included in section 76, Group II (1) and (2) of the Act on Credit Institutions with a maturity of one year or less unless their inclusion in the said Group is only based on a guarantee referred to in (1) and (2) of the Group; when calculating the exposure to customers, 80 per cent of each item to be included in (1) of the said Group
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158204: with a maturity of more than one year but not more than three years need not be taken into consideration;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158205: 3) claims secured by a deposit or another security comparable thereto in the undertaking belonging to the conglomerate that has granted the loan or in a parent company or subsidiary of such undertaking;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158206: 4) exposures to customers of a subsidiary of an undertaking belonging to the conglomerate if the subsidiary is an entity in the financial or insurance sector;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158207: 5) binding commitments to lend and commitments comparable thereto which may be unconditionally terminated;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158208: 6) bonds with public-sector collateral and mortgage credit collateral referred to in the Act on Mortgage Credit Banks (1240/1999) and foreign bonds with collateral comparable thereto;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158209: 7) other claims, investments and off-balance sheet items guaranteed by securities approved by the co-ordinating supervisory authority and easily convertible into cash as well as, when calculating the exposures to customers of savings banks and co-operative banks not belonging to the consortium of co-operative banks, claims from the central banking institutions of these banks.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158210: In applying this section, the exposure to a customer shall be deemed to be directed at the guarantor if another credit institution, investment firm or insurance company has given a suretyship on behalf of the customer. Credit derivative contracts meeting the terms approved by the co-ordinating supervisory authority may be deemed comparable to a suretyship and a deposit in accordance with subsection 4 (3). When calculating the exposures to customers of a conglomerate, the exposures to customers of joint ventures referred to in the Accounting Act shall be taken into account in the same proportion as the balance sheet of a joint venture is included in the consolidated annual accounts of a credit institution or a holding company.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_158211: The co-ordinating supervisory authority may, on application by the parent company of a conglomerate, grant an exemption from the restrictions provided for in this section if the large exposure to a customer is directed at an undertaking other than a credit institution, financial institution, ancillary services undertaking or an insurance company referred to in subsection 4 (4) and belonging to the same financial and insurance conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158213: The provisions of this section shall not be applied to the large exposures to customers which the conglomerate has upon its establishment. If the exposure to customers of the conglomerate or the aggregate amount of the large exposures to customers referred to in subsection 2 exceeds the limit prescribed in this section upon the establishment of the conglomerate, the exposure to customers may not, however, increase from what it was upon the establishment of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158214: In derogation from the provisions of this section, a consortium referred to in section 3, subsection 3 (2) shall be governed by the provisions of section 7 (4) of the Act on Co-operative Banks and Other Credit Institutions in the Form of a Co-operative on large exposures to customers of the consortium of co-operative banks.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_158215: 23 § Supervision of other risk concentrations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158216: The parent company of a conglomerate shall annually report to the co- ordinating supervisory authority the real-estate and share holdings of the conglomerate as well as the strategy relating to the share and real-estate holdings of the conglomerate and the internal limits set on the overall holdings of the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158217: The parent company of a conglomerate shall also monitor the country, foreign-exchange, interest-rate and sector-related risks included in the business operations of the conglomerate and set internal limits thereto. The parent company of the conglomerate shall submit to the co-ordinating supervisory authority the information necessary to control the concentrations arising from these risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_158218: 24 § Supervision of intra-group transactions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158219: The Financial Supervision Authority shall submit to the co-ordinating supervisory authority the information it has received under section 71 a of the Act on Credit Institutions and section 31 of the Act on Investment Firms. The Insurance Supervisory Authority shall correspondingly submit to the co-ordinating supervisory authority the information it has received under chapter 14 b, section 8 of the Act on Insurance Companies and chapter 12 a, section 8 of the Act on Insurance Associations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158221: The co-ordinating supervisory authority shall also request the corresponding information from the authorities responsible for the supervision of the foreign regulated entities belonging to the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158222: 25 § Reorganisation of the operations of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158223: Should the calculation referred to in section 19 indicate that the solvency of the conglomerate is negative or that the solvency is endangered, the undertaking at the head of the conglomerate shall submit a plan for the reorganisation of the solvency of the conglomerate to the co-ordinating supervisory authority for approval within a time period set by it.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158224: The reorganisation plan shall include:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158225: 1) a proposal for measures necessary for the reorganisation of solvency;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158226: 2) a clarification of the manner in which the proposed measures are estimated to have a safeguarding effect on the financial position of the depositors and investors and the interests of the insured;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158227: 3) the time limit within which the reorganisation measures are intended to be implemented.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158228: If the implementation of the reorganisation plan has not been possible within the time limit referred to in subsection 2 or if the measures in accordance with the plan are not likely to safeguard the financial position of the depositors and investors and the interests of the insured, the co-ordinating supervisory authority shall notify the relevant competent authorities responsible for the supervision of the regulated entities belonging to the conglomerate thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158229: 26 § Further provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_158230: The co-ordinating supervisory authority may issue further provisions on the application of the provisions of this Chapter necessary to fulfil the requirements set in Directive 2002/87/EC of the European Parliament and of the Council on the supplementary supervision of credit institutions, insurance undertakings and investment
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158232: firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council as well as further provisions necessary with regard to supervision on the fulfilment of the duty to notify prescribed in section 19 (2), section 21 (3) and section 23.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158233: Chapter 4 Annual accounts 27 §
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158234: Annual accounts of the holding company of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158235: The financial period of the holding company of a conglomerate is the calendar year. Upon the commencement of the operations of a conglomerate, the financial period may be shorter or longer than this, however, 18 months at the most.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158236: The annual accounts of the holding company of a conglomerate shall be drawn up within three months from the end of the financial period.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158237: 28 § Consolidated annual accounts
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158238: If the parent company of a group is the parent company of a conglomerate as referred to in this Act and if the conglomerate is governed by this Act, the provisions below in this chapter shall be applied to the drawing up of the consolidated annual accounts.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158239: The annual accounts of group undertakings governed by the provisions of chapter 4 of the Act on Credit Institutions or chapter 10 of the Act on Insurance Companies may be combined to the consolidated annual accounts without adapting the accounting standards required by these provisions.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_158240: A subsidiary and an associated undertaking of a group company referred to in subsection 2 may be left uncombined to the consolidated annual accounts in
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_158242: compliance with the provisions on the drawing up of the consolidated annual accounts of such a group company.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158243: The assets and liabilities of the entities in the financial sector, the entities in the insurance sector and the holding company of the conglomerate shall be presented separately in the consolidated balance sheet and the profits and expenses of the entities in the financial sector, the entities in the insurance sector and the holding company of the conglomerate separately in the consolidated profit and loss account.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_158244: 29 § Issuing of further provisions and permissions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158245: Further provisions on the layout for the balance sheet and the profit and loss account, the financing calculation, the information to be given in the notes to the balance sheet, the profit and loss account and the financing calculation, the layouts for the consolidated balance sheet and the consolidated profit and loss account, the information to be given in the notes to the consolidated balance sheet, consolidated profit and loss account and consolidated financing calculation as well as on the balance- sheet breakdown and the breakdown of the notes shall be issued by a Decree of the Council of State. The Financial Supervision Authority may, on application of the parent company of the group, for a special reason, also grant permission to derogate from the provisions of this Chapter for a set period if the parent company of the group is a credit institution, an investment firm or the holding company of a conglomerate where the share of entities in the financial sector is bigger than the share of entities in the insurance sector in the manner provided for in section 4, subsection 2 (1) and if the exemption is necessary in order to get a correct and sufficient view of the result and financial position of the group.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158246: The provisions of subsection 1 on the right of the Financial Supervision Authority to grant permission shall correspondingly apply to the Insurance Supervisory Authority if the parent company of the group is an insurance company or a holding company of a conglomerate where the share of entities in the insurance sector is bigger than the share of entities in the financial sector calculated in the manner referred to in the subsection.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158248: Prior to granting permission referred to in subsections 1 and 2, the supervisory authority shall request a statement from the other supervisory authority as well as, in case the matter is significant with regard to the general application of the Accounting Act or Decree (1339/1997) or the Limited Companies Act (734/1978) or the Act on Co-operatives (1488/2001), a statement of the Accounting Board.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_158249: 30 § Application of International Financial Reporting Standards
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158250: An undertaking which draws up its annual accounts or consolidated annual accounts in compliance with International Financial Reporting Standards shall not be governed by the provisions of this chapter. The submission of additional information not required by the International Financial Reporting Standards may, however, be provided for by a Decree of the Council of State.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_158251: Chapter 5 Duties of the supervisory authorities 31 §
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_158252: Duties of the co-ordinating supervisory authority
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158253: The duties of the co-ordinating supervisory authority shall be:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_158254: 1) to supervise that the undertakings belonging to the conglomerate fulfil their obligations under this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_158255: 2) to draw up, in co-operation with the other relevant competent supervisory authorities, at least once annually, an estimate of the clarity of the structure of the conglomerate with regard to supervision, the functionality of the organisation, the adequacy of internal control, the effects of intra-conglomerate transactions on the regulated entities of the conglomerate, the risk concentrations of the conglomerate as well as of the capital adequacy and the sufficiency of risk management;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_158257: 3) to co-ordinate the supervision of the conglomerate and, in co-operation with the other relevant competent supervisory authorities, annually to draw up a plan on the supervision of the conglomerate;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_158258: 4) to draw up, in co-operation with the other relevant competent supervisory authorities, a plan on procedure in a crisis situation;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_158259: 5) to request another supervisory authority to perform audits in undertakings belonging to the conglomerate and subject to its supervision at such intervals and to the extent necessary with regard to the supervision of the conglomerate in addition to the supervision which the other supervisory authority otherwise carries out under the law as well as itself to perform such audits in undertakings belonging to the conglomerate which are not otherwise subject to public supervision or in which the other supervisory authority has not, within a reasonable period of time after receipt of a request referred to above, performed an audit;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_158260: 6) to make the necessary proposals to the other supervisory authorities regarding measures which the co-ordinating supervisory authority deems appropriate on the basis of the information obtained from the conglomerate.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158261: The co-ordinating supervisory authority shall notify the other supervisory authority in advance of the performance of an audit referred to in paragraph 5 in an entity under the supervision of the latter supervisory authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_158262: 32 § Exchange of information between supervisory authorities
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158263: The co-ordinating supervisory authority shall, without delay, submit to the other supervisory authorities the decisions it has made under this Act and the notifications received under this Act and other information significant with regard to the supervision of the conglomerate as well as the reports and plans drawn up under section 31.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158264: The Financial Supervision Authority and the Insurance Supervisory Authority shall, on their own initiative, submit to the co-ordinating supervisory authority the information necessary for the fulfilment of the duties provided for in section 31 and any decisions of significance relating to their supervised entities as well as the sanctions imposed on their supervised entities. The Financial Supervision Authority and the
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158266: Insurance Supervisory Authority shall also, upon the request of the co-ordinating supervisory authority, submit to it the other information necessary for the supervision of the conglomerate obtained by the supervisory authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158267: In addition to the exchange of information necessary for the supervision of the conglomerate, the Financial Supervision Authority and the Insurance Supervisory Authority shall, on their own initiative, submit to each other and to the other authorities responsible for the supervision of the undertakings belonging to the conglomerate the information they have obtained in attending to their supervisory duties which may be of material significance with regard to the supervisory duty of the other supervisory authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_158268: Chapter 6 Miscellaneous provisions 33 §
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_158269: Secrecy obligation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158270: Anyone who, in the capacity of a member or deputy member of a body of an undertaking belonging to a conglomerate, or of a representative of such an undertaking or of another undertaking operating on behalf of an undertaking belonging to a conglomerate, or as their employee or agent, has, in performing his duties, obtained information on the financial position or private personal circumstances of a customer of an undertaking belonging to the conglomerate or of another person connected with its operation or on a trade or business secret shall be liable to keep it confidential unless the person to whose benefit the secrecy obligation has been provided consents to its disclosure. Confidential information may not be disclosed to a General Meeting of the Shareholders, a General Meeting of a Co-operative or a General Meeting of the Delegates or to a shareholder or member attending the meeting. The secrecy obligation of a credit institution belonging to a conglomerate and of an undertaking belonging to its consolidation group, an investment firm and an undertaking belonging to its consolidation group, a management company, an insurance company, an insurance holding company and an ancillary services undertaking referred to in
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158272: chapter 1, section 5 b of the Act on Insurance Companies shall be provided for separately.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158273: An undertaking belonging to a conglomerate and referred to in subsection 1 shall be liable to disclose the information referred to in subsection 1 to a prosecuting and pre-trial investigation authority for the investigation of a crime as well as to another authority entitled to this information under the law.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158274: An undertaking belonging to a conglomerate and referred to in paragraph 1 may disclose the information referred to in paragraph 1 to an organisation of the same conglomerate for the purpose of customer service and other customer-relationship management, marketing as well as the risk management of the conglomerate. The provisions of this subsection on the disclosure of information shall not apply to the disclosure of sensitive date referred to in section 11 of the Personal Data Act (523/1999).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158276: Liability of an undertaking belonging to a conglomerate to disclose information to the undertaking at the head of the conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158277: An undertaking belonging to a conglomerate shall, notwithstanding the provisions elsewhere in the Act, be liable to disclose to the undertaking at the head of the conglomerate the information necessary for the fulfilment of the obligations provided thereon in this Act. An undertaking at the head of the conglomerate shall be subject to the same secrecy obligation as the undertaking that has disclosed the information.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32]
+PARAGRAPH_158278: 35 § A conditional fine and other authority
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:32]
+PARAGRAPH_158279: If an undertaking belonging to a conglomerate has not complied with the provisions of this Act on its obligations, the authority supervising the undertaking or, if the undertaking is not subject to public supervision otherwise than under this Act, the co-ordinating supervisory authority may obligate the undertaking to fulfil such obligation under the threat of a conditional fine.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158281: The enforcement of a conditional fine shall be governed by separate provisions on the enforcement of a conditional fine imposed by the supervisory authority referred to in subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158282: In addition to the provisions of this Act, the supervisory authority of the Financial Supervision Authority as the co-ordinating supervisory authority in relation to the holding company of a conglomerate shall be governed by the provisions of the Act on the Financial Supervision Authority (87/2003) and the supervisory authority of the Insurance Supervisory Authority as the co-ordinating supervisory authority in relation to the holding company of a conglomerate shall be governed by the provisions of the Act on Insurance Companies.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33]
+PARAGRAPH_158283: 36 § Penalty provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158284: Anyone who wilfully acquires shares or participations in violation of section 12 or 13 shall, unless the act is minor or subject to a more severe penalty elsewhere in the law, be sentenced for breach of the provisions on the supervision of financial and insurance conglomerates to a fine.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33]
+PARAGRAPH_158285: 37 § Liability for damages
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158286: A member of the board of directors or the supervisory board or the Managing Director of the holding company of a conglomerate shall be liable to compensate any damage he has caused either wilfully or through negligence in his duties by acting in violation of this Act and the Decrees or regulations issued thereunder.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33]
+PARAGRAPH_158287: 38 § Entry into force
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158288: This Act enters into force on 5 August 2004. This Act shall repeal the Act on the Supervision of Financial and Insurance Conglomerates issued on 25 January 2002
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158290: (44/2002). The provisions of chapter 3 of the repealed Act shall, however, be applied until 1 January 2005. The provisions of chapters 3 and 4 of this Act shall be applied from 1 January 2005.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_158291: If the large exposures of a conglomerate exceed the limit provided for in section 22, subsection 1 or 2 upon the entry into force of the Act, the provisions of the said subsections shall not be applied to the conglomerate. The exposures to customers or the total amount of large exposures to customers of a conglomerate referred to in subsection 2 of the said section may, however, in that case, not exceed the amount it was upon the entry into force of the Act.
+

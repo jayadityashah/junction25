@@ -1,0 +1,1469 @@
+METADATA: {"document_id": 33, "filename": "2018_07.m6-fi.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 36, "paragraph_count": 681}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43644: ES FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43648: Määräykset ja ohjeet 7/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43649: Sijoituspalvelujen toiminnan järjestäminen ja menettelytavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43650: Dnro FIVA/2023/1726
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43651: Antopäivä 11.6.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43652: Voimaantulopäivä 1.9.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43653: Lisätietoja Pääomamarkkinoiden valvonta/Sijoi- tuspalvelut ja -tuotteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43654: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43655: FIN FIN FIN FIN FIN FIN FIN EIN DO
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_43657: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43659: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43660: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43661: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöja, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43662: Finanssivalvonta antaa määräyksia ainoastaan maarayksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43664: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetaan Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43665: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Oh- jeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43666: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toiminta- ohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43667: Finanssivalvonta.fi > Saantely > Maaraysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_43669: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43672: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43678: Soveltamisala ja maaritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43681: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43684: Määritelmät (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43686: Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43689: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43692: Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43695: Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43698: Finanssivalvonnan maarayksenantovaltuudet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43701: Kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43703: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43705: Tuotehallintamenettely
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43708: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43711: Rahoitusvalineita kehittavien tuotehallintavelvoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43714: Rahoitusvalineiden jakelijoiden tuotehallintavelvoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43717: Euroopan arvopaperimarkkinaviranomaisen ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43719: Asiakasvarojen suojaaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43722: Soveltamisala ja maaritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43725: Asiakasvarojen suojaaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43728: Asiakkaiden rahoitusvälineiden säilyttäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43731: Asiakkaan rahavarojen sailyttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43734: Asiakkaiden rahoitusvalineiden käyttaminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43737: Omistusoikeuden siirtävät rahoitusvakuusjärjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_43740: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43745: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43752: Asiakasvarojen sailyttamista koskevat ohjaus- ja hallintojärjestelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43754: Kannustimet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43757: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43760: Omaisuudenhoitoon ja riippumattomaan sijoitusneuvontaan liittyvät kannustimet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43763: Muut sijoituspalvelut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43766: Tutkimuksiin liittyvat kannustimet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43768: Tietämyksen ja pätevyyden arviointi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43771: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43774: Tietämys ja pätevyys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43777: Rahoitusvälineistä, sijoituspalveluista ja oheispalveluista tietoja antavat henkilöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43780: Sijoitusneuvontaa antavat henkilöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43783: Tietämyksen arviointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43786: Patevyys ja tyokokemuksen vahimmaismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43789: Tietämyksen tai pätevyyden puuttuminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43792: Euroopan arvopaperimarkkinaviranomaisen ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43795: arvopaperiviranomaisen ohjeiden taytantoönpano
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43798: Soveltuvuusvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43801: Monimutkaiset velkainstrumentit ja strukturoidut talletukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43804: Ristiinmyyntikäytänteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43807: Compliance-toiminto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43810: Palkka- ja palkkiopolitiikat ja -käytännöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43813: Asianmukaisuusvaatimukset (Annettu 6.6.2022, voimaan 13.10.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_43815: Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_43819: Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_43824: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43827: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43830: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43831: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43832: Naita maarayksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain 4 §:ssä tarkoitettuihin valvottaviin siten kuin siitä erikseen kussakin luvussa todetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43833: · luottolaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43834: · sijoituspalveluyritykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43835: · rahastoyhtiöt, jotka harjoittavat sijoitusrahastolain (48/1999) 5 §:n 2 momentissa tarkoitettua toimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43836: · vaihtoehtorahastojen hoitajat, jotka harjoittavat vaihtoehtorahastojen hoitajista annetun lain (162/2014) 3 luvun 2 §:n 2 momentissa ja 3 §:ssä tarkoitettua toimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43837: · muussa kuin ETA-valtiossa toimiluvan saaneiden ulkomaisten luottolaitosten sivuliikkeet, jotka tarjoavat sijoituspalvelua tai harjoittavat sijoitustoimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43838: · muussa kuin ETA-valtiossa toimiluvan saaneiden ulkomaisten sijoituspalveluyritysten sivu- liikkeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43839: Naita maarayksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain 6 §:ssä tarkoitettujen ulkomaisten ETA-valvottavien Suomessa oleviin sivuliikkeisiin, jotka tarjoavat Suomessa sijoituspalveluja tai harjoittaa sijoitustoimintaa siten kuin siitä erikseen kussakin lu- vussa todetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43840: · ulkomaiset luottolaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43841: · ulkomaiset sijoituspalveluyritykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43842: · ulkomaiset rahastoyhtiöt, jotka harjoittavat sijoitusrahastolain 5 §:n 2 momentissa tarkoitet- tua toimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43843: · Ulkomaiset vaihtoehtorahastojen hoitajat, jotka harjoittavat vaihtoehtorahastojen hoitajista annetun lain 3 luvun 2 §:n 2 momentissa ja 3 §:ssa tarkoitettua toimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43844: Sijoituspalvelulain 1 luvun 3 §:n 1 momentissa tarkoitettuihin henkilöihin sovelletaan soveltuvin osin näiden määräysten ja ohjeiden muita kuin 7.5. ja 8.4 luvuissa tarkoitettuja Euroopan arvo- paperimarkkinaviranomaisen ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43845: 1.2 Määritelmät (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43846: Näissä määräyksissā ja ohjeissa tarkoitetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_43847: · Kestävyystekijöillä Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/2088 kes- tävyyteen liittyvien tietojen antamisesta rahoituspalvelusektorilla 2 artiklan 24 kohdassa määriteltyjä kestävyystekijöitä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43848: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43849: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43852: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43853: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43854: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43855: · Laki luottolaitostoiminnasta (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43856: · Sijoituspalvelulaki (747/2012, jäljempänä SipaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43857: · Sijoitusrahastolaki (48/1999)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43858: · Laki vaihtoehtorahastojen hoitajista (162/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43859: 2.2 Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43860: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat suoraan sovellettavat Euroopan unionin asetukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43861: · Euroopan parlamentin ja neuvoston asetus (EU N:o 600/2014, annettu 15 päivänä touko- kuuta 2014, rahoitusvälineiden markkinoista sekä asetuksen (EU) N:o 648/2012 muuttami- sesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43862: · Komission delegoitu asetus (EU) 2017/565, annettu 25 päivänä huhtikuuta 2016, Euroopan parlamentin ja neuvoston direktiivin 2014/65/EU täydentämisestä sijoituspalveluyritysten toiminnan järjestämistä koskevien vaatimusten, toiminnan harjoittamisen edellytysten ja ky- seisessä direktiivissä määritettyjen käsitteiden osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43863: · Euroopan parlamentin ja neuvoston asetus (EU) 2019/2088, annettu 27 päivänä marras- kuuta 2019, kestävyyteen liittyvien tietojen antamisesta rahoituspalvelusektorilla (jäljem- pänä SFDR-asetus) (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43864: 2.3 Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43865: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan unionin direktivit:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43866: · Euroopan parlamentin ja neuvoston direktiivi 2014/65/EY, annettu 15 päivänä toukokuuta 2014 rahoitusvälineiden markkinoista sekä direktiivin 2002/92/EY ja direktiivin 2011/61/EU muuttamisesta (jäljempänä rahoitusvälineiden markkinat -direktiivi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43867: · Komission delegoitu direktiivi (EU) 2017/593, annettu 7 päivänä huhtikuuta 2016, Euroopan parlamentin ja neuvoston direktiivin 2014/65/EU täydentämisestä asiakkaiden rahoitusväli- neiden ja varojen suojaamisen, tuotevalvontavelvoitteiden sekä välityspalkkioiden, provisi- oiden tai muiden rahallisten tai ei-rahallisten etujen tarjoamiseen tai vastaanottamiseen so- vellettavien sääntöjen osalta (ETA:n kannalta merkityksellinen teksti) (jäljempänä komis- sion delegoitu direktiivi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43868: · Komission delegoitu direktiivi (EU) 2021/1269, annettu 21 päivänä huhtikuuta 2021, dele- goidun direktiivin (EU) 2017/593 muuttamisesta kestävyystekijöiden sisällyttämiseksi tuote- valvontavelvoitteisiin (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_43869: · Euroopan parlamentin ja neuvoston direktiivi 2009/65/EY (32009L0065), annettu 13 päi- vänä heinäkuuta 2009, siirtokelpoisiin arvopapereihin kohdistuvaa yhteistä sijoitustoimintaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43870: harjoittavia yrityksiä (yhteissijoitusyritykset) koskevien lakien, asetusten ja hallinnollisten määräysten yhteensovittamisesta (ETA:n kannalta merkityksellinen teksti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43871: · Euroopan parlamentin ja neuvoston direktiivi, annettu 8 päivänä kesäkuuta 2011, vaihtoeh- toisten sijoitusrahastojen hoitajista ja direktiivin 2003/41/EY ja 2009/65/EY sekä asetuksen (EY) N:o 1060/2009 ja (EU) N:o 1095/2010 muuttamisesta (ETA:n kannalta merkitykselli- nen teksti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43872: 2.4 Finanssivalvonnan maarayksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43873: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43874: · Sijoituspalvelulain 1 luvun 4-8 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43875: · Sijoituspalvelulain 7 luvun 16 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43876: · Sijoituspalvelulain 9 luvun 5 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43877: · Sijoituspalvelulain 10 luvun 16 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43878: 2.5 Kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43879: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan arvopaperimarkkinavi- ranomaisen (ESMA) antamat ohjeet ja suositukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43880: · ESMA:n ohjeet MiFID Il:n soveltuvuusvaatimuksista eräiltä osin (ESMA35-43-3172) (An- nettu 17.5.2023, voimaan 3.10.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43881: · ESMA:n ohjeet compliance-toimintoa koskevista MiFID II:n vaatimuksista tietyiltä osin (ESMA35-36-1952)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43882: · ESMA:n ohjeet MIFID II:n palkitsemisvaatimuksista eräiltä osin (ESMA35-43-3565) (An- nettu 17.5.2023, voimaan 3.10.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43883: · ESMA:n ohjeet monimutkaisista velkainstrumenteista ja strukturoiduista talletuksista (ESMA/2015/1787)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43884: · ESMA:n ohjeet tietämyksen ja pätevyyden arviointiin (ESMA/2015/1886)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43885: · Ristiinmyyntikäytäntöjä koskevat ESMA:n ohjeet (ESMA/2016/574)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43886: · ESMA:n ohjeet MiFID II -direktiivin tuotehallintavaatimuksista (ESMA35-43-3448) (Annettu 3.10.2023, voimaan 3.10.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43887: · ESMA:n ohjeet MiFID II:n asianmukaisuutta ja yksinomaan asiakastoimeksiantojen toteutta- mista koskevista vaatimuksista tietyiltä osin (ESMA35-43-3006) (Annettu 6.6.2022, voimaan 13.10.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43888: ESMA:n ohjeet ja suositukset ovat saatavilla osoitteesta Finanssivalvonta.fi seka ESMA:n inter- netsivuilta osoitteesta www.esma.europa.eu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43889: Osoitteesta www.esma.europa.eu on saatavilla myös ESMA:n julkaisemia saantelyn tulkintoja (Q&A).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_43893: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_43894: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_43895: (1) Näiden määräysten ja ohjeiden tavoitteena on panna SipaL:ssa säädettyjen määräyksenantoval- tuuksien mukaisesti kansallisesti täytäntöön komission delegoidun direktiivin säännöksiä asiakas- varojen suojaamisesta, tuotehallintamenettelystä ja kannustimista sekä saattaa valvottavien tie- toon ESMA:n antamia ohjeita ja suosituksia, joita valvottavien tulisi toiminnassaan ottaa huomi- oon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_43896: (2) Näiden määräysten ja ohjeiden tavoitteena on julkistaa rahoitusvälineistä, sijoituspalveluista ja oheispalveluista tietoja antavien ja sijoitusneuvontaa antavien henkilöiden tietämyksen ja päte- vyyden arvioimiseksi käytettävät perusteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_43897: (3) Näiden määräysten ja ohjeiden tavoitteena on lisäksi SipaL:ssa säädettyjen määräyksenantoval- tuuksien mukaisesti määritellä ESMA:n tietämyksen ja pätevyyden arviointiin liittyvässä ohjeessa edellytetty vaatimus tarkoituksenmukaisesta työkokemuksesta sellaiselle luonnolliselle henkilölle, joka antaa tietoja rahoitusvälineista, sijoituspalveluista tai oheispalveluista taikka antaa sijoitus- neuvontaa, enimmaisaika valvonnan alaisuudessa työskentelylle tilanteessa, jossa henkilöllä ei ole tarkoituksenmukaista tietämystä tai pätevyyttä sekä se, voiko tarkoituksenmukaisen tietämyk- sen arvioinnin suorittaja olla valvottava itse vai ulkopuolinen elin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_43899: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43901: 4 Tuotehallintamenettely
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43902: 4.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43903: (1) Tämän luvun 4.2-4.4 alalukuja sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspal- velua tai harjoittavat sijoitustoimintaa sivuliikkeestä. Alalukuja 4.2-4.4 sovelletaan soveltuvin osin myös ulkomaisten ETA-sijoituspalveluyritysten ja sijoituspalvelua tarjoavien tai sijoitustoi- mintaa harjoittavien ETA-luottolaitosten, ETA-rahastoyhtioiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin. Näistä palveluntarjoajista käytetään tässä luvussa termia sijoituspalvelu- yritys tai rahoitusvälineen kehittäjä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43904: (2) Tämän luvun säännöksiä sovelletaan, kun 1 kohdassa tarkoitettu palveluntarjoaja kehittää tai jakelee strukturoituja talletuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43905: 4.2 Rahoitusvalineita kehittavien tuotehallintavelvoitteet1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43906: (3) SipaL:n 7 luvun 7 §:n 1 momentin mukaan rahoitusvälineitä kehittävällä sijoituspalveluyrityk- sellä on oltava ajantasainen tuotehallintamenettely, jolla se varmistaa, että rahoitusvälineiden kehittäminen on eturistiriitojen asianmukaista hallintaa koskevien vaatimusten ja asiakkaiden edun mukaista. SipaL:n 7 luvun 16 §:n 1 momentin mukaan Finanssivalvonta antaa komission delegoidun direktiivin edellyttämät tarkemmat määräykset SipaL:n 7 luvun 7 §:ssä tarkoitetuista rahoitusvälineiden kehittäjän ja jakelijan velvollisuuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43907: MÄÄRÄYS (kohdat 4-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43908: (4) Tämän alaluvun säännöksiä sovelletaan asianmukaisesti ja oikeasuhtaisesti rahoitusvälineiden luomisessa, kehittämisessä, liikkeeseenlaskussa ja suunnittelussa huomioiden rahoitusväli- neen, sijoituspalvelun ja asiakaskohderyhmän luonne.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43909: (5) Sijoituspalveluyrityksen on vahvistettava menettelyt ja toimenpiteet sen varmistamiseksi, että rahoitusvälineiden kehittämisessa otetaan asianmukaisesti huomioon eturistiriitojen hallintaa koskevat vaatimukset, mukaan lukien palkitseminen. Rahoitusvälineen kehittäjän on huolehdit- tava menettelyjen ja toimenpiteiden noudattamisesta ja ylläpitämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43910: (6) Rahoitusvälineiden kehittäjien on erityisesti varmistettava, ettei
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43911: · rahoitusvälineiden suunnittelulla (mukaan lukien niiden ominaispiirteet) ole kielteisiä vai- kutuksia loppuasiakkaisiin tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43912: · se aiheuta markkinoiden eheyteen liittyvia ongelmia antamalla rahoitusvälineen kehittä- jälle mahdollisuuden vähentää kohde-etuutena oleviin omaisuuseriin liittyviä omia riske- jään tai vastuitaan taikka vapautua niista, kun rahoitusvälineen kehittajā pitää jo hallus- saan tallaisia kohde-etuutena olevia omaisuuseria omaan lukuunsa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43913: 1 Komission delegoidun direktiivin 9 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_43915: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43917: (7) Rahoitusvälineen kehittäjän on analysoitava mahdollisia eturistiriitoja jokaisen rahoitusvälineen kehittämisen yhteydessä. Arvioinnissa on tarkasteltava erityisesti sitä, saadaanko rahoitusväli- neellä aikaan sellainen tilanne, jossa loppuasiakkaisiin voisi kohdistua kielteisiā vaikutuksia, jos loppuasiakkaat ottavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43918: · vastakkaisen position kuin rahoitusvälineen kehittäjälla itsellaan on aiemmin ollut tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43919: · sille positiolle vastakkaisen position, jonka rahoitusvalineen kehittaja haluaa sailyttää tuotteen myynnin jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43920: (8) Rahoitusvälineen kehittäjän on ennen tuotteen lanseerauspäätöstä tutkittava, voiko rahoitusvä- line uhata rahoitusmarkkinoiden moitteetonta toimintaa tai vakautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43921: (9) Rahoitusvälinettä kehittävän sijoituspalveluyrityksen hallituksen on tosiasiallisesti valvottava yrityksen tuotehallintamenettelyä. Hallitukselle annettaviin compliance-raportteihin on järjestel- mällisesti sisällytettävä tiedot sijoituspalveluyrityksen kehittämistä rahoitusvälineistä pitäen si- sällään jakelustrategiaa koskevat tiedot. Compliance-raportit on pyynnöstä toimitettava Finans- sivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43922: (10) Compliance-toiminnon on valvottava tuotehallintamenettelyn kehittämistä ja siihen liittyviä sään- nöllisiä tarkastuksia havaitakseen riskit siitä, ettei sijoituspalveluyritys täytä tämän alaluvun vel- voitteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43923: (11) Rahoitusvälineen kehittäjän on varmistettava kirjallisesti keskinäiset velvoitteensa sellaisten yh- teisöjen kanssa, jotka toimivat niiden yhteistyökumppanina rahoitusvälineen luomisessa, kehit- tämisessä, liikkeeseen laskemisessa tai suunnittelussa ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43924: · joilla ei ole toimilupaa ja joita ei valvota rahoitusvälineiden markkinat -direktiivin mukai- sesti tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43925: · jotka ovat peräisin kolmannesta maasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43926: (12) Rahoitusvälineen kehittäjän on määritettävä kullekin rahoitusvälineelle riittävän tarkasti mahdol- linen asiakaskohderyhmä sekä täsmennettävä asiakastyyppi tai asiakastyypit, jonka tai joiden tarpeisiin, ominaisuuksiin ja tavoitteisiin (mukaan lukien kaikki kestävyyteen liittyvät tavoitteet) rahoitusväline sopii. Tässä menettelyssa on maaritettävä myös asiakastyyppi tai asiakastyypit, joiden tarpeisiin, ominaisuuksiin ja tavoitteisiin rahoitusväline ei ole sopiva paitsi silloin, jos ra- hoitusvälineessä huomioidaan kestävyystekijät. Jos sijoituspalveluyritykset kehittävät rahoitus- välineen yhdessä, rahoitusvälineelle on määritettävä ainoastaan yksi asiakaskohderyhmä. (An- nettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43927: (13) Rahoitusvälineen kehittäjän, joka ei itse jakele kehittämäänsä rahoitusvälinettä, on määritettävä sellaisten asiakkaiden tarpeet ja ominaisuudet, joille tuote soveltuu, sellaisten teoreettisten tie- tojen ja aiempien kokemustensa perusteella, joita silla on kyseisestä rahoitusvälineestä tai sa- mankaltaisista rahoitusvälineistä, rahoitusmarkkinoista sekä mahdollisten loppuasiakkaiden tar- peista, ominaisuuksista ja tavoitteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43928: (14) Rahoitusvälineen kehittäjän on laadittava rahoitusvälineistään skenaarioanalyysi, jossa arvioi- daan tuotteesta aiheutuvia riskeja loppuasiakkaalle ja missa olosuhteissa nama voivat toteutua. Sijoituspalveluyrityksen on arvioitava, mitä rahoitusvälineelle tapahtuisi kielteisissä olosuhteissa esimerkiksi silloin, kun
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43929: · markkinaympäristö heikkenee
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_43931: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43934: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43935: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43937: · rahoitusvälineen kehittäjä tai sen kehittämiseen ja/tai toimintaan osallistuva kolmas osa- puoli joutuu taloudellisiin vaikeuksiin tai jokin toinen vastapuoliriski toteutuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43938: · rahoitusvälineesta ei tule kaupallisesti kannattavaa tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43939: · rahoitusvälineen kysynta on huomattavasti ennakoitua suurempaa, mikä kohdistaa pai- neita rahoitusvälineen kehittäjän resursseihin ja/tai kohde-etuutena olevaan välineeseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43940: (15) Rahoitusvälineen kehittäjän on selvitettävä, vastaako rahoitusväline asiakaskohderyhmän tar- peita, ominaisuuksia ja tavoitteita tarkastelemalla myös seuraavia näkökohtia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43941: · rahoitusvälineen riski-tuottoprofiili on asiakaskohderyhmän mukainen,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43942: · rahoitusvälineen mahdolliset kestävyystekijät ovat asiakaskohderyhmän mukaiset. (An- nettu 6.6.2022, voimaan 22.11.2022).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43943: · rahoitusvälineen suunnittelu perustuu asiakasta hyödyttäviin ominaisuuksiin, eikä liiketoi- mintamalliin, jonka edellyttaa asiakastulosten olevan heikkoja ollakseen kannattavaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43944: (16) Rahoitusvälineen kehittäjän on tutkittava rahoitusvälineen ehdotettu kulurakenne tarkastele- malla myös seuraavia näkökohtia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43945: · rahoitusvälineen kulut ja veloitukset sopivat yhteen asiakaskohderyhmän tarpeiden, ta- voitteiden ja ominaisuuksien kanssa,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43946: · maksut eivät heikenna rahoitusvalineen tuotto-odotuksia esimerkiksi siina tapauksessa, että kulut ja veloitukset ovat yhtä suuret kuin tai ylittävät taikka kumoavat lähes kaikki odotettavissa olevat veroetuudet, joita rahoitusvälineeseen liittyy ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43947: · rahoitusvälineen kulurakenne on asiakaskohderyhman kannalta riittavän lapinakyvä esi- merkiksi siten, ettei siina peitella maksuja tai ettei se ole liian monimutkainen ymmärtää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43948: (17) Sijoituspalveluyrityksen on annettava jakelijoille tiedot rahoitusvälineen asianmukaisista jakelu- kanavista, tuotehyväksyntämenettelystä ja asiakaskohderyhmän arvioinnista. Tietojen tulee olla riittavän hyvätasoisia, jotta jakelijoilla on mahdollisuus ymmartaa tuotetta ja suosittaa tai myydä sitä asianmukaisesti. Sijoituspalveluyrityksen on esitettävä rahoitusvälineiden kestävyystekijät avoimesti ja annettava jakelijoille asiaankuuluvat tiedot, jotta ne voivat ottaa asianmukaisesti huomioon asiakkaidensa tai potentiaalisten asiakkaidensa kestävyyteen liittyvät tavoitteet. (An- nettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43949: (18) Sijoituspalveluyrityksen on tarkasteltava kehittämiään rahoitusvälineitä säännöllisesti ottaen huomioon kaikki tapahtumat, jotka voivat olennaisesti vaikuttaa yksilöityyn asiakaskohderyh- mään kohdistuvaan potentiaaliseen riskiin. Sijoituspalveluyrityksen on tutkittava, onko rahoitus- väline yhä asiakaskohderyhmän tarpeiden, ominaisuuksien ja tavoitteiden (mukaan lukien kes- tävyyteen liittyvät tavoitteet) mukainen ja jaellaanko sitä asiakaskohderyhmälle vai tavoitel- laanko sillä asiakkaita, joiden tarpeiden, ominaisuuksien ja tavoitteiden kanssa se ei ole yhteen- sopiva. (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_43950: (19) Sijoituspalveluyrityksen on tarkasteltava rahoitusvälinettä ennen jokaista uutta liikkeeseenlas- kua tai uudelleenlanseerausta, jos se on tietoinen tapahtumasta, joka voi olennaisesti vaikuttaa sijoittajiin kohdistuvaan riskiin seka arvioimaan säännöllisin valiajoin, toimiiko rahoitusväline tar- koitetulla tavalla. Sijoituspalveluyrityksen on päätettävä, kuinka säännöllisesti se tarkastelee rahoitusvälineitään merkityksellisten tekijöiden perusteella. Tällaisten tekijöiden on pidettävä sisällään myös noudatettujen sijoitusstrategioiden monimutkaisuus tai innovatiivinen luonne.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43951: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43954: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43955: Sijoituspalveluyrityksen on myös määritettävä ratkaisevat tapahtumat, jotka vaikuttaisivat rahoi- tusvälineen potentiaaliseen riskiin tai tuotto-odotuksiin, kuten
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43956: · kynnysarvon ylittäminen, joka vaikuttaa rahoitusvälineen tuottoprofiiliin tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43957: · sellaisten liikkeeseenlaskijoiden vakavaraisuus, joiden arvopaperit tai takaukset voivat vaikuttaa rahoitusvälineen tuloksellisuuteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43958: Tällaisten tapahtumien toteutuessa sijoituspalveluyrityksen on ryhdyttävä asianmukaisiin toi- menpiteisiin. Näihin voivat kuulua
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43959: · kaikkien merkityksellisten tietojen antaminen tapahtumasta ja sen rahoitusvälineeseen kohdistuvista seurauksista asiakkaille tai rahoitusvälineen jakelijoille, kun sijoituspalvelu- yritys ei itse tarjoa tai myy rahoitusvälinettä suoraan asiakkaalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43960: · tuotehyväksymismenettelyn muuttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43961: · rahoitusvälineen liikkeeseenlaskun pysäyttäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43962: · rahoitusvälineen muuttaminen kohtuuttomien sopimusehtojen välttämiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43963: · rahoitusvälineiden jakelukanavien asianmukaisuuden tutkiminen, jos sijoituspalveluyritys havaitsee, ettei rahoitusvälinettä myyda suunnitellulla tavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43964: · keskustelu jakeluprosessin muuttamisesta jakelijan kanssa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43965: · jakelijasuhteen päättäminen tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43966: · tietojen antaminen Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43967: 4.3 Rahoitusvälineiden jakelijoiden tuotehallintavelvoitteet2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43968: (20) SipaL:n 7 luvun 7 §:n 4 momentin mukaan voidakseen tarjota tai suositella rahoitusvälineitä, joita sijoituspalveluyritys ei itse kehitä, sillä on oltava käytössään asianmukaiset tuotehallinta- menettelyt, joiden avulla se voi saada SipaL:n 7 luvun 7 §:n 2 momentissa tarkoitetut tiedot ra- hoitusvälineestä, tuotteiden hyväksymistä koskevasta menettelystä sekä rahoitusvälineen asia- kaskohderyhmästä. SipaL 7 luvun 7 §:n 6 momentin mukaan rahoitusvälineen jakelijan on var- mistettava, että rahoitusvälinettä tarjotaan tai suositellaan asiakkaalle vain silloin, jos se on asi- akkaan edun mukaista. SipaL:n 7 luvun 16 §:n 1 momentin mukaan Finanssivalvonta antaa ko- mission delegoidun direktiivin edellyttämät tarkemmat määräykset SipaL:n 7 luvun 7 §:ssä tar- koitetuista rahoitusvälineiden kehittäjän ja jakelijan velvollisuuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43969: MÄÄRÄYS (kohdat 21-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43970: (21) Tämän alaluvun säännöksiä sovellettaessa on otettava asianmukaisesti ja oikeasuhtaisesti huomioon rahoitusvälineen, sijoituspalvelun ja tuotteen asiakaskohderyhmän luonne.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43971: (22) Sijoituspalveluyrityksen on noudatettava rahoitusvälineiden markkinat -direktiivin mukaisia vaa- timuksia myös silloin, kun se tarjoaa tai suosittelee sellaisia rahoitusvälineitä, joiden kehittäjä ei kuulu rahoitusvälineiden markkinat -direktiivin soveltamisalaan. Sijoituspalveluyrityksella on ol- tava toimivat järjestelyt, joilla se varmistaa saavansa riittavästi tietoa kyseisista rahoitusväli- neistä niiden kehittäjiltä. Sijoituspalveluyrityksen on määritettävä kullekin rahoitusvälineelle asiakaskohderyhmä, vaikka rahoitusvälineen kehittäjä ei olisi sellaista määrittänyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_43972: 2 Komission delegoidun direktiivin 10 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43973: (23) Sijoituspalveluyrityksella on oltava käytössään asianmukaiset tuotehallintajärjestelyt sen varmis- tamiseksi, että tuotteet ja palvelut, joita ne aikovat tarjota tai suosittaa, ovat yhteensopivia yksi- löidyn asiakaskohderyhmän tarpeiden, ominaisuuksien ja tavoitteiden (mukaan lukien kestävyy- teen liittyvät tavoitteet) kanssa ja että aiottu jakelustrategia on yksilöidyn asiakaskohderyhmän mukainen. Sijoituspalveluyrityksen on yksilöitävä ja arvioitava asianmukaisesti sellaisten asiak- kaiden olosuhteet ja tarpeet, joihin se aikoo keskittya, jotta varmistetaan, etteivät asiakkaiden edut vaarannu kaupallisten tai rahoituspaineiden vuoksi. Tässä menettelyssä sijoituspalveluyri- tyksen on yksilöitävä asiakaskohderyhmät, joiden tarpeisiin, ominaisuuksiin ja tavoitteisiin rahoi- tusväline ei ole sopiva paitsi silloin, jos rahoitusvälineessä otetaan huomioon kestävyystekijät. (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43974: (24) Sijoituspalveluyrityksen on huolehdittava siitä, että se saa rahoitusvälineiden markkinat -direktii- vin soveltamisalaan kuuluvilta kehittäjiltä sellaisten tuotteiden ymmärtämiseen ja tuntemiseen tarvitsemansa tiedot, joita se aikoo suosittaa tai myyda, jotta varmistetaan, että naitā tuotteita jaellaan yksilöidyn asiakaskohderyhmän tarpeiden, ominaisuuksien ja tavoitteiden mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43975: (25) Sijoituspalveluyrityksen on toteutettava kaikki kohtuulliset toimenpiteet sen varmistamiseksi, että se saa riittävät ja luotettavat tiedot rahoitusvälineiden markkinat -direktiivin soveltamisalaan kuulumattomilta kehittäjiltä, jotta varmistetaan, että tuotteita jaellaan yksiloidyn asiakaskohde- ryhmän tarpeiden, ominaisuuksien ja tavoitteiden mukaisesti. Jos merkityksellisiä tietoja ei ole julkisesti saatavilla, jakelijan on toteutettava kaikki kohtuulliset toimet hankkiakseen tällaiset tie- dot kehittäjältä tai tämän asiamieheltä. Hyväksyttavia julkisesti saatavilla olevia tietoja ovat sel- keät ja luotettavat tiedot, jotka on tuotettu sääntelyvaatimusten, kuten Euroopan parlamentin ja neuvoston direktiivin 2003/71/EY tai direktiivin 2004/109/EY mukaisten julkistamisvaatimusten täyttämiseksi. Tämä velvoite koskee ensi- ja jälkimarkkinoilla myytävia tuotteita, ja sitä sovelle- taan oikeasuhtaisesti sen mukaan, missä määrin julkisia tietoja on saatavilla ja kuinka monimut- kaisesta tuotteesta on kyse.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43976: (26) Sijoituspalveluyrityksen on kehittäjältä saamiensa ja omia asiakkaitaan koskevien tietojen avulla määriteltāvā jakelustrategia. Jos sijoituspalveluyritys toimii sekā kehittäjānā ettā jakelijana, vaa- ditaan vain yksi asiakaskohderyhmän arviointi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43977: (27) Sijoituspalveluyrityksen on ylläpidettävä menettelyja ja toimenpiteitä, joilla se varmistaa, että se noudattaa kaikkia rahoitusvälineiden markkinat -direktiivin mukaisesti sovellettavia vaatimuk- sia, kun se päättää tarjoamiensa tai suosittamiensa rahoitusvälineiden ja palvelujen valikoi- masta ja vastaavista asiakaskohderyhmistä. Näitä ovat ainakin tietojen julkistaminen, soveltu- vuuden tai asianmukaisuuden arviointi, kannustimet ja eturistiriitojen asianmukaista hallintaa koskevat vaatimukset. Erityistä huolellisuutta on noudatettava, kun jakelijat aikovat tarjota tai suosittaa uusia tuotteita tai kun niiden tarjoamissa palveluissa esiintyy muutoksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43978: (28) Sijoituspalveluyrityksen on tarkistettava ja päivitettävä tuotehallintajärjestelyjāän määräajoin ja toteutettava tarvittaessa asianmukaisia toimia. Tarkastamisen ja päivittämisen tarkoituksena on varmistaa, että tuotehallintamenettely säilyy luotettavana ja tarkoituksenmukaisena.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43979: (29) Sijoituspalveluyrityksen on tarkasteltava tarjoamiaan tai suosittamiaan sijoitustuotteita sekä tar- joamiaan palveluja säännöllisesti ottaen huomioon kaikki tapahtumat, jotka voivat olennaisesti vaikuttaa yksilöityyn asiakaskohderyhmään kohdistuvaan potentiaaliseen riskiin. Sijoituspalve- luyrityksen on arvioitava ainakin, onko tuote tai palvelu edelleen yksilöidyn asiakaskohderyh- män tarpeiden, ominaisuuksien tai tavoitteiden (mukaan lukien kaikki kestävyyteen liittyen ta-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_43981: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43985: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43986: voitteet) mukainen ja onko aiottu jakelustrategia edelleen asianmukainen. Sijoituspalveluyrityk- sen on tarkasteltava asiakaskohderyhmää uudelleen ja/tai päivitettävä tuotehallintamenettelyä, jos se havaitsee, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43987: · se on yksilöinyt tietyn tuotteen tai palvelun asiakaskohderyhmän virheellisesti tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43988: · tuote tai palvelu ei enää vastaa yksilöidyn asiakaskohderyhmän olosuhteita esimerkiksi, kun tuotteesta tulee epälikvidi tai hyvin epävakaa markkinamuutosten vuoksi. (Annettu 6.6.2022, voimaan 22.11.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43989: (30) Sijoituspalveluyrityksen compliance-toiminnon on valvottava tuotehallintamenettelyn kehittä- mista ja säännöllistā tarkastamista havaitakseen riskit siitä, ettei sijoituspalveluyritys noudata tämän alaluvun velvoitteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43990: (31) Sijoituspalveluyrityksen hallituksen tehtävänä on tosiasiallisesti valvoa yrityksen tuotehallinta- menettelyä, jossa päätetään yrityksen tarjoamien ja suosittamien sijoitustuotteiden sekä kullekin asiakaskohderyhmälle tarjottavien palvelujen valikoimasta. Sijoituspalveluyrityksen on varmis- tettava, että hallitukselle annettaviin compliance-raportteihin sisällytetään järjestelmällisesti tie- dot yrityksen tarjoamista tai suosittamista tuotteista sekä tarjottavista palveluista. Compliance- raportit on annettava pyynnöstä Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43991: (32) Sijoituspalveluyritys, jolla on suora suhde asiakkaisiin, on viime kädessä vastuussa tässä alalu- vussa säädettyjen tuotehallintavelvoitteiden täyttämisestä, kun eri yritykset tekevät tuotteen tai palvelun jakelussa yhteistyötä. Välittäjinä toimivien sijoituspalveluyritysten on kuitenkin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43992: a) varmistettava, että merkitykselliset tuotetiedot siirtyvät ketjussa kehittäjältä lopulliselle jakeli- jalle,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43993: b) mahdollistettava se, että kehittäjä saa tiedot tuotemyynneistä, jos se pyytää niitä voidak- seen noudattaa omia tuotehallintavelvoitteitaan ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43994: c) tarvittaessa sovellettava kehittäjiä koskevia tuotehallintavelvoitteita tarjoamaansa palveluun.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43995: 4.4 Euroopan arvopaperimarkkinaviranomaisen ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43996: (33) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston ase- tuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet MiFID II -direktivin tuotehallintavaatimuk- sista" (ESMA35-43-3448) (Annettu 3.10.2023, voimaan 3.10.2023).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43997: OHJE (kohta 34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_43998: (34) Finanssivalvonta suosittaa, että tämän luvun soveltamisalaan kuuluvat noudattavat kyseisia oh- jeita, joka on saatavilla osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44001: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44002: 5 Asiakasvarojen suojaaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44003: 5.1 Soveltamisala ja maaritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44004: (1) Tätä lukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoaviin tai sijoi- tustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoitta- vat sijoitustoimintaa sivuliikkeestä käsin. Näistä palveluntarjoajista käytetään tässä luvussa ter- mia sijoituspalveluyritys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44005: 5.2 Asiakasvarojen suojaaminen3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44006: (2) SipaL:n 9 luvun 1 §:n mukaan sijoituspalveluyrityksen on järjestettävä sen hallintaan luovutettu- jen asiakkaan rahoitusvälineiden ja rahavarojen (asiakasvarat) säilyttäminen ja käsittely luotet- tavalla tavalla. Sijoituspalveluyrityksen on asiakasvarojen säilyttämisessä ja käsittelyssä erityi- sesti huolehdittava siitä, että sijoituspalveluyrityksen varat pidetään selkeästi erillään asiakasva- roista ja luottolaitoksia lukuun ottamatta estettävä rahavarojen käyttäminen sijoituspalveluyrityk- sen omaan lukuun. Sijoituspalveluyrityksen on pidettävä luotettavasti kirjaa asiakasvaroista si- ten, että kunkin asiakkaan asiakasvarat ovat riittävästi eriteltyina muiden asiakkaiden varoista. SipaL:n 9 luvun 2 §:n 3 momentin mukaan sijoituspalveluyrityksen on riittavästi varmistuttava siitä, että ulkopuolisen säilyttäjän hallussa säilytetyt asiakkaan rahoitusvälineet erotetaan sijoi- tuspalveluyritykselle ja säilyttäjälle kuuluvista rahoitusvälineistä. SipaL:n 9 luvun 3 §:n 1 mo- mentin mukaan sijoituspalveluyrityksen on sijoitettava asiakkaan rahavarat viipymättä tilille kes- kuspankkiin, talletuspankkiin tai muussa valtiossa toimiluvan saaneeseen talletusten vastaanot- tamiseen oikeutettuun luottolaitokseen. Asiakkaan rahavarat voidaan asiakkaan nimenomai- sella suostumuksella sijoittaa myös ETA-valtiossa rekisteröidyn sijoitusrahastodirektiivin tai vaihtoehtoisten sijoitusrahastojen hoitajista annetun direktiivin edellytykset täyttävän tai muutoin valvonnan kohteena olevan ja rahalaitossektorin taseesta annetun Euroopan keskuspankin asetuksen (EU) N:o 1071/2013 2 artiklan vaatimukset täyttävän rahamarkkinarahaston rahasto- osuuksiin. SipaL:n 9 luvun 5 §:n mukaan Finanssivalvonta antaa komission delegoidun direktii- vin täytäntöönpanemiseksi tarvittavat määräykset asiakasvarojen säilyttämisessä ja muussa käsittelyssä noudatettavista menettelytavoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44007: MÄÄRÄYS (kohdat 3-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44008: (3) Sijoituspalveluyrityksen on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44009: 1) säilytettävä tietoja ja ylläpidettävä tileja, joiden perusteella se voi milloin tahansa viipymättä erottaa hallussaan olevat asiakkaiden varat toisistaan ja asiakkaiden varat omista varois- taan,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44010: 2) säilytettāvā tietoja ja ylläpidettāvā tilejā tavalla, jolla varmistetaan niiden oikeellisuus ja var- sinkin se, että ne vastaavat asiakkaiden lukuun hallussa pidettyjä rahoitusvälineitä ja raha- varoja ja että niitā voidaan käyttää kirjausketjuna,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44011: 3 Komission delegoidun direktiivin 2 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44013: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44017: 3) tarkistettava säännöllisesti, että niiden sisäiset tilit ja tiedot vastaavat kyseisiä varoja säilyt- tävien kolmansien osapuolien tilejā ja tietoja,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44018: 4) SipaL:n 9 luvun 2 §:n 3 momentin mukaisesti varmistettava, että erillään pidettävät rahoitus- välineet on kirjattu kolmannen osapuolen kirjanpidossa eri tileille, tai varmistaminen on to- teutettu muilla vastaavilla toimenpiteilla, joilla saavutetaan samantasoinen suoja,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44019: 5) toteutettava tarvittavat toimenpiteet varmistaakseen, että keskuspankissa, talletuspankissa, ulkomaisessa luottolaitoksessa tai hyväksyttävässa rahamarkkinarahastossa säilytetyt asi- akkaisen varat säilytetään yhdella tai useammalla sellaisista tileistä erillisella tilillä, joita käy- tetään sijoituspalveluyritykselle kuuluvien varojen säilyttämiseen ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44020: 6) otettava käyttöön riittävät toimintajärjestelyt minimoidakseen riskin siitä, että asiakkaan va- rat tai kyseisiin varoihin liittyvät oikeudet häviävät tai vähenevät varojen väärinkäytön, niihin liittyvän petoksen, huonon hallinnon, tietojen riittämättömän kirjaamisen ja säilyttämisen tai huolimattomuuden vuoksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44021: (4) Sijoituspalveluyrityksen on otettava käyttöön järjestelyjä, joilla varmistetaan asiakkaan varojen suojaaminen ja edella 3 kohdassa ja SipaL:n 9 luvun 2 §:n 3 momentissa tarkoitettujen tavoittei- den täyttyminen, jos sovellettavasta laista ja erityisesti omaisuus- ja maksukyvyttömyyssään- nöksista seuraa, että sijoituspalveluyritys ei voi noudattaa tämän alaluvun 3 kohtaa ja SipaL:n 9 luvun 2 §:n 3 momenttia asiakkaan oikeuksien suojaamiseksi niin, että SipaL:n 9 luvun 1 §:n ja 4 §:n vaatimukset täyttyvät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44022: (5) Jos silla lainkäyttöalueella sovellettava lainsäädäntö, jolla asiakkaan rahavaroja tai rahoitusväli- neitä säilytetaan, estaa sijoituspalveluyritystä noudattamasta SipaL:n 9 luvun 2 §:n 3 momenttia tai edella tarkoitetun 3 kohdan 4 tai 5 alakohdassa säädettyjä velvoitteita, sijoituspalveluyrityk- sen on ryhdyttävä vastaavat vaikutukset aikaansaaviin toimenpiteisiin asiakkaan oikeuksien suojaamiseksi. Asiakkaalle on ilmoitettava, että tämä ei tallaisessa tapauksessa hyödy SipaL:n 9 luvun ja tämän luvun säännösten mukaisesta suojasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44023: (6) Jos sijoituspalveluyritys on velvollinen tekemään sopimuksia, joilla luodaan SipaL:n 9 luvun 4 §:n 3 momentissa tarkoitettuja vakuus-, pantti- tai kuittausoikeuksia, naista on tiedotettava asi- akkaalle ja ilmoitettava talle kyseisiin järjestelyihin liittyvät riskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44024: (7) Jos sijoituspalveluyritys on myöntänyt asiakkaiden rahoitusvälineisiin tai rahavaroihin kohdistu- via vakuus-, pantti- tai kuittausoikeuksia tai jos sijoituspalveluyritykselle on ilmoitettu niiden myöntämisestä, nämä oikeudet on kirjattava asiakassopimuksiin ja sijoituspalveluyrityksen omaan kirjanpitoon, jotta asiakasvarojen omistusoikeus olisi selvä esimerkiksi maksukyvyttö- myystilanteessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44025: 5.3 Asiakkaiden rahoitusvälineiden säilyttäminen4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44026: (8) SipaL:n 9 luvun 2 §:n 1 momentin mukaan, sijoituspalveluyrityksen, joka sailyttää asiakkaan rahoitusvälineitä ulkopuolisen säilyttäjän hallussa, on noudatettava riittävää huolellisuutta säilyt- täjän valitsemisessa. SipaL:n 9 luvun 2 §:n 2 momentin mukaan sijoituspalveluyrityksen on säi- lytettävä asiakkaan rahoitusvälineitä Finanssivalvonnan, ulkomaisen ETA- valvontaviranomaisen tai kolmannen maan valvontaviranomaisen valvottavana olevan ulkopuo-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44027: 4 Komission delegoidun direktiivin 3 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44028: lisen säilyttäjän hallussa, jollei rahoitusvälineen tai siihen liittyvän palvelun luonne edellytä säi- lyttämistä sellaisessa kolmannessa maassa, jossa rahoitusvälineen säilyttämisestä ei säädetä laissa tai jos ammattimainen asiakas sita nimenomaisesti kirjallisesti pyytaa. SipaL:n 9 luvun 5 §:n mukaan Finanssivalvonta antaa komission delegoidun direktiivin taytantöönpanemiseksi tarvittavat määräykset asiakasvarojen säilyttämisessä ja muussa käsittelyssä noudatettavista menettelytavoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44029: MÄÄRÄYS (kohdat 9-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44030: (9) Sijoituspalveluyrityksen on noudatettava ulkopuolisen säilyttäjän valitsemisessa ja säännölli- sessä seurannassa riittävää ammattitaitoa ja varovaisuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44031: (10) Sijoituspalveluyrityksen on otettava huomioon ulkopuolisen säilyttäjän asiantuntemus ja maine markkinoilla sekä kyseessä olevan rahoitusvälineen hallussapitoa koskevan lainsäädännön vaatimukset, jotka voisivat vaikuttaa kielteisesti asiakkaiden oikeuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44032: (11) SipaL:n 9 luvun 2 §:n 2 momentin säännöksia sovelletaan myös, kun kolmas osapuoli on siirtä- nyt jonkin rahoitusvälineen hallussapitoon ja säilyttämiseen liittyvän tehtävänsä toiselle kolman- nelle osapuolelle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44033: 5.4 Asiakkaan rahavarojen sailyttaminen5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44034: (12) SipaL:n 9 luvun 3 §:n 1 momentin mukaan asiakkaan rahavarat voidaan asiakkaan nimenomai- sella suostumuksella sijoittaa lainkohdassa tarkoitetun rahamarkkinarahastoon rahasto-osuuk- siin. SipaL:n 9 luvun 3 §:n 2 momentin mukaan sijoituspalveluyrityksen on noudatettava riittä- vää ammattitaitoa, huolellisuutta ja varovaisuutta rahavarat säilyttävän talletuspankin, ulkomai- sen luottolaitoksen ja rahamarkkinarahaston valinnassa ja säännöllisesti arvioitava asiakkaiden rahavarojen säilyttämiseen liittyvien vaatimusten täyttymistä. SipaL:n 9 luvun 5 §:n mukaan Fi- nanssivalvonta antaa komission delegoidun direktiivin täytäntöönpanemiseksi tarvittavat mää- räykset asiakasvarojen säilyttämisessä ja muussa käsittelyssä noudatettavista menettelyta- voista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44035: MÄÄRÄYS (kohta 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44036: (13) Sijoituspalveluyrityksen on otettava asiakkaan oikeuksien turvaamiseksi huomioon talletuspan- kin, ulkomaisen luottolaitoksen tai rahamarkkinarahaston asiantuntemus ja maine markkinoilla sekä asiakkaiden varojen hallussapitoa koskevaan lainsäädantöön tai säännöksiin liittyvät vaa- timukset tai markkinakäytänteet, jotka voisivat vaikuttaa kielteisesti asiakkaiden oikeuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44037: OHJE (kohta 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44038: (14) Finanssivalvonnan tulkinnan mukaan SipaL:n 9 luvun 3 §:n 1 momentti tarkoittaa sita, että asi- akkaan suostumuksen tosiasiallisuuden varmistamiseksi sijoituspalveluyrityksen tulee ilmoittaa asiakkaalle, että hyväksyttävässa rahamarkkinarahastossa säilytettyjā varoja ei pidetā hallussa asiakasvarojen säilyttämista koskevien SipaL:n 9 luvun säännösten tai tämän luvun määräysten vaatimusten mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44039: 5 Komission delegoidun direktiivin 4 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44041: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44045: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44046: 5.5 Asiakkaiden rahoitusvälineiden käyttäminen6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44047: (15) SipaL:n 9 luvun 4 §:n mukaan sijoituspalveluyritys ei saa ilman asiakkaan etukäteen antamaa erillistä nimenomaista suostumusta pantata, luovuttaa tai muuten oikeudellisesti määrätä asiak- kaalle kuuluvasta rahoitusvälineesta omaan eika toisen asiakkaan tai kolmannen lukuun. SipaL:n 9 luvun 5 §:n mukaan Finanssivalvonta antaa komission delegoidun direktiivin täytän- töönpanemiseksi tarvittavat määräykset asiakasvarojen säilyttämisessä ja muussa käsittelyssä noudatettavista menettelytavoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44048: MÄÄRÄYS (kohdat 16-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44049: (16) Sijoituspalveluyrityksen on säilytettävä yksityiskohtaiset tiedot asiakkaiden rahoitusvälineiden käyttämisestä mahdollisten tappioiden asianmukaiseksi kohdentamiseksi. Tietojen on sisället- tävä yksityiskohtaiset tiedot asiakkaista, joiden ohjeiden mukaisesti rahoitusvälineitä on käy- tetty, ja käytettyjen rahoitusvälineiden määrästä kunkin suostumuksen antaneen asiakkaan osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44050: (17) Sijoituspalveluyrityksen on toteutettava asianmukaiset toimenpiteet estääkseen asiakkaiden rahoitusvälineiden luvattoman käytön omaan lukuunsa tai toisen henkilön lukuun esimerkiksi seuraavin keinoin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44051: a) asiakkaiden kanssa tehdään sopimukset toimenpiteistä, jotka sijoituspalveluyritykset toteuttavat, jos asiakkaalla ei ole toimituspäivänä riittavästi varoja tilillään, kuten vastaa- vien arvopapereiden lainaksi ottaminen asiakkaan lukuun tai position kumoaminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44052: b) sijoituspalveluyritys seuraa tiiviisti arvioitua kapasiteettiaan suorittaa toimitus toimitus- päivänä, ja sen puuttuessa ottaa käyttöön korjaustoimenpiteitä ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44053: c) toimittamatta jääneitä arvopapereita seurataan tiiviisti ja ne vaaditaan nopeasti, jos niitä ei ole toimitettu toimituspäivänä tai sen jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44054: (18) Sijoituspalveluyritysten on otettava asiakkaitaan varten käyttöön erityisjärjestelyt sen varmista- miseksi, että asiakkaan rahoitusvälineiden lainaksiottaja asettaa asianmukaiset vakuudet ja että sijoituspalveluyritys valvoo vakuuksien olevan jatkuvasti asianmukaiset ja toteuttaa tarvittavat toimenpiteet säilyttääkseen tasapainon asiakkaan rahoitusvälineiden arvoon nähden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44055: 5.6 Omistusoikeuden siirtävät rahoitusvakuusjärjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44056: (19) SipaL:n 9 luvun 4 a §:n 1 momentin mukaan sijoituspalveluyrityksen on varmistuttava, että omistusoikeuden siirtävia rahoitusvakuusjärjestelyja käytetään ainoastaan tilanteissa, joissa niiden käyttö on perusteltua.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44057: OHJE (kohta 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44058: (20) Finanssivalvonnan tulkinnan mukaan SipaL:n 9 luvun 4 a §:n 1 momentti7 tarkoittaa myös sitä, että kun sijoituspalveluyritys harkitsee omistusoikeuden siirtävien rahoitusvakuusjärjestelyjen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44059: 6 Komission delegoidun direktiivin 5 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44060: 7 HE 151/2017 vp, s. 159 ja komission delegoidun direktiivin 6 artiklan 2 kohta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44061: käytön asianmukaisuutta ja dokumentoi sen, sijoituspalveluyritys ottaa huomioon myös seuraa- vat tekijät:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44062: a) onko asiakkaan sijoituspalveluyritykseen kohdistuvan velvoitteen ja omistusoikeuden siirtävien rahoitusvakuusjärjestelyjen välillä vain hyvin heikko yhteys, mukaan luettuna se, onko asiakkaan sijoituspalveluyritykselle olevan velan todennäköisyys pieni tai mer- kityksetön,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44063: b) onko asiakkaalla ylipäätään mitään velvoitteita sijoituspalveluyritystä kohtaan ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44064: c) otetaanko kaikkien asiakkaiden rahoitusvälineet tai varat omistusoikeuden siirtävien ra- hoitusvakuusjärjestelyjen piiriin ottamatta huomioon, mitä velvoitteita kullakin asiak- kaalla on sijoituspalveluyritystä kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44065: 5.7 Asiakasvarojen säilyttämista koskevat ohjaus- ja hallintojärjestelmät8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44066: (21) SipaL:n 9 luvun 11 §:n mukaan sijoituspalveluyrityksen on nimettävä henkilö, jolla on riittävät taidot ja valtuudet, vastaamaan asiakasvarojen säilyttämiseen liittyvien velvoitteiden noudatta- misesta. SipaL:n 9 luvun 5 §:n mukaan Finanssivalvonta antaa komission delegoidun direktiivin täytäntöönpanemiseksi tarvittavat määräykset asiakasvarojen säilyttämisessä ja muussa käsit- telyssä noudatettavista menettelytavoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44067: MÄÄRÄYS (kohta 22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44068: (22) Sijoituspalveluyritys voi päättää, että asiakasvarojen säilyttämiseen liittyvien velvoitteiden nou- dattamisesta vastaava henkilö voi hoitaa myös muita tehtäviä. Edellytyksenä on, että sijoitus- palveluyritys varmistaa sääntelyn täysimittaisen noudattamisen ja sen, että henkilö voi hoitaa tässä tarkoitetun tehtävänsä tehokkaasti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44069: 8 Komission delegoidun direktiivin 7 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_44071: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44073: 6 Kannustimet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44074: 6.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44075: (1) Tātā lukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin, ulkomaisten ETA- sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtioiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoa- viin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin. Näistä palveluntarjoajista käytetään tässä lu- vussa termia sijoituspalveluyritys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44076: (2) Tätä lukua sovelletaan myös, kun 1 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalveluyri- tys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvaa sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44077: 6.2 Omaisuudenhoitoon ja riippumattomaan sijoitusneuvontaan liittyvät kannustimet9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44078: (3) SipaL:n 10 luvun 6 §:n 6 momentin mukaan sijoituspalveluyritys ei saa tarjotessaan omaisuu- denhoitoa tai riippumatonta sijoitusneuvontaa vastaanottaa ja pitää itsellään välityspalkkioita, provisioita tai muita rahallisia tai ei-rahallisia etuja, jotka kolmas osapuoli tai kolmannen osa- puolen lukuun toimiva henkilö maksaa tai tarjoaa ja jotka liittyvät kyseisen palvelun tarjoami- seen asiakkaille. SipaL:n 10 luvun 6 §:n 7 momentin mukaan vähäisia ei-rahallisia etuja, jotka ovat omiaan parantamaan asiakkaalle tarjottavan omaisuudenhoito- tai riippumattoman sijoitus- neuvontapalvelun laatua ja jotka ovat laajuudeltaan ja luonteeltaan sellaisia, että niiden ei voida katsoa haittaavan sen velvoitteen noudattamista, jonka mukaan sijoituspalveluyrityksen on toi- mittava asiakkaan etujen mukaisesti, on ilmoitettava asiakkaalle selkeästi ennen palvelun tar- joamista, eika niita katsota tassa tarkoitetuiksi kannustimiksi. SipaL:n 10 luvun 16 §:n mukaan Finanssivalvonta antaa komission delegoidun direktiivin täytäntöönpanon edellyttämät tarkem- mat määräykset 6 §:n 6 momentissa saadetyistä edellytyksista asiakkaalle annettavista tie- doista saaduista tai maksetuista maksuista tai eduista sekä niiden palauttamisesta asiakkaalle ja 6 §:n 7 momentissa tarkoitetuista vähäisista ei-rahallisista eduista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44079: MÄÄRÄYS (kohdat 4-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44080: (4) Sijoituspalveluyrityksella on oltava toimintaperiaatteet, joita se soveltaa ja joilla se varmistaa, että kaikki välityspalkkiot, provisiot tai muut rahalliset edut, jotka kolmas osapuoli tai kolmannen osapuolen lukuun toimiva henkilö maksaa tai tarjoaa riippumattoman sijoitusneuvonnan tai omaisuudenhoidon tarjoamisen yhteydessä, jaetaan ja siirretään kullekin yksittäiselle asiak- kaalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44081: (5) Asiakkaalle siirrettävästä välityspalkkiosta, provisiosta tai muusta rahallisesta edusta voidaan ilmoittaa esimerkiksi säännöllisesti annettavien raporttien välityksella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44082: 9 Komission delegoidun direktiivin 12 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_44084: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44086: (6) Omaisuudenhoitaja tai riippumaton sijoitusneuvoja ei saa hyväksy ei-rahallisia etuja, joita ei voida pitaa hyväksyttavina vahaisina ei-rahallisina etuina. Ainoastaan seuraavia ei-rahallisia etuja voidaan pitää hyväksyttävinä vähäisinā ei-rahallisina etuina:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44087: (a) rahoitusvälinettä tai sijoituspalvelua koskevat tiedot tai asiakirjat, jotka ovat yleisluonteisia tai jotka on räätaloity vastaamaan yksittäisen asiakkaan olosuhteita,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44088: (b) kirjallinen aineisto, jonka todellinen tai potentiaalinen yrityssektorin liikkeeseenlaskija mak- sullisesti tilaa kolmannelta osapuolelta edistääkseen tulevaa uutta liikkeeseenlaskua tai jonka jatkuvan tuottamisen liikkeeseenlaskija on antanut sopimusperusteisesti ja maksulli- sesti tällaisen tehtäväksi edellyttäen, että tämä suhde ilmoitetaan aineistossa selkeästi ja että aineisto annetaan samanaikaisesti sekä yleisön että kaikkien sellaisten sijoituspalvelu- yritysten saataville, jotka sen haluavat,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44089: (c) osallistuminen konferensseihin, seminaareihin ja muihin koulutustilaisuuksiin, jotka koske- vat tietyn rahoitusvälineen tai sijoituspalvelun etuja ja erityispiirteitä ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44090: (d) vieraanvaraisuutta, jonka arvo on kohtuullisen pieni, kuten ruoan ja juoman tarjoamista liike- tapaamisen tai c-kohdassa tarkoitetun konferenssin, seminaarin tai muun koulutustilaisuu- den aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44091: (7) Hyväksyttävien vähäisten ei-rahallisten etujen on oltava kohtuullisia ja oikeasuhteisia sekä sen laajuisia, että niiden ei voida todennäköisesti katsoa vaikuttavan asiakkaan edun vastaisella tavalla sijoituspalveluyrityksen käyttäytymiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44092: (8) Asiakkaalle on annettava tieto palveluun liittyvistä vähäisistä ei-rahallisista eduista ennen sijoi- tus- tai oheispalvelun tarjoamista. Tiedot voidaan kuvata yleisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44093: 6.3 Muut sijoituspalvelut10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44094: (9) SipaL:n 10 luvun 6 §:n 1 momentin mukaan sijoituspalveluyritys ei saa maksaa kenellekään muulle osapuolelle kuin asiakkaalle tai asiakkaan lukuun toimivalle henkilölle tai vastaanottaa tällaiselta osapuolelta välityspalkkiota tai provisiota, taikka tarjota tai vastaanottaa ei-rahallisia etuja sijoitus- tai oheispalvelun tarjoamisen yhteydessä, paitsi jos maksu tai etu on tarkoitettu parantamaan asiakkaalle tarjottavan palvelun laatua eikä haittaa sen velvoitteen noudattamista, jonka mukaan sijoituspalveluyrityksen on toimittava rehellisesti, tasapuolisesti ja ammattimai- sesti asiakkaan etujen mukaisesti. SipaL:n 10 luvun 6 §:n 2 momentin mukaan välityspalkkio, provisio tai ei-rahallinen etu on tarkoitettu parantamaan asiakkaalle tarjottavan palvelun laatua, jos se on perusteltavissa sellaisen lisapalvelun tai korkeatasoisemman palvelun tarjoamisella asianomaiselle asiakkaalle, joka on oikeassa suhteessa vastaanotettuihin kannustimiin, eikä se suoranaisesti hyödytä vastaanottavaa yritystä, sen osakkeenomistajia tai työntekijöitä ilman asi- anomaiselle asiakkaalle koituvaa aineellista etua ja se on perusteltavissa jatkuvaan kannusti- meen liittyvän jatkuvan edun tarjoamisella asianomaiselle asiakkaalle. SipaL:n 10 luvun 6 §:n 3 momentin mukaan asiakkaalle on annettava ennen sijoitus- tai oheispalvelun tarjoamista selke- ässä muodossa kattavat, paikkansa pitävät ja ymmärrettävät tiedot pykalan 1 momentissa tar- koitetun maksun tai edun olemassaolosta sen luonteesta ja määrästä tai kun määräa ei pystytä maarittamaan, sen laskentamenetelmasta. SipaL:n 10 luvun 16 §:n mukaan Finanssivalvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44095: 10 Komission delegoidun direktiivin 11 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_44097: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44100: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44103: antaa komission delegoidun direktiivin edellyttämät tarkemmat määräykset 6 §:n 1-3 momen- tissa säädetyistä edellytyksista sille, että säännöksessa tarkoitettu maksu tai etu on tarkoitettu parantamaan asiakkaalle tarjottavan palvelun laatua ja, että se on asiakkaan edun mukaista seka asiakkaalle annettavista tiedoista saaduista tai maksetuista maksuista ja eduista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44104: MÄÄRÄYS (kohdat 10-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44105: (10) SipaL:n 10 luvun 6 §:n 2 momentissa tarkoitettuna oikeasuhtaisena palveluna suhteessa vas- taanotettuihin kannustimiin pidetään lisäpalvelua tai korkeamman tasoista palvelua, kuten
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44106: · epäitsenäisen sijoitusneuvonnan tarjoaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44107: o laajasta valikoimasta sopivia rahoitusvälineitä ja kyseisten rahoitusvälineiden saan- timahdollisuuden tarjoaminen, mukaan luettuna asianmukainen määrä rahoitusväli- neitä sellaisilta kolmansien osapuolten tuotteiden tarjoajilta, joilla ei ole läheisiä si- doksia sijoituspalveluyritykseen tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44108: o yhdistettynä asiakkaalle vähintään kerran vuodessa esitettävään tarjoukseen arvi- oida, ovatko rahoitusvälineet, joihin asiakas on sijoittanut, edelleen sopivia tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44109: o yhdistettynä muuhun jatkuvaan palveluun, josta asiakkaalle on todennäköisesti hyö- tyä, kuten ehdotettua asiakkaan varojen optimaalista jakoa koskeva neuvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44110: · rahoitusvälineiden saantimahdollisuuden tarjoaminen kilpailukykyiseen hintaan laajasta vali- koimasta rahoitusvälineitä, jotka todennäköisesti vastaavat asiakkaan tarpeita, mukaan lu- ettuna asianmukainen määrä rahoitusvälineitä sellaisilta kolmansien osapuolten tuotteiden tarjoajilta, joilla ei ole läheisia sidoksia sijoituspalveluyritykseen, minkä yhteydessä joko
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44111: o tarjotaan lisäarvoa tuottavia välineitä, kuten puolueettomia tiedonhankkimisvälineitä, jotta asianomaisen asiakkaan olisi helpompi tehdä sijoituspäätöksia tai jotta asian- omainen asiakas voisi seurata, mallintaa ja mukauttaa niiden rahoitusvälineiden va- likoimaa, joihin asiakas on sijoittanut tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44112: · annetaan säännöllisesti tietoja rahoitusvälineiden tuloksellisuudesta sekä niihin liit- tyvista kuluista ja liitännaisistā veloituksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44113: (11) Välityspalkkio, provisio tai ei-rahallinen etu ei ole hyväksyttävä, jos asiakkaalle tarjottavaa pal- velua voidaan siitä johtuen pitää puolueellisena tai vääristyneenä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44114: (12) Sijoituspalveluyrityksen on täytettävä SipaL:n 10 luvun 6 §:n 2 momentin ja edellä (10) ja (11) kohdan vaatimukset niin kauan kuin se jatkaa välityspalkkion, provisioin tai ei-rahallisen edun maksamista tai saamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44115: (13) Sijoituspalveluyrityksen on pystyttävä osoittamaan, että kaikki sen maksamat tai saamat välitys- palkkiot, provisiot tai ei-rahalliset edut on suunniteltu parantamaan asiakkaalle tarjottavan pal- velun laatua ja sen vuoksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_44116: (a) ylläpidettävä sisäistā luetteloa kaikista välityspalkkioista, provisioista ja ei-rahallisista eduista, jotka se saa kolmannelta osapuolelta sijoitus- ja oheispalvelun tarjoamisen yhtey- dessä ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44117: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44120: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44121: (b) kirjattava, miten välityspalkkiot, provisiot ja ei-rahalliset edut, jotka se on maksanut tai saa- nut tai joita se aikoo käyttää, parantavat asianomaisille asiakkaille tarjottujen palvelujen laa- tua ja mita toimia se on toteuttanut sen varmistamiseksi, että se kykenee toimimaan rehelli- sesti, tasapuolisesti ja ammattimaisesti asiakkaansa etujen mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44122: (14) SipaL:n 10 luvun 6 §:n 3 momentissa tarkoitetut vähäiset ei-rahalliset edut voidaan kuvata ylei- sesti. Muut ei-rahalliset edut, jotka sijoituspalveluyritys saa tai maksaa asiakkaalle tarjotun sijoi- tuspalvelun yhteydessä, on hinnoiteltava ja julkistettava erikseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44123: (15) Sijoituspalveluyritysten on otettava huomioon SipaL:n 10 luvun 5 §:n 1 momentin 3 kohdan ja komission delegoidun asetuksen (EU) 2017/565 50 artiklan mukaiset kuluja ja liitännäisiä veloi- tuksia koskevat säännökset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44124: (16) Jos jakelukanavaan osallistuu useampia yrityksia, kunkin sijoitus- ja oheispalvelua tarjoavan sijoituspalveluyrityksen on noudatettava velvoitteitaan antaa asiakkailleen tietoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44125: 6.4 Tutkimuksiin liittyvät kannustimet11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44126: (17) SipaL:n 10 luvun 16 §:n mukaan Finanssivalvonta antaa komission delegoidun direktiivin edel- lyttämät tarkemmat määräykset SipaL:n 10 luvun 6 §:ssä säädetyistä kannustimista liittyen sijoi- tustutkimuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44127: MÄÄRÄYS (kohdat 18-29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44128: (18) Kolmansien osapuolten tarjoamia tutkimuksia sellaisille sijoituspalveluyrityksille, jotka tarjoavat asiakkaille omaisuudenhoitoa tai muita sijoitus- tai oheispalveluja, ei pidetā kannustimina, jos tutkimus saadaan vastikkeeksi jommastakummasta seuraavista suorituksista:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44129: (a) sijoituspalveluyrityksen omista varoistaan maksamat suorat maksut tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44130: (b) maksut sijoituspalveluyrityksen hallinnassa olevalta erilliseltä tutkimusmaksutililtä, jos seu- raavat tilinkäyttöön liittyvät edellytykset täyttyvät:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44131: a. tutkimusmaksutilia rahoitetaan erityisella tutkimusmaksulla, joka veloitetaan asiak- kaalta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44132: b. ottaessaan tutkimusmaksutilin käyttöön ja sopiessaan asiakkaidensa kanssa tutki- musmaksusta sijoituspalveluyritys laatii tutkimusbudjetin ja arvioi sitä säännöllisesti sisäisenä hallinnollisena toimenpiteenä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44133: c. tutkimusmaksutili on sijoituspalveluyrityksen vastuulla ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44134: d. sijoituspalveluyritys tekee säännöllisiä arviointeja ostettujen tutkimusten laadusta tiukkojen laatukriteereiden perusteella sekä tällaisten tutkimusten kyvystä edistää parempia sijoituspäätöksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44135: (19) Jos sijoituspalveluyritys käyttää tutkimusmaksutiliä, sen on annettava asiakkaille seuraavat tie- dot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_44136: 11 Komission delegoidun direktivin 13 artikla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44137: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44139: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44143: (a) tutkimuksiin budjetoitu määrä ja asiakaskohtaisesti arvioitu tutkimusmaksun määrä ennen sijoituspalvelun tarjoamista ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44144: (b) kolmansien osapuolten suorittamien tutkimusten kokonaiskustannukset vuosittain asiakas- kohtaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44145: (20) Jos sijoituspalveluyritys käyttää tutkimusmaksutiliä, sen on toimitettava asiakkaan tai Finanssi- valvonnan pyynnöstä yhteenveto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44146: (a) tutkimuksen tarjoajista, joille on maksettu tutkimusmaksutilin varoista,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44147: (b) tutkimuksen tarjoajille tiettynä ajanjaksona suoritettujen maksujen kokonaismäärä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44148: (c) sijoituspalveluyrityksen saamat edut ja palvelut,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44149: (d) tutkimusmaksutililtä maksetun kokonaismäärän suuruus verrattuna kyseiselle ajanjaksolle tutkimuksia varten laadittuun budjettiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44150: seka osoittamaan kaikki alennukset tai siirrot, jos varoja on jäänyt tilille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44151: (21) Asiakkaan tutkimusmaksu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44152: (a) voi perustua pelkästään sijoituspalveluyrityksen laatimaan tutkimusbudjettiin asiakkailleen tarjoamia sijoituspalveluja koskevien kolmansien osapuolten suorittamien tutkimusten tar- vetta varten ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44153: (b) ei saa olla sidoksissa asiakkaiden lukuun toteutettujen liiketoimien volyymiin ja/tai arvoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44154: (22) Mikäli asiakkaan tutkimusmaksua ei peritä erikseen, vaan yhdessä liiketoimesta veloitettavan provision kanssa, tutkimusmaksu on ilmoitettava erikseen ja sen on oltava tunnistettavissa jo- kaisessa maksun keräämiseen liittyvässä operatiivisessa järjestelyssä, jonka on oltava täysin 18 (b) ja 19 kohdan edellytysten mukainen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44155: (23) Kerättyjen tutkimusmaksujen kokonaismäärä ei saa ylittää tutkimusbudjettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44156: (24) Sijoituspalveluyrityksen on sovittava asiakkaan kanssa salkunhoitosopimuksessa tai yleisissä liketoimintaehdoissa yrityksen budjetoimasta tutkimusmaksusta ja siitä, kuinka usein vuoden aikana tutkimusmaksu vähennetaan asiakkaan varoista. Lisabudjetointi edellyttää, että asiak- kaalle on selkeasti annettu tieto suunnitellusta lisayksestä. Jos tutkimusmaksutilillä on ylijää- mää ajanjakson päättyessä, sijoituspalveluyrityksella on oltava käytössään menettely, jolla va- rat voidaan palauttaa asiakkaille tai ottaa huomioon seuraavan ajanjakson tutkimusbudjetissa ja -maksussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_44157: (25) Tutkimusten hankkimista varten laadittavaa 18 (b) kohdan b alakohdassa tarkoitettua budjettia saa hallinnoida ainoastaan sijoituspalveluyritys. Budjetin on perustuttava kohtuulliseen arvioon kolmansien osapuolten laatimien tutkimusten tarpeesta. Tutkimusbudjetin käyttö tutkimusten ostamiseen kolmansilta osapuolilta on oltava asianmukaisten tarkastusten ja toimivan johdon harjoittaman valvonnan kohteena sen varmistamiseksi, että tutkimusbudjettia hallinnoidaan ja käytetään sijoituspalveluyrityksen asiakkaiden etujen mukaisesti. Tarkastusten on pidettävä si- sällään suoritettujen tutkimusmaksujen selkeä kirjausketju ja maksettujen määrien määritystapa huomioiden 18 kohdassa tarkoitetut laatuvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44160: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44161: (26) Sijoituspalveluyritys ei saa käyttää tutkimusbudjettia ja -maksutilia sisäisten tutkimusten rahoit- tamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44162: (27) Tutkimusmaksutilin hallinnointi voidaan 18 (b) kohdan c alakohdan estämättä ja sijoituspalvelu- yrityksen ohjeiden mukaisesti ulkoistaa, jos se on omiaan helpottamaan tutkimusten hankki- mista kolmansilta osapuolilta ja maksujen suorittamista tutkimusten laatijoille ilman aiheetonta viivytystä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44163: (28) Sijoituspalveluyrityksen on vahvistettava kirjallisissa toimintaperiaatteissa kaikki 18 (b) kohdan d alakohdan arvioinneissa käytettävät osatekijät ja annettava ne asiakkaille tiedoksi. Toiminta- periaatteissa on oltava myös
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44164: (a) kuvaus hyödyistä, joita hankittavasta tutkimuksesta voi olla asiakkaan salkunhoidossa ot- taen tarvittaessa huomioon erityyppisten salkkujen sijoitusstrategiat ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44165: (b) lähestymistapa, jota sijoituspalveluyritys noudattaa jakaessaan tutkimuksesta aiheutuvat kulut oikeudenmukaisesti eri asiakassalkkujen kesken.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_44166: (29) Sijoituspalveluyrityksen, joka tarjoaa asiakkailleen myös toimeksiantojen toteuttamista, on vah- vistettava tätä palvelua varten erilliset maksut, jotka pitävät sisällään ainoastaan liiketoimen to- teuttamiseen liittyvät kustannukset. Jos sijoituspalveluyritys tarjoaa muita palveluja tai etuja Eu- roopan unioniin sijoittautuneille sijoituspalveluyrityksille, kullekin palvelulle ja edulle on vahvis- tettava erillinen tunnistettavissa oleva maksu. Toimeksiantojen toteuttamista koskevien palvelu- jen maksut eivät saa vaikuttaa kyseisten palvelujen tai etujen suorittamiseen eikä niiden suorit- taminen saa olla riippuvainen toimeksiantojen toteuttamista koskevien palvelujen maksuista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44167: 7 Tietämyksen ja pätevyyden arviointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44168: 7.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44169: (1) Tātā lukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaan harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin, ulkomaisten ETA- sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtioiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoa- viin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin. Näistä palveluntarjoajista käytetään tässä lu- vussa termia sijoituspalveluyritys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44170: (2) Tätä lukua sovelletaan myös, kun 1 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalveluyri- tys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvaa sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44171: (3) Sijoituspalveluyrityksen lukuun toimivaan luonnolliseen henkilöön rinnastetaan sidonnais- asiamies ja sidonnaisasiamiehen palveluksessa oleva henkilö, joka antaa tietoja tai sijoitusneu- vontaa tässä luvussa tarkoitetulla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44172: 7.2 Tietämys ja pätevyys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44173: 7.2.1 Rahoitusvalineista, sijoituspalveluista ja oheispalveluista tietoja antavat henkilot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44174: (4) Sijoituspalvelulain 7 luvun 2 §:n 6 momentin mukaan sijoituspalveluyrityksella on oltava menet- telytavat, joilla voidaan varmistaa, että luonnollisella henkilöllä, joka antaa sijoitusneuvontaa tai tietoa rahoitusvälineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyri- tyksen lukuun, on edellä mainittujen palvelujen antamiseen tarvittava sekä tehtävien laatuun ja laajuuteen nähden riittävä tietämys ja pätevyys. Finanssivalvonta voi antaa SipaL:n 7 luvun 16 §:n 2 momentin perusteella tarkempia maarayksia SipaL:n 7 luvun 2 §:n 6 momentissa tarkoite- tun tarvittavan tietämyksen ja pätevyyden arviointiperusteista ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44175: MÄÄRÄYS (kohta 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44176: (5) Sijoituspalveluyrityksen on varmistettava, että luonnollisilla henkilöilla, jotka antavat tietoja ra- hoitusvälineistä, sijoituspalveluista tai oheispalveluista sijoituspalveluyrityksen lukuun, on riit- tävä tietämys ja pätevyys, jotta he
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44177: · ymmärtävät sijoituspalveluntarjoajan tarjoamien rahoitusvälineiden pääpiirteet, riskit ja ominaisuudet, kuten kaikki yleiset veroseuraamukset ja kulut, joita asiakkaalle aiheutuu liiketoimien yhteydessä. Erityistä huolellisuutta on noudatettava, kun tietoja annetaan tavallista monimutkaisemmista tuotteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44178: · ymmärtävät asiakkaalle rahoitusvälineitä koskevista liiketoimista, sijoituspalveluista tai oheispalveluista aiheutuvien kulujen ja maksujen kokonaismäärän.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44179: · ymmärtävät sijoituspalvelujen tai oheispalvelujen ominaispiirteet ja laajuuden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_44181: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44184: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44188: · ymmärtävät, kuinka rahoitusmarkkinat toimivat ja kuinka ne vaikuttavat niiden rahoitus- välineiden arvoon ja hinnoitteluun, joista he antavat tietoa asiakkaille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44189: · ymmärtävät talouslukujen ja kansallisten, alueellisten tai maailmanlaajuisten tapahtu- mien vaikutukset markkinoihin ja niiden rahoitusvälineiden arvoon, joista he tarjoavat tietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44190: · ymmärtävät eron tuottohistorian ja tulevaisuutta koskevien tuottoskenaarioiden välillä sekä ennusteiden rajoitteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44191: · ymmärtävät markkinoiden väärinkäyttöön ja rahanpesuun liittyvät näkökohdat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44192: · pystyvät arvioimaan tietoja, kuten avaintietoesitteitä, esitteitä, tilinpäätöksiä tai taloudel- lisia tietoja, jotka liittyvät rahoitusvälineisiin, joista he antavat tietoja asiakkaille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44193: · ymmärtävät erityisia markkinarakenteita, jotka koskevat rahoitusvälineitä, joista he anta- vat tietoja asiakkaille sekä näiden rahoitusvälineiden kauppapaikat ja mahdollisten jälki- markkinoiden olemassaolon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44194: · hallitsevat perustietämyksen niiden rahoitusvälineiden arvostusperiaatteista, joista he antavat tietoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44195: 7.2.2 Sijoitusneuvontaa antavat henkilot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44196: (6) SipaL:n 7 luvun 2 §:n 6 momentin mukaan sijoituspalveluyrityksella on oltava menettelytavat, joilla voidaan varmistaa, että luonnollisella henkilöllä, joka antaa sijoitusneuvontaa tai tietoa ra- hoitusvälineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyrityksen lukuun, on edella mainittujen palvelujen antamiseen tarvittava sekä tehtāvien laatuun ja laajuu- teen nähden riittava tietamys ja patevyys. Finanssivalvonta voi antaa SipaL:n 7 luvun 16 §:n 2 momentin perusteella tarkempia määräyksiä SipaL:n 7 luvun 2 §:n 6 momentissa tarkoitetun tarvittavan tietämyksen ja pätevyyden arviointiperusteista ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44197: MÄÄRÄYS (kohta 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44198: (7) Sijoituspalveluyrityksen on varmistettava, että luonnollisilla henkilöillä, jotka antavat sijoitusneu- vontaa sijoituspalveluyrityksen lukuun, on riittävä tietämys ja pätevyys, jotta he
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44199: · ymmärtävät sijoituspalveluyrityksen tarjoamien tai suosittelemien rahoitusvälineiden pääpiirteet, riskit ja ominaisuudet, kuten kaikki yleiset veroseuraamukset, joita asiak- kaalle aiheutuu liiketoimien yhteydessä. Erityistä huolellisuutta on noudatettava, kun neuvoja annetaan tavallista monimutkaisemmista tuotteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44200: · ymmärtävät asiakkaalle tarjotuista tai suositelluista rahoitusvälineistä aiheutuvat koko- naiskulut ja maksut sekä neuvojen ja muiden mahdollisten liitännäispalvelujen antami- sesta asiakkaalle aiheutuvat kulut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_44201: · pystyvät täyttämään soveltuvuusvaatimuksia koskevat velvoitteet, kuten ne, jotka ilme- nevät ESMA:n ohjeesta (ESMA/2012/387).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44202: · arvioituaan asiakkaalta saadut tiedot ja otettuaan huomioon muutokset, jotka ovat voi- neet tapahtua tietojen keräämisen jälkeen, ymmärtävät, miltä osin sijoituspalveluyrityk- sen tarjoama rahoitusväline ei ehkä ole asiakkaalle soveltuva.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44203: · ymmärtävät, kuinka rahoitusmarkkinat toimivat ja kuinka ne vaikuttavat tarjottavien tai suositeltavien rahoitusvälineiden arvoon ja hinnoitteluun.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44204: · ymmärtävät talouslukujen ja kansallisten, alueellisten tai maailmanlaajuisten tapahtu- mien vaikutukset markkinoihin ja niiden rahoitusvälineiden arvoon, joita suositellaan tai tarjotaan asiakkaille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44205: · ymmärtävät eron tuottohistorian ja tulevaisuutta koskevien tuottoskenaarioiden välillä sekä ennusteiden rajoitteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44206: · ymmärtävät markkinoiden väärinkäyttöön ja rahanpesuun liittyvät näkökulmat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44207: · osaavat arvioida tietoja, kuten avaintietoesitteitä, esitteitä, tilinpäätöksia tai taloudellisia tietoja, jotka liittyvät asiakkaille tarjottuihin tai suositeltuihin rahoitusvälineisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44208: · ymmärtävät erityisia markkinarakenteita, jotka koskevat asiakkaille tarjottuja tai suositel- tuja rahoitusvälineitä sekä näiden kauppapaikat ja mahdollisten jälkimarkkinoiden ole- massaolon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44209: · hallitsevat perustietämyksen tarjottujen tai suositeltujen rahoitusvälineiden arvostusperi- aatteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44210: · ymmärtävät salkunhoitoon liittyvät perusperiaatteet, kuten hajauttamisen seuraukset yksittäisten sijoitusvaihtoehtojen osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44211: 7.3 Tietämyksen arviointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44212: (8) Sijoituspalvelulain 7 luvun 2 §:n 6 momentin mukaan sijoituspalveluyrityksella on oltava menet- telytavat, joilla voidaan varmistaa, että luonnollisella henkilöllä, joka antaa sijoitusneuvontaa tai tietoa rahoitusvälineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyri- tyksen lukuun, on edellä mainittujen palvelujen antamiseen tarvittava sekä tehtävien laatuun ja laajuuteen nähden riittävä tietämys ja pätevyys. Finanssivalvonta voi antaa tarkempia määräyk- siä 7 luvun 2 §:n 6 momentissa tarkoitetun tarvittavan tietämyksen ja pätevyyden arviointiperus- teista ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44213: MÄÄRÄYS (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44214: (9) Sijoituspalveluyrityksen on varmistettava 5 ja 7 kohdassa tarkoitetun luonnollisen henkilön tar- koituksenmukainen tietämys arvioinnilla. Arvioinnin voi suorittaa sijoituspalveluyritys itse.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44215: 7.4 Pätevyys ja työkokemuksen vähimmäismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44216: (10) SipaL:n 7 luvun 2 §:n 6 momentin mukaan sijoituspalveluyrityksella on oltava menettelytavat, joilla voidaan varmistaa, että luonnollisella henkilolla, joka antaa sijoitusneuvontaa tai tietoa ra- hoitusvälineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyrityksen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_44221: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44222: lukuun, on edella mainittujen palvelujen antamiseen tarvittava sekä tehtāvien laatuun ja laajuu- teen nahden riittava tietamys ja patevyys. Finanssivalvonta voi antaa SipaL:n 7 luvun 16 §:n 2 momentin perusteella tarkempia määräyksia SipaL:n 7 luvun 2 §:n 6 momentissa tarkoitetun tarvittavan tietämyksen ja pätevyyden arviointiperusteista ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44223: MÄÄRÄYS (kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44224: (11) Tarkoituksenmukaisen pätevyyden kerryttämiseksi 5 kohdassa tarkoitetun luonnollisen henkilön työkokemuksen on kokoaikaiseksi muunnettuna oltava vähintään kuusi kuukautta ja 7 koh- dassa tarkoitetun luonnollisen henkilön vähintään yksi vuosi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44225: 7.5 Tietämyksen tai pätevyyden puuttuminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44226: (12) SipaL:n 7 luvun 2 §:n 6 momentin mukaan sijoituspalveluyrityksella on oltava menettelytavat, joilla voidaan varmistaa, että luonnollisella henkilolla, joka antaa sijoitusneuvontaa tai tietoa ra- hoitusvälineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyrityksen lukuun, on edella mainittujen palvelujen antamiseen tarvittava sekä tehtāvien laatuun ja laajuu- teen nahden riittava tietamys ja patevyys. Finanssivalvonta voi antaa SipaL:n 7 luvun 16 §:n 2 momentin perusteella tarkempia määräyksia SipaL:n 7 luvun 2 §:n 6 momentissa tarkoitetun tarvittavan tietämyksen ja pätevyyden arviointiperusteista ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44227: MÄÄRÄYS (kohta 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44228: (13) Edellä 5 ja 7 kohdassa tarkoitettu luonnollinen henkilö, jolla ei ole tarkoituksenmukaista tietä- mystä tai patevyyttä taikka kumpaakaan niista, voi antaa sijoitusneuvontaa tai tietoa rahoitusvä- lineistä, sijoituspalveluista taikka oheispalveluista asiakkaille sijoituspalveluyrityksen lukuun ai- noastaan sellaisen toisen henkilön valvonnan alaisuudessa, jolla on tehtävää varten sekä tar- koituksenmukainen tietämys että pätevyys. Valvonnan alaisuudessa tällainen henkilö voi toimia enintään 2 vuoden ajan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44229: 7.6 Euroopan arvopaperimarkkinaviranomaisen ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44230: (14) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet tietämyksen ja pätevyyden arvioin- tiin".
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44231: OHJE (kohta 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44232: (15) Finanssivalvonta suosittaa, että silta osin kuin ESMA:n ohjeista ei ole tässä luvussa erikseen sitovasti maaratty, tämän luvun soveltamisalaan kuuluvat noudattavat sanottuja ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_44236: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44237: 8 Euroopan arvopaperiviranomaisen ohjeiden täytäntöön- pano
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44238: 8.1 Soveltuvuusvaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44239: (1) Tātā alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin, ulkomaisten ETA- sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtiöiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoa- viin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44240: (2) Tätä alalukua sovelletaan myös, kun 1 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalvelu- yritys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvaa sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44241: (3) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet MiFID II:n soveltuvuusvaatimuksista eräiltä osin" (ESMA35-43-3172). (Annettu 17.5.2023, voimaan 3.10.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44242: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44243: (4) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisiä ohjeita, joka on saatavissa osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44244: 8.2 Monimutkaiset velkainstrumentit ja strukturoidut talletukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44245: (5) Tätä alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin, ulkomaisten ETA- sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtiöiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoa- viin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44246: (6) Tätä alalukua sovelletaan myös, kun 5 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalvelu- yritys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvaa sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44247: (7) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet monimutkaisista velkainstrumenteista ja strukturoiduista talletuksista" (ESMA/2015/1787FI).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44248: OHJE (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44249: (8) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisiä ohjeita, joka on saatavissa osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_44251: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44253: 8.3 Ristiinmyyntikäytänteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44254: (9) Tātā alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin, ulkomaisten ETA- sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtioiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoa- viin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44255: (10) Tätä alalukua sovelletaan myös, kun 9 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalvelu- yritys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvaa sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44256: (11) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ristiinmyyntikäytantoja koskevat ohjeet" (ESMA/2016/574).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44257: OHJE (kohta 12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44258: (12) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisiä ohjeita, joka on saatavilla osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44259: 8.4 Compliance-toiminto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44260: (13) Tätä alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoaviin tai sijoi- tustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoitta- vat sijoitustoimintaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44261: (14) Tätä alalukua sovelletaan myös, kun 13 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalve- luyritys tai luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvää sijoitusneuvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44262: (15) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet compliance-toimintoa koskevista MiFID Il:n vaatimuksista tietyilta osin" (ESMA35-36-1952). (Annettu 18.5.2021, voimaan 7.6.2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44263: OHJE (kohta 16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44264: (16) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisia ohjeita, joka on saatavilla osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44265: 8.5 Palkka- ja palkkiopolitiikat ja -käytännöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44266: (17) Tātā alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, rahastoyhtiöihin ja vaihtoehtorahastojen hoitajiin ja ETA-alueen ul- kopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoaviin tai sijoitus- toimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalvelua tai harjoittavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_44268: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44271: sijoitustoimintaa sivuliikkeestä käsin sekä soveltuvin osin ulkomaisten ETA- sijoituspalveluyritysten ja sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA- luottolaitosten, ETA-rahastoyhtioiden ja ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44272: (18) Tätä alalukua sovelletaan myös, kun 17 kohdassa tarkoitettu kotimainen tai ETA-alueen ulko- puolella toimiluvan saanut sijoituspalveluyritys tai luottolaitos, joka tarjoaa Suomessa sijoitus- palvelua sivuliikkeestä käsin, myy strukturoituja talletuksia tai tarjoaa niihin liittyvää sijoitusneu- vontaa. Alalukua sovelletaan soveltuvin osin myös, kun ulkomainen ETA-sijoituspalveluyritys tai sijoituspalveluja tarjoava ETA-luottolaitos myy strukturoituja talletuksia tai tarjoaa niihin liittyvää sijoitusneuvontaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44273: (19) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla " Ohjeet MIFID II:n palkitsemisvaatimuksista eräiltä osin" (ESMA35-43-3565). (Annettu 17.5.2023, voimaan 3.10.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44274: OHJE (kohta 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44275: (20) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisiä ohjeita, joka on saatavilla osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44276: 8.6 Asianmukaisuusvaatimukset (Annettu 6.6.2022, voimaan 13.10.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44277: (21) Tātā alalukua sovelletaan sijoituspalveluyrityksiin, sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, sijoituspalvelua tarjoaviin vaihtoehtorahastojen hoitajiin ja ulkomais- ten ETA-sijoituspalveluyritysten, sijoituspalvelua tarjoavien tai sijoitustoimintaa harjoittavien ETA-luottolaitosten, sijoituspalvelua tarjoavien ETA-vaihtoehtorahastojen hoitajien sivuliikkeisiin sekä ETA-alueen ulkopuolella toimiluvan saaneisiin sijoituspalveluyrityksiin ja sijoituspalvelua tarjoaviin tai sijoitustoimintaa harjoittaviin luottolaitoksiin, jotka tarjoavat Suomessa sijoituspalve- lua tai harjoittavat sijoitustoimintaa sivuliikkeestä käsin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44278: (22) Tätä alalukua sovelletaan myös, kun 21 kohdassa tarkoitettu koti- tai ulkomainen sijoituspalve- luyritys tai luottolaitos myy strukturoituja talletuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44279: (23) Euroopan arvopaperimarkkinaviranomainen on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla "Ohjeet MiFID II:n asianmukaisuutta ja yksin- omaan asiakastoimeksiantojen toteuttamista koskevista vaatimuksista tietyiltä osin" (ESMA35- 43-3006).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44280: OHJE (kohta 24)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44281: (24) Finanssivalvonta suosittaa, että tämän alaluvun soveltamisalaan kuuluvat noudattavat kyseisiä ohjeita, joka on saatavilla osoitteesta finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44283: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_44284: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44288: Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44289: Nämä määräykset ja ohjeet kumoavat seuraavat Finanssivalvonnan antamat määräykset ja oh- jeet sekä kannanotot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44290: · Rahoitussektorin standardi 1.3 "Luotettava hallinto ja toiminnan järjestaminen", annettu 26.10.2007 (Dnro 19/120/2007)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44291: · Rahoitussektorin standardi 4.1 "Sisäisen valvonnan järjestäminen", annettu 27.5.2003 (Dnro 5/790/2003)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44292: · Finanssivalvonnan määräykset ja ohjeet 16/2013 "Finanssipalvelujen tarjoamisessa noudatettavat menettelytavat", annettu 17.6.2013 (Dnro FIVA 4/01.00/2011), luku 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44293: · Finanssivalvonnan määräykset ja ohjeet 12/2012 "Rahoitusvälineiden markkinoista an- netun direktiivin (MiFID) compliance-toiminnolle asettamista vaatimuksista eräiltä osin", annettu 27.11.2012 (Dnro FIVA 14/01.00/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44294: · Finanssivalvonnan määräykset ja ohjeet 18/2013 "Palkka- ja palkkiopolitiikat ja -käytän- nöt (MiFID), annettu 30.10.2013 (Dnro FIVA 21/01.00/2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44295: · Finanssivalvonnan kannanotto 2/2011 " Sijoituspalveluyrityksista annetun lain (SipaL 922/2007) soveltamisesta erityisesti sähköjohdannaistoiminnassa", annettu 18.5.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_44297: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44299: 10 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44300: Näitä määräyksia ja ohjeita on muutettu niiden voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44301: Annettu 15.1.2019, voimaan 11.2.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44302: · Muutettu luvuissa 2.5 ja 8.1 Euroopan arvopaperimarkkinaviranomaisen (ESMA) ohjeen nimeä ja numero
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44303: Annettu 18.5.2021, voimaan 7.6.2021
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44304: · Muutettu luvuissa 2.5 ja 8.4 Euroopan arvopaperimarkkinaviranomaisen (ESMA) ohjeen nimeä ja numero
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44305: Annettu 6.6.2022, voimaan 13.10.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44306: · Lisätty 8.6 luku Asianmukaisuusvaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44307: Annettu 6.6.2022, voimaan 22.11.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44308: · Lisätty 1.2 luku Maaritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44309: . Täydennetty 2.2 Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44310: · Täydennetty 2.3 Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44311: · Muutettu 4.2 luvun kohtia 12, 15, 17 ja 18.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44312: · Muutettu 4.3 luvun kohtia 23 ja 29.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44313: Lisaykset perustuvat Komission delegoituun direktiiviin (EU) 2021/1269, annettu 21.4.2021, delegoidun direktiivin (EU) 2017/593 muuttamisesta kestävyystekijöiden sisällyttämiseksi tuotevalvontavelvoitteisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44314: Annettu 17.5.2023, voimaan 3.10.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44315: · Muutettu luvuissa 2.5, 8.1 ja 8.5 Euroopan arvopaperimarkkinaviranomaisen (ESMA) ohjeen nimea ja numeroa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44316: Annettu 3.10.2023, voimaan 3.10.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44317: · Muutettu luvussa 2.5 ja 4.4 Euroopan arvopaperimarkkinaviranomaisen (ESMA) ohjeen numeroa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_44319: FIN FIN FIN CIN
+

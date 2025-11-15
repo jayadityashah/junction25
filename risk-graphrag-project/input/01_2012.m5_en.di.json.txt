@@ -1,0 +1,1238 @@
+METADATA: {"document_id": 6, "filename": "01_2012.m5_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 23, "paragraph_count": 590}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26487: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26488: Outsourcing in supervised entities belonging to the financial sector
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26490: FIVA 1097/01.00/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26492: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26493: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26494: 1 April 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26495: Further information Digitalisation and Analysis/Digitalisation and Banking Services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26496: FINANCIAL SUPERVISORY AUTHORITY tel. +358 9 183 51 firstname.lastname@fiva.fi http://www.fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26497: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26504: FIN FIN FIN FIN SIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_26506: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26508: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26509: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26510: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26511: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26512: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26513: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26514: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in the FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26515: The FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do so.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26516: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26517: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in the FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26518: Under the heading 'Guideline' there are also recommendations and other non-binding operating guidelines. The guidelines also include FIN-FSA recommendations regarding compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26519: The way how a guideline is written indicates whether it is an interpretation, a recommendation or other operating guideline. The way how guidelines are written and the legal nature of both regulations and guidelines are explained in greater detail on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26520: fin-fsa.fi > Regulation > Legal framework of FIN-FSA regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26521: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_26525: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26528: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26529: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26530: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26531: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26533: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26535: 1.1 Scope of application 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26536: 1.2 Principle of proportionality 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26537: 1.3 Definitions 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26538: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26540: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26542: 2.2 European Union Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26544: 2.3 European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26546: 2.4 FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26547: 2.5 International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26548: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26550: 4 Conditions for outsourcing
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26552: 4.1 Functioning of risk management and internal control
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26554: 4.2 Safeguarding official supervision 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26555: 4.2.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26557: 4.2.2 Outsourcing of a management company's investment activities to non-EEA states 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26558: 4.3 Conditions for outsourcing the activities of the exchange 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26559: 4.4 Conditions for outsourcing payment service activities 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26560: 4.5 Material activities 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26562: Outsourcing of activities that require authorisation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26564: 5.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26566: 5.2 Outsourcing of management company activities 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26567: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_26571: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26575: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26576: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26577: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26578: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26589: Risk management of outsourced activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26591: Outsourcing agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26593: Reporting to the FIN-FSA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26596: Supervised entities subject to reporting obligation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26599: Regulatory background
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26602: Contents of the outsourcing notification
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26605: Notification concerning the outsourcing of material activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26608: Notification concerning the use of a representative in the provision of payment services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26610: 9 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_26612: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26613: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26614: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26615: 23 February 2012 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26617: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26621: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26622: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26623: These regulations and guidelines shall apply to the following supervised entities referred to in the Act on the Financial Supervisory Authority (878/2008): (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26624: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26625: · management companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26626: · the stock exchange
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26627: · Finnish branches of foreign credit institutions authorised in a non-EEA country (branches of credit institutions of a third country)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26628: · payment institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26629: These regulations and guidelines also apply to persons providing payment service without authorisation in accordance with sections 7, 7 a and 7 b of the Payment Institutions Act (297/2010), only with respect to paragraph 13 of chapter 8.3.1 of these regulations and guidelines. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26630: 1.2 Principle of proportionality
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26631: These regulations and guidelines are applicable to different kinds of supervised entities and various management models. In applying these regulations and guidelines, supervised entities may take into account the nature, scale, complexity and risks of their activities and any other relevant factors in deciding on the appropriate and efficient manner of compliance with these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26632: 1.3 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26633: Outsourcing means an arrangement relating to the supervised entity's activities by which another service provider performs an activity or service which would otherwise be undertaken by the supervised entity itself.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26634: Supervised entity refers to all supervised entities and foreign branches that fall within the scope of chapter 1.1 of these regulations and guidelines and that are referred to in the Act on the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_26635: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26636: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26637: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26638: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26639: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26641: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26642: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26643: The following legal provisions relate to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26644: · Credit Institutions Act (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26645: · Act on Trading in Financial Instruments (1070/2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26646: · Mutual Funds Act (213/2019)(Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26647: · Act on Payment Institutions (297/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26648: 2.2 European Union Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26649: The following European Union Regulations are related to these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26650: · Regulation (EU) No 600/2014/EU of the European Parliament and of the Council on markets in financial instruments and amending Regulation (EU) No 648/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26651: · Commission Delegated Regulation (EU) 2017/584/EU supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying organisational requirements of trading venues
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26652: 2.3 European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26653: The following European Union Directives are related to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26654: · Directive 2014/65/EU of the European Parliament and of the Council on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26655: · Directive 2009/65/EC of the European Parliament and of the Council on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26656: · Directive (EU) 2015/2366 of the European Parliament and of the Council on payment services in the internal market amending Directives 2002/65/EC, 2009/110/EC, 2013/36/EC and 2006/1093/EC and repealing Directive 2007/64/EC(Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26657: 2.4 FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26658: The FIN-FSA's power to issue binding regulations is based on the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26659: · Credit Institutions Act, chapter 5 section 10, subsection 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26660: · Act on Trading in Financial Instruments, chapter 3 section 36 subsection 1, paragraph 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26661: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26664: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_26668: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26669: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26670: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26671: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26672: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26675: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26680: · Mutual Funds Act, chapter 6, section 1, subsection 5(Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26681: · Payment Institutions Act, section 23, subsection 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26682: 2.5 International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26683: In preparing these regulations and guidelines, the following international recommendations have been taken into account:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26684: · Guidelines of the European Banking Authority on Internal Governance (EBA/GL/2021/05) (Issued on 2.6.2021, valid from 31.12.2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26685: · Guidelines of the European Banking Authority on outsourcing arrangements (EBA/GL/2019/02) (Issued on 25.2.2019, valid from 30.9.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_26686: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26687: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26688: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26689: 23 February 2012 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26691: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26694: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26695: (1) Outsourcing is a way of arranging supervised entities' activities, covered by financial market regulation. By outsourcing, supervised entities may seek to increase the efficiency, flexibility and competitiveness of their operations. However, responsibility for outsourced activities remains with the supervised entity, and therefore supervised entities' internal control and risk management must also extend to outsourced activities. Supervised entities must send the FIN- FSA an advance notification of intentions to outsource material activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26696: (2) These regulations aim at ensuring that outsourcing does not in any way impair the criteria for the supervised entity's authorisation and that the supervised entity's operations, also with respect to the outsourced activities, have been arranged so that they are in compliance with all obligations laid down in legal requirements and FIN-FSA regulations and guidelines for internal control and risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26697: (3) The purpose is also to ensure that outsourcing does not impair the possibilities of the supervised entity's management to direct and monitor activities or to obtain an overall picture of the supervised entity's risks. Supervised entities must be able to and capable of managing risks, irrespective of outsourcing.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26698: (4) Furthermore, the purpose is to ensure that, in using outsourced information technology resources via so-called cloud services1, supervised entities ensure in particular that the risks involved with the services are managed, the continuity of the services is secured and that data protection is assured. (Issued on 4.11.2014, valid from 1.1.2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26699: (5) These regulations and guidelines are designed to ensure that outsourcing does not impair FIN- FSA supervision and inspection of supervised entities' activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26700: 1 The supervised entity uses software, hardware or other services offered by an outside provider, via the information network.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_26701: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26704: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26707: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26708: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26709: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26710: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26711: 4 Conditions for outsourcing
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26712: 4.1 Functioning of risk management and internal control
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26713: (1) Supervised entities subject to chapter 5, section 10, subsection 1 of the Credit Institutions Act and chapter 6, section 1, subsection 2 of the Mutual Funds Act may carry out their business through representatives or otherwise outsource activities material to their operations, unless this is likely to be detrimental to the institution's risk management or internal control or significantly hinder the conduct of the institution's business. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26714: (2) According to chapter 3, section 4, subsection 2 of the Act on Trading in Financial Instruments, the exchange may outsource any activity material to its operations, other than the operation of a regulated market, unless this is likely to be detrimental to the exchange's risk management or internal control or its business or other material activities. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26715: (3) According to section 23, subsection 1 of the Payment Institutions Act, payment institutions may outsource activities material to the provision of payment services, unless this is likely to be significantly detrimental to the institution's internal control.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26716: 4.2 Safeguarding official supervision
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26717: 4.2.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26718: (4) Supervised entities subject to chapter 5, section 11 of the Credit Institutions Act, chapter 6, section 1, subsection 7 of the Mutual Funds Act, and section 23, subsection 5 of the Payment Institutions Act shall ensure that outsourcing partners continuously provide them with all information necessary for official supervision, risk management and internal control, and that they have the right to forward such information to the Financial Supervisory Authority. Furthermore, a credit institution must ensure that it has the right to forward the information to the central body of the amalgamation of deposit banks, if it is under the inspection of the central body. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26719: (5) In accordance with section 23, subsection 1 of the Payment Institutions Act, payment institutions may outsource activities material to the provision of payment services, unless this is likely to be significantly detrimental to the supervision conducted by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26720: (6) According to chapter 3, section 4, subsection 2 of the Act on trading in financial instruments, the exchange may outsource a function with material impact on its operation, with the exception of the operation of a regulated market, if the outsourcing does not hinder the supervision conducted by the Financial Supervisory Authority. According to chapter 3, section 4, subsection 5 of the Act, the exchange must obtain the information required for the purposes of regulatory supervision and forward it to the Financial Supervisory Authority. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26721: (7) By virtue of section 24 subsection 2 of the Act on the Financial Supervision Authority, the FIN- FSA shall, confidentiality provisions notwithstanding, have the right to obtain all information that is necessary for supervisory purposes at the place of business of a company which acts as the supervised entity's representative or a company which, by order of the supervised entity, performs tasks pertaining to the accounting, information system or risk management or other internal control of the supervised entity. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_26722: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26723: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26724: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26725: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26726: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26733: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26736: (8) By virtue of section 18, subsection 4 of the Act on the Financial Supervision Authority, a company carrying out tasks related to a supervised entity's business, accounting, information system, risk management or internal control as its representative or acting under assignment, confidentiality provisions notwithstanding, shall provide the FIN-FSA without undue delay any information and reports requested by it as are necessary for supervision. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26737: Guideline (paragraph 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26738: (9) The FIN-FSA recommends that a clause granting access to information and a right of inspection be included in outsourcing contracts referred to in chapter 7.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26739: 4.2.2 Outsourcing of a management company's investment activities to non-EEA states
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26740: (10) In accordance with chapter 6, section 2, subsection 2 of the Mutual Funds Act, investment activities of the the management company may be outsourced to a representative domiciled in a non-EEA state only if adequate provision has been made for cooperation between the relevant foreign supervisory authority and the FIN-FSA. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26741: Guideline (paragraph 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26742: (11) Cooperation between the FIN-FSA and a relevant foreign supervisory authority as referred to in paragraph 9 above may be regarded as adequately provided for if the foreign authority has undersigned the Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information issued by IOSCO in 2002. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26743: 4.3 Conditions for outsourcing the activities of the exchange
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26744: (12) With respect to outsourcing of the activities of the exchange, the FIN-FSA issues, by virtue of chapter 3 section, 36 subsection 1, paragraph 2 of Act on Trading in Financial Instruments, the following regulations in paragraphs 12-15 on conditions for outsourcing exchange activities as referred to in chapter 3, section 4 of the Act. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26745: Regulation (paragraphs 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26746: (13) In outsourcing a material activity other than the operation of a regulated market, the exchange shall ensure that outsourcing partners have the necessary resources and competence as well as financial capacity and expertise to handle the tasks involved. The exchange shall have procedures in place for assessing the performance of outsourcing partners.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26747: (14) In outsourcing a material activity other than the operation of a regulated market, the exchange shall, in its contingency planning, also provide for disruptions in outsourcing partners' services and require that they have contingency plans of their own.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_26748: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26749: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26750: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26751: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26752: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26754: (15) In outsourcing a material activity other than the operation of a regulated market, the exchange shall ensure that outsourcing partners have taken measures to safeguard the confidentiality of data related to the supervised entity and its customers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26755: (16) In outsourcing a material activity other than the operation of a regulated market, the exchange shall maintain key areas of competence relating to outsourced activities, enabling it to resume the management of any outsourced activity (insourcing) or transfer them to another supplier.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26756: 4.4 Conditions for outsourcing payment service activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26757: (17) According to section 24, subsection 1 of the Payment Institutions Act, payment institutions may provide payment services through a representative acting on the payment institution's responsibility. Issuance of electronic money may not be handed over completely to a representative.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26758: (18) According to section 24, subsection 2 of the Payment Institutions Act, payment institutions shall ensure with available means that representatives used in the provision of payment services are of good repute and qualified to conduct the activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26759: (19) According to section 23, subsection 5 of the Payment Institutions Act, payment institutions shall ensure that the operator of an outsourced function informs customers that it operates on the payment institution's responsibility. According to section 24, subsection 2 of the Payment Institutions Act, if payment services are provided through a representative, the payment institution shall ensure that the representative inform the customers that it operates on the payment institution's responsibility
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26760: (20) By virtue of section 23, subsection 6 of the Payment Institutions Act, the FIN-FSA issues the following regulations payment institutions must adhere to in order to exercise due diligence within the meaning of section 23, subsection 4 of the Act when outsourcing activities material to payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26761: Regulation (paragraphs 21-22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26762: (21) Payment institutions shall ensure that outsourcing partners have the necessary resources and skills as well as financial capacity and expertise to handle the tasks involved. Supervised entities shall have procedures in place for assessing the performance of outsourcing partners.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26763: (22) In order to meet the requirement of due diligence, payment institutions shall ensure, for example, that outsourcing partners have the competence, resources and authorisation required by law to perform the outsourced activities. Payment institutions shall also ensure that outsourcing partners have adequately arranged the related internal control and risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26764: Guideline (paragraphs 23-26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26765: (23) The FIN-FSA recommends that payment institutions, in their contingency planning, also provide for disruptions in outsourcing partners' services and require that they have contingency plans of their own.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26766: (24) The FIN-FSA recommends that payment institutions ensure that outsourcing partners have taken measures to safeguard confidentiality of data related to the supervised entity and its customers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26767: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_26771: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26777: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26778: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26779: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26780: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26786: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26789: (25) FIN-FSA recommends that payment institutions maintain key areas of competence relating to outsourced activities, enabling them to resume the management of any outsourced activity (known as 'insourcing') or transfer them to another supplier.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26790: (26) In outsourcing material activities, the FIN-FSA recommends that payment institutions ensure that outsourcing partners comply, as applicable, with FIN-FSA regulations and guidelines and other legal provisions such as those referring to the marketing of financial services and to customer protection.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26791: 4.5 Material activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26792: (27) In supervised entities subject to chapter 5, section 10, subsection 2 of the Credit Institutions Act, chapter 6, section 1, subsection 3 of the Mutual Fund Acts, and chapter 3, section 4, subsection 3 of the Act on Trading in Financial Instruments, activities are regarded as material if they are of such importance that any failure or weakness in carrying them out could have a significant impact on the supervised entity's ability to comply with legal provisions, regulations or guidelines issued under such provisions, or authorisation criteria, the supervised entity's financial standing or the continued conduct of business. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26793: (28) According to section 23, subsection 2 of the Payment Institutions Act, activities are regarded as material to a payment institution's operations if they are of such importance that any defect or failure in them would materially impair the payment institution's ability to comply with legal provisions, regulations or guidelines issued under such provisions, or authorisation criteria, the payment institution's financial performance or the soundness or the continuity the provision of payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26794: Guideline (paragraphs 29-30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26795: (29) In the FIN-FSA's interpretation, at least the following activities should be regarded as material: (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26796: · operations requiring authorisation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26797: · internal control and risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26798: · internal audit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26799: · compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26800: · key information systems for the conduct of the business
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26801: · mutual fund portfolio management, asset value calculation and maintenance of fund unit registers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26802: (30) In the FIN-FSA's interpretation, the following areas need not be regarded as material from the point of view of outsourcing: (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26803: · administrative functions, such as staff and materials management, invoicing, fixed assets maintenance and premises security
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26804: · advisory services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_26805: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26806: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26807: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26808: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26809: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26813: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26816: · legal services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26817: · marketing and advertising services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26818: · procurement of standardised services, including market information services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_26819: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26820: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26821: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26822: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26823: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26825: 5 Outsourcing of activities that require authorisation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26826: 5.1 General
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26827: (1) In outsourcing activities requiring authorisation, supervised entities shall also take account of regulations and guidelines in chapter 4 on general conditions for outsourcing and requirements in chapter 6 set for risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26828: (2) According to chapter 6, section 2, subsection 2 of the Mutual Funds Act, representatives used by management companies to carry out investment activities must be enterprises that are authorised or registered for the relevant activity and subject to prudential supervision. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26829: Guideline (paragraph 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26830: (3) The FIN-FSA recommends that credit institutions outsource other activities requiring authorisation than investment services only to representatives or entities that are authorised for the activity concerned.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26831: 5.2 Outsourcing of management company activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26832: (4) According to chapter 6, section 2, subsection 1 of the Mutual Funds Act, the use of representatives must not prevent management companies from acting in the interest of unit holders of the mutual funds they manage. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26833: (5) According to chapter 6, section 2, subsection 2 of the Mutual Funds Act, management companies that employ representatives to manage their investment activities shall regularly inform representatives on their basic investment policies. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26834: (6) According to chapter 6, section 2, subsection 3 of the Mutual Funds Act, tasks relating to the management of mutual funds must not be assigned to depositories of the mutual funds concerned or to other enterprises whose interests may conflict with the interests of the management company or the unit holders concerned. Any agreement that transfers a management company's responsibilities to a third party is invalid. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26835: (7) As regards tasks relating to the management of mutual funds and duties of depositories referred to in chapter 21, section 2 of the Mutual Funds Act, a management company or its representative, according to chapter 6, section 2, subsection 4 of the Mutual Funds Act, may not have any staff in common with a depository of a mutual fund that it manages. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26836: (8) According to chapter 6, section 2, subsection 5 of the Mutual Funds Act, fund prospectuses provided by management companies shall include details on the extent to which they utilise external service providers. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26837: (9) According to chapter 22, section 6 of the Mutual Funds Act, a management company that, through a branch or without establishing a branch, manages a mutual fund in another EEA state than Finland, is subject to the outsourcing provisions of the Mutual Funds Act. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_26838: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26845: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26846: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26847: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26848: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26856: Guideline (paragraphs 10-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26857: (10) The FIN-FSA recommends that management companies ensure that investment activities are managed in compliance with mutual fund rules and investment policy agreements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26858: (11) If the keeping of fund unit registers is fully outsourced, the FIN-FSA recommends it is managed by an authorised registrar. If registering of new unit holders is outsourced, management companies should be in charge of the overall maintenance of the fund unit register. Management companies may, for example, also keep registers of Finnish unit holders themselves and outsource the registry of foreign unit holders.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26859: (12) Despite outsourcing, the FIN-FSA recommends that management companies always retain the right to execute subscription and redemption orders, including registration, in fund unit registers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_26860: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26861: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26862: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26863: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26864: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26866: 6 Risk management of outsourced activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26868: Supervised entities subject to chapter 5, section 11 of the Credit Institutions Act, chapter 6, section 1, subsection 7 of the Mutual Funds Act, chapter 3, section 4, subsection 5 of the Act on Trading in Financial Instruments, and section 23, subsection 5 of the Payment Institutions Act, shall ensure that outsourcing partners continuously provide them with all information necessary for official supervision, risk management and internal control. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26869: Guideline (paragraphs 2-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26871: The FIN-FSA recommends that the supervised entity's board adopt outsourcing policies and have them regularly updated. The policies should include at least the following information: (Issued on 4.11.2014, valid from 1.1.2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26872: · operational goals for outsourcing
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26873: · activities that are to be regarded as material within the meaning of section 4.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26874: · definition of the types of activity that may be outsourced under the supervised entity's operational policy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26875: · selection of the outsourcing partner and monitoring of the outsourced activity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26876: · issues dealt with in the outsourcing agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26877: · safeguarding the continuity of activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26878: · decision-making process for outsourcing.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26879: (3) The FIN-FSA recommends that the decision to outsource material activities always be preceded by an overall review of the risks for the project, taking into account the scope and importance of the activities concerned. The review should consider the risks of the new outsourcing project and outsourcing arrangements already made and provide for the management of those risks. Risk reviews should be updated on a regular basis.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26880: (4) The FIN-FSA recommends that supervised entities ensure that outsourcing partners have the necessary resources and skills as well as financial capacity and expertise to handle the tasks involved. Supervised entities should have procedures in place for assessing the performance of outsourcing partners.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26881: (5) The FIN-FSA recommends that supervised entities, in their contingency planning, also provide for disruptions in outsourcing partners' services and require that they have contingency plans of their own.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26882: (6) The FIN-FSA recommends that supervised entities ensure that outsourcing partners have taken measures to safeguard confidentiality of data related to the supervised entity and its customers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26883: (7) The FIN-FSA recommends that supervised entities maintain key areas of competence relating to outsourced activities, enabling them to resume the management of any outsourced activity (known as 'insourcing') or transfer them to another supplier.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26884: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_26886: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26889: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26890: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26891: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26892: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26901: (8) The FIN-FSA recommends that in outsourcing material activities, supervised entities ensure that outsourcing partners comply, as applicable, with FIN-FSA regulations and guidelines and other legal provisions such as those referring to the marketing of financial services and customer protection as well as good practice in the provision of banking and securities services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26902: (9) The FIN-FSA recommends that supervised entities' risk management also take into account the following considerations:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26903: · The institution's and outsourcing partner's strategies and business practices are mutually consistent.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26904: · The institution has adequate expertise and experience necessary to steer and control an outsourced activity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26905: · The institution has the capacity to resume the management of an outsourced activity or transfer it to another supplier.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26906: . The costs of termination and reorganisation of an outsourcing arrangement are reasonable and have been assessed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26907: · Risks relating to continuity of the supplier's operations have been adequately accounted for (including the service provider's contingency planning).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26908: · The outsourcing partner's financial resources and staff skills are adequate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26909: · The services provided by the outsourcing partner meet the supervised entity's quality criteria.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26910: · Information security of the outsourced activity is safeguarded. Secret or confidential information has not been protected or its non-disclosure has been ensured in a reliable manner, e.g. via encryption of data communications, protection of records, rights management and access control.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26911: · The outsourcing partner complies with binding rules for the activity concerned or the code of conduct in the markets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26912: · The supervised entity's counterparty risk must be monitored if decision-making related to customer relationships is outsourced.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26913: · In the context of cross-border outsourcing, uncertainties related to the the application and interpretation of relevant legislation have been studied adequately.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26914: (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26915: (10) The FIN-FSA recommends that supervised entities' risk management be safeguarded in the eventuality that an outsourcing partner passes on outsourced activities to a third party.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26916: (11) The FIN-FSA recommends that supervised entities subject to these regulations and guidelines comply with the EBA Recommendations on outsourcing to cloud service providers referred to in chapter 2.5. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_26917: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26918: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26919: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26920: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26921: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26923: 7 Outsourcing agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26924: (1) Supervised entities subject to chapter 5, section 10, subsection 3 of the Credit Institutions Act, chapter 6, section 1, subsection 4 of the Mutual Funds Act, chapter 3, section 4, subsection 4 of the Act on Trading in Financial Instruments or section 23, subsection 3 of the Payment Institutions Act shall draw up a written agreement, indicating the contents and period of validity of the contract, on the outsourcing of a material activity. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26925: Guideline (paragraph 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26927: The FIN-FSA recommends that an outsourcing agreement concerning material activities include at least the following details:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26928: · a description of the outsourced activity and of the required service level
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26929: · a realisation schedule
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26930: · the FIN-FSA's rights to inspect and receive information on the outsourced activity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26931: · the supervised entity's and its auditor's rights to obtain information on the outsourced activity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26932: · the supervised entity's right to disclose information concerning the outsourcing to the FIN- FSA and the central institution of the amalgamation of deposit banks(Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26933: · the outsourcing partner's responsibility to inform the institution of changes having a significant impact on the contractual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26934: · the outsourcing partner's duty to inform the institution of significant disruptions in the handling of the outsourced activity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26935: · the outsourcing partner's right to transfer contractual tasks to a third party and a statement on whether this requires the institution's consent
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26936: · the outsourcing partner's secrecy obligation during validity and after expiry of the contract
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26937: · the outsourcing partner's obligations as regards contingency planning, information systems and information security, and the monitoring thereof
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26938: . the counterparties' rights to cancel or terminate the contract
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26939: · the legal right of a management company to terminate an agency relationship at once, in the interest of unit holders
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26940: · applicable legislation and resolution of disputes, when a material activity is subject to cross- border outsourcing.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_26941: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26948: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26949: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26950: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26951: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26954: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26957: 8 Reporting to the FIN-FSA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26958: 8.1 Supervised entities subject to reporting obligation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26959: (1) On the basis of the details in a supervised entity's notification for outsourcing arrangements, the FIN-FSA will assess whether the planned outsourcing project is likely to impede the supervised entity's internal control or risk management, conduct of business or any other material activities or hinder efficient supervision by the FIN-FSA. Material activities are defined in chapter 4.5 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26960: 8.2 Regulatory background
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26961: (2) If an authorised credit institution intends to conduct business through an agent or otherwise outsource a material activity to an enterprise not belonging to the same consolidation group or amalgamation of deposit banks as the credit institution, chapter 5 section 10 subsection 4 of the Credit Institutions Act stipulates that the credit institution must notify the FIN-FSA of the outsourcing plans in advance. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26962: (3) If an authorised management company intends to conduct business through an agent or otherwise outsource a material activity to an enterprise not belonging to the same consolidation group or amalgamation of deposit banks as the management company, chapter 6, section 1, subsection 5 of the Mutual Funds Act stipulates that the management company must notify the FIN-FSA of the outsourcing plans in advance. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26963: (4) If an authorised exchange intends to outsource a material activity, chapter 3 section 5 of the Act on Trading in Financial Instruments stipulates that the exchange must notify the FIN-FSA of the outsourcing plans in advance. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26964: (5) Supervised entities referred to in chapter 5, section 10, subsection 4 of the Credit Institutions Act, chapter 6, section 1, subsection 5 of the Mutual Funds Act and chapter 3, section 5 of the Act on Trading in Financial instruments, must notify the FIN-FSA in advance of any material changes in the contractual relationship between the supervised entity and the outsourcing partner. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26965: (6) According to section 23, subsection 5 of the Payment Institutions Act, a payment institution must notify the FIN-FSA in advance of outsourcing of an activity material to payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26966: (7) According to section 24, subsection 3 of the Payment Institutions Act, a payment institution must provide the FIN-FSA with information on natural or legal persons acting as representatives in the provision of payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26967: 8.3 Contents of the outsourcing notification
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26968: 8.3.1 Notification concerning the outsourcing of material activities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26969: (8) The FIN-FSA issues the regulations below concerning the contents of the notification by virtue of the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26970: · Credit Institutions Act, chapter 5, section 10, subsection 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26971: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26972: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26973: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26974: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26975: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26977: · Mutual Funds Act, chapter 6, section 1, subsection 5 (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26978: · Act on Trading in Financial Instruments, chapter 3 section 36, subsection 1, paragraph 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26979: Regulation (paragraphs 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26981: The notification submitted to the FIN-FSA must provide the following details:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26982: · full name, domicile and business address of a natural person acting as outsourcing partner
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26983: · full name, business number, domicile and business address of a legal person acting as outsourcing partner
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26984: · a description of the type and scope of activity to be outsourced
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26985: · an overall review of the impact of the outsourcing project on the institution's business
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26986: · account of the outsourcing partner's financial capacity to manage the activities to be outsourced
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26987: · account of how the intended outsourcing is accounted for in the supervised entity's internal control and risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26988: · account of how the continuity and information security of the activity to be outsourced are ensured
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26989: · account of how the supervised entity intends to preserve key areas of competence relating to the outsourced activities so that they can be resumed by the supervised entity itself or transferred to another supplier
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26990: · specifications of the conditions for cancelling the outsourcing agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26991: . in case of cross-border outsourcing to a non-EEA state, clarification of whether the host country's legal framework will permit the FIN-FSA to obtain information needed to supervise the activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26992: (10) A copy of the outsourcing agreement or a draft thereof shall be attached to the notification.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26993: Guideline (paragraphs 11-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26994: (11) The FIN-FSA recommends that, if an outsourced material activity is outsourced further to a third party, the supervised entity notify the FIN-FSA of it in accordance with the regulation in paragraphs 9 and 10. (Issued on 23.1.2018, valid from 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26995: (12) The FIN-FSA recommends that payment institutions submit a notification of the outsourcing of material activities as referred to in section 23, subsection 5 of the Payment Institutions Act in accordance with the regulation provided in paragraphs 9 and 10 and the guideline in paragraph 11 in a comparable scope as payment institutions shall submit information concerning outsourcing under section 14, subsection 1, paragraph 5 of the Ministry of Finance Decree on the Accounts to be Appended to the Application for Authorisation of a Payment Institution (1040/2017). (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26996: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27002: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27004: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27005: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27006: 23 February 2012 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27010: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27014: (13) The FIN-FSA recommends that institutions referred to in paragraph 7, 7 a and 7 b of the Payment Institutions Act submit a notification of the outsourcing of a material activity in the same scope as they have been obliged to do in their registration notification. (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27015: 8.3.2 Notification concerning the use of a representative in the provision of payment services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27016: (14) According to section 24 subsection 3 of the Payment Institutions Act, a payment institution shall provide the FIN-FSA with the full name, domicile and business address of natural persons acting as its representative. If the representative is a legal person, the FIN-FSA shall be provided with the representative's full name, business number, domicile and business address.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27017: (15) Section 24, subsections 3 and 4 of the Payment Institutions Act stipulate that the notification submitted to the FIN-FSA shall also include the following details:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27018: · names of the representative's board of directors and their deputies, managing director and deputy managing director
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27019: · report on the fitness and propriety of members and deputy members of the board of directors, managing director and deputy managing director (Issued on 15.6.2023, valid from 1.9.2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27020: · the representative's internal control mechanisms for the prevention of money laundering and terrorist financing:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27021: - internal guidelines accepted by the representative's management relating to customer due diligence
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27022: - how the representative ensures compliance with the obligation to obtain information and report suspicious transactions included in regulations and guidelines on the prevention of money laundering and terrorist financing
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27023: - account of risk management arrangements relating to the prevention of money laundering and terrorist financing, and of the continuous monitoring of customer relationships and business transactions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27024: - account of the retention of customer due diligence documents, persons responsible and employee instructions and training.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27025: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27027: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27028: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27029: 23 February 2012 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27030: 9 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27031: These regulations and guidelines have been amended after their entry into force as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27032: Issued on 13.2.2013, valid from 1.3.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27033: · chapters 1.1, 2.1, 2.3, 4.1-4.3, 4.5, 5, 6.1-6.3, 7, 8.1.1 and 8.2.1 complemented with the provisions of the new Investment Services Act (747/2012) and Act on trading in financial instruments (748/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27034: · content of chapter 8.1.1 paragraph 3 revised in view of the obligation imposed in the Investment Services Act on supervised entities to file an advance notification to the FIN-FSA on outsourcing the provision of an investment service
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27035: · order of presentation in chapter 4.2 revised so that the chapter has 12 paragraphs instead of 8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27036: Issued on 4.11.2014, valid from 1.1.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27037: · the title of the regulations and guidelines changed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27038: · chapters 1.1, 2.1-2.4, 3, 4.1-4.4, 4.6, 5.1, 5.2, 5.3, 6, 7, 8.2.and 8.3.1 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27039: · order of presentation of sections 5 and 6 on outsourcing and risk management of activities subject to authorisation changed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27040: · chapter 4.3 divided in two subsections, of which the latter was previously chapter 6.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27041: Issued on 23.1.2018, valid from 1.2.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27042: · chapters 2.1, 2.2, 2.3, 4.1, 4.2.1, 4.3, 4.5, 6, 7, 8.2 and 8.3.1 complemented with the provisions of the new Act on Trading in Financial Instruments
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27043: · investment firms and alternative investment fund managers providing investment services deleted from chapter 1.1 Scope of application, the related references to applicable laws in chapters 1.1, 2, 4, 5, 6, 7 and 8 deleted and numbering of chapters 4, 5 and 8 changed due to the national transposition of MiFID II, leading to the repeal of the FIN-FSA's regulatory powers specified in chapter 7 section 23 subsection 1 paragraphs 1 and 2 of the Investment Services Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27044: · new chapter 2.2 EU regulations added, as a result of which changes in the numbering of chapter 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27045: · a reference to EBA Recommendations on outsourcing to cloud service providers added in chapter 6, as a result of which changes in the numbering of the chapter
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27046: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27054: Regulations and guidelines 1/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27055: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27056: 23 February 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27057: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27058: 1.4.2012 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27061: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27064: Issued on 15.6.2023, valid from 1.9.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27065: · chapter 1.1 revised by adding to the scope of application persons providing payment service without authorisation in accordance with sections 7, 7 a and 7 b of the Payment Institutions Act (297/2010) (with respect to paragraph 13 of chapter 8.3.1 of these regulations and guidelines)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27066: · references to regulation in chapter 2.3 updated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27067: · chapter 2.5 revised by updating references to EBA Guidelines on internal governance and outsourcing
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27068: · chapter 6 revised by
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27069: - changing the manner of presentation of paragraph (9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27070: - updating the reference to EBA Guidelines on outsourcing in paragraph (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27071: · chapter 8.3.1 specified by introducing to paragraph (12) a reference to the guideline in paragraph (11), and paragraph (13) added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27072: · in chapter 8.3.2, paragraph (14), reference to FIN-FSA standard RA 6.1, template M, removed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27073: · chapters 2.1, 2.4, 4.1, 4.2.1, 4.2.2, 4.5, 5.1, 5.2, 6, 7, 8.2 and 8.3.1 aligned with the provisions Mutual Funds Act (213/2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27074: FIN-FSA FINANSSIVALVONTA
+

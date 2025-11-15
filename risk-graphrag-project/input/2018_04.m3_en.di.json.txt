@@ -1,0 +1,1289 @@
+METADATA: {"document_id": 7, "filename": "2018_04.m3_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 26, "paragraph_count": 642}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27077: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27078: FS FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27082: Regulations and guidelines 4/2018 J. No FIVA 10/01.00/2020
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [RISK:CREDIT_RISK]
+PARAGRAPH_27083: Management of credit risk and assessment of creditworthiness by supervised entities in the financial sector
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27084: Issued 5.3.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27085: Valid from 1.7.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27086: Further information from Banking Supervision/Banking Regulation and Risk Areas
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27087: FINANCIAL SUPERVISORY AUTHORITY tel. +358 9 183 51 firstname.surname@fiva.fi fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27088: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_27090: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27092: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27095: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27096: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27098: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27102: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27103: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27104: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27105: The FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do so.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27106: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27107: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in the FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27108: Also recommendations and other operating guidelines that are not binding are presented under this heading, as are the FIN-FSA's recommendations on compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27109: The formulation of the guideline shows when it constitutes an interpretation and when it constitutes a recommendation or other operating guideline. A more detailed description of the formulation of guidelines and the legal nature of regulations and guidelines is provided on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27110: fin-fsa.fi > Regulation > Legal framework of FIN-FSA regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_27111: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27112: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27115: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27116: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27120: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27124: Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27127: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27130: Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27133: Legal framework
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27135: 2.2 European Union Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27138: European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27140: 2.4 The FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27142: 2.5 International recommendations. 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27144: Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:CREDIT_RISK]
+PARAGRAPH_27146: 4 Key principles of credit risk management and credit worthiness assessment.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27149: Loan origination and monitoring
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:CREDIT_RISK]
+PARAGRAPH_27151: 4.2 Credit risk strategy and credit risk management procedures
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27153: 4.3 Organisation and responsibilities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27155: 4.4 Credit granting principles and credit granting process
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27157: 4.4.1 Credit analysis 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27158: 4.4.2 .2 Collateral management 16
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27159: 4.4.3 Credit granting process 18
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:CREDIT_RISK]
+PARAGRAPH_27161: Measurement of credit risk and the management information systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:CREDIT_RISK]
+PARAGRAPH_27163: 4.6 Mitigation of credit risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27165: 4.7 Ongoing monitoring of credit risks 21
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27166: 4.7.1 Credit management 21
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27167: 4.7.2 Customer monitoring
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_27169: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27171: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27174: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27175: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27182: 5 Repealed regulations and guidelines 24
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27183: 6 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_27186: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27187: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27190: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27191: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27194: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27197: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27198: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27199: (1) These regulations and guidelines are applicable to the following supervised entities and foreign supervised entities as referred to in the Act on the Financial Supervisory Authority:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27200: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27201: · investment firms
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27202: · branches in Finland of foreign credit institutions authorised in non-EEA countries (branch offices of third-country credit institutions)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27203: · branches in Finland of foreign investment firms authorised in non-EEA countries (branch offices of third-country investment firms)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27204: · central institutions of amalgamations of deposit banks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27205: · holding companies of credit institutions and abovementioned investment firms providing investment services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27206: · holding companies of conglomerates as referred to in the Act on the Supervision of Financial and Insurance Conglomerates.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27207: (2) In addition, section 4.1 of these regulations and guidelines is applicable to other supervised entities as referred to in section 4 of the Act on the Financial Supervisory Authority (the FIN- FSA Act), other financial market participants as referred to in section 5 and foreign supervised entities as referred to in section 6 that offer in Finland consumer loans falling within the scope of chapter 7 of the Consumer Protection Act or consumer loans related to residential property falling within the scope of chapter 7a of the Consumer Protection Act. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27208: 1.2 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27209: For the purposes of these regulations and guidelines, the following definitions apply:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27210: (3) Supervised entity refers to all supervised entities and foreign supervised entities as referred to in the FIN-FSA Act and listed in section 1.1, paragraph 1 above. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [RISK:CREDIT_RISK] [RISK:SOVEREIGN_RISK] [RISK:SETTLEMENT_RISK]
+PARAGRAPH_27211: (4) Credit risk refers to the risk that the counterparty of a financial instrument is unable to fulfil its obligations and therefore causes a financial loss to the other party. Credits are the main source of credit risk, but credit risk (counterparty risk) may also be inherent in bonds, short-term debt securities and derivatives, and in off balance-sheet commitments, such as unused credit lines or limits, guarantees and letters of credit. Country risk and settlement risk are also regarded as credit risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_27212: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27213: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27214: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27215: 5.3.2018 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27217: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27222: (5) Senior management refers to the supervised entity's board of directors. If the supervised entity has a supervisory board, the supervisory board and the board of directors together constitute the senior management of the supervised entity as referred to herein.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27223: (6) Executive management refers here to the Chief Executive Officer and members of a management group appointed to support the CEO. Executive management also comprises persons who operate directly under the CEO and effectively manage the business of the supervised entity in addition to the CEO.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_27224: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27225: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27228: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27229: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27230: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27234: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27237: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27238: 2.1 Legal framework
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27239: The following legal provisions, as amended, relate to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27240: · Credit Institutions Act (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27241: · Investment Services Act (747/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27242: · Act on Amalgamation of Deposit Banks (599/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27243: · Act on the Supervision of Financial and Insurance Conglomerates (699/2004)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27244: · Act on Mortgage Credit Bank Operations (688/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27245: · Consumer Protection Act (38/1978)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27246: · Decree of the Council of State on the professional requirements for lenders and credit intermediaries in consumer loans related to housing (1031/2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27247: · Act on Intermediaries of Consumer Credit Relating to Residential Property (852/2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27248: 2.2 European Union Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27249: The following directly applicable European Union Regulations are related to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27250: · Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (hereinafter 'the EU CRR')
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27251: · Commission Implementing Regulation (EU) 2015/227 amending Implementing Regulation (EU) No 680/2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to Regulation (EU) No 575/2013 of the European Parliament and of the Council
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27252: · Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (EBA), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (hereinafter the EBA Regulation)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27253: 2.3 European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27254: The following European Union Directives are related to the matters addressed in these regulations and guidelines (Issued on 20 October 2020, valid from 30 June 2021):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27255: · Directive 2013/36/EU (32013L0036) of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_27256: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27257: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27260: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27261: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27265: credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27266: · Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 concerning the establishment of a European Supervisory Authority
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27267: · Directive 2006/73/EC (32006L0073) of the European Commission implementing Directive 2004/39/EC of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27268: · Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27269: 2.4 The FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27270: The FIN-FSA's authority to issue binding regulations is based on the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27271: · chapter 9, section 24 of the Credit Institutions Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27272: · chapter 6, section 2 of the Investment Services Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27273: · section 19, subsection 6 of the Amalgamations Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27274: · section 16, subsection 3 of the FiCo Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27275: · chapter 3, section 11, subsection 1 of the Act on Mortgage Banking Operations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27276: 2.5 International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27277: In drafting these regulations and guidelines, consideration has been given to the following guidelines issued by the European Banking Authority (EBA) as well as guidance by the European Central Bank (ECB) (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27278: · EBA Guidelines on arrears and foreclosure (EBA/GL/2015/12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:CREDIT_RISK]
+PARAGRAPH_27279: · EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses (EBA/GL/2017/06)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27280: · EBA Guidelines on Internal Governance under Directive 2013/36/EU (EBA/GL/2017/11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27281: · EBA Guidelines on Connected Clients under Article 4(1)(39) of Regulation (EU) No 575/2013 (EBA/GL/2017/15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27282: · EBA Guidelines on management of non-performing and forborne exposures (EBA/GL/2018/06)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27283: · EBA Guidelines on loan origination and monitoring (EBA/GL/2020/06)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27284: · ECB Guidance to banks on non-performing loans, March 2017 and the addendum to the Guidance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27285: · ECB Guidance on leveraged transactions (May 2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27286: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_27291: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_27292: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_27295: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_27296: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_27305: Interpretations of regulation published by the EBA are available at www.eba.europa.eu/single-rule-book-qa (Single Rule Book Q & A).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_27306: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27307: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27310: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27311: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27314: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27317: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:CREDIT_RISK]
+PARAGRAPH_27318: (1) The organisation of credit risk management and control as part of the internal control function constitutes a key task for the supervised entity's business management. Credit risk management and control is of crucial importance in ensuring that the supervised entity holds adequate capital against the risks involved in the business and the potential losses on incurred risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:CREDIT_RISK]
+PARAGRAPH_27319: (2) The objective of these regulations and guidelines on the management of credit risk and the assessment of creditworthiness is to (Issued on 20 October 2020, valid from 30 June 2021):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:MARKET_RISK] [RISK:BUSINESS_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27320: · Ensure that supervised entities and entities belonging to the same consolidation group have adequate and effective functions in place, commensurate with the nature and scope of their activities, to identify, measure, mitigate, monitor and control market risk as part of their overall business risk management and control.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27321: · Ensure that supervised entities and entities belonging to the same consolidation group do not take on such credit risks that may jeopardise their profitability or capital adequacy, in the course of their lending or investment activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27322: · Ensure that supervised entities and entities belonging to the same consolidation group as well as other financial institutions1 follow appropriate procedures when assessing the creditworthiness of customers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27323: · Inform supervised entities of guidelines and recommendations issued by EBA and the ECB, which should be taken into account by supervised entities and other financial institutions in their activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27324: 1 In these regulations and guidelines, financial institution has the same meaning as in Article 4(1) of the EBA Regulation (1093/2010), which contains a definition of financial institution.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_27325: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27326: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27327: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27329: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27332: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27333: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK]
+PARAGRAPH_27336: 4 Key principles of credit risk management and credit worthiness assessment
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27337: 4.1 Loan origination and monitoring
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27339: On 29 May 2020, the European Banking Authority (EBA) issued guidelines on loan origination and monitoring (EBA/GL/2020/06). The guidelines clarify, in particular, the internal governance and control framework for the credit-granting and decision-making process, specify the requirements for assessing the creditworthiness of borrowers at the point of credit granting to consumers and enterprises, and set out requirements for the information to be used in assessments. In addition, the guidelines set out supervisory expectations for the risk-based pricing of loans and provide guidance on, among other things, the valuation of immovable and movable property collateral at the point of credit granting, and the monitoring and review of the value of such collateral. The guidelines also provide specifications on the ongoing monitoring of credit risks. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27340: (2) In accordance with Article 16(3) of the EBA Regulation (1093/2010), financial institutions shall make every effort to comply with the EBA Guidelines referred to in paragraph (1). (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27341: GUIDELINE (paragraphs 3-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27342: (3) The FIN-FSA recommends that supervised entities falling within the scope of these regulations and guidelines comply with the EBA Guidelines mentioned in paragraph (1), which is available at the https://www.finanssivalvonta.fi/en/. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27343: (4) The FIN-FSA recommends that all supervised entities as referred to in section 4 of the FIN-FSA Act and other financial market participants as referred to in section 5 and foreign supervised entities as referred to in section 6 comply with chapter 5 on loan origination procedures of the EBA Guidelines mentioned in paragraph (1), excluding paragraph 93 of the Guidelines, when they offer consumer loans falling within the scope of chapter 7 of the Consumer Protection Act or consumer loans related to residential property falling within the scope of chapter 7a of the Consumer Protection Act. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK]
+PARAGRAPH_27344: 4.2 Credit risk strategy and credit risk management procedures
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27345: (5) In accordance with chapter 9, section 1 of the Credit Institutions Act, a credit institution may not, in the course of its activities, incur a risk that fundamentally endangers its solvency or the liquidity. To ensure this, the credit institution shall have sound, comprehensive and efficient strategies and procedures to assess, monitor and maintain the amount, nature and allocation of its internal capital.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27346: (6) In accordance with chapter 9, section 3 of the Credit Institutions Act, the board of directors of a credit institution shall approve the strategies and procedures concerning the risks relating to the credit institution and its activity as well as regularly monitor them. All material risks, risk management guidelines and any changes thereto shall be reported to the board of directors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_27347: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27348: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27351: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27352: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27354: GUIDELINE (paragraph 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [RISK:CREDIT_RISK]
+PARAGRAPH_27356: The FIN-FSA recommends that the credit risk strategy define at least the following matters:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27357: · target markets
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27358: · preferred customer profile in granting credit and its allocation of credit based on exposure type, industry or economic sector, geographical location, currency and maturity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27359: · risk-taking level based on its risk-bearing capacity and principles for diversification of and hedging against risks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27360: · quality, yield and growth targets for the credit portfolio.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27361: 4.3 Organisation and responsibilities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27362: (8) In accordance with chapter 9, section 2 of the Credit Institutions Act, a credit institution shall have efficient and reliable administrative and control systems, described in writing, for the recognition, management, limiting, monitoring and reporting of current and future risks concerning the credit institution and its activities. These include a clear organisational structure, effective risk management reporting procedures, sound internal control, administration and accounting procedures as well as principles and procedures concerning remuneration policies which are consistent with and conducive to sound and efficient risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27363: (9) In accordance with chapter 9, section 8 of the Credit Institutions Act, a credit institution shall have a risk supervisory function, a function supervising compliance with the regulations and internal principles, internal audit and other necessary supervisory functions independent of the activities of a credit institution. The task of the risk supervisory function is to identify, measure and report the material risks of the credit institution to the board of directors. The supervisory function shall actively participate in the preparation of a risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27364: strategy and in the making of all essential decisions concerning risk management as well as ensure that the board of directors is given a comprehensive view of the risks affecting the credit institution. The persons employed in supervisory functions must be independent of the business units under their supervision.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27365: GUIDELINE (paragraph 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27366: (10) The FIN-FSA recommends that executive management, as a minimum requirement, see to it that:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27367: · the supervised entity's credit granting activities conform to the adopted strategy and policy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27368: · the supervised entity's personnel have adequate expertise to implement the adopted strategy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27369: · the policies are communicated throughout the organisation and implemented in an agreed order
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27370: · written operating and credit granting instructions exist and are updated when required by internal or external circumstances
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27371: · approval and control authorisations have been duly designated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27372: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_27375: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27378: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27379: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27381: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27388: **************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27391: · there is adequate and regular training available on credit granting in order to maintain professional competence
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27392: · internal control responsibilities and methods have been defined
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27393: · independent assessment of credit granting and risk management has been organised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27394: · the supervised entity follows responsible conduct in credit granting
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27395: · there are no inducements that cause a conflict of interest between credit granting and credit quality
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27396: (11) Chapter 15, section 12a of the Credit Institutions Act provides on professional requirements that persons employed by a credit institution and otherwise acting on behalf of a credit institution and participating in the granting of credit belonging to the scope of chapter 7a of the Consumer Protection Act must have adequate knowledge of credit operations. Also persons with abovementioned personnel under their direct management and supervision must have comparable knowledge and competence. In accordance with Decree 1031/2016 of the Council of State, the personnel must have such knowledge that is necessary with a view to his or her position in lending, credit intermediation or the provision of advisory service. Competence and knowledge must be demonstrated by an applicable diploma, degree, training or competency test and work experience in a comparable position, and they must be maintained up to date. Until 21 March 2019, the competence and knowledge referred to in section 2 of the Decree may also be demonstrated solely by applicable work experience in a comparable position.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27397: GUIDELINE (paragraph 12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27398: (12) The provisions above in paragraph (11) on general professional requirements also apply to persons employed by a credit institution and participating in the granting of other credits than housing loans, however, taking the nature and scope of the activity and the person's position into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27399: (13) In accordance with chapter 7a, section 10 of the Consumer Protection Act, in preparing and applying its policies on remuneration of personnel responsible for the assessment of consumers' creditworthiness, lenders must ensure that the policies prevent the emergence of conflicts of interests. In particular, it is required that the amount of remuneration of the personnel is not dependent on the number and share of approved credit applications. The policies must promote appropriate and effective risk management and they must not encourage risk taking in excess of the risk level acceptable for the lender.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27400: GUIDELINE (paragraph 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27401: (14) The FIN-FSA recommends that the provisions on remuneration in paragraph (13) be also applied to persons employed by the credit institution participating in the granting of other credits than housing loans.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27402: (15) On 26 September 2017, EBA issued Guidelines on Internal Governance (EBA/GL/2017/11). The Guidelines discuss among other things the organisation of activities, risk management and the role of management therein, the introduction of new products, independent risk control and its roles and tasks in risk management, the duties of the persons responsible for risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_27403: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27404: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27405: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27406: 5.3.2018 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27407: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27410: management (Chief Risk Officer, CRO) as well as internal control and its organisation. (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27411: (16) In accordance with Article 16(3) of the EBA Regulation (1093/2010), supervised entities shall make every effort to comply with the EBA Guidelines referred to in paragraph (15).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27412: 4.4 Credit granting principles and credit granting process
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:CREDIT_RISK]
+PARAGRAPH_27413: (17) This section 4.3 provides regulations and guidelines on general credit granting principles and processes and those applicable to corporate and consumer lending, from the perspective of credit risk management. Chapter 7 of the Consumer Protection Act provides on consumer credit, and chapter 7a provides on consumer credit pertaining to housing property from the perspective of customer protection.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27414: 4.4.1 Credit analysis
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27415: (18) In accordance with chapter 9, section 10(1) of the Credit Institutions Act, the granting of credit shall be based on sound and well-defined criteria.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:CREDIT_RISK]
+PARAGRAPH_27416: (19) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27417: REGULATION (paragraphs 20-29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27418: (20) Credit decisions by a supervised entity shall be based on a credit analysis. The credit analysis shall give a sufficiently accurate picture of the borrower applying for credit, the borrower's creditworthiness and of the project to be financed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27419: (21) In the assessment of creditworthiness, the supervised entity must comply with chapter 7a, section 10 of the Consumer Protection Act also with respect to other borrowers than consumers. The assessment must be made with respect to both new credits, renewed credits and changes of credit terms and conditions. The information and documents needed as background for the decision must be listed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27420: (22) In considering the granting of credit, supervised entities must study thoroughly enough the capacity of the applicant to meet its obligations. To analyse the financial status and creditworthiness, sufficient information must be obtained about the customer. Corporate customers' financial statements information and personal customers' income and expense information as well as credit register details constitute basic information likely to assist the supervised entity in making the right credit decisions. The accuracy of the information must be ascertained in an appropriate manner.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27421: (23) At a minimum, the following factors must be considered in the context of credit decisions:2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27422: · the borrower's previous repayment performance, current repayment capacity and estimate of future repayment capacity considering all of its assets and liabilities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27423: 2 In applying this regulation, supervised entities may take into account the quality, scope and diversity of their operations and the estimated credit risk related to the customer as well as any other comparable matters in considering how to implement the regulation in an appropriate and effective manner.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27424: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_27427: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27430: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27431: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27433: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27436: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27440: · the purpose of use of the credit and the source of funds for its repayment (continuity factors must be taken into account)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27441: · the funding plan for the project and the proportion of the borrower's equity finance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27442: · collateral type, valuation, coverage and realisability
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27443: . in case the credit is amortised on a very back-loaded repayment plan, the plan for paying the largest instalments
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27444: · assessment of changes in economic conditions (interest rates, other factors)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27445: · group of connected clients3, its obligations (incl. guarantee obligations) and the supervised entity's position in terms of priority, preferential rights and collateral
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27446: · how the credit decision is consistent with the credit strategy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27447: · in the case of housing company loans, also the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27448: - high level of housing company loan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27449: - ownership concentrations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27450: · in the case of corporate credit, also the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27451: - assessment of the borrower's business idea, sector and position/competitiveness within the sector
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27452: - assessment of the competence and expertise of company management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27453: - ownership structure of the company and its influence in the potential event of equity recapitalisation (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27454: (24) In order to assess credit risk, supervised entities must take into account the matters listed in chapter 4.2.2, paragraph (36) of the EBA Guidelines (EBA/GL/2017/06) on credit institutions' credit risk management practices and accounting for expected credit losses to the extent that they were not taken into account under paragraph (23). (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27455: (25) In their credit decisions, supervised entities must to assess the risks against expected return both in pricing individual credits and in making an overall assessment of their customer relationships. Supervised entities must emphasise the independent profitability of lending relative to credit risks. In keeping with their risk-related goals, supervised entities shall take into consideration potential future macroeconomic changes and their effects on borrowers and contract parties.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27456: (26) Supervised entities must be able to demonstrate that they consider inherent risks appropriately in accordance with chapter 4.2.2, paragraph (40) of the guidelines referred to above in paragraph (24) in pricing credit contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27457: (27) Supervised entities must comply with the provisions on the assessment of creditworthiness and on granting credit laid down in chapter 7, section 16a (2) of the Consumer Protection Act also with respect to non-consumer credit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27458: 3 Counterparties must be combined into groups of connected clients if there is a group relationship or another direct or indirect control relationship between them, for example through a common owner or management, dependence caused by mutual business relationships, which cannot be unwound rapidly and due to which one counterparty's financial difficulties may also cause repayment difficulties to other counterparties belonging to the same group of connected clients.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_27459: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27460: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27461: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27463: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27468: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27469: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27472: (28) Supervised entities must have information systems in place for the collection and updating of customer data as well as established procedures for the identification of connections between single customers, counterparties and entities related to them and the calculation of risk concentrations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27473: (29) Supervised entities must have information barriers between different functions, units and departments in order to prevent sensitive customer information to spread to unauthorised personnel. These arrangements must not, however, prevent units or persons dealing with internal control, risk control or risk management from obtaining necessary data.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27474: (30) The ECB has provided guidance on the definition of high-leverage projects, and the risk strategy, organisation, syndication, credit analysis, credit granting process, monitoring, secondary-market activity as well as reporting and systems in such projects (Guidance on leveraged transactions).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27475: GUIDELINE (paragraphs 31-33)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27476: (31) The FIN-FSA recommends that supervised entities comply with the ECB Guidance referred to in paragraph (30).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [RISK:CREDIT_RISK]
+PARAGRAPH_27477: (32) The FIN-FSA recommends that housing credit is priced so that customer income from housing credit covers the credit risk, the bank's funding costs, the bank's requirement for return on capital and other operating costs throughout the validity of the contracts. (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27478: (33) The FIN-FSA recommends that supervised entities complete a calculation of available funds for all new housing loan applicants when the credit sought concerns Finnish housing assets, and that they take these calculations into consideration in the lending decision. In the calculation of available funds, the interest rate should be set at least at six per cent and the maturity of the loan at no more than 25 years. The calculation of available funds should also reflect a potential increase in the financial charge for the housing company loan in the event of a rise in interest rates and the termination of any grace period for principal repayment. Furthermore, attention should be paid to the fact that it is usually not possible to have a grace period for financial charges pertaining to housing company loans.(Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27479: (34) EBA has issued Guidelines on Connected Clients.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27480: (35) In accordance with Article 16(3) of the EBA Regulation (1093/2010), supervised entities shall make every effort to comply with the EBA Guidelines referred to in paragraph (34).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27481: 4.4.2 Collateral management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27482: (36) In accordance with chapter 9, section 10(3) of the Credit Institutions Act, credit institutions shall administer and monitor credit risks on an ongoing basis through effective systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27483: (37) In accordance with section 1 of the Decree of the Council of State on the professional requirements for lenders and credit intermediaries in consumer credits related to housing, persons filing the notifications referred to in section 6(1) of the Act on intermediaries of consumer credits relating to residential immovable property must have appropriate competence
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_27484: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27485: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27488: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27489: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27497: commensurate with the nature and scope of the activity, as regards the credits and other services provided, finance, economy and the assessment of consumers' creditworthiness, where necessary. In addition, the person filing the notification must have appropriate knowledge among other things of the following matters: 4) valuation of residential property or other assets provided as collateral for credit. The requisite competence and knowledge must be demonstrated by an applicable diploma or degree as well as work experience, and it must be maintained up to date.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [RISK:CREDIT_RISK]
+PARAGRAPH_27498: (38) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27499: REGULATION (paragraphs 39-44)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27500: (39) Credit decisions must be primarily based on the customer's creditworthiness. As a rule, credit shall not be granted if the customer lacks credit repayment potential apart from the realisation of collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27501: (40) In exceptional financing arrangements where the repayment of credit is based on the realisation of collateral, the supervised entity shall monitor the return and market value performance of the collateral in order to ascertain that the repayment is guaranteed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27502: (41) Supervised entities must have documented procedures and guidelines for:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27503: · accepting different types of collateral
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27504: · regularly monitoring and assessing collateral values4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27505: · collateral valuation (hair-cut)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27506: · ensuring that collateral is binding, adequate and realisable
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27507: · identifying any concentrations of risk arising from collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27508: (42) Supervised entities must establish acceptable types of collateral as well as collateral valuation percentages for each type of acceptable collateral. The valuation percentages shall be consistent with a prudential maximum limit for the relevant types of collateral. However, collateral value must always be based on a case-specific assessment, and special attention should be paid on collateral whose fair value cannot be considered stable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27509: (43) The valuer of collateral must be competent and adequately independent of the granting of credit. Supervised entities must comply with the provisions in section 1 of Decree 1031/2016 of the Council of State on the professional requirements for a valuer of residential property or collateral for credit in consumer credit related to housing, also with respect to the valuer of collateral for other credit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27510: (44) Supervised entities must ensure that the valuation of acceptable collateral is based on reliable appraisal methods, taking internationally recognised valuation standards into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27511: 4 EBA has published an interpretation guideline (2017_3078) on the determination of fair value under Article 208(3)(b) and Article 229(1) of the EU CRR (575/2013). According to the interpretation guideline, Article 208(3)(b) CRR does not allow the use of a statistical model as the sole means of valuation of collateral. The same applies to Article 229(1) CRR.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_27512: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27513: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27514: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27516: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27519: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27522: 4.4.3 Credit granting process
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27523: (45) In accordance with chapter 9, section 10(1) of the Credit Institutions Act, principles and procedures concerning the processes for approving, amending, renewing, and re-financing credits shall be clearly established and documented.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [RISK:CREDIT_RISK]
+PARAGRAPH_27524: (46) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27525: REGULATION (paragraphs 47-64)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27526: (47) Credit decisions shall be made in accordance with written instructions approved by the executive management. There shall be a clear audit trail documenting the whole process, from credit application to credit decision, and it shall be approved by the appropriate level of management. The credit decision or documents appended thereto shall give a detailed account of the contents and date of the decision, the grounds for granting or turning down the application and the decision makers. The entire credit granting process must be verifiable after the event.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27527: (48) The tasks and responsibilities of persons involved in the granting of credit must be defined in credit granting instructions. The instructions shall also specify who has the authority to grant credit and the limit of the authority. Only authorised persons or decision-making units may make credit decisions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27528: (49) As a rule, the preparation of a credit proposal and the credit decision must be separated. However, the proposal may be exceptionally prepared and decision made by a single person within his or her credit granting authority, where minor and low-risk credit decisions are concerned, and the decision making is supported by an assessment of creditworthiness that is independent of the decision maker.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27529: (50) Credit may be disbursed to the customer when the customer has submitted to the supervised entity all the necessary documents, and their consistency with the decision has been ensured reliably and independently.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27530: (51) Credit documents must be retained at least until the credit has been repaid.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27531: (52) Supervised entities must have common processes, systems, tools and information in accordance with chapter 4.2.7 of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses (EBA/GL/2017/06). (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27532: Credits to closely associated persons
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27533: (53) All decision concerning the granting of credit and all changes of terms and conditions of credit must be made on an arm's-length basis. All credit or comparable finance to related individuals, companies or foundations must be extended on the same terms and conditions as to non- related borrowers. Senior management shall adopt general terms and conditions for credit to closely associated persons and all decisions concerning credit to closely associated persons.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_27534: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27535: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27536: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27538: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27541: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27544: (54) Supervised entities must ensure that credit is not extended to closely associated persons at terms and conditions that could jeopardise the supervised entity's financial status or otherwise the confidence in its operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27545: Automated credit granting process
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27546: (55) Where a supervised entity has automated part of the credit-granting process, it must ensure that the automated process is compliant with the provisions on the management of credit risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27547: (56) Where a supervised entity has outsourced part of the credit-granting process, it must ensure that the outsourced process is compliant with the provisions on outsourcing. The supervised entity remains responsible for any outsourced activity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27548: (57) Where a supervised entity has automated part of the credit-granting process, it must state the credit products and target groups in the lending guidelines and state in which respects these fall within the scope of the automated credit process. The higher the rate of automation, the smaller and less-risky the credit must be.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27549: (58) Where a supervised entity's credit analysis has been automated, the document describing the activity must state in detail all factors analysed, the sources used, content of the analysis and automatic checks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27550: (59) Where the preparation of credit proposals and or decision proposals by a supervised entity have been automated, the document describing the activity must state in detail the rules, criteria, contents, proposal alternatives and automatic checks pertaining to the proposal.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27551: (60) Where a supervised entity has automated the credit-decision making, it must state in the credit- granting guidelines the prerequisites that must be met in order for the decision to be made automatically. The supervised entity must determine maximum limits for credit amount and risk. Where necessary, other limits must be set.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27552: · Supervised entities must see that automatic credit granting is updated where necessary and regularly enough in order to ensure the regulatory compliance and timeliness in other respects of the decision making.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27553: · The credit-granting guidelines of a supervised entity must document who has authority to decide on updates to automatic credit granting. Decisions and updates must be documented.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27554: (61) Where a supervised entity has automated part of the credit-granting process but has not automated credit-decision making or the credit decision is not made automatically since the specified prerequisites are not met, the credit-granting guidelines of the supervised entity must state who has credit-granting authority with respect to automated credits. In addition, the guidelines must describe which checks must be performed by the person making the credit decision before making the decision and the procedure related to each decision proposal. The justifications of the proposal and the underlying analysis must be made available to the person making the credit decision.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27555: (62) As regards the automated credit process, supervised entities must ensure that the activity is monitored continuously and there are adequate audits on the activity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_27556: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27557: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27558: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27560: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27567: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27570: (63) Supervised entities must have a system preventing the granting of credit to customers where such granting would lead to an overrun of the maximum credit amounts referred to in paragraph (60).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27571: (64) Supervised entities must ensure that all such matters pertaining to the granting of credit and credit documentation that must be retained pursuant to regulations are saved, where credits granted through the automated credit process are concerned.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:CREDIT_RISK]
+PARAGRAPH_27572: 4.5 Measurement of credit risk and the management information systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27573: (65) In accordance with chapter 9, section 9(1) of the Credit Institutions Act, credit institutions shall have sufficient internal methodologies for the assessment of the credit and counterparty risks with regard to the nature, scope and diversity of the activities of a credit institution. The internal methodologies shall not rely solely or mechanically on external credit ratings concerning the counterparty or financial instrument.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:CREDIT_RISK]
+PARAGRAPH_27574: (66) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on the credit risk assessment methods referred to in section 9(1) and (2).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27575: REGULATION (paragraphs 67-73)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27576: (67) The measurement of credit risk shall take account of the specific nature of the claims, their contract terms, the existence of collateral, the probability of payment default and possible market movements affecting the value of the claims.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27577: (68) Supervised entities must, regardless of whether they use internal models in the calculation of capital requirements for credit risk, assess and monitor the quality of their credit portfolios by a risk rating system which takes the creditworthiness of the customers into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27578: (69) The risk rating system shall hold so many categories that it can separate both different credit risks in well-managed credits and credit risks in doubtful credits.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27579: (70) The risk rating system shall reflect changes in the credit risks. Deterioration of a customer's payment capacity shall lead to an adjustment of its risk rating and a thorough review of its credits. Weaker customers must be included in more active monitoring.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27580: (71) A function that is independent of the credit granting shall be responsible for making the rating decisions. This independent function shall also regularly ensure that the rating reflects the actual, prevailing conditions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27581: (72) Supervised entities must have information systems and analytical techniques that provide the senior and executive management with adequate reliable, detailed and timely information on the composition of the credit portfolio, including identification of any concentrations of risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27582: (73) Supervised entities must have a credit risk rating process in accordance with chapter 4.3.2, paragraphs (42-48) of the EBA Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_27583: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27584: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27587: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27588: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27591: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [RISK:CREDIT_RISK]
+PARAGRAPH_27596: 4.6 Mitigation of credit risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27597: (74) In accordance with chapter 9, section 10(3) of the Credit Institutions Act, credit receivables have to be kept adequately diversified in accordance with the target market of the credit institution and the credit-granting strategy approved by the board of directors of the credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27598: (75) In accordance with chapter 9, section 12 of the Credit Institutions Act, credit institutions shall prepare for the realisation of the risk arising from the concentration of risks. They shall have, for example, documented policies and procedures concerning the matter.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [RISK:CREDIT_RISK]
+PARAGRAPH_27599: (76) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on credit and counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27600: REGULATION (paragraphs 77-79)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27601: (77) The senior management must ensure that credit granting activities and other activities causing credit risk are adequately diversified. For this purpose, the claims and groups of claims that are significant from the viewpoint of risk management and therefore require exposure limits must be defined in order to diversify risks. Limits must be established at least for exposures to specific products, certain counterparties, particular industries or economic sectors, individual foreign countries or groups of countries. The utilisation rate of the limits set must be monitored continuously.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27602: (78) Supervised entities must also identify such indirect risk concentrations that may arise in situations where the performance of different business lines react in the same way to external, primarily macroeconomic factors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27603: (79) If the avoidance of certain risk concentrations is difficult or the concentrations are justifiable from a business point of view, the increased credit risk thus arising shall be considered in the pricing and calculation of capital adequacy.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27604: 4.7 Ongoing monitoring of credit risks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27605: 4.7.1 Credit management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27606: (80) In accordance with chapter 9, section 10(3) of the Credit Institutions Act, credit institutions shall administer and monitor credit risks on an ongoing basis through effective systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [RISK:CREDIT_RISK]
+PARAGRAPH_27607: (81) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on credit and counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27608: REGULATION (paragraphs 82-84)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27609: (82) Supervised entities must have an independent function, segregated from the credit granting process, to ensure that credits are prepared and approved appropriately, and relevant documents are duly prepared. The credit documents shall include information to track the history of the credit as well as information on the decision-making process, the staff involved in
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_27610: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27611: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27614: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27615: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27618: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27622: the credit process and credit decision and information on the current financial status of the borrower or counterparty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27623: (83) The credit management shall fulfil the following requirements:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27624: · It shall provide accurate and timely information to the management information systems utilised by the unit responsible for customers and by executive management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27625: · It shall ensure adequate segregation of duties and appropriate controls over back office procedures.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27626: . It shall ensure compliance with policies and procedures established by senior management and with applicable laws and regulations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27627: (84) Supervised entities must have a system preventing the granting of credit to customers where such granting would lead to an overrun of the limits or sub-limits referred to in paragraph (77).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27628: 4.7.2 Customer monitoring
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27629: (85) In accordance with chapter 9, section 10(3) of the Credit Institutions Act, credit institutions shall have processes for identifying and managing problem credits and for making adequate impairments and loss provisions thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [RISK:CREDIT_RISK]
+PARAGRAPH_27630: (86) In accordance with chapter 9, section 24 of the Credit Institutions Act, the Financial Supervisory Authority may issue further provisions on credit and counterparty risk referred to in section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27631: REGULATION (paragraphs 87-89)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27632: (87) Supervised entities shall establish principles for the monitoring of customers, collateral and guarantees. The principles shall describe how problem customers are identified as early as possible and the procedures for treatment of problem customers of various degree. Where special terms, or covenants, are applied in lending, the supervised entity must have processes, systems and responsible persons to conduct the requisite regular monitoring and implementation of documented measures.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27633: (88) In making a decision on measures or forbearances, the supervised entity must consider the borrower's financial position and current capacity to repay the credit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27634: (89) The supervised entity shall appoint the persons that are to be responsible for the monitoring of credits and collateral. These persons shall ensure that the persons responsible for the internal risk rating are immediately provided with information on changes customers' financial position as well as the timely information needed to update the ratings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27635: (90) In March 2017, the ECB issued guidance to banks on the treatment of non-performing assets and addendum to the Guidance.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27636: GUIDELINE (paragraph 91)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27637: (91) The FIN-FSA recommends that supervised entities comply with the ECB Guidance and addendum referred to in paragraph (90).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_27638: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27639: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27640: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27641: 5.3.2018 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27647: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [RISK:CREDIT_RISK]
+PARAGRAPH_27650: (92) On 12 May 2017, the EBA issued Guidelines on credit institutions' credit risk management practices and accounting for expected credit losses (EBA/GL/2017/06). (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27651: (93) In accordance with Article 16(3) of the EBA Regulation (1093/2010), supervised entities shall make every effort to comply with the EBA Guidelines referred to in paragraph (92). Part of the EBA Guidelines is, however, laid down as binding regulations in this set of regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27652: (94) On 30 October 2018, the EBA issued Guidelines pursuant to Article 16 of Regulation (EU) No 1093/2010 of the European Parliament and of the Council on management of non-performing and forborne exposures (EBA/GL/2018/06). (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27653: (95) In accordance with paragraph 189 of the Guidelines referred to in paragraph (94), competent authorities should define a common threshold for the individual valuation and revaluation of the collaterals used for NPEs by an independent appraiser. This threshold should be applicable to all credit institutions in the authority's jurisdiction and should be publicly disclosed. Non- performing exposures falling below this threshold do not require an independent appraisal. (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27654: GUIDELINE (paragraphs 96-97)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27655: (96) The FIN-FSA recommends that entities belonging to the scope of application of these regulation and guidelines comply with the EBA Guidelines referred to in paragraph (94), which is available at https://www.finanssivalvonta.fi/en/. (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27656: (97) The FIN-FSA recommends that the threshold referred to in paragraph (95) be set at €300,000. (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_27657: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27658: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27661: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27662: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27665: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27670: 5 Repealed regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27671: Upon entry into force, these regulations and guidelines shall replace the following FIN-FSA standard:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [RISK:CREDIT_RISK]
+PARAGRAPH_27672: · Standard 4.4a, Management of credit risk, issued by the Financial Supervision Authority
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27673: These regulations and guidelines repeal the following FIN-FSA regulations and guidelines: (Issued on 20 October 2020, valid from 30 June 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27674: · FIN-FSA regulations and guidelines 3/2017, Assessment of credit worthiness
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_27675: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27676: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27679: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27680: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27683: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27686: 6 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27687: These regulations and guidelines have been amended after their entry into force as follows: (Issued on 23.1.2020, valid from 10.2.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27688: · section 2.5 revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27689: · section 4.3.1, paragraph 19 complemented and paragraphs 28 and 29 introduced, leading to the renumbering of subsequent paragraphs of the chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27690: · paragraphs 90, 91, 92 and 93 added to section 4.6.2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27691: The revisions are related to the incorporation of the EBA Guidelines of 30 October 2018 on the management of non-performing and forborne exposures to the regulations and guidelines. In addition, as applicable and subject to requisite additions and revisions, the contents of the letter "To banks operating in Finland 30 October 2010: Safeguarding banks' long-term profitability and customer protection" and the supervision release "20/2010 - 8 June 2010: Supervisory release of household housing finance" have been added. Finally, lending practices related to housing company loans have been clarified.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27692: Issued on 20 October 2020, valid from 30 June 2021
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [RISK:CREDIT_RISK]
+PARAGRAPH_27693: · name of regulations and guidelines 4/2018 changed to correspond better with its content Management of credit risk and assessment of creditworthiness by supervised entities in the financial sector
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27694: · the scope of the regulations and guidelines defined in section 1.1 extended with regard to section 4.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27695: · the definition of "supervised entity" in section 1.2 clarified to correspond, for reference, to the updated scope of the regulations and guidelines defined in section 1.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27696: · Directive 2008/48/EC of the European Parliament and of the Council, related to the subject of regulations and guidelines, added to section 2.3.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27697: · EBA Guidelines on creditworthiness assessment (EBA/GL/2015/11), which will be repealed when the new EBA Guidelines on loan origination and monitoring (EBA/GL/2020/06) become applicable on 30 June 2021, deleted from section 2.5. The new guidelines have been included in the FIN-FSA regulations and guidelines also in section 4.1.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27698: · the CEBS Guidelines on the implementation of the revised large exposures regime, mentioned in section 2.5, have been deleted as they have been replaced by the EBA Guidelines on Connected Clients under Article 4(1)(39) of Regulation (EU) No 575/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27699: · The objectives of the regulations and guidelines defined in chapter 3 have been supplemented by adding appropriate procedures for assessing the creditworthiness of customers, and the target group of the defined objectives have been extended as applicable to all financial institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_27700: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27701: Regulations and guidelines 4/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27704: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27705: 1.7.2019 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_27715: · "attention shall be paid" amended in section 4.4.1, paragraph (33) to the form "attention should be paid"
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27716: · section 4.6.3 Stress tests deleted, as the CEBS Guidelines mentioned therein have been replaced by the EBA Guidelines on institutions' stress testing (included in FIN-FSA regulations and guidelines 2/2019 Guidelines on stress testing).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27717: · The naming and numbering of EBA Guidelines has been harmonised, and paragraph references have been updated following the addition of section 4.1.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_27718: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+

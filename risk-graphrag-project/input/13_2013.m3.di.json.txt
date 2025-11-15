@@ -1,0 +1,1370 @@
+METADATA: {"document_id": 28, "filename": "13_2013.m3.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 26, "paragraph_count": 614}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40524: Määräykset ja ohjeet 13/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40525: Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40526: Dnro FIVA 14/01.00/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40527: Antopäivä 10.6.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40528: Voimaantulopäivä 1.7.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40529: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40531: FINANSSIVALVONTA puh. 09 183 51 faksi 09 183 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40532: Lisätietoja Markkina- ja menettelytapavalvonta/Markkinat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_40533: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40534: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40537: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40538: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40540: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40542: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40543: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40544: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40545: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain sään- nöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40547: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40548: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoitta- via. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40549: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toi- mintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40550: Finanssivalvonta.fi > Saantely > Maarays- ja ohjekokoelma > Uusi määräyskokoelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_40551: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40552: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40555: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40556: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40558: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 3 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40559: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40561: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40564: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40567: Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40570: Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40573: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40576: Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40579: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40582: Markkinaosapuolten ja työeläkevakuutusyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40585: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40588: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40591: Sisäpiiriläiset ja lähipiiri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40594: Ilmoitettavat osakkeet ja rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40597: Sisäpiirirekisteriin tehtävät ilmoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40600: Sisäpiiri-ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40603: Sisäpiiri-ilmoituksen muutokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40606: Arvo-osuusjärjestelmään liitetyt rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40609: Sisäpiiriläisyyden päättyminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40612: Poikkeukset ilmoitusvelvollisuudesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40615: Rahastoyhtiön julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40618: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40621: Sisäpiiriläiset ja lähipiiri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40624: Ilmoitettavat rahasto-osuudet, osakkeet ja rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40627: Sisäpiirirekisteriin tehtävät ilmoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40630: Sisäpiiri-ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40633: Sisäpiiri-ilmoituksen muutokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40636: Arvo-osuusjärjestelmään liitetyt osakkeet ja muut rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40639: Sisäpiiriläisyyden päättyminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_40641: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40642: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40645: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40646: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40648: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 4 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40651: Poikkeukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40654: Rahastoyhtiön osakkeenomistaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40656: Rekisterinpitäjän velvollisuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40659: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40662: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40665: Sisäpiirirekisterin luotettavuuden varmistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40668: Rekisterimerkinnät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40671: Tietojen säilytysaika ja julkisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40674: Tietojen antaminen sisäpiirirekisteristä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40679: Muutoshistoria 25
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_40681: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40682: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40685: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40686: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40688: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40690: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40691: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40692: (1) Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetussa laissa tarkoitettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40693: · sijoituspalveluyritykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40694: · sijoituspalveluja tarjoavat luottolaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40696: · arvopaperikeskus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40697: · rahastoyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40698: · työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40699: (2) Näitä määräyksiä ja ohjeita sovelletaan myös luvun 1.2 kohdassa (3) tarkoitettuihin sisäpii- riläisiin sekä rahastoyhtiön osakkeenomistajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40700: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40701: Näissä määräyksissä ja ohjeissa käytetään jäljempanā seuraavia määritelmia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40702: (3) Sisäpiiriläisellä tarkoitetaan sijoituspalvelulain 7 luvun 12 §:ssä, kaupankäynnistä rahoitus- välineillä annetun lain 3 luvun 29 §:ssä, arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 17 §:ssä, sijoitusrahastolain 99 §:ssä ja työelakevakuutusyhtioistä annetun lain 12 g §:ssä tarkoitettuja henkilöitä. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40703: (4) Määräysvaltayhteisölla tarkoitetaan arvopaperimarkkinalain 2 luvun 4 §:ssä tarkoitettua yhteisöä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40704: (5) Rekisterinpitäjällä tarkoitetaan edella kohdassa (1) mainittuja valvottavia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_40705: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40706: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40709: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40710: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40712: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 6 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40713: 2 Säädöstausta ja kansainväliset suosi- tukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40714: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40715: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset: (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40716: · sijoituspalvelulaki (747/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40717: · kaupankäynnistä rahoitusvälineillä annettu laki (1070/2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40718: · arvo-osuusjärjestelmästä ja selvitystoiminnasta annettu laki (348/2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40719: · sijoitusrahastolaki (48/1999)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40720: · työeläkevakuutusyhtiöistä annettu laki (354/1997)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40721: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40722: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännök- siin: (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40723: · sijoituspalvelulain 1 luvun 4 §:n 1 ja 2 momentti seka 7 luvun 16 §:n 2 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40724: · kaupankäynnistä rahoitusvalineilla annetun lain 3 luvun 36 §:n 1 momentin - 3 ja 4 kohdat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40725: · arvo-osuusjärjestelmasta ja selvitystoiminnasta annetun lain 2 luvun 21 §:n 2 mo- mentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40726: · sijoitusrahastolain 101 b §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40727: · työeläkevakuutusyhtiöistä annetun lain 12 j §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_40728: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40729: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40732: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40733: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40735: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 7 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40736: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40737: (1) Julkisen sisäpiirirekisterin pitämiseen liittyvän omistuksen julkisuutta koskevan sääntelyn tavoitteena on edistää yleistä luottamusta markkinoihin ja niilla toimiviin, parantaa sijoitta- jien tiedonsaantia sekä ehkäistä väärinkäytöksia markkinoilla. Näillä määräyksillä ja oh- jeilla pyritään luomaan selkeät säännöt sisäpiiri-ilmoitusten tekoon ja julkisten sisäpiirire- kisterien ylläpitoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_40738: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40739: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40742: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40743: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40745: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 8 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40746: 4 Markkinaosapuolten ja työeläkevakuu- tusyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40747: 4.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40748: (1) Tätä lukua sovelletaan markkinaosapuoliin, joilla tarkoitetaan sijoituspalvelulain 1 luvun 13 §:n 1 momentin 1 kohdassa tarkoitettua sijoituspalveluyritysta ja lain 1 luvun 4 §:ssä tarkoi- tettua sijoituspalvelua tarjoavaa luottolaitosta ja rahastoyhtiötä, kaupankäynnistä rahoitus- välineillä annetun lain 1 luvun 2 §:n 7 kohdassa tarkoitettua pörssiä sekä arvo-osuusjärjes- telmästä ja selvitystoiminnasta annetun lain 1 luvun 3 §:n 5 kohdassa tarkoitettua arvopa- perikeskusta ja työeläkevakuutusyhtiöistä annetun lain 1 §:ssä tarkoitettua työeläkevakuu- tusyhtiötä sekä niiden luvun 4.3 kohdissa (6) - (9) tarkoitettuihin sisäpiiriläisiin. (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40749: 4.2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40750: (2) Sijoituspalvelulain 1 luvun 4 §:ssä ja 7 luvun 12 ja 13 §:ssä säädetään sijoituspalveluyrityk- sen ja sijoituspalvelua tarjoavan luottolaitoksen ja rahastoyhtiön sisäpiiriläisen velvollisuu- desta tehdä sisäpiiri-ilmoitus. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40751: (3) Kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 29 ja 30 §:ssä säädetään pörssin sisäpiiriläisen velvollisuudesta tehdä sisäpiiri-ilmoitus. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40752: (4) Arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 17 ja 18 §:ssä sääde- tään arvopaperikeskuksen sisäpiiriläisen velvollisuudesta tehdä sisäpiiri-ilmoitus. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40753: (5) Työeläkevakuutusyhtiöistä annetun lain 12 g ja h §:ssä säädetään työeläkevakuutusyhtiön sisäpiiriläisen velvollisuudesta tehdä sisäpiiri-ilmoitus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40754: 4.3 Sisäpiiriläiset ja lähipiiri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40755: (6) Sijoituspalveluyrityksen ja sijoituspalvelua tarjoavan luottolaitoksen ja rahastoyhtiön sisä- piiriläisiä ovat:1 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40756: · hallituksen jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40757: · hallintoneuvoston jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40758: 1Sijoituspalvelulaki 1 luku 4 § 1-2 momentti ja 7 luku 12 § 2 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_40759: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40760: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40763: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40764: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40766: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 9 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40767: · toimitusjohtaja ja hänen varamiehensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40768: · tilintarkastaja, varatilintarkastaja ja tilintarkastusyhteisön toimihenkilö, jolla on pää- vastuu yhtiön tilintarkastuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40769: · sijoituspalvelun tarjoajan palveluksessa oleva henkilö, jonka tehtävänä on osakkeita ja rahoitusvälineitä koskeva sijoitustutkimus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40770: · sijoituspalvelun tarjoajan palveluksessa oleva henkilö, joka päätehtävänään osallis- tuu sijoituspalvelun tarjoamiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40771: · sijoituspalvelun tarjoajan palveluksessa oleva henkilö, joka muutoin saa säännölli- sesti haltuunsa osakkeita tai rahoitusvälineitä koskevaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40772: (7) Pörssin ja arvopaperikeskuksen sisäpiiriläisiä ovat:2 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40773: · hallituksen jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40774: · hallintoneuvoston jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40775: · toimitusjohtaja ja hänen varamiehensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40776: · tilintarkastaja, varatilintarkastaja ja tilintarkastusyhteisön toimihenkilö, jolla on pää- vastuu yhtiön tilintarkastuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40777: · pörssin tai arvopaperikeskuksen palveluksessa oleva muu henkilö, joka asemansa tai tehtäviensä johdosta saa säännöllisesti haltuunsa osakkeita tai rahoitusvälineitä koskevaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40778: (8) Työeläkevakuutusyhtiön sisäpiiriläisiä ovat:3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40779: · hallituksen jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40780: · toimitusjohtaja ja hänen varamiehensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40781: · tilintarkastaja, varatilintarkastaja ja tilintarkastusyhteisön toimihenkilö, jolla on pää- vastuu yhtiön tilintarkastuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40782: · työeläkevakuutusyhtiön palveluksessa oleva muu henkilö, jolla on mahdollisuus vai- kuttaa yhtiön varojen sijoittamista koskevan päätöksen tekemiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40783: · työeläkevakuutusyhtiön palveluksessa oleva henkilö, joka muutoin saa säännölli- sesti haltuunsa osakkeita tai rahoitusvälineitä koskevaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40784: (9) Sisäpiiriläisen lähipiiriin kuuluvat:4 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40785: · vajaavaltainen, jonka edunvalvoja sisäpiiriläinen on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40786: · yhteisö tai säätiö, jossa sisäpiiriläisellä on suoraan tai välillisesti määräysvalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40787: · yhteisö tai säätiö, jossa vajaavaltaisella, jonka edunvalvoja sisäpiiriläinen on, on suoraan tai välillisesti määräysvalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40788: 2 Kaupankäynnistā rahoitusvälineillā annettu laki 3 luku 29 § 2 momentti, arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 17 § 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40789: 3 Työeläkevakuutusyhtiöistä annettu laki 12 g § 2 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40790: 4 Sijoituspalvelulaki 7 luku 13 § 2 momentti, kaupankäynnistā rahoitusvälineillā annettu laki 3 luku 30 § 2 momentti, arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 18 § 2 momentti ja työeläkevakuutusyhtioistä annettu laki 12 h § 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_40791: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40792: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40795: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40796: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40798: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 10 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40799: OHJE (kohdat 10 -13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40800: (10) Finanssivalvonnan tulkinnan mukaan sijoituspalveluyrityksen sekä sijoituspalvelua tarjoa- van luottolaitoksen ja rahastoyhtiön kohdassa (6) tarkoitettuja palveluksessa olevia henki- löitä ovat ainakin sijoitusanalyytikot, meklarit, salkunhoitajat ja corporate finance-toimin- noissa työskentelevät henkilöt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40801: (11) Finanssivalvonnan tulkinnan mukaan rekisterinpitäjän tulee itse määritellä mahdolliset muut kohdassa (6) tarkoitetut sen palveluksessa olevat henkilöt, jotka päätehtävänään osallistuvat sijoituspalvelun tarjoamiseen tai jotka muutoin saavat säännöllisesti haltuunsa kohdassa (14) tarkoitettuja osakkeita tai rahoitusvälineitä koskevaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40802: (12) Finanssivalvonnan tulkinnan mukaan pörssin ja arvopaperikeskuksen tulee itse määritellä ne kohdassa (7) tarkoitetut palveluksessaan olevat muut henkilöt, jotka asemansa tai teh- täviensä johdosta saavat säännöllisesti haltuunsa kohdassa (14) tarkoitettuja osakkeita tai rahoitusvälineitä koskevaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40803: (13) Finanssivalvonnan tulkinnan mukaan työeläkevakuutusyhtiön tulee itse määritellä ne koh- dassa (8) tarkoitetut palveluksessaan olevat muut henkilöt, joilla on mahdollisuus vaikuttaa yhtiön varojen sijoittamista koskevan päätöksen tekemiseen tai, jotka muutoin saavat säännöllisesti haltuunsa kohdassa (14) tarkoitettuja osakkeita ja rahoitusvälineitä koske- vaa sisäpiirintietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40804: 4.4 Ilmoitettavat osakkeet ja rahoitusvalineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40805: (14) Sisäpiiriläisen ilmoitusvelvollisuus koskee säännellyllä markkinalla tai monenkeskisessä kaupankäyntijärjestelmässä kaupankäynnin kohteena Suomessa olevia osakkeita ja sellai- sia rahoitusvälineitä, joiden arvo määräytyy kyseisten osakkeiden perusteella.5 (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40806: OHJE(kohta 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40807: (15) Finanssivalvonnan tulkinnan mukaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40808: Kohdassa (14) tarkoitettuja ilmoitettavia osakkeita ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40809: · osakkeet, jotka ovat kaupankäynnin kohteena säännellylla markkinalla Suomessa tai monenkeskisessä kaupankäyntijärjestelmässä Suomessa, tai niihin oikeuttavat, muussa valtiossa säänneltya markkinaa tai monenkeskistä kaupankäyntijärjestel- mää vastaavan kaupankäynnin kohteena olevat talletustodistukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40810: Kohdassa (14) tarkoitettuja ilmoitettavia rahoitusvälineitä, joiden arvo määräytyy edellā mainittujen osakkeiden perusteella, ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40811: · esimerkiksi vaihtovelkakirjalainat, optio-oikeudet, merkintäoikeudet, warrantit, serti- fikaatit, termiinit, futuurit ja muut johdannaissopimukset, joiden kohde-etuutena on säännellyllä markkinalla tai monenkeskisessä kaupankäyntijärjestelmässä Suo- messa kaupankäynnin kohteena oleva osake.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40812: 5 Sijoituspalvelulaki 7 luku 13 § 2 momentti, kaupankäynnistä rahoitusvälineillä annettu laki 3 luku 29 § 2 momentti, arvo-osuusjärjestelmästä selvitystoiminnasta annettu laki 2 luku 18 § 2 momentti ja työeläkevakuutusyhtioistä annettu laki 12 h § 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_40813: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40814: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40817: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40818: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40820: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 11 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40821: 4.5 Sisäpiirirekisteriin tehtävät ilmoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40822: 4.5.1 Sisapiiri-ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40823: (16) Sisäpiiriläisen tulee ilmoittaa rekisterinpitäjälle seuraavat tiedot neljäntoista (14) päivän ku- luessa siitä, kun sisapiiriläinen on nimitetty tehtäväänsä:6 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40824: · tiedot itsestään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40825: · tiedot niista vajaavaltaisista, joiden edunvalvoja sisapiiriläinen on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40826: · tiedot omista ja vajaavaltaisten määräysvaltayhteisöistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40827: · yllä todettujen henkilöiden ja määräysvaltayhteisöjen omistamat luvussa 4.3 tarkoi- tetut osakkeet ja sellaiset rahoitusvälineet, joiden arvo määräytyy kyseisten osak- keiden perusteella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40828: (17) Sijoituspalvelulain 1 luvun 4 §:n 1-2 momentin ja 7 luvun 16 §:n 2 momentin, kaupankäyn- nista rahoitusvälineilla annetun lain 3 luvun 36 §:n 1 momentin 3 kohdan, arvo-osuusjär- jestelmästä ja selvitystoiminnasta annetun lain 2 luvun 21 §:n 2 momentin ja työeläkeva- kuutusyhtioistä annetun lain 12 j §:n 1 momentin 2 kohdan mukaan Finanssivalvonta voi antaa tarkempia määräyksiä sisapiiri-ilmoituksen sisällösta ja tekotavasta. Määräykset on annettu kohdissa (18) ja (23). (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40829: MÄÄRÄYS (kohta 18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40830: (18) Sisäpiiriläisen on ilmoitettava tiedot rekisterinpitäjälle käyttämällä Finanssivalvonnan laati- mia lomakkeita perusilmoitus (lomake 1), omistusilmoitus (lomake 2) ja täydennysilmoitus (lomake 3) tai muita vastaavat tiedot sisältävia lomakkeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40831: OHJE (kohdat19-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40832: (19) Hallituksen esityksen mukaan sisäpiiriläisen tulee tehtävään tullessaan tehdä kohdassa (16) tarkoitettu sisäpiiri-ilmoitus siitä riippumatta, omistaako sisäpiiriläinen tai hänen lähipii- riinsä kuuluva luvussa 4.4. tarkoitettuja ilmoitettavia osakkeita tai rahoitusvälineitä.7
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40833: (20) Finanssivalvonnan tulkinnan mukaan kohdassa (16) tarkoitetun työsuhteessa olevan hen- kilön osalta sisäpiiri-ilmoituksen tekemistä koskeva 14 päivän määräaika alkaa kulua siitä, kun henkilö ryhtyy tosiasiallisesti hoitamaan tehtävää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40834: 4.5.2 Sisäpiiri-ilmoituksen muutokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40835: (21) Jos sisäpiiri-ilmoituksessa annetut tiedot muuttuvat, sisäpiiriläisen on tehtävä seitsemän (7) päivän kuluessa tietojen muutoksesta muutosilmoitus rekisterinpitäjälle.8 (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40836: 6 Sijoituspalvelulaki 7 luku 13 §, kaupankäynnistā rahoitusvälineillä annettu laki 3 luku 30 §, arvo-osuusjärjestelmästä ja selvitystoiminnasta an- nettu laki 2 luku 18 § ja työeläkevakuutusyhtiöistä annettu laki 12 h § 1 momentti. 7 Kts. hallituksen esitys 32/2012, s 191 ja hallituksen esitys 96/2014 s. 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40837: 8 Sijoituspalvelulaki 7 luku 13 § 3 momentti, kaupankäynnistā rahoitusvälineillä annettu laki 3 luku 30 § 3 momentti ja arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 18 § 3 momentti ja työeläkevakuutusyhtiöistä annettu laki 12 h § 3 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_40838: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40839: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40842: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40843: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40845: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 12 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40846: (22) Osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, omistuksissa tapahtuvat muutokset (hankinnat ja luovutukset) on ilmoitettava, kun sisapiirilaisen ja/tai tämän lahipiirin omistuksen muutos on vähintään 5 000 euroa.9 (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40847: MÄÄRÄYS (kohta 23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40848: (23) Sisäpiiriläisen on ilmoitettava muuttuneet tiedot rekisterinpitäjälle käyttämällä Finanssival- vonnan laatimia lomakkeita perusilmoitus (lomake 1), omistusilmoitus (lomake 2), täyden- nysilmoitus (lomake 3) tai muita vastaavat tiedot sisältävia lomakkeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40849: OHJE (kohdat 24 -27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40850: (24) Finanssivalvonnan tulkinnan mukaan kohdassa (21) tarkoitettu sisäpiiri-ilmoituksen teke- mistä koskeva seitsemän (7) päivän määräaika alkaa kulua alaikaisen lapsen osalta siitä, kun sisäpiiriläinen on saanut tiedon lapsen merkitsemisestä väestörekisteriin. Mikäli lap- sen nimiin ennen tätä ajankohtaa hankitaan osakkeita tai sellaisia rahoitusvälineitä, joiden arvo määräytyy kyseisten osakkeiden perusteella, lapsi tulee merkitä sisäpiirirekisteriin ra- hoitusvälineiden hankintahetkellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40851: (25) Finanssivalvonnan tulkinnan mukaan kohdassa (21) tarkoitettu sisäpiiri-ilmoituksen teke- mistä koskeva seitsemän (7) päivän määräaika uuden määräysvaltayhteisön osalta alkaa kulua siitä, kun yhteisö on merkitty kaupparekisteriin tai muuhun vastaavaan rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40852: (26) Finanssivalvonnan tulkinnan mukaan kohdassa (22) tarkoitettu omistuksen muutos laske- taan osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkei- den perusteella, yhtiökohtaisesti (eli esimerkiksi osakkeet ja niihin perustuvat johdannais- sopimukset lasketaan yhteen), minkä lisäksi sisäpiiriläisen ja hänen lähipiirinsä omistukset lasketaan yhteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40853: (27) Jos kohdassa (22) tarkoitettu muutos johtuu rahoitusvälineen liikkeeseenlaskijasta (esi- merkiksi maksuton osakeanti tai osakkeiden pilkkominen), Finanssivalvonnan tulkinnan mukaan muutosilmoitusta ei tarvitse tehdä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40854: 4.5.3 Arvo-osuusjärjestelmään liitetyt rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40855: (28) Rekisterinpitäjä voi järjestää menettelyn, jossa tiedot saadaan arvo-osuusjärjestelmästä. Tällöin erillisiä ilmoituksia ei ole tehtävä.10 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40856: OHJE (kohdat 29 -32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40857: (29) Rekisterinpitäjä voi sopia sisäpiirirekisterijärjestelmän (Sire - järjestelmä) ylläpitäjän (Euro- clear Finland Oy) kanssa, että sisäpiirirekisteria ylläpidetään Sire - järjestelmässä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40858: (30) Lain mukaan edella kohdassa (29) mainitussa tilanteessa sisäpiiriläisen ei tarvitse tehdä ilmoituksia niiden säännellylla markkinalla Suomessa tai monenkeskisessä kaupankäynti-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40859: 9 Sijoituspalvelulaki 7 luku 13 § 3 momentti, kaupankäynnistā rahoitusvälineillä annettu laki 3 luku 30 § 3 momentti ja arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 18 § 3 momentti ja hallituksen esitys 96/2014, s. 15.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40860: 10 Sijoituspalvelulaki 7 luku13 § 6 momentti, kaupankäynnistä rahoitusvälineillä annettu laki 3 luku 30 § 6 momentti, arvo-osuusjärjestelmästä ja selvitystoiminnasta annettu laki 2 luku 18 § 6 momentti ja työeläkevakuutusyhtioistä annettu laki 12 i § 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_40861: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40862: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40865: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40866: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40868: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 13 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40869: järjestelmässä Suomessa kaupankäynnin kohteena olevien osakkeiden tai sellaisten rahoi- tusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, osalta, jotka on lii- tetty arvo-osuusjärjestelmään ja joiden osalta omistuksia ja niissä tapahtuvia muutoksia koskevat tiedot siirtyvät arvo-osuusjärjestelmästä suoraan Sire - järjestelmään. Sen sijaan muista osakkeista ja sellaisista rahoitusvälineistä, joiden arvo määräytyy kyseisten osak- keiden perusteella, tehdään erillinen ilmoitus.11 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40870: (31) Jos sisäpiiriläisen osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy ky- seisten osakkeiden perusteella, kaupat selvitetään keskusvastapuoliselvitystä käyttäen Fi- nanssivalvonnan tulkinnan mukaan luvussa 4.2 tarkoitetut säännökset edellyttävät, että sisäpiiriläinen täydentää sisäpiiri-ilmoitustaan (lomake 3) tilanteessa, jossa sisäpiiriläinen ostaa ja myy osaketta tai sellaista rahoitusvälinettä, jonka arvo määräytyy kyseisen osak- keen perusteella, saman päivän sisällä, seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40871: · Sisäpiiriläinen ilmoittaa erikseen toimeksiantokohtaisesti Sire - järjestelmään tiedot päivän sisällä tehdyistä osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, ostoista ja myynneistä, joissa sisäpiiri- läisen ja/tai tämän lähipiirin omistuksen muutos on yhteensä vähintään 5000 euroa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40872: (32) Jos sisäpiiriläisen tai hänen lähipiiriinsä kuuluvan antama yksittäinen osto- tai myyntitoi- meksianto on saman päivän sisällä toteutettu useammassa erässä, Finanssivalvonnan tul- kinnan mukaan sisapiirilaisen ei tarvitse tälta osin taydentää sisäpiiri-ilmoitustaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40873: 4.5.4 Sisäpiiriläisyyden päättyminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40874: OHJE (kohdat 33 -34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40875: (33) Finanssivalvonnan tulkinnan mukaan luvun 4.3 kohdissa (6) - (8) tarkoitettu sisäpiiriläisyys päättyy ajankohtana, jolloin työvelvoite tai muu ilmoitusvelvollisuuden perusteena oleva seikka (esim. hallituksen jäsenyys) päättyy.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40876: (34) Finanssivalvonnan tulkinnan mukaan luvun 4.3 kohdissa (6) - (8) tarkoitettu sisäpiiriläisyys voi päättyä väliaikaisesti esim. äitiysloman, vanhempainvapaan tai muun vastaavan kaltai- sen syyn johdosta, jos kyseessä olevalla henkilöllä ei ole mahdollisuutta saada sisäpiirin- tietoa vapaansa aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40877: 4.5.5 Poikkeukset ilmoitusvelvollisuudesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40878: (35) Sisäpiiriläisen ei tarvitse ilmoittaa määräysvaltayhteisönä seuraavia suomalaisia tai vas- taavia ulkomaisia yhteisöjä12: (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40879: · asunto-osakeyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40880: · keskinäiset kiinteistoosakeyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40881: · aatteelliset yhdistykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40882: · taloudelliset yhdistykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40883: 11 Sijoituspalvelulaki 7 luku13 § 6 momentti, kaupankäynnistä rahoitusvälineillā annettu laki 3 luku 30 § 6 momentti, arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 18 § 6 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40884: 12 Sijoituspalvelulaki 7 luku 13 § 4 momentti, kaupankäynnistā rahoitusvälineillā annettu laki 3 luku 30 § 4 momentti ja arvo-osuusjärjestelmästä, selvitystoiminnasta annettu laki 2 luku 18 § 4 momentti ja työelakevakuutusyhtioistä annettu laki 12 h § 4 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40885: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40886: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40889: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40890: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40892: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 14 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40893: · voittoa tavoittelemattomat yhteisöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40895: Ilmoitus on kuitenkin tehtävä, jos kohdassa (35) mainittu yhteisö käy säännöllisesti kaup- paa osakkeella tai sellaisella rahoitusvälineella, jonka arvo määräytyy kyseisen osakkeen perusteella. 13 (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40896: (37) Sijoituspalvelua tarjoavan luottolaitoksen hallintoneuvoston jäsen ja varajäsen, hallituksen varajäsen sekä tilintarkastaja, varatilintarkastaja ja sellaisen tilintarkastusyhteisön toimi- henkilö, joka on päävastuussa luottolaitoksen tilintarkastuksesta, on tehtävä sisäpiiri-ilmoi- tus vain, jos hän saa säännöllisesti haltuunsa edella luvussa 4.4 tarkoitettuja osakkeita ja sellaisia rahoitusvälineitä, joiden arvo määräytyy kyseisen osakkeen perusteella, koskevaa sisäpiirintietoa. 14 (Annettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40897: OHJE (kohdat 38 -39)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40898: (38) Finanssivalvonnan tulkinnan mukaan kohdassa (35) tarkoitettuja aatteellisia yhdistyksiä ovat esimerkiksi urheilu- ja harrastusseurat, opiskelijajärjestöt ja ammattiliitot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40899: (39) Finanssivalvonnan tulkinnan mukaan kohdassa (35) tarkoitettuja taloudellisia yhdistyksiä ovat esimerkiksi metsänhoitoyhdistykset, tienhoitokunnat ja kalastuskunnat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40900: 13 Sijoituspalvelulaki 7 luku 13 § 4 momentti, kaupankäynnistā rahoitusvälineillä annettu laki 3 luku 30 § 4 momentti ja arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 18 § 4 momentti ja työeläkevakuutusyhtiöistä annettu laki 12 h § 4 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40901: 14 Sijoituspalvelulaki 7 luku 12 § 3 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40902: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40903: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40906: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40907: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40909: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 15 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40910: 5 Rahastoyhtiön julkinen sisäpiirirekis- teri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40911: 5.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40912: (1) Tätä lukua sovelletaan rahastoyhtiöihin ja niiden luvun 5.2 kohdassa (3) tarkoitettuihin si- säpiiriläisiin sekä rahastoyhtiön osakkeenomistajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40913: (2) Jos rahastoyhtiö tarjoaa sijoituspalvelulain 1 luvun 15 §:n 4 ja 5 kohdissa tarkoitettua sijoi- tuspalvelua, rahastoyhtiöön sovelletaan myös näiden määräysten ja ohjeiden lukua 4. (An- nettu 23.1.2018, voimaan 1.2.2018).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40914: 5.2 Sisäpiiriläiset ja lähipiiri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40915: (3) Sijoitusrahastolain 99 §:n 1 momentissa säädetään rahastoyhtiön sisäpiiriläisen velvolli- suudesta tehdä sisäpiiri-ilmoitus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40916: (4) Pykälän 2 momentin mukaan rahastoyhtiön sisäpiiriläisiä ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40917: · rahastoyhtiön yhtiökokouksen valitsema hallituksen jäsen ja varajäsen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40918: · toimitusjohtaja ja hänen varamiehensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40919: · tilintarkastaja, varatilintarkastaja ja tilintarkastusyhteisön toimihenkilö, jolla on pää- vastuu yhtiön tilintarkastuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40920: · muu rahastoyhtiön palveluksessa oleva taikka rahastoyhtiön puolesta tai lukuun toi- miva henkilö, jolla on mahdollisuus vaikuttaa sijoitusrahaston varojen sijoittamista koskevan päätöksen tekemiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40921: (5) Sijoitusrahastolain 100 §:n 2 momentin mukaan sisäpiiriläisen lähipiiriin kuuluvat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40922: · vajaavaltainen, jonka edunvalvoja sisäpiiriläinen on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40923: · yhteisö tai säätiö, jossa sisäpiiriläisellä on suoraan tai välillisesti määräysvalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40924: · yhteisö tai säätiö, jossa vajaavaltaisella, jonka edunvalvoja sisäpiiriläinen on, on suoraan tai välillisesti määräysvalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40925: OHJE (kohdat 6-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40926: (6) Finanssivalvonnan tulkinnan mukaan rahastoyhtiön tulee itse määritellä ne kohdassa (4) tarkoitetut palveluksessaan olevat tai rahastoyhtiön puolesta ja lukuun toimivat henkilöt,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_40927: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40928: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40931: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40932: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40934: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 16 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40935: joilla on mahdollisuus vaikuttaa sijoitusrahaston varojen sijoittamista koskevien päätösten tekemiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40936: (7) Finanssivalvonnan tulkinnan mukaan kohdassa (4) mainitulla muulla rahastoyhtiön puo- lesta tai lukuun toimivalla henkilöllä, jolla on mahdollisuus vaikuttaa sijoitusrahaston varo- jen sijoittamista koskevan päätöksen tekemiseen, tarkoitetaan Suomessa asuvaa henkilöä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40937: 5.3 Ilmoitettavat rahasto-osuudet, osakkeet ja rahoitusvälineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40938: (8) Sijoitusrahastolain 99 §:n 1 momentin mukaan ilmoitusvelvollisuus koskee rahastoyhtiön hallinnoimien sijoitusrahastojen rahasto-osuuksia, säännellyllä markkinalla tai monenkeski- sessä kaupankäyntijärjestelmässä kaupankäynnin kohteena Suomessa olevia osakkeita ja sellaisia rahoitusvälineitä, joiden arvo määräytyy kyseisten osakkeiden perusteella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40939: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40940: (9) Finanssivalvonnan tulkinnan mukaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40941: Kohdassa (8) tarkoitettuja ilmoitettavia rahasto-osuuksia ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40942: · sen rahastoyhtiön, jossa henkilö on sisäpiiriläinen, hallinnoimien sijoitusrahastojen rahasto-osuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40943: Kohdassa (8) tarkoitettuja ilmoitettavia osakkeita ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40944: · osakkeet, jotka ovat kaupankäynnin kohteena saannellylla markkinalla Suomessa tai monenkeskisessä kaupankäyntijärjestelmässä Suomessa tai niihin oikeuttavat, muussa valtiossa säänneltya markkinaa tai monenkeskistä kaupankäyntijärjestel- mää vastaavan kaupankäynnin kohteena olevat talletustodistukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40945: Kohdassa (8) tarkoitettuja ilmoitettavia rahoitusvälineitä ovat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40946: · esimerkiksi vaihtovelkakirjalainat, optio-oikeudet, merkintäoikeudet, warrantit, serti- fikaatit, termiinit, futuurit ja muut johdannaissopimukset, joiden kohde-etuutena on säännellyllä markkinalla Suomessa tai monenkeskisessä kaupankäyntijärjestel- mässä Suomessa kaupankäynnin kohteena oleva osake
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40947: 5.4 Sisäpiirirekisteriin tehtävät ilmoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40948: 5.4.1 Sisapiiri-ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40949: (10) Sijoitusrahastolain 100 §:n 1 momentin mukaan sisäpiiriläisen tulee ilmoittaa rekisterinpitä- jälle seuraavat tiedot neljäntoista (14) päivän kuluessa siitä, kun sisäpiiriläinen on nimitetty tehtäväänsä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40950: · tiedot itsestään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40951: · tiedot niista vajaavaltaisista, joiden edunvalvoja sisapiiriläinen on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40952: · tiedot omista ja vajaavaltaisten määräysvaltayhteisöistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40953: · yllä todettujen henkilöiden ja määräysvaltayhteisöjen omistamat luvussa 5.3 tarkoi- tetut rahasto-osuudet, osakkeet ja sellaiset rahoitusvälineet, joiden arvo määräytyy kyseisten osakkeiden perusteella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_40954: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40955: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40958: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40959: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40961: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 17 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40962: (11) Sijoitusrahastolain 101 b §:n mukaan Finanssivalvonta voi antaa tarkempia määräyksiä sisäpiiri-ilmoituksen sisällöstä ja tekotavasta. Määräykset on annettu kohdissa (12), (17) ja (35).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40963: MÄÄRÄYS (kohta 12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40964: (12) Sisäpiiriläisen on ilmoitettava tiedot rekisterinpitäjälle käyttämällä Finanssivalvonnan laati- mia lomakkeita perusilmoitus (lomake 1), omistusilmoitus (lomake 2) ja täydennysilmoitus (lomake 3) tai muita vastaavat tiedot sisältävia lomakkeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40965: OHJE (kohdat 13 -14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40966: (13) Hallituksen esityksen mukaan sisäpiiriläisen tulee tehtävään tullessaan tehdä kohdassa (10) tarkoitettu sisäpiiri-ilmoitus siitä riippumatta, omistaako sisapiiriläinen tai hänen lähipii- riinsä kuuluva luvussa 5.3 tarkoitettuja ilmoitettavia rahasto-osuuksia, osakkeita tai rahoi- tusvälineitä. 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40967: (14) Finanssivalvonnan tulkinnan mukaan kohdassa (10) tarkoitetun työsuhteessa olevan hen- kilön osalta sisäpiiri-ilmoituksen tekemistä koskeva 14 päivän määräaika alkaa kulua siitä, kun henkilö ryhtyy tosiasiallisesti hoitamaan tehtävää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40968: 5.4.2 Sisäpiiri-ilmoituksen muutokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40969: (15) Sijoitusrahastolain 100 §:n 3 momentin mukaan, jos perusilmoituksessa annetut tiedot muuttuvat, sisäpiiriläisen on tehtävä seitsemän (7) päivän kuluessa tietojen muutoksesta muutosilmoitus rekisterinpitäjälle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40970: (16) Sijoitusrahastolain 100 §:n 2 momentin mukaan rahasto-osuuksien, osakkeiden ja sellais- ten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, omistuk- sissa tapahtuvat muutokset (hankinnat ja luovutukset) on ilmoitettava, kun sisäpiiriläisen ja/tai tämän lähipiirin omistuksen muutos on vähintään 5 000 euroa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40971: MÄÄRÄYS (kohta17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40972: (17) Sisäpiiriläisen on ilmoitettava muuttuneet tiedot rekisterinpitäjälle käyttämällä Finanssival- vonnan laatimia lomakkeita perusilmoitus (lomake 1), omistusilmoitus (lomake 2) ja täy- dennysilmoitus (lomake 3) tai muita vastaavat tiedot sisältävia lomakkeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40973: OHJE (kohdat 18 -21)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40974: (18) Finanssivalvonnan tulkinnan mukaan kohdassa (15) tarkoitettu sisäpiiri-ilmoituksen teke- mistä koskeva seitsemän (7) päivän määräaika alkaa kulua alaikaisen lapsen osalta siitä, kun sisäpiiriläinen on saanut tiedon lapsen merkitsemisestä väestörekisteriin. Mikäli lapsen nimiin ennen tätä ajankohtaa hankitaan rahasto-osuuksia, osakkeita tai sellaisia rahoitus- välineitä, joiden arvo määräytyy kyseisten osakkeiden perusteella, lapsi tulee merkitä sisä- piirirekisteriin rahoitusvälineiden hankintahetkellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40975: (19) Finanssivalvonnan tulkinnan mukaan kohdassa (15) tarkoitettu sisäpiiri-ilmoituksen teke- mistä koskeva seitsemän (7) päivän määräaika uuden määräysvaltayhteisön osalta alkaa kulua siitä, kun yhteisö on merkitty kaupparekisteriin tai muuhun vastaavaan rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40976: 15 Kts. myös Hallituksen esitys (32/2012) s. 301
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_40977: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40978: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40981: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40982: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40984: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 18 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40985: (20) Finanssivalvonnan tulkinnan mukaan kohdassa (16) tarkoitettu omistuksen muutos laske- taan rahasto-osuuksien, osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, yhtiökohtaisesti (eli esimerkiksi osakkeet ja niihin perus- tuvat johdannaissopimukset lasketaan yhteen), minkä lisäksi sisäpiiriläisen ja hänen lähi- piirinsä omistukset lasketaan yhteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40986: (21) Jos kohdassa (16) tarkoitettu muutos johtuu rahoitusvälineen liikkeeseenlaskijasta (esi- merkiksi maksuton osakeanti tai osakkeiden pilkkominen), Finanssivalvonnan tulkinnan mukaan muutosilmoitusta ei tarvitse tehdä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40987: 5.4.3 Arvo-osuusjärjestelmaan liitetyt osakkeet ja muut rahoitusvalineet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40988: (22) Sijoitusrahastolain 101 §:n 6 momentin mukaan jos ilmoitettavat osakkeet tai rahoitusväli- neet on liitetty arvo-osuusjärjestelmään, rahastoyhtiö voi järjestää menettelyn, jossa tiedot saadaan arvo-osuusjärjestelmästä. Tällöin ei erillisia ilmoituksia ole tehtävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40989: OHJE (kohdat 23 -27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40990: (23) Rekisterinpitäjä voi sopia sisäpiirirekisteri -järjestelmän (Sire - järjestelmä) ylläpitäjän (Eu- roclear Finland Oy) kanssa, että sisäpiirirekisteria ylläpidetään Sire - järjestelmässä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40991: (24) Sijoitusrahastolain 101 §:n 6 momentissa tarkoitetussa tilanteessa sisäpiiriläisen ei tarvitse tehdä ilmoituksia niiden säännellyllä markkinalla Suomessa tai monenkeskisessä kaupan- käyntijärjestelmässä Suomessa kaupankäynnin kohteena olevien osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, osalta, jotka on liitetty arvo-osuusjärjestelmään ja joiden osalta omistuksia ja niissä tapahtuvia muutok- sia koskevat tiedot siirtyvät arvo-osuusjärjestelmästä suoraan Sire - järjestelmään. Sen si- jaan muista osakkeista ja sellaisista rahoitusvälineistä, joiden arvo määräytyy kyseisten osakkeiden perusteella, tehdään erillinen ilmoitus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40992: (25) Käytännössä yleensä myös rahasto-osuuksista tehdään erillinen ilmoitus, koska vain har- vat rahasto-osuudet on liitetty arvo-osuusjärjestelmään. Finanssivalvonnan tulkinnan mu- kaan ei kuitenkaan ole estettä sille, että sisäpiirirekisterin rahasto-osuuksia koskevat tiedot otetaan suoraan rahasto-osuusrekisteristä, jolloin erillisiä ilmoituksia ei tarvitse tehdä. Re- kisterinpitäjän tulee kuitenkin tällöinkin huolehtia siitä, että kaikki sijoitusrahastolain ja näi- den määräysten ja ohjeiden sisäpiirirekisterin ylläpitämiselle asettamat edellytykset täytty- vät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40993: (26) Jos sisäpiiriläisen osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy ky- seisten osakkeiden perusteella, kaupat selvitetään keskusvastapuoliselvitystä käyttäen, Finanssivalvonnan tulkinnan mukaan sijoitusrahastolain 100 §:n säännökset edellyttävät, että sisäpiiriläinen täydentää sisäpiiri-ilmoitustaan (lomake 3) tilanteessa, jossa sisäpiiriläi- nen ostaa ja myy osaketta tai sellaista rahoitusvälinettä, jonka arvo määräytyy kyseisen osakkeen perusteella, saman päivän sisällä, seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40994: · Sisapiirilaisen ilmoittaa erikseen toimeksiantokohtaisesti Sire - järjestelmään tiedot päivän sisällä tehdyistä osakkeiden ja sellaisten rahoitusvälineiden, joiden arvo määräytyy kyseisten osakkeiden perusteella, ostoista ja myynneistä, joissa sisäpiiri- läisen ja/tai tämän lahipiirin omistuksen muutos yhteensä vähintään 5000 euroa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_40995: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_40996: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_40999: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41000: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41002: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 19 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41003: (27) Jos sisäpiiriläisen tai hänen lähipiiriinsä kuuluvan antama yksittäinen osto- tai myyntitoi- meksianto on saman päivän sisällä toteutettu useammassa erässä, Finanssivalvonnan tul- kinnan mukaan sisapiirilaisen ei tarvitse tälta osin taydentää sisäpiiri-ilmoitustaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41004: 5.4.4 Sisäpiiriläisyyden päättyminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41005: OHJE (kohdat 28 -29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41006: (28) Finanssivalvonnan tulkinnan mukaan luvun 5.2 kohdassa (4) tarkoitettu sisäpiiriläisyys päättyy ajankohtana, jolloin työvelvoite tai muu ilmoitusvelvollisuuden perusteena oleva seikka (esimerkiksi hallituksen jäsenyys) päättyy.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41007: (29) Finanssivalvonnan tulkinnan mukaan luvun 5.2 kohdassa (4) tarkoitettu sisäpiiriläisyys voi päättyä väliaikaisesti esimerkiksi äitiysloman, vanhempainvapaan tai muun vastaavan kal- taisen syyn johdosta, jos kyseessä olevalla henkilöllä ei ole mahdollisuutta saada sisäpii- rintietoa vapaansa aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41008: 5.4.5 Poikkeukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41009: (30) Sijoitusrahastolain 100 §:n 4 momentin mukaan sisäpiiriläisen ei tarvitse ilmoittaa mää- räysvaltayhteisönä seuraavia suomalaisia tai vastaavia ulkomaisia yhteisöjä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41010: · asunto-osakeyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41011: · keskinäiset kiinteistoosakeyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41012: · aatteelliset yhdistykset, mm. urheilu- ja harrastusseurat, opiskelijajärjestöt ja am- mattiliitot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41013: · taloudelliset yhdistykset, kuten metsänhoitoyhdistykset, tienhoitokunnat ja kalastus- kunnat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41014: · voittoa tavoittelemattomat yhteisöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41015: (31) Sijoitusrahastolain 100 §:n 4 momentin mukaan ilmoitus on kuitenkin tehtävä, jos edellä kohdassa (30) mainittu yhteisö käy säännöllisesti kauppaa rahasto-osuuksilla, osakkeilla tai sellaisilla rahoitusvälineillä, joiden arvo määräytyy kyseisten osakkeiden perusteella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41016: OHJE (kohdat 32 -33)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41017: (32) Finanssivalvonnan tulkinnan mukaan kohdassa (30) tarkoitettuja aatteellisia yhdistyksiä ovat esimerkiksi urheilu- ja harrastusseurat, opiskelijajärjestöt ja ammattiliitot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41018: (33) Finanssivalvonnan tulkinnan mukaan kohdassa (30) tarkoitettuja taloudellisia yhdistyksiä ovat esimerkiksi metsänhoitoyhdistykset, tienhoitokunnat ja kalastuskunnat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41019: 5.4.6 Rahastoyhtiön osakkeenomistaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41020: (34) Sijoitusrahastolain 101 §:n 1 momentin mukaan rahastoyhtiön osakkeenomistajan on il- moitettava rahastoyhtiön sisäpiirirekisteriin omistamansa rahasto-osuudet sanotun rahas- toyhtiön hallinnoimassa sijoitusrahastossa. Pykälän 2 momentin mukaan ilmoitus on teh- tävä neljäntoista (14) päivän kuluessa rahasto-osuuden hankkimisesta ja ilmoitus omistuk- sen muutoksesta on tehtävä samassa ajassa. Pykälän 3 momentin mukaan jos rahasto-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_41021: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41022: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41025: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41026: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41028: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 20 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41029: osuudet on liitetty arvo-osuusjärjestelmään, rahastoyhtiö voi järjestää menettelyn, jossa tiedot saadaan arvo-osuusjärjestelmästä. Tällöin ei erillisia ilmoituksia ole tehtävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41030: (35) Sijoitusrahastolain 101 b §:n mukaan Finanssivalvonta voi antaa tarkempia määräyksiä sisäpiiri-ilmoituksen sisällöstä ja tekotavasta. Määräykset on annettu kohdassa (36).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41031: MÄÄRÄYS (kohta 36)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41032: (36) Rahastoyhtiön osakkeenomistajan on ilmoitettava tiedot rekisterinpitäjälle käyttämällä Fi- nanssivalvonnan laatimia lomakkeita perusilmoitus (lomake 1) ja omistusilmoitus (lomake 2) tai muita vastaavia tietoja sisältävia lomakkeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41033: OHJE (kohta 37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41034: (37) Rahastoyhtiön osakkeenomistajan ilmoitusvelvollisuuteen sovelletaan soveltuvin osin lu- kua 5.4.3.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_41035: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41036: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41039: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41040: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41042: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 21 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41043: 6 Rekisterinpitäjän velvollisuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41044: 6.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41045: (1) Tätä lukua sovelletaan rekisterinpitäjiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41046: 6.2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41047: (2) Sijoituspalvelulain 1 luvun 4 §:ssä ja 7 luvun 14 §:ssä saadetään sijoituspalveluyrityksen ja sijoituspalvelua tarjoavan luottolaitoksen ja rahastoyhtiön velvollisuudesta ylläpitää jul- kista sisäpiirirekisteria. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41048: (3) Kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 29 §:ssä säädetään pörssin vel- vollisuudesta ylläpitää sisapiirirekisteria. (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41049: (4) Arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 19 §:ssä säädetään arvopaperikeskuksen velvollisuudesta ylläpitää sisäpiirirekisteria. (Annettu 23.1.2018, voi- maan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41050: (5) Sijoitusrahastolain 101a §:ssä säädetään rahastoyhtiön velvollisuudesta ylläpitää sisäpiiri- rekisteriä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41051: (6) Työeläkevakuutusyhtiöistä annetun lain 12 i §:ssä säädetään työeläkevakuutusyhtiön vel- vollisuudesta ylläpitää sisäpiirirekisteriä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41052: 6.3 Sisäpiirirekisterin luotettavuuden varmistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41053: (7) Rekisterinpitäjän on järjestettävä sisäpiirirekisterin ylläpito luotettavalla tavalla. 16
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41054: (8) Finanssivalvonnalla on sijoituspalvelulain 1 luvun 4 §:n 1 momentin ja 7 luvun16 §:n 2 mo- mentin, kaupankäynnistä rahoitusvälineillä annetun lain 3 luvun 36 §:n 1 momentin 4- koh- dan, arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 30 §:n 2 momen- tin, sijoitusrahastolain 101 b §:n ja työeläkevakuutusyhtioistä annetun lain 12 j §:n 1 mo- mentin mukaan oikeus antaa tarkempia määräyksiä sisäpiirirekisterin sisällöstä ja tietojen merkintätavasta. Määräykset on annettu kohdissa (9) ja (15). (Annettu 23.1.2018, voi- maan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41055: 16 Sijoituspalvelulaki 1 luku 4 § ja 7 luku1 14 § 3 momentti, kaupankäynnistä rahoitusvälineillä annettu laki 3 luku 31 § 3 momentti, arvo-osuusjär- jestelmästä ja selvitystoiminnasta annettu laki 2 luku 19 § 3 momentti, sijoitusrahastolaki 101a § 3 momentti ja työeläkevakuutusyhtiöistä annettu laki 12 i § 3 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_41056: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41057: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41060: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41061: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41063: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 22 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41064: MÄÄRÄYS(kohta9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41065: (9) Rekisterinpito tulee järjestää siten, että rekisterin tietoja ei voi jälkikäteen muuttaa tai pois- taa ja, että ainoastaan rekisterin pitämiseen oikeutetut voivat tehdä merkintoja rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41066: OHJE (kohdat 10 -14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41067: (10) Finanssivalvonnan tulkinnan mukaan kohdassa (7) tarkoitettu sisäpiirirekisterin ylläpitämi- sen järjestäminen luotettavalla tavalla tarkoittaa, että rekisteria on pidettävä siten, että se mahdollistaa sisäpiirintiedon käyttöä koskevan valvonnan sekä varmistaa rekisteriin mer- kittyjen sisäpiiriläisten oikeusturvan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41068: (11) Finanssivalvonnan tulkinnan mukaan sijoituspalvelulain 7 luvun 14 §:n 1 momentin, kau- pankäynnistä rahoitusvälineillä annetun lain 3 luvun 31 §:n 1 momentin, arvo-osuusjärjes- telmästä ja selvitystoiminnasta annetun lain 2 luvun 19 §:n 1 momentin, sijoitusrahastolain 101 a §:n ja työeläkevakuutusyhtiöistä annetun lain 12 i §:n 1 momentin perusteella rekis- terinpitäjän tulee ylläpitää sisäpiirirekisteria siten, että kunkin rekisteriin merkityn sisäpiiri- läisen kohdalla käy ilmi sisäpiiriläisen perus- ja lähipiiritietojen lisäksi sisäpiiriläisen ja hä- nen lähipiirinsä omistukset sekä eriteltyinä hankinnat ja luovutukset.(Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41069: (12) Jos rekisterimerkintään liittyy esimerkiksi tekninen virhe, Finanssivalvonnan tulkinnan mu- kaan korjaus voidaan jälkikäteen tehdä, jos muutos ja sen perusteet merkitään rekisteriin ja säilytetaan vähintään viisi (5) vuotta siitä, kun muutos on tehty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41070: (13) Finanssivalvonta suosittaa, että rekisterinpitäjä nimeää rekisteristä vastuullisen henkilön, joka huolehtii rekisterin ohjeistuksesta ja sen ylläpidon ja julkisuuden järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41071: (14) Mikäli rekisterinpitäjä päättää sijoituspalvelulain, kaupankäynnistä rahoitusvälineillä anne- tun lain, arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain, sijoitusrahastolain tai työeläkevakuutusyhtiöistä annetun lain säännöksiä laajemmasta sisäpiiri-ilmoitusvelvolli- suuden sisällöstä, Finanssivalvonta suosittaa, että rekisterinpitäjä varmistuu rekisterin luo- tettavuudesta myös tältä osin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41072: MÄÄRÄYS (kohta 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41073: (15) Rekisterinpitäjän on merkittävä sisäpiirirekisteriin sisäpiiriläisen Finanssivalvonnan vahvis- tamilla lomakkeilla, perusilmoitus (lomake 1), omistusilmoitus (lomake 2) ja täydennysil- moitus (lomake 3) tai muilla vastaavat tiedot sisaltavilla lomakkeilla antamat tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41074: OHJE (kohdat 16 -17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41075: (16) Finanssivalvonnan tulkinnan mukaan rekisterinpitäjä voi järjestää menettelyn, jossa edellā kohdassa (15) tarkoitettu ilmoitus annetaan esimerkiksi sähköpostilla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41076: (17) Finanssivalvonta suosittaa, että sisäpiiriläisille annetaan riittävät ohjeet ilmoituksen tekemi- sestä sekä tarvittavat ilmoituslomakkeet. Rekisterinpitäjän tulisi pyynnöstä antaa sisäpiiri- läiselle jäljennös tämän omasta ilmoituksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_41077: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41078: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41081: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41082: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41084: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 23 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41085: 6.4 Rekisterimerkinnät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41086: OHJE (kohdat 18 -19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41087: (18) Finanssivalvonta suosittaa, että ilmoitetut tiedot merkitaan sisapiirirekisteriin viipymättä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41088: (19) Jos sisäpiiriläisen antama sisäpiiri-ilmoitus on ilmeisen puutteellinen, Finanssivalvonta suosittaa, että rekisterinpitäjä pyytää sisäpiiriläistä täydentämään ilmoitusta. Rekisteri-il- moitukseen tulisi merkitä sen saapumispäivä ja ilmoituksen täydennyspäivä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41089: 6.5 Tietojen säilytysaika ja julkisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41090: (20) Sisäpiirirekisteriin merkityt tiedot on säilytettävä vähintään viisi (5) vuotta tiedon merkitse- misestä.17 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41091: (21) Luonnollisen henkilön henkilötunnus ja osoite sekä muun luonnollisen henkilön kuin sisä- piiriläisen nimi eivät kuitenkaan ole julkisia. 18 (Annettu 23.1.2018, voimaan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41092: OHJE (kohdat 22 -23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41093: (22) Finanssivalvonnan tulkinnan mukaan kohdassa (20) viitattujen lainkohtien perusteella sisä- piiriläisten perustiedot ovat julkisia sen ajan, kun henkilö on sisäpiiriläinen, ja vähintään viisi (5) vuotta sisäpiiriläisyyden päättymisen jälkeen. Sisäpiiriläisten muutostiedot ovat jul- kisia vähintään viisi (5) vuotta siitä, kun tiedot on merkitty sisäpiirirekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41094: (23) Finanssivalvonnan tulkinnan mukaan rekisterinpitäjän tulee sijoituspalvelulain 7 luvun 14 3 momentin, kaupankäynnistä rahoitusvälineilla annetun lain 3 luvun 31 §:n 3 momentin, arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 19 §:n 3 momentin, sijoitusrahastolain 101 a §:n 3 momentin ja työeläkevakuutusyhtioistä annetun lain 12 i §:n 3 momentin perusteella varmistua siitä, että kohdassa (21) mainitut sisäpiiriläisen ei-julki- set tiedot eivät ole julkisesti nähtävillä sisäpiirirekisterin tiedoissa. (Annettu 23.1.2018, voi- maan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41095: 6.6 Tietojen antaminen sisäpiirirekisteristä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41096: (24) Sijoituspalvelulain 7 luvun 14 §:n 3 momentin, kaupankäynnistä rahoitusvälineilla annetun lain 3 luvun 31 § 3 momentin, arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 2 luvun 19 §:n 3 momentin, sijoitusrahastolain 101 a §:n 3 momentin ja työeläkeva- kuutusyhtiöistä annetun lain 12 i §:n 3 momentin mukaan jokaisella on oikeus saada kulu- jen korvaamista vastaan otteita ja jäljennöksiä rekisterin tiedoista. (Annettu 23.1.2018, voi- maan 1.2.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41097: 17 Sijoituspalvelulaki 7 luku 14 § 3 momentti, kaupankäynnistä rahoitusvälineillä annettu laki 3 luku 31 § 3 momentti, arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 19 § 3 momentti, sijoitusrahastolaki 101 a § 3 momentti ja työeläkevakuutusyhtiöistä annettu laki 12 i § 3 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41098: 18 Sijoituspalvelulaki 7 luku 14 § 3 momentti, kaupankäynnistä rahoitusvälineillä annettu laki 3 luku 31 § 3 momentti, arvo-osuusjärjestelmästā ja selvitystoiminnasta annettu laki 2 luku 19 § 3 momentti sijoitusrahastolaki 101 a § 3 momentti ja työeläkevakuutusyhtiöistä annettu laki 12 i § 3 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_41099: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41100: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41103: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41104: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41106: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 24 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41107: OHJE (kohta 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41108: (25) Finanssivalvonta suosittaa, että rekisterinpitäjä ilmoittaa internet - sivuillaan, miten rekiste- rin tiedoista on mahdollisuus saada otteita ja jäljennöksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_41109: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41110: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41113: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41114: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41116: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41118: 7 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41119: Näitä määräyksi ja ohjeita on muutettu sen voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41120: Annettu 25.2.2015, voimaan 1.6.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41121: · muutettu lukuja 4 ja 6 vastaamaan 1.1.2015 voimaan tulleita tyoelakevakuutusyhtioistä annetun lain muutoksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41122: Annettu 23.1.2018, voimaan 1.2.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41123: · kumottu luku 7 ja muutettu lukuja 4 ja 6 vastaamaan 3.1.2018 voimaan tulleita sijoitus- palvelulain, kaupankäynnistä rahoitusvälineilla annetun lain ja arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain muutoksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_41124: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41125: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41128: 1.7.2013 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41129: Muutospäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41131: 13/2013 Markkinaosapuolten, työeläkevakuutusyhtiöiden ja rahastoyhtiöiden julkinen sisäpiirirekisteri 26 (26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41132: 8 Liitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41133: (1) Tähän ohjeeseen liittyvät seuraavat liitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41134: · Perusilmoitus/Markkinaosapuolet, työeläkevakuutusyhtiöt ja rahastoyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41135: · Omistusilmoitus/Markkinaosapuolet, työeläkevakuutusyhtiöt ja rahastoyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41136: · Täydennysilmoitus/Markkinaosapuolet, työeläkevakuutusyhtiöt ja rahastoyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_41137: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

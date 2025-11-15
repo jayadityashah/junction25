@@ -1,0 +1,1388 @@
+METADATA: {"document_id": 38, "filename": "08_2018.M1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 32, "paragraph_count": 627}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47681: Määräykset ja ohjeet 8/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47682: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47683: Dnro FIVA 8/01.00/2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47684: Antopäivä 3.12.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47685: Voimaantulopäivä 1.1.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47686: FINANSSIVALVONTA puh. 09 183 51 faksi 09 183 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47687: Lisätietoja Vakuutusvalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_47688: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47690: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47692: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47693: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47694: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47695: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47696: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47697: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain sään- nöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47699: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47700: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoitta- via. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47701: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toi- mintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47702: Finanssivalvonta.fi > Saantely > Määräys- ja ohjekokoelma > Määräyskokoelman rakenne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_47703: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47704: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47707: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47708: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47710: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47712: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47715: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47718: Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47721: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47724: Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47727: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47730: Maatalousyrittäjien eläkelaitoksen johdon kelpoisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47733: Valtuuskunta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47739: Toimitusjohtaja ja toimitusjohtajan sijainen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47742: Johdon kelpoisuuden ja hyvämaineisuuden yhteisarviointi (Fit & Proper - arviointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47745: Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47748: Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47751: Sisäisen valvonnan tarkoitus ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47754: Sisäisen valvonnan toimivuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47757: Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47760: Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47763: Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47766: Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47769: Riskienhallintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47772: Hyvän vakuutustavan valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47775: Vakuutustapa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47778: Sijoitustoiminnan järjestäminen ja sijoitussuunnitelma ja raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_47780: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47781: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47784: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47785: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47790: Maatalousyrittäjien eläkelaitoksen sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47793: Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47796: Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47799: Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhallinnassa/sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47801: Luotonotto, siitä Finanssivalvonnalle tehtävät ilmoitukset ja luottohairioriskinvaihtosopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47803: Varautuminen valmiuslain ja puolustustilalain mukaisiin poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47806: Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47809: Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47812: Varautuminen tietojen hallinnan ja tietotekniikan osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47815: Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47818: Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47820: Työkyvyttömyysriskin hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47823: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47826: Ohje työkyvyttömyysriskin hallintaan tähtäävistä toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47832: Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47834: 16 Kumotut määräykset ja ohjeet 31 32
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47836: Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_47837: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47838: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47841: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47842: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47844: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47845: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47846: Näitä määräyksia ja ohjeita sovelletaan seuraavaan Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuun valvottavaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47847: · Maatalousyrittäjien elakelaitos
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_47848: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47849: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47852: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47853: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47855: 2 Säädöstausta ja kansainväliset suosi- tukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47856: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47857: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47858: · maatalousyrittäjän eläkelaki (1280/2006, jäljempänä myös MYEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47859: · valtioneuvoston asetus Maatalousyrittäjien eläkelaitoksen ohjesäännöstä (1404/2006, jäljempänä myös valtioneuvoston asetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47860: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47861: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännök- siin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47862: · MYEL 119 §:n 1 momentti (Sisäisen valvonnan ja riskienhallinnan järjestäminen)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47863: · MYEL 124 §:n 6 momentti (Sijoitustoiminnan itsenaisyys, sijoitussuunnitelma sekä sijoitustoimintaa täydentävien varojenhoitopalvelujen, sijoitustoiminnan asiantuntija- palvelujen, aputoimintojen ja näihin rinnastettavien palvelujen käyttö)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_47864: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47865: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47868: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47869: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47871: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47872: (1) Maatalousyrittäjien eläkelaitoksen hallintoa koskevat määräykset ja ohjeet ovat osa Fi- nanssivalvonnan Maatalousyrittäjien eläkelaitokselle antamaa määräysten ja ohjeiden ko- konaisuutta. Näiden määräysten ja ohjeiden tavoitteena on määrätā ja ohjeistaa Maata- lousyrittäjien eläkelaitoksen hallinnon järjestämistä niiltä osin kuin lainsäädännöstä ei ole saatavissa riittävää ohjeistusta seka teknisesti uudistaa Finanssivalvonnan määräykset ja ohjeet aihepiirin osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47873: (2) Näiden määräysten ja ohjeiden tavoitteena on Maatalousyrittäjien eläkelaitoksen toimintaa koskevien määräysten ja ohjeiden selkeyttäminen, hallinnon asianmukaisen järjestämisen edistäminen sekä hallinnon selkeyden ja läpinäkyvyyden ja sitä kautta toiminnan ja varojen käytön valvottavuuden edistäminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_47874: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47876: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47877: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47880: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47881: 4 Maatalousyrittäjien eläkelaitoksen joh- don kelpoisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47882: 4.1 Valtuuskunta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47883: (1) MYEL 116 §:n 2 momentin mukaan valtuuskunnan puheenjohtajalla tai varapuheenjohta- jalla tulee olla hyvä työelakevakuutustoiminnan tuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47884: OHJE (kohdat 2-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47885: (2) Finanssivalvonnan tulkinnan mukaan MYEL 116 §:n 2 momentissa tarkoitettu hyvää työ- eläkevakuutustoiminnan tuntemusta koskeva vaatimus täyttyy, mikäli valtuuskunnan pu- heenjohtajalla tai varapuheenjohtajalla on riittävän pitkä vastaava kokemus muun työelä- kealan toimijan johdosta, mikäli hänella on riittavän pitkälta ajalta muuta rinnastettavaa ko- kemusta työeläkealan toimijassa, tai riittävän pitkän muun työkokemuksen ja kattavan kou- lutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47886: (3) Finanssivalvonnan tulkinnan mukaan edella kohdassa 2 mainitun muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47887: (4) Finanssivalvonta suosittaa, että edella kohdassa 2 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Maatalousyrittäjien eläkelaitoksen tai Työeläkevakuuttajat TELA ry:n hy- väksymā ja käsittāa työelākevakuutustoimintaan liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47888: 4.2 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47889: (5) MYEL 118 §:n 2 momentin mukaan hallituksen puheenjohtajalla tai varapuheenjohtajalla tulee olla hyvä työelakevakuutustoiminnan tuntemus. MYEL 118 §:n 3 momentin mukaan hallituksessa on oltava hyvä eläkelaitoksen MYEL 114 §:ssä tarkoitetun toiminnan tunte- mus ja sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47890: OHJE (kohdat 6-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47891: (6) Finanssivalvonnan tulkinnan mukaan MYEL 118 §:n 2 momentissa tarkoitettu hyvää työ- eläkevakuutustoiminnan tuntemusta koskeva vaatimus täyttyy, mikäli hallituksen puheen- johtajalla tai varapuheenjohtajalla on riittävän pitkä vastaava kokemus muun työeläkealan toimijan johdosta, mikäli hanella on riittavan pitkalta ajalta muuta rinnastettavaa kokemusta työeläkealan toimijassa, tai riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_47892: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47893: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47896: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47897: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47899: (7) Finanssivalvonnan tulkinnan mukaan edella kohdassa 6 mainitun muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47900: (8) Finanssivalvonta suosittaa, että edella kohdassa 6 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Maatalousyrittäjien eläkelaitoksen tai Työeläkevakuuttajat TELA ry:n jär- jestāmā ja kasittaa tyoelakevakuutustoimintaan liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47901: (9) Finanssivalvonnan tulkinnan mukaan MYEL 118 §:n 3 momentissa tarkoitettu hyvää eläke- laitoksen MYEL 114 §:ssä tarkoitetun toiminnan tuntemusta koskeva vaatimus täyttyy, mi- käli vähintään yhdella kolmasosalla hallituksen jäsenistä on mainitun toiminnan hyvä tunte- mus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47902: (10) Finanssivalvonnan tulkinnan mukaan MYEL 118 §:n 3 momentissa tarkoitettu hyvää sijoi- tustoiminnan asiantuntemusta koskeva vaatimus täyttyy, mikäli vähintään yhdella kolmas- osalla hallituksen jäsenistä on hyvä sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47903: (11) Finanssivalvonta suosittaa, että hallituksen jaostoja valittaessa varmistutaan siitä, että ja- oston jäsenillä on jaoston toimialaan nähden riittävä ammattitaito ja pätevyys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47904: 4.3 Toimitusjohtaja ja toimitusjohtajan sijainen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47905: (12) MYEL 120 §:n 2 momentin mukaan toimitusjohtajalla on oltava hyvä työeläkevakuutustoi- minnan, eläkelaitoksen 114 §:ssä tarkoitetun muun toiminnan, sijoitustoiminnan ja liikkeen- johdon tuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47906: OHJE (kohdat 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47907: (13) Finanssivalvonnan tulkinnan mukaan MYEL 120 §:n 2 momentissa tarkoitetut hyvää työ- eläkevakuutustoiminnan, sijoitustoiminnan ja liikkeenjohdon tuntemusta koskevat vaati- mukset täyttyvät riittävän pitkän vastaavanlaisissa tehtävissä hankitun työkokemuksen kautta tai riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisoh- jelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47908: (14) Finanssivalvonnan tulkinnan mukaan vastaavanlaisen työkokemuksen voi hankkia toimi- malla työeläkevakuutusalalla vastuullisissa tehtävissä ja muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47909: (15) Finanssivalvonta suosittaa, että edella kohdassa 13 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Maatalousyrittäjien eläkelaitoksen tai Työeläkevakuuttajat TELA ry:n hy- väksyma ja kasittaa tyoelakevakuutus- ja sijoitustoimintaan seka liikkeenjohtoon liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47910: (16) Mikali toimitusjohtajalla ei ole MYEL 120 §:n 2 momentissa tarkoitettua hyvää eläkelaitok- sen MYEL 114 §:ssä tarkoitetun muun toiminnan tuntemusta, voi sen Finanssivalvonnan tulkinnan mukaan saavuttaa esimerkiksi Maatalousyrittäjien eläkelaitoksen järjestämän kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_47911: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47912: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47915: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47916: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47918: 5 Johdon kelpoisuuden ja hyvämainei- suuden yhteisarviointi (Fit & Proper - arviointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47919: (1) Valtuuskunnan ja hallituksen puheenjohtajan ja varapuheenjohtajan, jäsenien ja varajäse- nien sekä toimitusjohtajan ja toimitusjohtajan sijaisen (jäljempänä myös "johto") kelpoi- suusehdoilla tarkoitetaan MYEL:n asettamia vaatimuksia. Kelpoisuusehdoilla tarkoitetaan myös edella mainittuja hallintoelimiä kokonaisuutena koskevia kollegiaalisia kelpoisuus- vaatimuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47920: (2) MYEL 116 §:ssä, 121 §:ssä ja 122 §:ssä säädetään valtuuskunnan puheenjohtajan, vara- puheenjohtajan, jäsenten ja varajäsenten kelpoisuudesta. MYEL 118 §:ssä, 121 §:ssä ja 122 §:ssä säädetään hallituksen puheenjohtajan, varapuheenjohtajan, jäsenten ja vara- jäsenten kelpoisuudesta ja hyvämaineisuudesta. Toimitusjohtajan ja toimitusjohtajan sijai- sen kelpoisuudesta ja hyvämaineisuudesta säädetään MYEL 120 §:ssä, 121 §:ssä ja 122 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47921: OHJE (kohdat 3-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47922: (3) Finanssivalvonta suosittaa, että kaikki edella kohdassa 2 mainituissa lainkohdissa säädetyt vaatimukset saatetaan etukäteen ehdokkaita asettavien tahojen ja nimityspäätöksen teke- vän tahon tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47923: (4) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos varmistaa, että johtoon kuu- luvat henkilot täyttävät valittaessa ja tehtävässa toimiessaan MYEL 116 §:n, 118 §:n, 120 §:n ja 122 §:n mukaiset kelpoisuusehdot ja hyvämaineisuusedellytykset (niin sanottu Fit & Proper -kokonaisuus) ja että hallintoelimet kokonaisuutena täyttävät MYEL:ssa säädetyt kollegiaaliset kelpoisuusvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47924: (5) Finanssivalvonta suosittaa, että asianmukaiset toimintamallit ja kirjalliset toimintaperiaat- teet kaikkien vaatimusten täyttymisen varmistamiseksi sekä seuraamiseksi on varmistettu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47925: (6) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos ilmoittaa Finanssivalvon- nalle johtoon kuuluvien henkilöiden valinnasta heti, kun se on mahdollista. Uudelleenvalin- nasta ei tarvitse antaa uutta ilmoitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47926: (7) Finanssivalvonta suosittaa, että Maatalousyrittäjien elakelaitos ilmoittaa Finanssivalvon- nalle viipymättä johtoon kuuluvien henkilöiden eroamisesta tai erottamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_47927: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47928: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47931: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47932: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47934: (8) Finanssivalvonta suosittaa, että edella kohdissa 6 ja 7 tarkoitetuista ilmoituksista käyvät ilmi henkilön yksilöinti- ja yhteystiedot sekä kotipaikka ja tehtävä, johon hänet on Maata- lousyrittäjien eläkelaitoksessa nimitetty, ja milloin hän aloittaa tai aloitti tehtävässään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47935: (9) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos liittaa kohdassa 6 tarkoitet- tuun ilmoitukseen selvityksen siitä, miten Maatalousyrittäjien eläkelaitos on varmistanut, että henkilö täyttää Fit & Proper -kokonaisuuden. Mikäli kyseessä on jäljempänä kohdassa 10 tai 11 mainittu tilanne, tulisi Maatalousyrittäjien eläkelaitoksen toimittaa Finanssivalvon- nalle kaikki tekoon, rangaistukseen ja asian muuhun arviointiin liittyvät tiedot sekä esittää ne perusteet, miksi henkilon voitaisiin kuitenkin katsoa soveltuvan tehtäväänsä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47936: (10) Finanssivalvonnan tulkinnan mukaan henkilö ei ole MYEL 118 §:n ja 120 §:n mukaisesti hyvämaineinen, mikäli:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47937: · hänet on tuomittu viimeisen viiden vuoden aikana vankeusrangaistukseen tai vii- meisen kolmen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan kat- soa osoittavan hanen olevan ilmeisen sopimaton tehtävään tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47938: · hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopima- ton tehtävään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47939: (11) Finanssivalvonnan tulkinnan mukaan edellä kohdan 10 ensimmäisessä alakohdassa tar- koitettu maaräaika lasketaan nimittamista koskevassa tilanteessa tuomion lainvoimaiseksi tulosta tehtävässa aloittamishetkeen. Jos tuomio ei ole saanut lainvoimaa, tuomittu voisi kuitenkin jatkaa Maatalousyrittäjien eläkelaitoksen johtoon kuuluvan päätösvallan käyttä- mista, jos sita on hanen aikaisempi toimintansa, tuomioon johtaneet olosuhteet ja muut asiaan vaikuttavat seikat kokonaisuutena arvioiden pidettävä ilmeisen perusteltuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_47940: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47941: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47944: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47945: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47947: 6 Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47948: (1) MYEL 119 §:n 1 momentin mukaan hallitus huolehtii eläkelaitoksen hallinnosta ja toimin- nan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47949: OHJE (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47950: (2) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitoksen hyvä hallinto täyttää ai- nakin seuraavat vaatimukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47951: · Eläkelaitoksella tulisi olla keskeisten toimintojen osalta kirjallisesti määritellyt peri- aatteet sekä selkeat määrälliset ja laadulliset tavoitteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47952: · Tavoitteiden maarittelyssa tulisi ottaa huomioon myös terveet ja varovaiset liikeperi- aatteet. Erityisesti vakuutettujen oikeudet ja edut tulisi ottaa huomioon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47953: · Toimintatavat ja tavoitteet tulisi saattaa koko henkiloston tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47954: · Hallituksen tulisi voida tehokkaasti ja riippumattomasti valvoa toimitusjohtajaa ja muuta toimivaa johtoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47955: · Hallituksen tulisi laatia toimintaansa varten kirjallinen työjärjestys, jossa on määri- telty hallituksen keskeiset tehtävät ja toimintaperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_47956: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47957: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47960: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47961: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47963: 7 Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47964: 7.1 Sisäisen valvonnan tarkoitus ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47965: (1) MYEL 119 §:n 1 momentin mukaan Maatalousyrittäjien eläkelaitoksen hallitus huolehtii eläkelaitoksen hallinnosta ja toiminnan asianmukaisesta järjestämisestä sekä eläkelaitok- sen toiminnan laatuun ja laajuuteen nähden riittavasta sisaisesta valvonnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47966: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämi- sesta perustuu MYEL 119 §:n 1 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47967: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47968: (3) Finanssivalvonnan tulkinnan mukaan MYEL 119 §:n 1 momentin mukaisen sisäisen val- vonnan tarkoituksena on varmistaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47969: · toiminnan taloudellisuus, tehokkuus ja tuloksellisuus;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47970: · asetettujen päämäärien ja tavoitteiden saavuttaminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47971: · lakien, määräysten, toimintaperiaatteiden, hallintoelinten päätösten, sisäisten suun- nitelmien, sääntöjen ja menettelytapojen noudattaminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47972: · toimintaan liittyvien riskien hallinta ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47973: · raportoinnin seka muun johtamisinformaation luotettavuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47974: MÄÄRÄYS (kohdat 4-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47975: (4) Hallitus vastaa sisäisen valvonnan järjestämisestä ja organisoinnista kaikille organisaatio- ja toimintotasoille. Hallituksen on vuosittain arvioitava, onko sisäinen valvonta asianmukai- sesti järjestetty ja tarvittaessa ryhdyttävä korjaaviin toimenpiteisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47976: (5) Hallituksen tulee määrittää sisältö sisäiselle valvonnalle sekä vahvistaa sisäisen valvonnan toimintaperiaatteet. Hallitus myös vastaa siitä, että toimintaperiaatteita noudatetaan Maata- lousyrittäjien eläkelaitoksessa sekä ulkoistettujen palveluiden osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47977: 7.2 Sisäisen valvonnan toimivuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47978: MÄÄRÄYS (kohdat 6-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47979: (6) Maatalousyrittäjien eläkelaitoksen sisäisen valvonnan tulee kattaa kaikki eläkelaitoksen toiminnot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_47980: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47981: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47984: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47985: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47987: (7) Sisäisen valvonnan tulee olla suhteessa kunkin toiminnon riskeihin. Sisäisen valvonnan laatua ja laajuutta tulee arvioida vakuutustoiminnan sosiaaliturvanäkökulmasta ja varojen yhteiskunnallisella luonteella, riippumattomuudella ja itsenäisyydella sekā sijoitustoimin- taan liittyvilla vaatimuksilla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47988: (8) Sisäisen valvonnan toimivuuden vuoksi Maatalousyrittäjien eläkelaitokselle on vahvistet- tava organisaatio, jossa tehtävät, päätösvalta ja vastuu on asianmukaisesti jaettu ja rapor- tointisuhteet selkeästi määritelty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47989: (9) Työnjaot ja tehtävänkuvat tulee organisaatiossa määritellä siten, ettei kukaan yksin ilman asianmukaista valvontaa hoida vaikutukseltaan merkittäväa toimenpidetta lapi koko käsit- telyketjun. Vastuun määritykset on dokumentoitava kirjallisesti. Organisaatiorakenteen tu- lee tukea tehokkaan sisäisen valvonnan ja riskienhallinnan järjestämistä. Säännösten nou- dattamista tulee valvoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47990: (10) Raportoinnin on oltava selkeää, luotettavaa, oikea-aikaista ja tulevaisuuden huomioonotta- vaa. Informaatiovirran tulee olla avointa ja säilya raportoinnissa muuttumattomana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47991: (11) Raportointijärjestelmä on järjestettāvā siten, ettā hallitus ja toimitusjohtaja saavat tiedon kaikesta olennaisesta toiminnasta sekä tilintarkastajien ja viranomaisten Maatalousyrittä- jien eläkelaitokselle toimittamista tarkastushavainnoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47992: OHJE (kohta 12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47993: (12) Finanssivalvonta suosittaa, että sisäisen valvonnan valvontatoimenpiteisin kuuluvat esi- merkiksi johdolle tehtävät selonteot ja raportit, tulos- ja poikkeamaraportit mukaan lukien riskirajojen noudattamisen valvonta, fyysiset valvontatoimenpiteet, omaisuuden inventoin- nit, hyväksymis- ja valtuutusjärjestelmä sekä varmistukset ja täsmäytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47994: MÄÄRÄYS (kohdat 13-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47995: (13) Sisäisen valvonnan valvontatoimenpiteiden ja niiden perusteella laadittujen raporttien tulee olla osa Maatalousyrittäjien eläkelaitoksen jatkuvaa toimintakulttuuria. Sisäisen valvonnan toimivuutta on seurattava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47996: (14) Toiminnan jatkuvuuden varmistamisen ja varojen turvaamisen näkökulmasta Maatalous- yrittājien eläkelaitoksen tulee kiinnittää erityistä huomiota tieto- ja muuta turvallisuutta kos- keviin riittaviin valvontatoimiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_47997: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_47998: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48001: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48002: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48004: 8 Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48005: (1) MYEL 119 §:n 1 momentin mukaan Maatalousyrittäjien eläkelaitoksen hallitus huolehtii eläkelaitoksen hallinnosta ja toiminnan asianmukaisesta järjestämisestä sekä eläkelaitok- sen toiminnan laatuun ja laajuuteen nähden riittavasta sisaisesta valvonnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48006: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämi- sesta perustuu MYEL 119 §:n 1 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48007: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48008: (3) Finanssivalvonnan tulkinnan mukaan MYEL 119 §:n 1 momentissa säädetty hallituksen velvollisuus huolehtia eläkelaitoksen hallinnosta ja toiminnan asianmukaisesta järjestämi- sestä tarkoittaa, että hallituksella on velvollisuus luoda Maatalousyrittäjien eläkelaitoksen toiminnan kannalta tarpeellinen organisaatio ja varmistaa sen toiminta sekä ryhtyä tarvitta- viin korjaaviin toimenpiteisiin, jos säännösten vastaista tai muutoin virheellistä toimintaa on havaittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48009: MÄÄRÄYS (kohdat 4-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48010: (4) Maatalousyrittäjien eläkelaitoksella on oltava sellainen ohje- ja raportointijärjestelmä, että hallitus voi varmistaa elakelaitoksen toiminnan lainmukaisuuden ja toimintaan liittyvien muiden ulkoisten ja sisäisten sääntöjen noudattamisen sekä sen, että säännösten noudat- tamista valvotaan oikeassa suhteessa Maatalousyrittäjien eläkelaitoksen toiminnan laa- tuun ja laajuuteen nähden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48011: (5) Toimitusjohtajan on osaltaan toimittava hallituksen tietokanavana Maatalousyrittäjien elä- kelaitoksen menettelytavoista ja autettava tarvittaessa hallitusta puuttumaan oikeudellisiin riskeihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_48012: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48013: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48016: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48017: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48019: 9 Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48020: (1) MYEL 119 §:n 1 momentin mukaan hallitus huolehtii Maatalousyrittäjien eläkelaitoksen hallinnosta ja toiminnan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48021: OHJE (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48022: (2) Finanssivalvonta suosittaa, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48023: · Maatalousyrittäjien elakelaitoksella on sisäinen tarkastus, jonka järjestämisestä ela- kelaitoksen hallitus vastaa. Hallituksen tulisi hyväksya sisäisen tarkastuksen toimin- taperiaatteet ja vuosittainen tarkastussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48024: · Maatalousyrittäjien eläkelaitoksen hallitus järjestää sisäisen tarkastuksen organi- saatioaseman sekä toimivallan selkeäksi sekä varmistaa Maatalousyrittäjien eläke- laitoksen toimintojen riippumattoman ja objektiivisen tarkastuksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48025: · sisäinen tarkastus on riippumaton tarkastettavista toiminnoista ja tilintarkastuksesta. Sisäisen tarkastuksen tulisi kuitenkin olla kiinteä osa Maatalousyrittäjien eläkelaitok- sen toimintaa. Hallitus voi tarvittaessa ostaa sisäisen tarkastuksen palveluja ulko- puoliselta palveluntuottajalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48026: · sisäinen tarkastus on Maatalousyrittäjien eläkelaitoksen kokoon ja toimintaan näh- den oikein mitoitettu, ja silla on riittava ammattitaito ja kokemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48027: · sisäisen tarkastuksen tuloksista ja toimenpidesuosituksista raportoidaan toimitus- johtajalle ja hallitukselle. Raportointi tulisi suorittaa siten, että toimitusjohtaja ja halli- tus voivat viipymättä ryhtya toimiin havaittujen epakohtien poistamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_48028: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48029: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48031: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48032: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48034: 10 Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48035: 10.1 Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48036: (1) MYEL 119 §:n 1 momentin mukaan Maatalousyrittäjien eläkelaitoksen hallitus huolehtii toi- minnan laatuun ja laajuuteen nähden riittävistä riskienhallintajärjestelmistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48037: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä riskienhallinnan järjestämisestä perustuu MYEL 119 §:n 1 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48038: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48039: (3) Finanssivalvonnan tulkinnan mukaan MYEL 119 §:n 1 momentissa mainitulla riskienhallin- nalla tarkoitetaan strategioita, prosesseja ja raportointimenettelyjā, joilla Maatalousyrittä- jien eläkelaitokseen kohdistuvia, sen liiketoiminnasta aiheutuvia ja liiketoimintaan oleelli- sesti liittyvia riskejä tunnistetaan, valvotaan, mitataan, seurataan ja hallitaan. Riskienhallin- taan kuuluvat Finanssivalvonnan tulkinnan mukaan myös ne ehkäisevät toimenpiteet, jotka riskien tunnistamisen, raportoinnin ja arvioinnin johdosta on kulloinkin päätetty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48040: MÄÄRÄYS (kohdat 4-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48041: (4) Riskienhallinnassa on otettava huomioon kaikki olennaiset Maatalousyrittäjien eläkelaitok- sen toimintaan vaikuttavat sisäiset ja ulkoiset sekä ulkoistettujen toimintojen riskit. Riskien- hallinnan on katettava varojen ja vastuiden hallinta, sijoitukset, maksuvalmius, keskittymä- riskin hallinta sekä operatiivisten riskien hallinta. Riskienhallinnassa tulee tarkastella yksit- täisiä riskejā ja yksittäisten riskien yhteisvaikutuksia Maatalousyrittäjien eläkelaitoksen toi- minnassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48042: (5) Riskienhallinta on järjestettävä siten, että se on riittävässä määrin riippumaton riskiä otta- vista toiminnoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48043: (6) Riskienhallinta on sisällytettävä toimivaksi osaksi Maatalousyrittäjien eläkelaitoksen orga- nisaatiorakennetta ja päätöksentekoprosesseja. Maatalousyrittäjien eläkelaitoksen organi- saatiorakenteen ja päätöksentekoprosessien on tuettava tehokasta riskienhallintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48044: (7) Maatalousyrittäjien eläkelaitoksen riskienhallinnan tehtävänä on seurata, että riskit tulevat Maatalousyrittäjien eläkelaitoksessa asianmukaisesti ja annetun ohjeistuksen mukaisesti tunnistetuiksi, valvotuiksi, mitatuiksi, seuratuiksi ja hallituiksi. Sen tulee myös ylläpitää, ke- hittää ja valmistella riskienhallinnan periaatteita sekä laatia menetelmiä käytettäväksi ris- kien arvioimisessa ja mittaamisessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48045: (8) Riskienhallintajärjestelmän on oltava sellainen, että se helpottaa riskienhallinnan täytän- töönpanoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_48046: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48047: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48050: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48051: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48053: (9) Maatalousyrittäjien eläkelaitoksella tulee olla riskienhallintaan tarvittavat menetelmät. Mää- rällisten mittausmenetelmien lisäksi myös laadullisia riskejä varten on oltava tarvittavat ar- viointimenetelmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48054: (10) Menetelmien avulla Maatalousyrittäjien eläkelaitoksen on jatkuvasti tunnistettava riittävän kattavasti kaikki riskienhallinnassa huomioon otettavat riskit. Maatalousyrittäjien eläkelai- toksen on voitava kohtuudella varmistua siitä, että kaikki asetettujen tavoitteiden saavutta- miseen olennaisesti vaikuttavat riskit on tunnistettu ja saatettu hallituksen käsiteltäviksi. Riskien vaikutusten merkittävyys ja toteutumisen todennäköisyys on arvioitava, ja niiden hallitsemiseksi on kehitettävä asianmukaiset menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48055: (11) Maatalousyrittäjien eläkelaitoksella tulee olla riittävät riskienhallintamenetelmät rahanpe- sun ja terrorismin rahoituksen torjuntaan, mukaan lukien asiakkaan tunnistamiseen ja riski- perusteiseen arviointiin tarvittavat menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48056: 10.2 Riskienhallintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48057: MÄÄRÄYS (kohdat 12-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48058: (12) Hallituksen on vuosittain hyväksyttävä Maatalousyrittäjien eläkelaitoksen koko toiminnan kattava riskienhallintasuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48059: (13) Riskienhallintasuunnitelmassa tulee määritellä Maatalousyrittäjien eläkelaitoksen merkittä- vimmät riskit, mittarit, riskinoton rajat, riskienhallinnan tavoitteet, riskinhallintatoimenpiteet, vastuut ja valvontaperiaatteet. Lisäksi riskienhallinta tulee sisällyttää tarkoituksenmukai- sesti Maatalousyrittäjien eläkelaitoksen toimintojen suunnitteluun laatimalla esimerkiksi keskeisille toiminnoille tai prosesseille erillinen riskienhallintasuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48060: (14) Riskienhallintasuunnitelman riskinoton rajoja määritettäessa tulee ottaa huomioon Maata- lousyrittäjien eläkelaitoksen riskinotto-/riskinkantokyky. Lisäksi on määriteltävä, kuka vas- taa riskinotosta, miten riskiä mitataan ja seurataan sekä miten riskin pysymistä hyväksyttä- vissä rajoissa valvotaan. Riskienhallintasuunnitelmassa on otettava huomioon myös ul- koistetut toiminnot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48061: (15) Riskienhallintasuunnitelmasta on käytävä ilmi, miten riskeistä raportoidaan. Riskienhallin- tasuunnitelman mukaisesta riskienhallinnan kokonaistilanteesta tulee raportoida vähintään vuosittain Maatalousyrittäjien eläkelaitoksen hallitukselle. Suunnitelman mukaisten riskira- porttien tulee olla osa kunkin liiketoiminnan prosesseja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_48062: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48063: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48065: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48066: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48068: 11 Hyvän vakuutustavan valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48069: (1) Maatalousyrittäjien eläkelaitos on lailla perustettu erityiseläkelaitos. Toiminta tai "liiketoi- minta" koostuu kolmesta keskeisesta vakuutettujen suojaelementistā, joita ovat tapaturma- ja työeläkevakuutus sekä lomitus. Eläkelaitoksella on myös sijoitustoimintaa. Sen toimin- nassa on joitakin yhtiömaisia tai yhtiöoikeudellisia piirteitä mutta eläkelaitos ei ole työeläke- vakuutusyhtiö tai yhtiö. Eläkelaitoksella ei myöskään ole kilpailijoita ja sen rahoituspohja poikkeaa kilpailuilla työeläkemarkkinoilla toimivista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48070: (2) Edellä esitetystä johtuen on ilmeistä, että eläkelaitoksen relaatio asiakaskuntansa kanssa on muodostunut hyvin erilaiseksi kuin esimerkiksi työeläkevakuutusyhtiöillä. Erityisesti kil- pailijoiden puuttuminen johtaa siihen, ettei eläkelaitoksella liene relevantteja syitä, jonka vuoksi sen pitäisi testata toimintansa normiston rajoja. Tässä mielessä hyvällä vakuutus- tavalla voidaan olettaa olevan vain vähäinen merkitys toiminnalle. Voidaan kuitenkin to- deta, että Maatalousyrittäjien eläkelaitoksessa eläketurva järjestetään vakuuttamisen kautta. Vakuuttamisen ja vakuutustavan yhteydella voi siten arvioida olevan eläkelaitoksen toiminnalle yleinen periaatteellinen merkitys. Jäljempänä ohjeistettua tulee tulkita edellä todetun valossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48071: 11.1 Vakuutustapa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48072: (3) On tilanteita, joissa laki tai sopimuksen ehdot eivät anna menettelytapakysymykseen suo- raa vastausta. Hyvä tapa voi tällöin täydentää muuta sääntelya ja nousta ratkaisuperus- teena keskeiseen asemaan. Hyvä tapa voi esimerkiksi nousta esiin yksittäisten asiakkai- den kohdalla silloin, kun heidän korvausvaatimuksiaan arvioidaan finanssialan lautakun- nissa tai yleisissä tuomioistuimissa. Finanssitoiminnassa tunnetaan useita erilaisia hyviä käytänteitä. Esimerkiksi hyvä vakuutus-, pankki- ja esimerkiksi arvopaperimarkkinatapa ohjaavat toimijoiden toimintaa finanssimarkkinoilla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48073: (4) Finanssivalvonnan lakisääteisiin päätehtäviin kuuluu hyvän vakuutustavan valvonta. Tätä viranomaisvalvontaa toteutetaan lähinnä asiakaskollektiivien tai koko asiakaskunnan ta- solla. "Hyvä vakuutustapa" on vanha vakuutusoikeudellinen periaate, jota on vakiintuneesti käytetty vakuutusalalla. Käsite on saanut sisältöä muun muassa myös vakuutussopimus- lain (543/1994) sekä vakuutusyhtiölain (521/2008) esitöiden kautta. Periaate on hyvin ylei- nen ja muistuttaa kasuistisen luonteensa vuoksi kilpailuoikeussäännöstöä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48074: (5) Käsite sisältää perussäännön, jonka mukaan vakuutusalalla päätösvaltaa käyttävän toi- minnan on oltava paitsi lain sanamuodon mukaista, myös sen tarkoituksen mukaista, eetti- sesti kestävää, kohtuullista ja oikeudenmukaista. Edella todetun voinee tiivistää myös to- teamukseen, jonka mukaan kaikki se mikä ei ole erikseen kiellettyä, ei välttämättä ole sal- littua. Valvonnan näkökulmasta tämä on perinteisesti tarkoittanut sitä, että painopiste ei ole
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_48075: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48076: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48079: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48080: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48082: siinä miten vakuutusyrityksissa toimitaan vaan siina, miten niissä pitäisi toimia. Käytän- nössä tämä tarkoittaa sitä, että käsite saa sisältönsä, kun arvioidaan hyvän vakuutustavan merkitystä vakuutuksenottajien, mahdollisten vakuutuksenottajien, korvauksensaajien ja vakuutettujen - ei valvottavien näkökulmasta. Finanssivalvonta ei siten käsitteen perus- teella arvioi vakuutusyritysten sisäistä toimintakulttuuria, vaan vakuutusyritysten ja "ulko- maailman" välistä suhdetta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48083: (6) Lakisääteisistä vakuutuksista työeläkevakuutuksessa lainsäädännöllinen ympäristö on eri- tyislaatuinen. Sen ydin on työeläkevakuutusyhtiöistä annetussa laissa (354/1997) mutta se saa vaikutteita myös muusta lainsäädännöstä, kuten hallintolaista ja yleisistä yhtiöoikeu- dellisista - esimerkiksi hyvän hallinnon - periaatteista. Työeläkevakuuttaminen perustuu luonteensa vuoksi siten voimakkaammin lakiin, jolloin sopimusvapaus ja sen myötä vakuu- tusehtojen soveltamisala kapenevat yksityisvakuutuksen vastaavasta. Hyvä vakuutustapa liittyy vakuutusalalla erityisesti yksityisvakuutukseen mutta sillä on merkityksensä myös lakisääteisen vakuutuksen puolella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48084: OHJE (kohta 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48085: (7) Finanssivalvonta suosittaa, että Maatalousyrittājien elakelaitos noudattaa liiketoimissaan ja sopimussuhteissaan hyvän vakuutustavan mukaisia periaatteita, joilla tarkoitetaan, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48086: · Maatalousyrittäjien elakelaitos ei suhteissaan vakuutuksenottajiin tai muissa liiketoi- missaan käytä Maatalousyrittäjien eläkelaitoksen toimintaan kuulumattomia järjes- telyjä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48087: · Maatalousyrittäjien eläkelaitos kohtelee kaikkia oikeudenmukaisesti ja tasapuoli- sesti, eivätkä sen liiketoimet tuota epäoikeutettua etua esimerkiksi yksittäiselle va- kuutuksenottajalle. Kaikki Maatalousyrittäjien eläkelaitoksen ja vakuutuksenottajan väliset liketoimet, myös esimerkiksi lainojen ja muun vakuutuksenottajan toiminnan rahoittamisen, kiinteistö- ja muiden kauppojen sekä vuokrasopimusten tulisi olla tehty hyvän tavan mukaisesti markkinaehdoin. Vakuutuksenottajilta ostettavat pal- velut tulisi ostaa markkinaehtoisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_48088: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48089: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48091: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48092: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48094: 12 Sijoitustoiminnan järjestäminen ja si- joitussuunnitelma ja raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48095: (1) MYEL 124 §:n 1 momentin mukaan Maatalousyrittäjien eläkelaitoksen sijoitustoiminnan on oltava itsenaista ja sita varten on oltava riittava henkilösto toiminnan luonne ja laajuus huo- mioon ottaen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48096: (2) MYEL 124 §:n 2 momentin mukaan Maatalousyrittäjien eläkelaitoksen hallituksen on laa- dittava sijoitussuunnitelma noudattaen soveltuvin osin, mitä työeläkevakuutusyhtiöistä an- netun lain (354/1997) 28 §:n 1 momentissa säädetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48097: (3) Valtioneuvoston asetuksen 9 §:n 1 momentin 4 kohdan mukaan Maatalousyrittäjien eläke- laitoksen hallituksen tulee hyväksyä eläkelaitoksen sijoitussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48098: (4) Valtioneuvoston asetuksen 9 §:n 1 momentin 5 kohdan mukaan Maatalousyrittäjien eläke- laitoksen hallituksen tulee päättää eläkelaitoksen varojen sijoittamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48099: (5) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sijoitustoiminnan itsenäisyydestä, sijoitussuunnitelmasta sekä sijoitustoimintaa täydentävien varojenhoitopalvelujen, sijoitus- toiminnan asiantuntijapalvelujen, aputoimintojen ja näihin rinnastettavien palvelujen käy- töstä perustuu MYEL 124 §:n 6 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48100: 12.1 Maatalousyrittäjien eläkelaitoksen sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48101: 12.1.1 Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48102: OHJE (kohdat 6-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48103: (6) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitoksella on maksuliikennettään varten omat, muista yhteisöistä erilliset kassa- ja pankkitilit. Maatalousyrittäjien eläkelaitos ei voisi käyttää esimerkiksi yhteistä konsernitiliä muun yhteisön tai säätiön kanssa. Konser- nitililla tarkoitetaan pankkitiliä, jossa maksuliikenne on hajautettu yksikkökohtaisesti, mutta varojen hallinta hoidetaan keskitetysti. Sellainen on esimerkiksi pankkitili, jossa eri yhteisö- jen pankkitilien varat kootaan yhdeksi kokonaisuudeksi, ja jonka alatileihin kullakin yhtei- söllä on oma käyttöoikeutensa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48104: (7) Maatalousyrittäjien eläkelaitoksen ja muun yhteisön tai säätiön välillä olisi mahdollista käyt- tää erilaisia selvittelytilejā, joille kirjataan palvelujen ostoa ja myyntia tai näitā vastaavia ta- pahtumia tai Maatalousyrittäjien eläkelaitoksen ja asunto- ja kiinteistöyhteisöjen välistä vä- häistä maksuliikennettä, ei kuitenkaan vakuutusmaksuliikennettä. Tilia ei myöskään saisi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_48105: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48106: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48109: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48110: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48112: käyttää Maatalousyrittäjien eläkelaitoksen ja muun edella mainitun yhteisön tai säätiön yh- teisten tai yhteisöjen välisten omaisuuden saantoja tai luovutuksia koskevien tilitapahtu- mien kirjaamiseen. Tilin saldon tulisi jatkuvasti olla euromäärältään vähäinen. Tilin tapahtu- mat selvitetään kuukausittain, kuitenkin viimeistään tilitapahtumakuukautta seuraavan kuu- kauden aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48113: 12.1.2 Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48114: MÄÄRÄYS (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48115: (8) Maatalousyrittäjien eläkelaitoksen sijoitustoiminnan päätöksenteon valmistelusta ja päätök- senteosta tulee vastata Maatalousyrittäjien eläkelaitoksen oma sijoitustoiminnan organi- saatio ja henkilöstö, joka on riippumaton muista tahoista. Maatalousyrittäjien eläkelaitok- sen omalla henkilökunnalla on oltava riittävässä määrin sellaista sijoitustoiminnan osaa- mista ja ammattitaitoa, ettei Maatalousyrittäjien eläkelaitoksen tarvitse turvautua sijoitustoi- minnassaan muihin kuin sijoitustoimintaa täydentäviin varojenhoitopalveluihin, asiantuntija- palveluihin, aputoimintoihin ja näihin rinnastettaviin palveluihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48116: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48117: (9) Edellä kohdassa 8 tarkoitettuja palveluja, joita voidaan hankkia Maatalousyrittäjien eläke- laitoksen ulkopuolelta, ovat esimerkiksi sijoituspäätösten valmistelua ja tekemistä palve- leva tietojen tuottaminen ja kerääminen sijoitusmarkkinoilta. Tällaisia toimintoja voivat olla muun muassa erilaiset markkina-analyysit, yritystutkimukset, luottotietojen hankkiminen sekä sijoitustoimintaan liittyvät koti- ja ulkomaiset asiantuntijapalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48118: MÄÄRÄYS (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48119: (10) Maatalousyrittäjien eläkelaitoksen ulkopuolelta ostettavien aputoimintojen tulee tuottaa elä- kelaitoksen käyttöön sellaisia tietoja, jotka ovat tarpeen sijoitustoiminnan päätösten valmis- telussa ja seurannassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48120: OHJE (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48121: (11) Edella kohdassa 10 tarkoitettuja aputoimintoja voivat olla esimerkiksi sijoitustoiminnan tie- tojenkäsittelyyn, juridiikkaan ja laskentatoimeen liittyvät palvelut. Aputoimintoja voivat olla myös jo tehtyjen sijoituspäätösten toteuttamiseen ja sijoitusten hoitoon liittyvät toiminnot kuten esimerkiksi kiinteistöjen huoltopalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48122: (12) Maatalousyrittäjien eläkelaitos voi tehdä sijoitustoimintaa täydentäviä omaisuudenhoitoso- pimuksia esimerkiksi luottolaitoksen, sijoituspalvelulaissa (747/2012) tarkoitetun sijoitus- palveluyrityksen tai siihen rinnastettavan yrityksen sekä muussa valtiossa toimiluvan saa- neen, julkisen valvonnan alaisen sijoituspalveluyrityksen kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48123: MÄÄRÄYS (kohdat 13-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48124: (13) Maatalousyrittäjien eläkelaitoksen hallituksen tulee hyväksyä sopimukset ulkopuolisten omaisuudenhoitajien kanssa. Erityisesti päätöksentekovaltuuksia annettaessa tulee var- mistaa, että elakelaitoksen itsenäinen päätöksenteko sijoitusasioissa ei vaarannu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_48125: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48126: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48129: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48130: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48132: (14) Sijoitusvarojen hoitoa koskevasta omaisuudenhoitosopimuksesta tulee ilmetä ainakin seu- raavat seikat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48133: · toimeksiannon laajuus ja valtuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48134: · sijoitustoiminnan periaatteet ja rajoitukset (mm. tavoitteet, riskit, omaisuuden allo- kointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48135: · säännöllinen raportointi (mm. tuotto/tavoitteet, allokaatio ja riskitaso)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48136: · hoitopalkkio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48137: · sopimuksen irtisanomismenettely.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48138: (15) Toimeksianto saa koskea vain tiettyä, rajattua osuutta Maatalousyrittäjien eläkelaitoksen sijoituksista. Toimeksiannon osuus omaisuudenhoitoyhteisön hallinnassa olevista koko- naisvaroista ei saa olla merkittävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48139: 12.2 Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhal- linnassa/sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48140: OHJE (kohta 16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48141: (16) Finanssivalvonnan tulkinnan mukaan MYEL 124 §:n 2 momentti ja valtioneuvoston asetuk- sen 9 §:n 1 momentin 4 ja 5 kohdat tarkoittavat, että hallitus vastaa Maatalousyrittäjien elä- kelaitoksen sijoitusvaltuuksien asianmukaisuudesta ja sijoittamisen riskeistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48142: MÄÄRÄYS (kohdat 17-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48143: (17) Hallitus vastaa sijoitussuunnitelman ajan tasalla pitämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48144: (18) Ainakin seuraavat asiakokonaisuudet tulee käsitellä sijoitussuunnitelman yhteydessä sen lisäksi, mitä MYEL 124 §:n 2 momentissa säädetään:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48145: · Toimintaympäristön ja Maatalousyrittäjien elakelaitoksen toiminnan sijoitustoimin- nalle asettamat vaatimukset lyhyella ja pitkälla aikavälillä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48146: - Arvio toimintaympäristön tilasta ja kehitysnäkymistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48147: - Vastuullisen vakuutusmatemaatikon sijoitusriskienhallintaa ja sijoitustoimin- taa varten laatima selvitys vastuuvelan luonteen ja tuottovaateen sekä vaka- varaisuuden ja maksuvalmiuden ylläpidon asettamista vaatimuksista sekä eläkelaitoksen vakuutusteknisten riskien hallinnan asianmukaisuudesta ot- taen huomioon elakelaitoksen toiminnan laatu ja laajuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48148: - Arvio sijoitussalkun keskeisista riskeista mm. arvonmuutosten ja odotettujen tuottojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48149: · Sijoitustoiminnan yleiset periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48150: - Maatalousyrittajien elakelaitoksen sijoitustoiminnan strategiset tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48151: - Riskienhallinnalliset tavoitteet ja rajoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48152: - Sijoituksiin liittyvät merkittavimmat riskit, kuten valuutta-, luotto-, korko-, markkina- ja likviditeettiriski jne.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48153: - Johdannaisten käyton periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_48154: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48155: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48158: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48159: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48161: Periaatteiden kuvauksessa tulee tarvittaessa ottaa kantaa periaatteiden ja toimin- nan eroavuuksiin pitkälla ja lyhyellä aikavälillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48162: · Varojen sijoittaminen vuonna X
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48163: - Perusallokaatio (sijoitettavien varojen jakautuminen omaisuuslajeihin) ja sal- litut vaihteluvälit eli limiitit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48164: - Tuottotavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48165: - Riskienhallinnalliset tavoitteet ja rajoitteet (limiitit) sekä mahdolliset vertailuin- deksit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48166: - Sijoitusten hajauttamisen periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48167: · Ohjausjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48168: - Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48169: - Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48170: - Sijoitusorganisaation paatosvaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48171: - Ulkopuolisten palveluiden käyttö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48172: - Riskienhallinnan ja sisaisen valvonnan organisointi tai viittaus hallituksen niistä mahdollisesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48173: - Sijoitustoiminnan jatkuvuuden varmistaminen normaaliolojen hairiotilanteissa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48174: · Raportointijärjestelmien kuvaus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48175: - Sijoitusriskienhallintatoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48176: - Sijoitustoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48177: - Tilanteet, joissa hallitukselle raportoidaan erikseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48178: · Muut keskeiset linjauspäätökset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48179: - Omistajaohjauksen periaatteet tai viittaus hallituksen asiasta mahdollisesti tekemään erilliseen päätökseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48180: - Vastuullisen sijoittamisen periaatteet tai viittaus hallituksen asiasta mahdolli- sesti tekemään erilliseen päätökseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48181: · Sijoitussuunnitelman päivittamisen periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48182: (19) Finanssivalvonnalle on toimitettava hallituksen hyväksymä sijoitussuunnitelma ja ne halli- tuksen tekemät muut päätökset, joihin sijoitussuunnitelmassa edella sanotun mukaisesti mahdollisesti viitataan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_48183: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48184: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48186: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48187: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48189: 13 Luotonotto, siitä Finanssivalvonnalle tehtävät ilmoitukset ja luottohäiriöris- kinvaihtosopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48190: OHJE (kohdat 1-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48191: (1) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos ja sen tytäryhteiso ilmoitta- vat viimeistään kahden viikon kuluessa luoton ottamisesta Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48192: · välttämättoman maksuvalmiuden hoitamiseksi ottamastaan luotosta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48193: · pääomalainan ottamisesta ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48194: · oman henkilökuntansa omistamalta henkilöstorahastolta ottamastaan luotosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48195: (2) Finanssivalvonta suosittaa, että ennen tilintarkastustilaisuutta Finanssivalvonnalle laadi- taan lisäksi erillinen ilmoitus, jossa edellä kohdassa 1 todettujen luottojen osalta ilmoite- taan kaikki:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48196: · elakelaitoksella voimassa olevat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48197: · elakelaitoksen edellisen kalenterivuoden aikana nostamat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48198: · eläkelaitoksen tytäryhteisöjen voimassa olevat luotot ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48199: · eläkelaitoksen tytäryhteisöjen edellisen kalenterivuoden aikana nostamat luotot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48200: (3) Liiketoimintaan liittyvät tavanomaiset tililuotot ja muut niihin rinnastettavat luotot ilmoitettai- siin vain, mikäli Finanssivalvonta sitä erikseen pyytää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48201: (4) Luottohäiriöriskinvaihtosopimukset katsotaan vakioiduiksi sopimuksiksi eikä niitä tulkita va- kuuden antamiseksi, jos sopimukset on laadittu International Swaps and Derivatives Asso- ciationin (ISDA) laatimien tai muiden vastaavien standardoitujen mallidokumentaatioiden mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_48202: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48203: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48206: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48207: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48209: 14 Varautuminen valmiuslain ja puolus- tustilalain mukaisiin poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48210: (1) Tässä ohjeessa tarkoitetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48211: · poikkeusoloilla valmiuslain (1552/2011) mukaista poikkeusolojen voimassaoloaikaa sekä puolustustilalain (1083/1991) mukaista puolustustilan voimassaoloaikaa ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48212: · Maatalousyrittäjien elakelaitoksen vastuulla olevilla keskeisilla julkisilla tehtävilla esimerkiksi kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen kuuluvia tehtävia. Tällaisiin tehtäviin liittyvia, eläkelaitosta ja sitä kautta kansalaisia koskevia poikkeusoloriskejä ovat muun muassa eläkkeiden maksun vaarantuminen, eläkkei- den rahoituksen ja likviditeetin hallinnan vaarantuminen, erilaisten eläkelaitoksen omien tai yhteiskunnan järjestelmien ja infrastruktuurin toiminnan vaarantuminen, omalla vastuulla olevien verkostojen toimimattomuus ja palvelutoiminnan pysähty- minen sekä esimerkiksi erilaiset informaatio- ja vastapuoliriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48213: (2) MYEL 132 §:n 1 momentin mukaan Maatalousyrittäjien eläkelaitoksen tulee varmistaa teh- täviensä mahdollisimman häiriötön hoitaminen myös poikkeusoloissa osallistumalla vakuu- tusalan valmiussuunnitteluun ja valmistelemalla etukäteen poikkeusoloissa tapahtuvaa toi- mintaa sekä muin toimenpitein.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48214: 14.1 Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48215: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48216: (3) Finanssivalvonta suosittaa, että Maatalousyrittäjien elakelaitos sailyttää toimintakykynsä vähintään 12 kuukautta kestävän poikkeusolon ajan. Maatalousyrittäjien eläkelaitoksen toi- mintakyky tulisi mitoittaa siten, että sen vastuulla olevat keskeiset julkiset tehtävät eivät poikkeusoloissa vaarannu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48217: 14.2 Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48218: OHJE (kohdat 4-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48219: Velvollisuus ennakolliseen varautumiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48220: (4) · Finanssivalvonta suosittaa, etta Maatalousyrittajien elakelaitos jo normaalioloissa ryhtyy poikkeusoloja koskevan toimintakykyvelvoitteen turvaamiseksi ennakollisiin varautumistoimiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_48221: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48222: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48225: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48226: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48228: (5) Valmiussuunnitelma osana Maatalousyrittäjien eläkelaitoksen riskienhallintadokumentaa- tiota.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48229: · Finanssivalvonta suosittaa, että Maatalousyrittäjien elakelaitos laatii hallituksen hy- väksymän valmiussuunnitelman.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48230: (6) Valmiussuunnitelman tarkoitus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48231: · Finanssivalvonta suosittaa, että valmiussuunnitelma turvaa poikkeusoloissa sellai- set kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat seikat, joihin Maatalousyrittäjien elakelaitos voi omilla toimillaan vaikuttaa. Toisin sanoen, poikkeusolojen aikaisen toimintakyvyn kannalta keskeisten julkisten tehtävien, ku- ten eläkkeiden ratkaisu- ja maksatustoiminnan, varojenhoidon, asiakastietojen, tie- tojärjestelmien, niiden tarvitseman tietojenkäsittelyinfrastruktuurin sekä palveluver- kostojen toimivuuden ja käytettävyyden turvaaminen sekä hairiötön hoito.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48232: (7) Valmiussuunnitelman pääsisältö.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48233: · Finanssivalvonta suosittaa, että valmiussuunnitelmassa kuvataan poikkeusolojen toimintaperiaatteet, toiminnot, palvelut sekä tarvittava yhteistyö sidosryhmien kanssa. Suunnitelman tulisi sisältää myös toimivuusvaatimukset poikkeusolotilantei- siin, palveluiden hallitun supistamisen vaiheet sekä toimenpiteet normaalioloihin pa- laamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48234: (8) Vastuu valmiussuunnitelman ajantasaisuudesta ja toteuttamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48235: · Finanssivalvonta suosittaa, että toimitusjohtaja tai hallituksen tehtävään erikseen määräämä henkilö vastaa valmiussuunnitelman ajantasaisuudesta, valmiussuunni- telman mukaisiin toimenpiteisiin ryhtymisestä, poikkeusoloihin varautumisesta, toi- minnan johtamisesta, päätöksentekojärjestelmän ylläpitämisestä sekā viestinnästa kaikissa oloissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48236: (9) Valmiussuunnitelman toimintakelpoisuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48237: · Finanssivalvonta suosittaa, että valmiussuunnitelman toimintakelpoisuus varmiste- taan normaalioloissa testaamalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48238: 14.3 Varautuminen tietojen hallinnan ja tietotekniikan osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48239: OHJE (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48240: (10) Finanssivalvonta suosittaa, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48241: · Maatalousyrittäjien elakelaitos turvaa tietojen säilymisen ja riittavän tapahtumien kirjaamisen poikkeusoloissa. Mikäli tietojärjestelmät eivät ole käytössä, tietoliikenne ei toimi tai muut infrastruktuurin palvelut ovat rajoitetusti käytettävissä, tulisi tietojen säilyminen ja riittava tapahtumien kirjaaminen varautua suorittamaan muulla tavoin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48242: · Maatalousyrittäjien elakelaitos varmistaa tietojenkäsittelyn infrastruktuurissa poik- keusolojen varmuuskopioinnin toipumisjärjestelmineen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48243: · Maatalousyrittajien elakelaitos järjestaa toiminnan jatkuvuuden kannalta riittavän tietojen ja ohjelmien varmistuksen toipumisjärjestelmineen riittävän etäälle sijaitse- viin turvatiloihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_48244: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48245: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48248: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48249: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48251: · Maatalousyrittajien elakelaitos varmistaa kansalaisten toimeentuloturvan ja elake- varojen pysyvyyden varmistamiseksi poikkeusoloissa riittävän määrän tietojenkäsit- telykapasiteettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48252: · Maatalousyrittäjien elakelaitoksella on toiminnan jatkuvuuden varmistamiseksi kyky käynnistää tietojenkäsittelytoiminta uudessa ympäristössä/varakonekeskuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48253: · Maatalousyrittajien elakelaitos varmistaa valmiiksi suunnitellut ja toimivat yhteydet tarpeellisiin yhteistyökumppaneihin sekä yhteisiin tai keskitettyihin tietovarastoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48254: · Maatalousyrittäjien elakelaitos suunnittelee varmistusten käytön siten, että niiden tietojen ja käytettävissä olevien ohjelmistojen pohjalta kyetään käynnistämään liike- toiminta uudelleen siinäkin tilanteessa, että varsinainen tietojenkäsittelykeskus ja sen lähialueet ovat pysyvästi tuhoutuneet. Tämä edellyttäisi varmistusten käyttöval- miuden varmistamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48255: 14.4 Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48256: OHJE (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48257: (11) Finanssivalvonta suosittaa, että poikkeusoloihin varautuminen ulotetaan ulkoistettuihin toi- mintoihin siinä laajuudessa kuin Maatalousyrittäjien eläkelaitoksen keskeisten julkisten teh- tävien turvaaminen edellyttää. Vaatimus tulisi ottaa huomioon jo ulkoistamissopimuksissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48258: (12) Finanssivalvonta suosittaa, että ulkoistettujen palvelujen toimivuus ja käytettävyys varmis- tetaan valvonnalla ja sopimusjärjestelyillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48259: 14.5 Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48260: OHJE (kohta 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48261: (13) Finanssivalvonta suosittaa, että jos Maatalousyrittājien elakelaitos ei noudata tätä ohjetta, ilmoittaa se Finanssivalvonnalle ohjeesta poikkeaminen syyt, sen miten ohjeesta poike- taan, poikkeamiseen liittyvät perustelut sekä selvityksen siitä, miten MYEL 132 §:n 1 mo- mentin mukainen varautumisvelvollisuus täytetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_48262: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48263: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48265: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48266: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48268: 15 Työkyvyttömyysriskin hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48269: 15.1 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48270: (1) Tähän lukuun on koottu Finanssivalvonnan suositukset Maatalousyrittäjien eläkelaitoksen työkyvyttömyysriskin hallintaan tähtäävän toiminnan periaatteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48271: (2) Luku on tarkoitettu tulkittavaksi Maatalousyrittäjien eläkelaitosta koskevassa lainsäädän- nössä sen toiminnan tarkoitusta ja vastuullista varojen käyttöä koskevien periaatteiden va- lossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48272: 15.2 Ohje työkyvyttömyysriskin hallintaan tähtäävista toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48273: 15.2.1 Rahoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48274: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48275: (3) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos seuraa työkyvyttömyysris- kin hallintaan tarkoitetuista toimista syntyneitä kuluja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48276: 15.2.2 Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48277: OHJE (kohdat 4-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48278: (4) Finanssivalvonta suosittaa, että riskienhallinnan yleisten periaatteiden mukaisesti työkyvyt- tömyysriskin hallitsemiseksi tarkoitetun toiminnan lähtökohtana on riskiperusteisuus. Maa- talousyrittäjien eläkelaitoksen tulisi perustaa työkyvyttömyysriskin alentamiseen tähtäävät toimenpiteet tutkittuun tietoon työkyvyttömyyttä aiheuttavista riskeistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48279: (5) Varojen käytön näkökulmasta oleellista on toiminnan kohdentaminen todennettavissa ole- viin työkyvyttömyysriskeihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48280: (6) Maatalousyrittäjien eläkelaitoksen työkyvyttömyysriskin hallitsemiseksi tarkoitetun toimin- nan ja siihen liittyvien kustannusten tulisi kohdistua työn ja sen johtamisen, työprosessien ja työpaikan kehittämiseen, työssäjaksamisen edistämiseen, psykososiaalisen kuormituk- sen hallintaan sekä vakuutettujen fyysisen ja henkisen työkyvyn ylläpitohankkeisiin. Maa- talousyrittäjien eläkelaitos voi tässä tarkoituksessa tehdä yhteistyötä vakuutetuille työter- veyshuoltoa tuottavien toimijoiden ja muiden toimijoiden kanssa. Yhteistyö ei kuitenkaan voisi koskea sairaanhoitoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_48281: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48282: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48285: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48286: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48288: (7) Finanssivalvonta suosittaa, että palveluja ei kohdenneta yksittäiseen vakuutettuun. Yksit- täiseen vakuutettuun kohdistettuna ei kuitenkaan pidettäisi sellaista työkyvyttömyysriskin vähentämiseen liittyvää palvelua, jota markkinoidaan avoimesti, ja joka on jokaisen vakuu- tetun käytettävissä. Työkyvyttömyysriskin hallintaan liittyviä palveluja voidaan kohdentaa riskiperusteisuuden mukaan asiakasryhmille, joissa työkyvyttömyysriskin arvioidaan olevan erityisen suuri.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48289: (8) Työkyvyttömyysriskin hallintaan liittyviä hyväksyttäviä kustannuksia eivät olisi asiakkaisiin kohdistuvat laitehankinnat kuten erilaiset työtä helpottavat laitteet tai kuntosalilaitteet, tieto- järjestelmähankinnat tai kulttuuri- ja liikuntasetelit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48290: (9) Maatalousyrittäjien eläkelaitoksen tulisi seurata työkyvyttömyysriskin hallitsemiseksi tarkoi- tettujen toimien vaikuttavuutta ja kohdentumista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_48291: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48292: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48294: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48295: Maatalousyrittäjien eläkelaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48297: 16 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48298: Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvonnan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48299: · Määräys- ja ohjekokoelma vakuutusyhtiöille, työeläkevakuutusyhtiöille, vakuutusyh- distyksille, vakuutusomistusyhteisöille, kolmannen maan vakuutusyhtiöiden sivuliik- keille ja lailla perustetuille eläkelaitoksille 1.12.2017. Dnro FIVA 16/01.00/2016.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_48300: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48301: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48303: 1.1.2019 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48304: Maatalousyrittäjien eläkelaitoksen hallinto 32 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48305: 17 Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48306: (1) Näiden määräysten ja ohjeiden luvun 4 ohjeita sovelletaan näiden määräysten ja ohjeiden voimaantulon jälkeen Maatalousyrittäjien eläkelaitokselle valittaviin valtuuskunnan ja halli- tuksen puheenjohtajaan ja varapuheenjohtajaan, jäseniin ja varajäseniin sekā toimitusjoh- tajaan ja toimitusjohtajan sijaiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_48307: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

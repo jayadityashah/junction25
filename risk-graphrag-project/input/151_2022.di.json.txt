@@ -1,0 +1,965 @@
+METADATA: {"document_id": 98, "filename": "151_2022.di.json", "category": "NATIONAL_LAWS", "subcategory": "FINLAND", "jurisdiction": "FINNISH", "page_count": 31, "paragraph_count": 334}
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160348: Translation from Finnish Legally binding only in Finnish and Swedish Ministry of Finance, Finland
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160349: Act on Mortgage Credit Banks and Covered Bonds (151/2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160350: By decision of the Parliament, the following is enacted:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160352: General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160354: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160355: This Act lays down provisions on the right to pursue mortgage credit bank operations as well as on the requirements for and supervision of such operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160356: This Act also lays down provisions on covered bonds, their issue, collaterals and disclosure obligations associated with covered bonds.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160358: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160359: For the purposes of this Act:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160360: 1) mortgage credit bank operations mean activities where covered bonds referred to in this Act are issued; mortgage credit bank operations are not, however, taken to mean operations where covered bonds with no other collateral than a guarantee by a public-sector entity are issued;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160361: 2) mortgage-backed loan means a residential loan and a commercial property loan referred to in section 11;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:1]
+PARAGRAPH_160362: 3) public-sector loan means a public-sector loan referred to in section 11;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160363: 4) intermediary loan means a loan which has been granted by a mortgage credit bank to a deposit bank or credit entity subject to the conditions laid down in Chapter 7 of this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160364: 5) covered bond means a bond where the debtor is the bond issuer and which is collateralised by a cover pool compliant with the provisions of this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160365: 6) credit institution means a credit institution referred to in chapter 1, section 7, subsection 1 of the Act on Credit Institutions (610/2014);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160366: 7) mortgage credit bank means a credit entity operating as a limited liability company that is licensed to conduct no other business than operations laid down in section 5;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160367: 8) deposit bank means a deposit bank referred to in chapter 1, section 8 of the Act on Credit Institutions;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160368: 9) credit entity means a credit institution referred to in chapter 1, section 10 of the Act on Credit Institutions;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160369: 10) issuer means a mortgage credit bank or other credit institution that has the right to pursue mortgage credit bank operations;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160370: 11) cover pool means a set of collaterals for one or more specified covered bonds and related obligations which are, due to being registered in the bond register, separated from the other assets of the issuer and the credit institution that is a debtor of an intermediary loan, and from which the holders of the covered bond and other creditors referred to in this Act are entitled to receive payment in priority to other creditors;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:2]
+PARAGRAPH_160371: 12) Resolution Authority means the Finnish Financial Stability Authority and the Single Resolution Board referred to in Article 42 of Regulation (EU) No 806/2014 of the European Parliament and of the Council establishing uniform rules and a uniform procedure for the resolution of credit institutions and certain investment firms in the framework of a Single Resolution Mechanism and a Single Resolution Fund and amending Regulation (EU) No 1093/2010, later referred to as the EU Bank Recovery and Resolution Directive;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_160372: 13) resolution means resolution referred to in chapter 1, section 3, subsection 1, paragraph 22 of the Act on the Resolution of Credit Institutions and Investment Firms (1194/2014) and in Chapter 3 of the EU Bank Recovery and Resolution Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_160373: Chapter 2 Requirements for and supervision of mortgage credit bank operations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_160374: Section 3 Mortgage credit bank operations' subjectivity to licence
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160375: Mortgage bank operations shall only be pursued by a mortgage credit bank or other credit institution with a licence referred to in section 8.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_160377: Credit entity authorisation to a mortgage credit bank
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160378: A credit entity authorisation shall be granted to a mortgage credit bank, under which the credit entity is only permitted to engage in business laid down in section 5 of this Act. The authorisation shall indicate that the credit entity is a mortgage credit bank referred to in this Act. In all other respects, chapter 4 of the Act on Credit Institutions is applied to authorisations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160379: A mortgage credit bank shall additionally apply for a mortgage credit bank licence referred to in section 8.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3]
+PARAGRAPH_160381: Permitted business activities of a mortgage credit bank
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160382: By way of derogation from chapter 5, section 2 of the Act on Credit Institutions, a mortgage credit bank shall not engage in other business besides mortgage bank operations pursuant to what is laid down in this Act and activities laid down in this section.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160383: A mortgage credit bank is permitted to grant and acquire mortgage-backed loans, intermediary loans and public-sector loans as well as undertake operations closely related to such business. A mortgage credit bank shall only own real estate and shares, the holding of which is necessary for the business of the mortgage credit bank.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_160384: In addition to what is provided in subsection 1, a mortgage credit bank may only invest its assets in receivables to which a risk weight of 0 or 20 per cent may be applied under Article 113 of Regulation (EU) No 575/2013 of the European Parliament and of the Council on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012, later the EU Capital Requirements Regulation, when calculating the capital adequacy requirement laid down in the Regulation. Assets may also be invested in other securities referred to in chapter 2, section 1, subsection 1, paragraph 2, or in paragraph 3 in respect of securities referred to in paragraph 2 of the Securities Markets Act (746/2012) where those securities are traded on a regulated market or traded on a multilateral trading facility upon application or traded in a comparable way in a third country located outside the European Economic Area.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_160385: However, a mortgage credit bank may own real estates and shares which have ended up in its possession as collateral for an unpaid claim.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_160387: Specific professional competence requirements of management and staff
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160388: In addition to what is provided in the Act on Credit Institutions on the suitability and reliability of a credit institution's management, the management and staff dedicated to mortgage credit bank operations shall, as a whole, have adequate competence for the issue and administration of covered bonds proven by sufficient education or professional experience. In particular, personnel with adequate competence related to the debt instruments markets, lending and information systems shall be represented in mortgage credit bank operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4]
+PARAGRAPH_160390: Company name of a mortgage credit bank
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160391: Only a mortgage credit bank shall use the term mortgage credit bank or mortgage bank in its company name or otherwise to describe its operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160393: Licence to pursue mortgage credit bank operations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160394: A mortgage credit bank and other credit institution shall apply to the Financial Supervisory Authority for a licence to pursue mortgage credit bank operations. A licence may be issued to a mortgage credit bank or credit institution referred to in chapter 1, section 7, subsection 1 of the Act on Credit Institutions that meets the requirements for mortgage credit bank operations laid down in this Act. The licence gives the holder a right to issue covered bonds that fulfil the requirements laid down in this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160395: The Financial Supervisory Authority shall issue the licence if, based on the information received, it can be verified that:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160396: 1) the application contains an adequate operating plan, according to which the credit institution is capable of engaging in mortgage credit bank operations on the planned scale;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160397: 2) the credit institution has adequate policies, processes and methodologies aimed at investor protection for the approval, amendment, renewal and refinancing of loans included in the cover pool;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160398: 3) the credit institution meets the requirements applicable to the administration of cover pools and the monitoring of their value laid down in this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160399: 4) the management and staff allocated to the mortgage credit bank operations have adequate competence as provided in section 6;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5]
+PARAGRAPH_160400: 5) the targeted share of mortgage credit bank operations in all business operations of the credit institution has been set in compliance with chapter 9, section 17, subsection 5 of the Act on Credit Institutions, ensuring that it does not put the refinancing of the issuer or the debtor of the intermediary loan at risk; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:5] [RISK:LIQUIDITY_RISK]
+PARAGRAPH_160401: 6) the Financial Supervisory Authority is not aware of any facts indicating that the liquidity, capital adequacy, other financial position, or risk management of the issuer or the debtor of the intermediary loan would be at risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160402: Further regulations on the licensing procedure and information to be attached to the licence application may be issued by a decree of the Ministry of Finance.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160404: Supervision
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160405: Mortgage credit bank operations are supervised by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160406: The Financial Supervisory Authority shall supervise compliance with this Act in the issue of covered bonds and the requirements laid down in this Act in mortgage credit bank operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160407: Through appropriate cooperation, the Financial Supervisory Authority and the Resolution Authority shall ensure that the administration of covered bonds can be continued despite resolution procedures.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160408: The Financial Supervisory Authority shall publish information about valid regulation on covered bonds in Finland, credit institutions that have been issued with a licence referred to in section 8 of this Act that gives the holder a right to pursue mortgage credit bank operations, as well as the covered bonds issued by them.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160410: Cover assets securing a covered bond
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160411: Section 10
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160412: Permitted cover assets for securing a covered bond
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160413: As collateral for covered bonds, only loan receivables referred to in section 11 and substitution assets referred to in section 18 may be used.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:6]
+PARAGRAPH_160414: Covered bonds are additionally collateralised by receivables based on derivatives contacts as referred to in section 26, receivables based on insurance claims as referred to in section 16, and assets used to meet the liquidity buffer requirement as referred to in section 31. Only an issuer or a credit institution which is a debtor of an intermediary loan referred to in section 33 may collateralise a covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160415: Section 11
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160416: Loan receivables
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160417: The issuer may use the following loan receivables as collateral for a covered bond, provided that they meet the requirements laid down in Article 129 of the EU Capital Requirements Regulation:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160418: 1) a loan secured by a mortgage on mortgageable property primarily for residential purposes referred to in chapter 16, section 1 or in chapter 19, section 1 of the Land Code (540/1995) or shares in a housing company referred to in chapter 1, section 2 of the Act on Housing Companies (1599/2009) or shares or rights of occupancy comparable to them or collateral comparable to the aforementioned collateral assets situated in another State belonging to the European Economic Area (residential loan);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160419: 2) a loan secured by a mortgage on mortgageable property for commercial or office purposes referred to in chapter 16, section 1 or in chapter 19, section 1 of the Land Code, shares of a housing company or a real estate company referred to in chapter 28, section 2 of the Act on Housing Companies entitling to occupancy of commercial or office premises or collateral comparable to the aforementioned assets, situated in another State belonging to the European Economic Area (commercial property loan);
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160420: 3) a loan granted to the central government, local government, central bank or other public sector entity meeting the requirements laid down in Article 129(1) of the EU Capital Requirements Regulation, and credit which is fully collateralised by a guarantee as for own debt given by such a public entity (public-sector loan).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160421: Section 12
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160422: Value of a collateral securing a mortgage-backed loan
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160423: A mortgage-backed loan may not, at the time it is entered in the bond register, exceed the fair value of the property used as collateral.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160424: Section 13
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7]
+PARAGRAPH_160425: Currency of a loan
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:7] [RISK:FOREIGN_EXCHANGE_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160426: The loan receivables collateralising a covered bond shall be valued in the same currency as the covered bond, or the currency risk must be hedged against by a derivatives contract.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_160427: Section 14 Modifications to a contract on a loan receivable
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_160428: The registration of a loan receivable as collateral for a covered bond does not prevent the issuer and the credit institution which is the debtor of an intermediary loan from agreeing on premature repayment of the credit, modifications to the terms of the credit with the debtor or substituting some other collateral referred to in this Act for a collateral asset, nor does it otherwise restrict the creditor's rights.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_160429: Section 15
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8]
+PARAGRAPH_160430: Valuation and monitoring the value of an asset securing a mortgage-backed credit
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [RISK:CREDIT_RISK]
+PARAGRAPH_160431: A mortgage-backed loan is only eligible as collateral if, when granting the credit, the fair value of the collateral asset has been determined in compliance with the provisions of the EU Capital Requirements Regulation and chapter 9, section 10 of the Act on Credit Institutions as well as provisions on credit risk management issued by the Financial Supervisory Authority by virtue of chapter 9, section 24 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160432: The issuer shall monitor the fair value of the cover assets securing mortgage-backed loans at least quarterly as referred to in subsection 1, based on a reliable statistical method describing the development of the market value of real estate or by some other reliable method.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160433: An estimate prepared by an independent external real estate evaluator approved by the Central Chamber of Commerce, as referred to in the Real Estate Fund Act (1173/1997), shall be obtained on the shares and real estate assets securing commercial property loans and residential loans exceeding the amount of EUR 3 million.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160434: Further regulations on the methods used to assess the collateral securing a mortgage-backed loan may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160435: Section 16 Insurance against risks of damage to collaterals
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160436: The issuer shall ensure that the risks of damage to collaterals securing mortgage-backed credits included in the cover pool have been insured appropriately.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160437: In addition to the mortgage holder, the holders of a covered bond are beneficiaries of an insurance claim associated with a loan receivable used as collateral for a covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160438: Further regulations on adequate insurance cover and its monitoring may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160439: Section 17
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160440: Obtaining a loan receivable as collateral for a covered bond
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160441: If the issuer obtains a mortgage-backed loan or public-sector loan from another credit institution for inclusion in the cover pool, the issuer shall appropriately ensure that the credits to be obtained and their collateral meet the requirements for collateral securing covered bonds laid down in this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160442: If the original creditor of a mortgage-backed credit is not a credit institution, the issuer shall assess the adequacy and appropriateness of the methods used for assessing creditworthiness, or carry out a comprehensive reassessment of the debtors' creditworthiness. If it is found that the methods used to assess creditworthiness are not at the level required under the provisions and regulations related to credit risk management applicable to credit institutions, the debtors' creditworthiness shall be reassessed.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9]
+PARAGRAPH_160443: What is provided in this section is also applied to placing a mortgage-backed loan and a public- sector loan as collateral for a covered bond as part of issuance of covered bonds based on intermediary loans as referred to in chapter 7.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160444: Further regulations on the methods used to assess loans and the quality of their collateral may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160445: Section 18
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160446: Substitution assets
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160447: As collateral securing a covered bond, the following types of substitution assets meeting the requirements laid down in Article 129 of the EU Capital Requirements Regulation may be used on a temporary basis:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160448: 1) assets qualifying as level 1, level 2A or level 2B assets eligible to meet the liquidity buffer requirements of a credit institution pursuant to the applicable delegated regulation adopted pursuant to Article 460 of the EU Capital Requirements Regulation;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160449: 2) short-term exposures to credit institutions or short-term deposits to credit institutions referred to in Article 129(1)(c) of the EU Capital Requirements Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160450: Instruments, the counterparty of which shall be deemed to be insolvent within the meaning of Article 178 of the EU Capital Requirements Regulation, or which are financial instruments issued by the issuer itself or by an entity affiliated to it, shall not be used as substitution assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160451: The use of substitution assets shall be considered temporary if:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160452: 1) there has not been sufficient time to grant mortgage-backed loans or public-sector loans or register them in the cover pool; or
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160453: 2) the total value of the cover pool would not otherwise meet the requirements referred to in chapter 4.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:10]
+PARAGRAPH_160454: Funds referred to above in this section are considered substitution assets to the extent that they are not used to meet the liquidity buffer requirement referred to in section 31.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160456: Cover pool
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160457: Section 19 Cover pool
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160458: The issuer shall establish at least one cover pool for the cover assets securing covered bonds. Each covered bond may only be associated with a single cover pool.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160459: The cover pool consists of the following cover assets entered in the bond register referred to in section 27:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160460: 1) loan receivables referred to in section 11;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160461: 2) receivables based on an insurance claim referred to in section 16;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160462: 3) substitution assets referred to in section 18;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160463: 4) receivables based on derivatives contracts referred to in section 26;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160464: 5) funds used to cover the liquidity buffer requirement referred to in section 31.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160465: Section 20
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160466: Priority claim associated with cover assets in a cover pool
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11]
+PARAGRAPH_160467: The cover assets included in the cover pool secure all principal and interests of covered bonds the pool covers, obligations based on derivatives contracts associated with covered bonds, as well as administration and liquidation costs.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160468: Creditors of the obligations referred to in subsection 1 above shall be entitled to a payment from the collateral included in the cover pool prior to other creditors of the issuer or of the credit institution which is the debtor of an intermediary loan. Interest and yield accruing on the collateral and substitute assets also fall within the scope of the priority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160469: The priority claim referred to in this section is established by entering the collateral in the bond register. Provisions on the information to be entered in the bond register are laid down in chapter 5.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160470: Provisions on the creditors' priority claim regarding cover pool liquidity support are laid down in section 44, subsection 3.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160471: Section 21
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160472: Other legal effects of collateralisation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160473: Cover assets set by the issuer or the credit institution which is the debtor of an intermediary loan to secure covered bonds entered in the bond register in accordance with this Act and contract terms applicable to a covered bond and intermediary loan shall not be recovered pursuant to the Recovery of the Bankruptcy Estate Act (758/1991).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160474: Cover assets securing a covered bond entered in the bond register shall not be foreclosed of a debt of the originator of a mortgage-backed loan or public-sector loan, the credit institution which is the debtor of an intermediary loan or the issuer, and they may not be seized relating to such a debt.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160475: In the liquidation or bankruptcy of the issuer or the debtor of an intermediary loan, their creditors may not offset their receivables against cover assets in the cover pool, unless otherwise provided in this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160476: The issuer and the debtor of an intermediary loan may not assign or pledge mortgage-backed loans and public-sector loans that are set as collateral for covered bonds without the permission of the Financial Supervisory Authority. An assignment or pledge violating this prohibition will be void.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160477: Section 22 Restrictions on the composition of the cover pool
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160478: The cover pool may at most be composed of:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:12]
+PARAGRAPH_160479: 1) commercial property loans accounting for up to 10 per cent of the total nominal value of the cover pool, unless otherwise agreed in the terms of the bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160480: 2) substitution assets accounting for up to 20 per cent of the total nominal value of the cover pool.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160481: However, funds used to cover the liquidity buffer requirement as referred to in section 31 are not within the scope of the restriction referred to in subsection 1, point 2 above.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160482: On application by the issuer, the Financial Supervisory Authority may for a special reason grant an exemption from the restriction referred to in subsection 1, point 2 for a specific period of time.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160483: Section 23
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160484: Valuation of cover pool
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160485: Cover assets contribute to the cover pool total value as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160486: 1) the remaining principal of a residential loan, however not exceeding 80 per cent of the fair value of the shares or real estate placed as collateral for each residential loan;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160487: 2) the remaining principal of a commercial property loan, however not exceeding 60 per cent of the fair value of the shares or real estate placed as collateral for each commercial property loan; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160488: 3) the principal of other receivables.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160489: No collateral value may be assigned to an unsecured receivable, the counterparty of which shall be considered insolvent as referred to in Article 178 of the EU Capital Requirements Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13]
+PARAGRAPH_160490: Section 24 Requirements for cover pool total value
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160491: The total value of the cover pool shall continuously exceed the value of payment obligations arising from the covered bonds as provided in this section (overcollateralisation). The value of the overcollateralisation shall constantly be at least two per cent. If the requirements laid down in Article 129(3)(a)(3) of the EU Capital Requirements Regulation are not met, the
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160492: overcollateralisation value shall be at minimum five per cent. In addition to the part laid down in
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160493: this subsection, the overcollateralisation shall also cover the estimated winding-down costs related to covered bonds.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160494: A calculation method based on the present value shall be used to determine the overcollateralisation amount. When calculating the present value, payments of loan receivables included in the cover pool shall be taken into account in the proportion in which these loan receivables are included in the calculation of the cover pool total value as referred to in section 23 above.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160495: If the calculation method based on present value produces a higher cover pool total value than the method based on the nominal value of obligations incurred from the covered bonds, the overcollateralisation shall be determined on the basis of the nominal value.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160496: In calculations based on both the current and the nominal value, any increased credit loss risk of the secured receivable shall be appropriately accounted for, at least in cases where the receivable shall, pursuant to Article 178 of the EU Capital Requirements Regulation, be considered non- performing.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160497: In calculations based on the nominal value, the cover assets in the cover pool and the impact of currency derivatives contracts shall be taken into account when determining the obligations incurred from covered bonds. In calculations based on the present value, the value of derivatives contracts shall be determined on the basis of present value at the time of valuation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160498: The same method shall be used to determine both the total value of the cover pool and the obligations incurred from the covered bonds.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:14]
+PARAGRAPH_160499: Further regulations on the valuation of derivatives and taking total cash flows into account when calculating cover pool total value may be issued by the Financial Supervisory Authority. The Financial Supervisory Authority may also issue further regulations on the methods used to calculate and value overcollateralisation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_160500: Section 25
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_160501: Recording of collateralisation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160502: The credit document or data system where the mortgage-backed credits and public-sector loans are administered shall bear an entry to the effect that the loan has been set as collateral for a covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_160503: Section 26
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_160504: Derivatives contracts in mortgage credit bank operations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160505: In mortgage credit bank operations, derivatives contracts may only be concluded to hedge against risks. Derivatives contracts protecting covered bonds and the cover pools securing them shall be included in the cover pool and entered in the bond register. The collateral securing derivatives contracts included in the cover pool shall be identifiable. The level of derivative hedges shall be adjusted regularly in proportion to the risk amount to be hedged against, and the derivative shall be terminated when the risk it was used to hedge against no longer exists. Derivatives contracts shall be stored in writing or in other permanent format.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160506: Derivatives contracts included in a cover pool shall, under their terms, remain in force notwithstanding the issuer's bankruptcy, liquidation or resolution.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160507: Derivatives contracts and the counterparty credit risk associated with them shall meet the requirements laid down in Article 129 of the EU Capital Requirements Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:15]
+PARAGRAPH_160508: Further regulations on acceptable derivative counterparty risks, risks to be hedged against with derivatives and the documentation of derivatives may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160509: Chapter 5 Bond register
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160510: Section 27 Bond register
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160511: The issuer shall keep a register of bonds issued by it and their cover pools. Any changes to the information in the bond register shall be entered in the register without delay. A record shall be made of the entries in the register which cannot subsequently be changed.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160512: The information in the bond register shall make it possible to identify the cover pools used to collateralise bonds and the cover assets contained in the cover pools.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160513: Section 28
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160514: Information on covered bonds entered in the bond register
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160515: The following shall be entered in the bond register for each issue of covered bonds:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160516: 1) the nominal value and the outstanding principal of the bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160517: 2) the interest rate or reference rate of the bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160518: 3) the repayment period of the bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160519: 4) the nominal value of bond denominations in which the bonds are issued;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160520: 5) the cover pool of the bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160521: 6) any intermediary loans relating to the bond with their nominal values and outstanding principals; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:16]
+PARAGRAPH_160522: 7) the covered bond programme under which the bond was issued, unless the issue has taken place separate from a programme.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160523: Section 29 Information on cover assets in the bond register
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160524: For each cover pool, information identifying the bonds secured by each cover pool shall be entered in the bond register. The cover pool information shall contain the identifying information of each individual collateral asset.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160525: For each mortgage-backed loan, public-sector loan, substitution asset and insurance claim receivable referred to in section 16, the following information shall be recorded:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160526: 1) the identification number or other unique identifier of a loan or other receivable making it possible to identify the collateral asset;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160527: 2) the outstanding principal or other nominal value of the loan or other receivable;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160528: 3) the repayment period of the loan or other receivable; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160529: 4) the interest rate or reference rate of the loan or other receivable.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160530: On a mortgage-backed loan included in the cover pool, the following information shall be recorded:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160531: 1) the fair value of the shares, real estate or similar asset placed as collateral;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160532: 2) the amount that corresponds to 80 per cent of the fair value of the asset placed as collateral for a residential loan and 60 per cent of the fair value of the asset placed as collateral for a commercial property loan, if the principal of the loan exceeds this;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17]
+PARAGRAPH_160533: 3) in the event of liquidation of collaterals securing a loan claim, the name of the bank receiving the deposit placed as substitute to replace the original collateral, together with the principal of the deposit and the account number.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160534: Funds arising from cover assets after the issuer that placed the cover pool or debtor of an intermediary loan is declared bankrupt or enters into liquidation shall be segregated from the other funds of the credit institution that placed the cover pool and entered in the bond register.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160535: Section 30 Information on derivatives entered in the bond register
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160536: Derivatives contracts concluded to hedge against risks relating to covered bonds or to assets collateralising them shall be entered in the bond register. The register shall contain at least the following information on each derivatives contract:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160537: 1) the identification number by which the contract can be identified;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160538: 2) the type of contract;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160539: 3) the counterparty;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160540: 4) the date of commencement and expiration;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160541: 5) the amount in the contract currency.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160542: Funds arising from derivatives after the issuer is declared bankrupt or enters into liquidation shall be segregated from the issuer's other funds and entered in the bond register.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160543: Chapter 6 Liquidity requirements
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160544: Section 31 Requirement for a cover pool liquidity buffer
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160545: The issuer shall ensure that the cover pool continuously contains an amount of funds that meets the requirements laid down in section 18, subsections 1 and 2 and covers the maximum cumulative net liquidity outflow relating to covered bonds over the next 180 days (liquidity buffer requirement).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:18]
+PARAGRAPH_160546: To determine the net outflow rate referred to in subsection 1 above, the issuer may use as the maturity date of a covered bond the final maturity date referred to in section 32, subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160547: Further regulations on the calculation of the liquidity buffer requirement may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160548: Section 32
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160549: Extension of covered bond maturity
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160550: The terms of a covered bond may contain a clause under which the issuer may, subject to permission granted by the Financial Supervisory Authority, extend the maturity of the covered bond. In this case, the contract terms shall meet the requirements laid down in this subsection and specify the final maturity date of the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160551: The prerequisites for extension of maturity are that:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160552: 1) the issuer is unable to obtain funding from commonly used sources of long-term funding;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160553: 2) the issuer is unable to repay the principal and interests of the maturing covered bond without falling short of the liquidity buffer requirement applicable to the issuer or the amalgamation of deposit banks; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160554: 3) the extension does not affect the order of maturity based on the original maturity dates of covered bonds secured by the same cover pool.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160555: The issuer shall apply to the Financial Supervisory Authority for permission to extend maturity as referred to in this section at the latest five banking days before the maturity date of the covered bond. The Financial Supervisory Authority shall grant the permission if the requirements laid down in subsections 1 and 2 are met. The permission shall indicate the new maturity date.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19]
+PARAGRAPH_160556: A contract term on extending the maturity contradicting this section is null and void towards creditors of covered bonds.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160557: The prospectus of a covered bond shall contain the content of the contract term concerning extension of maturity and a description of the permission procedure for extending maturity, a description of the effects of bankruptcy, liquidation and resolution on extension of maturity, and the duties of the bankruptcy administrator, liquidator and administrator in the event of extension.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160558: Chapter 7 Intermediary loan
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160559: Section 33 Granting intermediary loans
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160560: A mortgage credit bank may grant a credit institution a loan for which the credit institution as the debtor shall set mortgage-backed loans or public-sector loans as collateral for the covered bonds issued by the mortgage credit bank as laid down in this Act (intermediary loan). An intermediary loan may only be granted to a credit institution belonging to the same consolidation group or amalgamation of deposit banks as the issuer.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160561: Section 34
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160562: Collateral arrangements associated with intermediary loans
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160563: If the cover pool contains loan receivables included in the balance sheet of the debtor of the intermediary loan, the mortgage credit bank is responsible for ensuring that the cover pool continuously meets the requirements laid down in this Act and contained in the contract terms of the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160564: The terms and conditions of the intermediary loan shall determine procedures for ensuring that the cover pool continuously meets the requirements laid down in this Act and contained in the contract terms of the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160565: Using the methods laid down in section 17, the issuer shall ensure that the mortgage-backed loans on the balance sheet of the credit institution which is the debtor of the intermediary loan meet the requirements laid down in this Act and contained in the terms and conditions of the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20]
+PARAGRAPH_160566: Section 35 Right of recourse and offset
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160567: The Act on Guarantees and Third-Party Pledges (361/1999) shall not be applied to the cover assets for a covered bond set by the credit institution which is the debtor of an intermediary loan, with the exception of what is provided on guarantees in sections 28-30 and third-party pledges in
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160568: section 40 of the said Act. Any claim of the debtor of an intermediary loan shall primarily be off-set against the intermediary loan.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160569: If the mortgage credit bank enters into liquidation or is declared bankrupt, payments arising from the intermediary loan may only be used to offset obligations incurred from covered bonds.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160570: A mortgage credit bank may make a payment to a credit institution which is a debtor of an intermediary loan from payments arising from an intermediary loan on the basis of a right of recourse caused by payment or disposal of a mortgage-backed loan or a public-sector loan, provided that all covered bonds secured by collateral have been fully paid.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160572: Disclosure obligations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160573: Section 36 Obligation to regularly disclose information on covered bonds
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160574: In addition to what is provided on the disclosure obligations of the issuer of a security elsewhere in the law, the issuer shall publish the following information on covered bonds on their website at least quarterly:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160575: 1) the total value of the cover assets and issued covered bonds;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160576: 2) the international securities identification numbers (ISINs) of the covered bonds;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160577: 3) distribution of cover assets by type; for residential loans, however, this information shall be itemised into loans to natural persons, loans to housing companies and loans to other housing associations;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21]
+PARAGRAPH_160578: 4) geographical distribution of collateral for loan receivables, description of the assessment methods, and information on the credit amounts of loan receivables;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:21] [RISK:MARKET_RISK] [RISK:FOREIGN_EXCHANGE_RISK]
+PARAGRAPH_160579: 5) information on the market risks associated with the covered bonds, including interest rate risk and currency risk, as well as credit risks and liquidity risks;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160580: 6) information on the maturity of covered bonds, including any requirements for extending the maturity of a bond as well as the legal and any other effects of extending maturity;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160581: 7) the available collateral and minimum collateral level, including the minimum level laid down in legislation for overcollateralisation, overcollateralisation required under the terms and conditions of a bond or bond programme as well as the total value of the cover pool in excess of these; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160582: 8) the share in the cover pool of loan receivables that either meet the requirements laid down in Article 178 of the EU Capital Requirements Regulation or the matured principal or interest of which has otherwise remained unpaid for at minimum 90 days.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160583: The information referred to in this section shall be itemised by cover pool.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160584: The issuer shall post on their website the information referred to in subsection 1 for at least the current year and five preceding calendar years.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160585: Further regulations on the itemisation and presentation of the information referred to in subsection 1 may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160586: Section 37
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160587: Label of a covered bond
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160588: The issuer may only use the label European Covered Bond (premium) and its versions translated into the official languages of the European Union for a covered bond issued in compliance with this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160589: Section 38
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160590: Reporting on mortgage credit bank operations
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160591: The issuer shall submit quarterly reports to the Financial Supervisory Authority, and separately on the Financial Supervisory Authority's request, containing the following information on the issue of covered bonds and cover pools to the extent necessary for supervising mortgage credit bank operations:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:22]
+PARAGRAPH_160592: 1) information on the covered bonds issued;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160593: 2) information on the cover pool, making it possible to assess if the cover pool meets the requirements laid down in this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160594: 3) information on the valuation of the cover assets securing the loan receivables included in the cover pool;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160595: 4) information on the bond register, making it possible to assess if the collateral securing a covered bond and the corresponding assets have been entered in the bond register as provided in chapter 5;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160596: 5) information on collateral requirements and the calculation of the total amount of cover assets;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160597: 6) information on meeting the liquidity buffer requirement provided in section 31;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160598: 7) information on contractual terms provided in section 32.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160599: Further regulations on the reported information content and reporting methods shall be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160601: Bankruptcy and liquidation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160602: Section 39 Status of a covered bond and derivatives in bankruptcy
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160603: In the event that the issuer goes bankrupt, a covered bond and a derivatives contract referred to in section 26, subsection 2 are not regarded as falling due as referred to in chapter 3, section 9 of the Bankruptcy Act (120/2004).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:23]
+PARAGRAPH_160604: Chapter 12, section 17 of the Bankruptcy Act is applied to the lodging of claims referred to in subsection 1 above.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160605: Section 40
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160606: Appointing an administrator
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160607: When the issuer or the debtor of an intermediary loan has entered into liquidation or been declared bankrupt, the Financial Supervisory Authority shall without delay appoint an administrator to supervise the appropriate administration of covered bonds and liquidation of the cover assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160608: Section 29, subsections 2-4 of the Act on the Financial Supervisory Authority (878/2008) are applied to the fee, competence, responsibility and qualifications of the administrator.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160609: Section 41 Administrator's duties
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160610: An administrator referred to in section 40 above shall, in particular, supervise the administration of funds placed as collateral for covered bonds and their liquidation as well as the contractual payments made to the creditors of covered bonds and derivatives contracts associated with the covered bond as well as other comparable parties.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160611: Additionally, the administrator shall participate in duties related to the administration of covered bonds and the liquidation of collateral together with the bankruptcy administrator or liquidator as specified in this chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160612: The administrator shall work together with the Financial Supervisory Authority and, where applicable, the Resolution Authority. The administrator has the right to obtain the information necessary for performing their duties from the Financial Supervisory Authority and the Resolution Authority. Similarly, the Financial Supervisory Authority and the Resolution Authority have the right to obtain the information necessary for performing their duties from the administrator.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160613: Section 42
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24]
+PARAGRAPH_160614: Liquidating the cover assets
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160615: In the issuer's bankruptcy, the bankruptcy administrator, and in liquidation the liquidator shall, on demand of the administrator, sell a sufficient amount of cover assets to fulfil the obligations relating to the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160616: In the bankruptcy of the credit institution which is the debtor of an intermediary loan, the bankruptcy administrator, and in liquidation the liquidator, shall on demand of the administrator sell a sufficient amount of cover assets to fulfil the obligations relating to the intermediary loan.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_160617: Section 43
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_160618: Acceleration of the covered bond and extension of covered bond maturity
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160619: If claims against the full amount of collateral securing a covered bond cannot be met when the issuer or the debtor of an intermediary loan is declared bankrupt or enters into liquidation, in bankruptcy the bankruptcy administrator and in liquidation the liquidator shall, on demand of the administrator or by their permission, accelerate the covered bonds and the intermediary loans associated with them and liquidate the cover assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160620: In bankruptcy, the bankruptcy administrator, and in liquidation the liquidator shall, on demand of the administrator or by their permission, apply to the Financial Supervisory Authority for permission to extend the maturity of a covered bond if it contains a contract term referred to in section 32.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_160621: Section 44
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_160622: Contractual arrangements and liquidity support credit
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160623: In bankruptcy the bankruptcy administrator and in liquidation the liquidator shall, on demand of the administrator or by their permission, conclude derivatives contracts necessary to hedge against risks relating to covered and cover assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25]
+PARAGRAPH_160624: On demand of the administrator or by their permission, a bankruptcy administrator and a liquidator has a right to terminate or assign to a third party a derivatives contract if cover assets are transferred or liquidated and doing so is reasonable from the perspective of risk management, and a right to transfer collateral to the counterparties in derivatives contracts when this is necessary to secure the interests of the holder of the covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160625: The bankruptcy administrator and the liquidator have the right, by permissions of the administrator or on their demand, to make contractual arrangements to secure liquidity or take out liquidity credit. The liquidity credit and its identifying information shall be entered in the bond
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160626: register. The creditor of a liquidity credit has the right to receive payment against the funds contained in the cover pool after claims referred to in section 20, subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160627: If the issuer enters into liquidation or is declared bankrupt, the funds obtained from cover assets, derivatives contracts concluded to protect covered bonds or their cover assets, and intermediary loans associated with a covered bond shall be deposited with an account in the Bank of Finland or a deposit bank that does not belong to the same consolidated group or amalgamation of deposit banks as the issuer. A receivable referred to in this subsection shall be entered as collateral in the bond register including information on each bank account referred to in subsection 1, the deposit bank with which the account is held, the account number and the cover pool with which the account receivable is associated.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160628: Section 45 Assignment of cover assets in bankruptcy and liquidation
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160629: In bankruptcy, the bankruptcy administrator and in liquidation, the liquidator may, by permission of the administrator, assign cover assets entered in the bond register to the bankruptcy estate or back to the issuer or the debtor of an intermediary loan only if the value of the cover pool considerably exceeds the minimum total value laid down for the cover pool in section 24 and it is obvious that the collateral to be assigned will not be necessary to fulfil the obligations under the terms of the covered bonds, derivatives contracts or contractual arrangements securing liquidity.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160630: Chapter 10 Sanctions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160631: Section 46 Penalty fee
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160632: The provisions of this Act referred to in section 40, subsection 1 of the Act on the Financial Supervisory Authority, for the neglect or violation of which a penalty fee laid down in the said Act is imposed, are the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:26]
+PARAGRAPH_160633: 1) provision in section 7 on using words "mortgage credit bank" or "mortgage bank" in a company name or other operations;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160634: 2) provisions in section 10 on the permitted types of cover assets;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160635: 3) provisions in section 22 on restrictions applicable to the composition of the cover pool;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160636: 4) provisions in section 26 on permitted derivatives contracts and provisions of the Financial Supervisory Authority issued by virtue of this section;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160637: 5) provisions in chapter 5 on the bond register;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160638: 6) obligation laid down in section 17 to ensure the eligibility of assets as collateral for loan receivables or any provisions of the Financial Supervisory Authority issued by virtue of this section;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160639: 7) provisions in section 31 on the liquidity buffer requirement applicable to the cover pool;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160640: 8) provisions in section 32 on extending the maturity of a covered bond;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160641: 9) provision in section 37 on using the label of a covered bond.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160642: Section 47 Imposition, publication and enforcement of administrative penalties
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160643: Provisions on the imposition, publication and enforcement of penalty fees and other administrative penalties are laid down in chapter 4 of the Act on the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160644: Section 48 Mortgage credit bank offence
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160645: Anyone who
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160646: 1) in violation of section 7 uses the term mortgage credit bank or mortgage bank in its trading name or otherwise to indicate its operations,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:27]
+PARAGRAPH_160647: 2) in violation of section 37 uses the label European Covered Bond (premium), a version of it translated into an official language of the European Union or a label that can be confused with this for bonds,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160648: 3) issues a covered bond without meeting the requirements for valuation of the collateral for a mortgage-backed loan laid down in section 15, substitution assets in section 18, composition of the cover pool in section 22, valuation of collateral in section 23, or total value of the cover pool in section 24,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160649: 4) makes a false entry in a bond register referred to in chapter 5 or neglects making or deletes a required entry,
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160650: shall, unless the act is minor or subject to a more severe punishment elsewhere in the law, be sentenced for a mortgage credit bank offence to a fine or to imprisonment not exceeding six months.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160651: Chapter 11 Miscellaneous provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160652: Section 49
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160653: Merger, division and transfer of assets and liabilities
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28]
+PARAGRAPH_160654: In addition to what is provided in the Act on Commercial Banks and Other Credit Institutions in the Form of a Limited Liability Company (1501/2001), Act on Cooperative Banks and Other Cooperative Credit Institutions (423/2013), Savings Bank Act (1502/2001) and Act on Mortgage Societies (936/1978), the provisions of this section are applied to the merger and full division of a mortgage credit bank or a credit institution licensed to operate as a mortgage credit bank. What is laid down in this section is also applied to partial division of such a credit institution if the division concerns mortgage credit bank operations, and the transfer of assets and liabilities, if the transfer concerns mortgage credit bank operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160655: Unless otherwise provided under subsection 3, the assignee of the mortgage credit bank operations shall be a credit institution licensed to operate as a mortgage credit bank pursuant to section 8 of this Act or a foreign EEA credit institution referred to in chapter 1, section 7, subsection 3 of the Act on Credit Institutions with a right to issue covered bonds under national legislation based on Directive (EU) 2019/2162 of the European Parliament and of the Council on the issue of covered bonds and covered bond public supervision and amending Directives 2009/65/EC and 2014/59/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160656: By way of derogation from subsection 2, the assignee may also be other than a credit institution referred to in subsection 2. An application for a licence referred to in section 8 of this Act shall be appended to a plan for a merger, division or transfer of assets and liabilities. The merger, division or transfer of assets and liabilities may in this case not be registered before the licence has been issued.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160657: For a credit institution to be established in connection with a division or merger by the formation of a new company that intends to pursue mortgage credit bank operations, a licence referred to in section 8 of this Act shall be applied for. The merger or division may not be registered before the licence has been issued.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160658: Chapter 12 Entry into force
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160659: Section 50 Entry into force
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160660: This Act enters into force on 8 July 2022.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160661: This Act repeals the Act on Mortgage Credit Bank Operations (688/2010).
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160662: Section 51
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160663: Provisions applied to covered bonds issued before the entry into force of this Act
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160664: To covered bonds referred to in section 2, subsection 5 of the Act on Mortgage Credit Bank Operations issued before the entry into force of this Act, the provisions in force at the time of their issue are applied.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160665: By way of derogation from what is provided in subsection 1 above, section 9, subsections 1-3 and section 36 of this Act are applied to covered bonds issued before the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:29]
+PARAGRAPH_160666: What is provided in this section on covered bonds issued before the entry into force of this Act also applies to increasing the principal amounts of such covered bonds where:
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160667: 1) the increase of principal amount takes place within two years of the entry into force of this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160668: 2) an ISIN number has been assigned to the covered bond before 8 July 2022;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160669: 3) the covered bond matures before 8 July 2027;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160670: 4) the increases of principal amount made after the entry into force of this Act do not, in total, exceed an amount that is twice the value of the covered bonds issued by the time this Act enters into force;
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160671: 5) calculated by its maturity date, the principal of the covered bond does not exceed EUR 6 billion; and
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160672: 6) the physical collateral assets securing mortgage-backed loans included in the cover pool are located in Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160673: Notwithstanding the provisions of subsection 1, the issuer may start fully applying the provisions of this Act to a covered bond if the contractual terms of the covered bond specify that the regulations on covered bonds in force at the time in question will be applied, changing the applicable law is possible under the contractual terms of the covered bond, or if the issuer and holders of covered bonds specifically agree to apply the provisions of this Act. An issuer who intends to apply this subsection shall, at least one month before the change enters into force, notify it to the Financial Supervisory Authority and inform the market of the date from which they will start applying this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160674: Section 52 Application of the licence procedure to credit institutions pursuing mortgage credit bank operations as this Act enters into force
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:30]
+PARAGRAPH_160675: When a mortgage credit bank referred to in section 2, subsection 6 of the Act on Mortgage Credit Bank Operations or a deposit bank or credit entity that has been granted a licence to pursue mortgage credit bank operations referred to in section 10 applies to the Financial Supervisory Authority for a licence giving a right to pursue mortgage credit bank operations referred to in section 8 of this Act no later than 31 March 2022, this section is applied.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160676: A business plan and other information required by the Financial Supervisory Authority shall be attached to the licence application referred to in subsection 1 above, enabling the Financial Supervisory Authority to ensure that the licence requirements laid down in section 8, subsection 2 are met.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_160677: The Financial Supervisory Authority shall grant the licence referred to in section 8 before the entry into force of this Act, ensuring that the licence enters into force on the date on which this Act enters into force.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_160678: Further regulations on the licence procedure and information to be attached to the licence application referred to in this section may be issued by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_160679: Section 53
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_160680: Application of the provisions to mortgage credit banks issued with a licence before entry into force of this Act
+
+[JURISDICTION:FINNISH] [SOURCE:FINLAND] [CATEGORY:NATIONAL_LAWS] [PAGE:31]
+PARAGRAPH_160681: When applying this Act, a licence issued to a mortgage credit bank before the entry into force of the Act is considered to have the same status as a licence referred to in section 4.
+

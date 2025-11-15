@@ -1,0 +1,416 @@
+METADATA: {"document_id": 54, "filename": "02_2025.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 10, "paragraph_count": 182}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67105: FIN FIN FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67106: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67107: Määräysvallan hankkiminen Euroopan ta- lousalueen ulkopuolisessa maassa sijaitse- vasta yrityksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67108: Asiatunnus FIVA/2024/1858
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67109: Antopäivä 14.2.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67110: Voimaantulopäivä 24.4.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67111: Lisätietoja: Pankkivalvonta/Lakiasiat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67112: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67113: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67114: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67115: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67118: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67122: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67123: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67124: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on nouda- tettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67125: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen no- jalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67127: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67128: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67129: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67130: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67131: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67132: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67133: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67136: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67138: FIN FIN 3 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67139: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67140: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67142: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67144: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67146: 2.2 Finanssivalvonnan määräyksenantovaltuudet 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67147: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67149: 4 Määräysvallan hankkiminen Euroopan talousalueen ulkopuolisessa maassa sijaitsevasta yrityksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67151: 4.1 Ilmoitettavat hankinnat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67153: 4.2 Ilmoituksen kieli
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67155: 4.3 Ilmoitukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67157: 4.4 Ilmoituksen käsittely
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67159: 5 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67161: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67162: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67163: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67166: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67168: FIN FIN 4 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67169: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67170: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67171: · luottolaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67172: · sijoituspalveluyritykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67173: · vakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67174: · vakuutusomistusyhteisöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67175: Lisäksi näitä määräyksiä ja ohjeita sovelletaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67176: · rahoitus- ja vakuutusryhmittymien valvonnasta annetun lain (699/2004) 3 §:ssä tarkoitettuun ryh- mittymään kuuluvaan yritykseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67177: · luottolaitoksen kanssa samaan luottolaitostoiminnasta annetun lain (610/2014) 1 luvun 16 §:ssä tarkoitettuun konsolidointiryhmään kuuluvaan yritykseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67178: · sijoituspalveluyrityksen kanssa samaan sijoituspalvelulain (747/2012) 1 luvun 21 a §:ssä tarkoitet- tuun sijoituspalvelukonsolidointiryhmään kuuluvaan yritykseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67179: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67180: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67181: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67184: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67186: FIN FIN 5 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67187: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67188: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67189: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67190: · Luottolaitostoiminnasta annettu laki (610/2014, jäljempänä myös LLL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67191: · Sijoituspalvelulaki (747/2012, jäljempänä myös SipaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67192: · Vakuutusyhtiölaki (521/2008, jäljempänä myös VYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67193: · Laki rahoitus- ja vakuutusryhmittymien valvonnasta (699/2004, jäljempänä myös RavaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67194: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67195: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67196: · Luottolaitostoiminnasta annetun lain 5 luvun 13 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67197: · Sijoituspalvelulain 7 luvun 10 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67198: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67199: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67200: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67203: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67205: FIN FIN 6 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67206: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67207: (1) Näiden määräysten ja ohjeiden tavoitteena on selvittää, mitä tietoja yrityshankintoja koskevan ilmoi- tuksen tulee sisältää, jotta Finanssivalvonta pystyy arvioimaan, onko sillä yrityshankinnan jälkeen mah- dollisuus valvoa tehokkaasti ja kattavasti valvottavaa, konsolidointiryhmää tai ryhmittymää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67208: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67209: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67210: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67213: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67214: FS FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67216: 4 Määräysvallan hankkiminen Euroopan talousalueen ulkopuoli- sessa maassa sijaitsevasta yrityksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67217: 4.1 Ilmoitettavat hankinnat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67218: (1) LLL 5 luvun 13 §:n mukaan luottolaitos tai sen kanssa samaan konsolidointiryhmään kuuluva yritys ei saa hankkia kirjanpitolain 1 luvun 5 §:ssä tarkoitettua määräysvaltaa sellaisessa luottolaitoksessa, sijoi- tuspalveluyrityksessä, rahastoyhtiössä, vaihtoehtorahastojen hoitajassa, vakuutusyhtiössä tai näihin rinnastettavassa yrityksessä, jonka kotipaikka on Euroopan talousalueeseen kuulumattomassa valti- ossa, ellei yritys tai luottolaitos ole ilmoittanut siitä etukäteen Finanssivalvonnalle taikka jos Finanssi- valvonta on ilmoituksen saatuaan kieltänyt hankinnan pykälän 2 momentissa säädetyssä ajassa. Fi- nanssivalvonta voi kolmen kuukauden kuluessa pykälän 1 momentissa tarkoitetun ilmoituksen vas- taanottamisesta kieltää mainitussa momentissa tarkoitetun hankinnan, jos hankinnan kohteena ole- vaan yritykseen sovellettavat lait, asetukset tai hallinnolliset määräykset olennaisesti vaikeuttaisivat luottolaitoksen tai sen konsolidointiryhmän tehokasta valvontaa. Finanssivalvonta voi antaa tarkempia määräyksiä pykälän 1 momentissa tarkoitettuun ilmoitukseen liitettävistä tiedoista ja muista vastaa- vista ilmoitusmenettelyssä noudatettavista seikoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67219: (2) SipaL 7 luvun 10 §:n mukaan sijoituspalveluyrityksen tai sen sijoituspalvelukonsolidointiryhmään kuu- luvan yrityksen on ilmoitettava etukäteen Finanssivalvonnalle, jos se aikoo hankkia kirjanpitolain 1 lu- vun 5 §:ssä tarkoitettua määräysvaltaa sellaisessa luottolaitoksessa, sijoituspalveluyrityksessä, rahas- toyhtiössä, vaihtoehtorahastojen hoitajassa taikka vakuutusyhtiössä, jonka kotipaikka on kolmannessa maassa. Finanssivalvonta voi kolmen kuukauden kuluessa pykälän 1 momentissa tarkoitetun ilmoituk- sen vastaanottamisesta kieltää määräysvallan hankinnan, jos hankinnan kohteena olevaan yritykseen sovellettavat lait, asetukset tai hallinnolliset määräykset olennaisesti vaikeuttaisivat sijoituspalveluyri- tyksen tai sen sijoituspalvelukonsolidointiryhmän tehokasta valvontaa. Finanssivalvonta voi antaa tar- kempia määräyksiä pykälän 1 momentissa tarkoitettuun ilmoitukseen liitettävistä tiedoista ja muista vastaavista ilmoitusmenettelyssä noudatettavista seikoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67220: (3) VYL 3 luvun 20 §:n mukaan vakuutusyhtio tai vakuutusomistusyhteiso ei saa hankkia kirjanpitolain 1 luvun 5 ja 6 §:ssä tarkoitettua maaraysvaltaa luottolaitoksessa, sijoituspalveluyrityksessa tai vakuutus- yhtiössä, jonka kotipaikka on Euroopan talousalueeseen kuulumattomassa valtiossa, ellei vakuutusyh- tio tai vakuutusomistusyhteisö ole ilmoittanut siitä etukäteen Finanssivalvonnalle taikka jos Finanssi- valvonta on ilmoituksen saatuaan kieltänyt hankinnan pykälän 2 momentissa säädetyssä ajassa. Fi- nanssivalvonta voi kolmen kuukauden kuluessa pykälän 1 momentissa tarkoitetun ilmoituksen vas- taanottamisesta kieltää 1 momentissa tarkoitetun hankinnan, jos hankinnan kohteena olevaan yrityk- seen sovellettavat lait, asetukset tai hallinnolliset määräykset olennaisesti vaikeuttaisivat vakuutusyh- tion tehokasta valvontaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67221: (4) RavaL 13 §:n mukaan ryhmittymaan kuuluva yritys ei saa hankkia kirjanpitolain 1 luvun 5 §:ssa tarkoi- tettua määräysvaltaa sellaisessa luottolaitoksessa, sijoituspalveluyrityksessä, rahastoyhtiössä, vaihto- ehtorahastojen hoitajassa taikka vakuutusyhtiössä, jonka kotipaikka on Euroopan talousalueeseen kuulumattomassa valtiossa, jollei yritys ole ilmoittanut siitä etukäteen Finanssivalvonnalle taikka jos Finanssivalvonta on ilmoituksen saatuaan kieltänyt hankinnan pykalan 2 momentissa säädetyssä ajassa. Finanssivalvonta voi kolmen kuukauden kuluessa pykälän 1 momentissa tarkoitetun ilmoituk- sen vastaanottamisesta kieltää 1 momentissa tarkoitetun hankinnan, jos hankinnan kohteena oleva
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67222: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67223: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67224: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67227: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67230: FIN 8 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67231: yritys kuuluisi ryhmittymään ja yritykseen sovellettavat lait, asetukset tai hallinnolliset määräykset olennaisesti vaikeuttaisivat ryhmittymän tehokasta valvontaa. Finanssivalvonnan on pyydettävä ennen pykälän 2 momentissa tarkoitetun päätöksen tekemistä muiden keskeisten valvontaviranomaisten lau- sunto. Suostumusta hankintaan ei saa antaa, jos vähintään yksi muu keskeinen valvontaviranomainen vastustaa hankintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67232: 4.2 Ilmoituksen kieli
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67233: MÄÄRÄYS (kohta 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67234: (5) Luottolaitosten ja sijoituspalveluyritysten sekä niiden kanssa samaan konsolidointiryhmään kuuluvien yritysten osalta luvussa 4.1 tarkoitettu ilmoitus tulee tehdä suomeksi, ruotsiksi tai englanniksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67235: OHJE (kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67236: (6) Finanssivalvonta suosittaa, että rahoitus- ja vakuutusryhmittymiin kuuluvien yritysten sekä vakuutus- yhtiöiden ja vakuutusomistusyhteisöjen osalta luvussa 4.1 tarkoitettu ilmoitus tehdään suomeksi, ruot- siksi tai englanniksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67237: 4.3 Ilmoitukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67238: MÄÄRÄYS (kohdat 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67239: (7) Luottolaitosten ja sijoituspalveluyritysten sekä niiden kanssa samaan konsolidointiryhmään kuuluvien yritysten osalta luvussa 4.1 tarkoitettuun ilmoitukseen tulee liittää seuraavat selvitykset hankittavasta yrityksestä ja sen valvonnasta sekä ilmoitusvelvollisuuden alaisesta hankinnasta:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67240: · suomalaisia kaupparekisteritietoja vastaavat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67241: · yhtiöjärjestys/säännöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67242: · kuvaus yrityksen organisaatiosta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67243: · yrityksen kuuluminen konserniin ja kuvaus konsernin rakenteesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67244: · selvitys yrityksen johtohenkilöistä sekä siitä menettelystä, jolla heidän luotettavuutensa ja sopi- vuutensa varmistetaan yrityksen sijaintivaltiossa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67245: · yritystä valvova viranomainen ja sitä koskeva lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67246: · mahdollinen kopio yrityksen sijaintivaltion toimivaltaisen viranomaisen myöntämästä toimilu- vasta tai vastaavasta päätöksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67247: · selvitys yritykseen sovellettavista laeista, asetuksista ja hallinnollisista määräyksistä, joilla sään- nellään yrityksen valvonnassa tarpeellisten tietojen luovuttamisesta ulkomaisille viranomaisille tai joilla on muuten merkitystä tehokkaan valvonnan toteuttamisen kannalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67248: · kuvaus hankinnasta ja määräysvallan muodostumisesta hankittavaan yritykseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67249: (8) Luvussa 4.1 tarkoitettua ilmoitusta on täydennettävä Finanssivalvonnan tapauskohtaisesti vaatimilla asian selvittämiseksi tarpeellisilla lisäselvityksillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67250: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67251: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67252: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67255: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67257: FIN FIN 9 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67258: OHJE (kohdat 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67259: (9) Rahoitus- ja vakuutusryhmittymiin kuuluvien yritysten sekä vakuutusyhtiöiden ja vakuutusomistusyh- teisöjen osalta luvussa 4.1 tarkoitettuun ilmoitukseen Finanssivalvonta suosittelee liitettävän seuraa- vat selvitykset hankittavasta yrityksestä ja sen valvonnasta sekä ilmoitusvelvollisuuden alaisesta han- kinnasta:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67260: · suomalaisia kaupparekisteritietoja vastaavat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67261: · yhtiöjärjestys/säännöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67262: · kuvaus yrityksen organisaatiosta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67263: · yrityksen kuuluminen konserniin ja kuvaus konsernin rakenteesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67264: · selvitys yrityksen johtohenkilöistä sekä siitä menettelystä, jolla heidän luotettavuutensa ja sopi- vuutensa varmistetaan yrityksen sijaintivaltiossa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67265: · yritystä valvova viranomainen ja sitä koskeva lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67266: · mahdollinen kopio yrityksen sijaintivaltion toimivaltaisen viranomaisen myöntämästä toimilu- vasta tai vastaavasta päätöksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67267: · selvitys yritykseen sovellettavista laeista, asetuksista ja hallinnollisista määräyksistä, joilla sään- nellään yrityksen valvonnassa tarpeellisten tietojen luovuttamisesta ulkomaisille viranomaisille tai joilla on muuten merkitystä tehokkaan valvonnan toteuttamisen kannalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67268: · kuvaus hankinnasta ja määräysvallan muodostumisesta hankittavaan yritykseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67269: (10) Finanssivalvonta voi pyytää täydentämään luvussa 4.1 tarkoitettua ilmoitusta tapauskohtaisesti asian selvittämiseksi tarpeellisilla lisäselvityksillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67270: 4.4 Ilmoituksen käsittely
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67271: OHJE (kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67272: (11) Finanssivalvonnan tulkinnan mukaan luvussa 4.1 esitetyissä lainkohdissa säädetty kolmen kuukauden määräaika arvioinnille alkaa siitä, kun ilmoitus edellä kuvattuine liitteineen sekä mahdolliset Finanssi- valvonnan pyytämät lisäselvitykset on toimitettu Finanssivalvontaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67273: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67274: Määräykset ja ohjeet 2/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67275: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67278: 24.4.2025 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67281: FIN 10 (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67282: 5 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67283: Näillä määräyksillä ja ohjeilla on kumottu Rahoitustarkastuksen antama standardi RA1.2 "Määräysval- lan hankkiminen Euroopan talousalueen ulkopuolisessa maassa sijaitsevasta yrityksestä".
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67284: FIN-FSA FINANSSIVALVONTA
+

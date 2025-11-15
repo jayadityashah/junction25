@@ -1,0 +1,1388 @@
+METADATA: {"document_id": 47, "filename": "04_2015.m7.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 23, "paragraph_count": 555}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59632: FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59634: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59635: Vakuutusmarkkinoilla toimivan yhteisön valvonta-asiakirjojen toimittaminen Fi- nanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59636: Asiatunnus FIVA/2024/1643
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59637: Antopäivä 7.12.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59638: Voimaantulopäivä 1.1.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59639: Lisätietoja: Vakuutusvalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59640: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_59641: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59642: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59643: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59646: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59648: FIN FIN FIN 2 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59649: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59650: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59651: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on nouda- tettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59652: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen no- jalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59654: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59655: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59656: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59657: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_59658: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59659: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59660: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59663: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59665: FIN FIN FIN 3 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59666: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59667: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59669: 1.1 Soveltamisala 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59670: 1.2 Määritelmät 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59671: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59673: 2.1 Lainsäädäntö 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59674: 2.2 Finanssivalvonnan määräyksenantovaltuudet 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59675: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59677: 4 Raportointi Finanssivalvonnalle 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59678: 4.1 Valvonta-asiakirjojen toimittaminen 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59679: 4.2 Vakuutusyhtiöiden, työeläkevakuutusyhtiöiden, vakuutusyhdistysten, vakuutusyhtiön ja vakuutusyhdistyksen omistusyhteisöjen ja kolmannen maan vakuutusyhtioiden sivuliikkeiden toimitettavat asiakirjat 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59680: 4.2.1 Ennen tilintarkastuskertomuksen luovuttamista toimitettavat asiakirjat 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59681: 4.2.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59682: 4.2.3 Muut asiakirjat ja selonteot 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59683: 4.3 Kevan toimitettavat asiakirjat (Annettu 14.5.2025, voimaan 30.6.2025) 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59684: 4.3.1 Ennen tilintarkastuskertomuksen luovuttamista toimitettavat asiakirjat 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59685: 4.3.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59686: 4.3.3 Muut asiakirjat ja selonteot 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59687: 4.4 Maatalousyrittajien eläkelaitoksen ja Merimieseläkekassan toimitettavat asiakirjat 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59688: 4.4.1 Ennen tilintarkastustilaisuutta toimitettavat asiakirjat 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59689: 4.4.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59690: 4.4.3 Muut asiakirjat ja selonteot 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59691: 4.5 Eläkesäätiöiden, eläkekassojen, lisäeläkesäätiöiden ja lisäeläkekassojen toimitettavat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022) 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59692: 4.5.1 Ennen tilintarkastustilaisuutta toimitettavat asiakirjat 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_59693: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59694: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59695: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59698: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59700: FIN FIN FIN 4 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59701: 4.5.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59703: 4.5.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59705: 4.6 Sairauskassojen ja hautaus- ja eroavustuskassojen toimitettavat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59707: 4.6.1 Ennen tilintarkastusta toimitettavat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59709: 4.6.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat 17
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59710: 4.6.3 Muut asiakirjat ja selonteot 17
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59711: 4.7 Vakuutusmeklarin liiketoimintakertomus ja tilinpäätostiedot 18
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59712: 4.8 Raportoitujen valvontatietojen oikeellisuuden varmentaminen 19
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59713: 5 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59715: 6 Muutoshistoria 21
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59716: 7 Liitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_59718: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59719: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59720: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59723: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59725: FIN FIN FIN 5 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59726: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59727: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59729: Näitä määräyksiä ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain (878/2008) tarkoit- tamiin valvottaviin ja muihin finanssimarkkinoilla toimiviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59730: · vakuutusyhtiölaissa tarkoitettu vakuutusyhtiö;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59731: · työeläkevakuutusyhtiöistä annetussa laissa tarkoitettu työeläkevakuutusyhtiö;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59732: · ulkomaisista vakuutusyhtioistä annetussa laissa tarkoitettu, muussa kuin ETA-valtiossa toimiluvan saanut, ulkomaisen vakuutusyhtiön sivuliike;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59733: · vakuutusyhdistyslaissa tarkoitettu vakuutusyhdistys;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59734: · vakuutuskassalaissa tarkoitettu sairauskassa, hautaus- ja eroavustuskassa;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59735: · Kevasta annetussa laissa tarkoitettu Keva-niminen eläkelaitos (Keva);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59736: · eläkesäätiöistä ja eläkekassoista annetussa laissa tarkoitettu eläkesäätiö ja eläkekassa;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59737: · lisäeläkesäätioistä ja lisäeläkekassoista annetussa laissa tarkoitettu lisäeläkesäätiö ja lisäeläke- kassa;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59738: · maatalousyrittäjän eläkelaissa tarkoitettu Maatalousyrittäjien eläkelaitos ja merimieseläkelaissa tarkoitettu Merimieseläkekassa;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59739: · vakuutusyhtiön ja vakuutusyhdistyksen omistusyhteisö;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59740: · vakuutusten tarjoamisesta annetussa laissa tarkoitettu vakuutusmeklari (Annettu 14.5.2025, voimaan 30.6.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59741: Muut tahot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59742: · Näiden määräysten ja ohjeiden luvun 4.2 kohtia (10), (11) ja (12) sovelletaan tilintarkastajiin, jotka suorittavat lakisaateista tilintarkastusta Finanssivalvonnasta annetun lain 4 §:ssä tarkoitetuissa val- vottavissa. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59743: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59744: (2) Valvonta-asiakirjoilla tarkoitetaan Finanssivalvonnalle toimitettavia muita kuin konekielisistä valvonta- tiedoista annetuissa määräyksissä ja ohjeissa 1/2011 tarkoitettuja valvontatietoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59745: (3) Valvottavalla tarkoitetaan kaikkia edellä luvussa 1.1 todettuja määräysten ja ohjeiden soveltamis- alaan kuuluvia valvottavia ja muita finanssimarkkinoilla toimivia. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_59746: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59747: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59748: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59751: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59753: FIN FIN FIN 6 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59754: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59755: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59757: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59758: · vakuutusyhtiölaki (521/2008, jäljempänä myös VYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59759: · laki työeläkevakuutusyhtiöistä (354/1997, jäljempänä myös TVYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59760: · merimieseläkelaki (1290/2006, jäljempänä myös MEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59761: · maatalousyrittäjän eläkelaki (1280/2006, jäljempänä myös MYEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59762: · vakuutuskassalaki (948/2021, jäljempänä myös VKL) (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59763: · laki Kevasta (66/2016) (Annettu 14.5.2025, voimaan 30.6.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59764: · laki eläkesäätiöistä ja eläkekassoista (946/2021, jäljempänä ESKL) (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59765: · laki lisäeläkesäätiöistä ja lisäeläkekassoista (947/2021, jäljempänä LESKL) (Annettu 18.1.2022, voi- maan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59766: · laki ulkomaisista vakuutusyhtiöistä (398/1995, jäljempänä myös UVYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59767: · vakuutusyhdistyslaki (1250/1987, jäljempänä myös VAKYhdL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59768: · laki vakuutusten tarjoamisesta (234/2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59769: · laki Finanssivalvonnasta (878/2008, jäljempänä myös FivaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59770: · kirjanpitolaki (1336/1997, jäljempänä myös KPL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59771: · tilintarkastuslaki (1141/2015, jäljempänä myös TTL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59772: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59773: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä valvonta-asiakirjojen säännöllisestä toimitta- misesta Finanssivalvonnalle perustuu FivaL 18 §:n 2 momenttiin. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59774: (3) Finanssivalvonnan oikeus antaa vakuutusmeklareille tarkempia määräyksiä liiketoimintakertomuk- sessa ilmoitettavista tiedoista ja kertomuksen toimittamisesta perustuu vakuutusten tarjoamisesta annetun lain 7 luvun 60 §:n 2 momenttiin. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59775: (4) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59776: · Vakuutusyhtiolain 7 luvun 13 §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59777: · Vakuutusyhdistyslain 9 luvun 7 §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59778: · Maatalousyrittäjän elakelain 11 luvun 128b §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59779: · Merimieselakelain 195a §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_59780: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59781: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59782: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59785: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59787: FIN FIN FIN 7 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59788: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59789: (1) Näiden määräysten ja ohjeiden tarkoituksena on varmistaa, että Finanssivalvonnalla on oikea ja riittavä kuva valvottavien ja näissä määräyksissa ja ohjeissa tarkoitettujen muiden finanssimarkkinoilla toimi- vien taloudellisesta asemasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_59790: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59791: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59792: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59795: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59797: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59799: 4 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59800: (1) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä valvonta-asiakirjojen säännöllisestä toimitta- misesta Finanssivalvonnalle perustuu FivaL18 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59801: (2) Finanssivalvonnan oikeus antaa vakuutusmeklareille määräyksiä liiketoimintakertomuksen tietojen säännöllisestä toimittamisesta Finanssivalvonnalle perustuu vakuutusten tarjoamisesta annetun lain 7 luvun 60 §:ään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59802: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59803: · Vakuutusyhtiolain 7 luvun 13 §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59804: · Vakuutusyhdistyslain 9 luvun 7 §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59805: · Maatalousyrittäjän eläkelain 11 luvun 128b §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59806: · Merimieseläkelain 195a §:ään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59807: 4.1 Valvonta-asiakirjojen toimittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59808: MÄÄRÄYS (kohdat 1-2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59809: (1) Valvottavan on toimitettava valvonta-asiakirjat Finanssivalvonnalle luvussa 4 kuvatulla tavalla. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59810: (2) Valvonta-asiakirjoihin toimittamisen jälkeen tehtävistä muutoksista on ilmoitettava Finanssivalvon- nalle viipymättä. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59811: OHJE (kohdat 3-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59812: (3) Sähköisesti toimitettavat valvonta-asiakirjat tulisi toimittaa sähköpostin liitetiedostona osoitteeseen tilastot(at)finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59813: (4) Excel-raportointipohjat ovat haettavissa Finanssivalvonnan kotisivuilta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59814: (5) Finanssivalvonta suosittaa, että asiakirjat, joita ei toimiteta sähköisesti tai excel-raportointipohjalla, toimitetaan sähköpostitse.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59815: · Vakuutusyhtiöt, vakuutusyhdistykset, vakuutusyhtiöiden ja vakuutusyhdistysten omistusyhteisöt ja kolmannen maan vakuutusyhtioiden sivuliikkeet toimittavat asiakirjat sähköpostiosoitteeseen va- hinkojahenki@finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59816: · Työeläkevakuutusyhtiöt, Keva, Maatalousyrittäjien eläkelaitos, Merimieseläkekassa, eläkesäätiöt, eläkekassat, lisäeläkesäätiöt, lisäeläkekassat, sairauskassat ja hautaus- ja eroavustuskassat toimit- tavat asiakirjat sähköpostiosoitteeseen tyoelaketoimisto@finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59817: Lisätietoja sähköpostilähetyksen suojaamisesta on Finanssivalvonnan verkkosivuilla https://www.fi- nanssivalvonta.fi/finanssivalvonta/yhteystiedot/
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59818: (Annettu 14.5.2025, voimaan 30.6.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_59819: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59820: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59821: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59824: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59829: (6) Asiakirjat on mahdollista toimittaa myös postitse, mikäli sähköpostilla toimittaminen ei ole mahdol- lista. Postitse hakemuksen voi toimittaa Finanssivalvontaan osoitteeseen: PL 103, 00101 Helsinki (Kir- jaamon käyntiosoite Rauhankatu 19). (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59830: 4.2 Vakuutusyhtioiden, työeläkevakuutusyhtiöiden, vakuutusyhdistysten, vakuutusyh- tiön ja vakuutusyhdistyksen omistusyhteisöjen ja kolmannen maan vakuutusyhtiöi- den sivuliikkeiden toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59831: 4.2.1 Ennen tilintarkastuskertomuksen luovuttamista toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59832: MÄÄRÄYS (kohdat 7-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59833: (7) Valvottavan on toimitettava, jos ei muuta ole mainittu, luvussa 4.2.1 sekä taulukossa 1 mainitut asiakir- jat 10 vuorokautta ennen tilintarkastuskertomuksen luovuttamista hallitukselle (TTL 3 luku 6 §) tai val- vojan suostumuksella tätä myöhäisempänä ajankohtana. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59834: (8) Valvottavan on toimitettava tilintarkastajan antama VYL 7 luvun 6 §:n 2 momentin, TVYL 13 b §:n 2 mo- mentin, VakYhdL 9 luvun 2a §:n 2 momentinmukainen tarkastuskertomus viimeistään kaksi vuoro- kautta ennen tilintarkastuskertomuksen luovuttamista (TTL 3 luku 6 §). (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59835: (9) Vakuutusyhdistysten osalta tarkastuskertomuksessa on annettava lausunto siitä, onko vastuuvelan kate tilinpäätöshetkellä voimassa olevien säännösten ja määräysten mukainen ja antaako vastuuvelan katelaskelma oikeat ja riittävät tiedot vastuuvelan katteesta. Vastaava lausunto on annettava toiminta- pääoman osalta. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59836: (10) Tarkastuskertomuksesta on käytävä ilmi, mitä VYL 7 luvun 6 §:n 1 momentissa, TVYL 13 b §:n 1 momen- tissa ja VakYhdL 9 luvun 2a §:n 1 momentissa tarkoitettuja tarkastuksia on tehty ja missä laajuudessa sekä ne toimenpiteet, joihin tarkastukset ovat antaneet aihetta. Tarkastuskertomuksessa tulee ilmoit- taa tilikauden aikaiseen tarkastukseen käytetyt henkilötyövuodet ja avustajat. (Annettu 23.11.2017, voi- maan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59837: (11) Tilintarkastajan on esitettävä tarkastuskertomuksessa perusteltu näkemyksensa tilikautena tehdystä arvonkorotuksesta, arvonkorotuksen oikaisusta ja peruuttamisesta sekä käyttöomaisuudeksi ja saa- misiksi katsottavien sijoitusten kirjanpitoarvoista. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59838: (12) Kolmannen maan vakuutusyhtiön sivuliikkeen on toimitettava valvonta-asiakirjat neljän kuukauden kuluessa tilikauden päättymisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59839: TAULUKKO 1: Ennen tilintarkastuskertomuksen luovuttamista toimitettavat asiakirjat (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59841: 1. Tilinpäätös ja toimintakertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_59842: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59843: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59844: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59847: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59849: FIN FIN FIN 10 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59850: 2. Tilintarkastajan antama VYL 7 luvun 6 §:n 2 momentin, TVYL 13 b §:n 2 momentin, vakuutusyh- distyslain 9 luvun 2a §:n 2 momentin mukainen tarkastuskertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59851: 3. Laskelma vahinkovakuutusyhtiön tasoitusmäärästä sekä sen tavoitemäärästä ja enimmäismää- rästä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59852: 4. Laskelma vakuutusyhdistyksen sekä kolmannen maan vakuutusyhtiön sivuliikkeen tasoitus- määrästä ja sen rajoista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59853: 5. Laskelma lakisääteisen työeläkevakuutuksen vastuuvelan pohjana olevasta maksutulosta ja korvauksista sekä tarkistusmaksuvelasta tai -saatavasta ja velasta tai saatavasta TyEL- ja YEL- eläkkeiden kustannustenjaosta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59854: 6. Laskelma lakisääteisen työeläkevakuutuksen vastuuvelan muutoksista ja siitä, että tilinpäätök- sen mukainen vastuuvelka on perusteiden mukaisesti laskettu (Annettu 11.10.2016, voimaan 31.12.2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59855: 7. VYL 4 luvun 5 §:n ja TVYL 7 b §:n mukainen ilmoitus yhtiön/yhdistyksen omistajista tilikauden päättymishetken tilanteen mukaisena (521/2008)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59856: 8. Selvitys yhtiön ja muun yhteisön tai luonnollisen henkilön välisistä VYL 1 luvun 10 §:ssä tarkoite- tuista merkittävista sidonnaisuuksista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59857: 9. Ilmoitus määräysten ja ohjeiden 6/2015 kohdassa 12 (4) / määräysten ja ohjeiden 2/2017 koh- dassa 14 (5) tarkoitetuista luotoista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59858: 10. Todistus UVYL 29 §:n mukaisesta vakuudesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59859: 11. Selvitys liitännäistoiminnan laajuudesta itsenäisenä toimintana ja suhteessa vakuutustoimin- taan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59860: 12. Vahinkovakuutusyhtiön suurvahinkoja koskeva selvitys, josta käy ilmi yhtiön käyttämä määri- telmä suurvahingolle ja suurvahinkojen vaikutus tilivuoden tulokseen. Selvityksessä annetaan myös erittely määritelmän mukaisista avoimista suurvahingoista, niistä maksetuista korvauksista ja tehdyistä varauksista ennen jälleenvakuuttajien osuuden vähentämistä sekä jälleenvakuutta- jien osuuden vaikutus niihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59861: (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59862: (13) Run-off-tilassa olevan vahinkovakuutusyhtiön on toimitettava taulukon 1 asiakirjojen lisäksi tietoja yh- tiön tilinpäätöksestä sähköisesti Excel-tiedostona (liite 3).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_59863: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59864: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59865: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59868: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59870: FIN FIN FIN 11 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59871: (14) Vakuutusyhdistyksen on toimitettava taulukon 1 asiakirjojen lisäksi seuraavat raportit sähköisesti Ex- cel-tiedostoina:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59872: · tuloslaskelma, tase ja tilinpäätöksen liitetiedot;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59873: · laskelma, joka osoittaa vakuutusyhdistyksen täyttävän vakuutusyhdistyslain mukaiset vakavarai- suutta koskevat vaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59874: 4.2.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59875: MÄÄRÄYS (kohdat 15-17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59876: (15) Valvottavan on toimitettava taulukossa 2 mainitut asiakirjat yhtenä kokonaisuutena kuukauden kulu- essa siitä kokouksesta, joka on tilinpäätöksen vahvistanut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59877: (16) Kolmannen maan vakuutusyhtiön sivuliikkeen tulee toimittaa ulkomaisista vakuutusyhtiöistä annetun lain 39 §:n mukainen selvitys kirjallisena viimeistään tilinpäätöstä seuraavan heinäkuun loppuun men- nessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59878: TAULUKKO 2: Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59880: 1. Jäljennös vahvistetusta tilinpäätöksestä sekä toimintakertomuksesta (emoyhtiö/emoyhdistys ja konserni).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59881: 2. Jäljennös TTL:n mukaisesta tilintarkastuskertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59882: 3. Yhtiökokouksen pöytäkirjanote, josta käy ilmi tilinpäätöksen vahvistaminen tai vakuutusyhdis- tyksen hallituksen jäsenen tai toimitusjohtajan kirjallinen ilmoitus tilinpäätöksen vahvistamisen päivämäärästä ja yhdistyksen voittoa tai tappiota koskevasta yhdistyskokouksen päätöksestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59883: (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59884: (17) Valvottavan on tilinpäätöksen vahvistamisen jälkeen toimitettava luvun 4.2.1 mukaisesti Excel- taulu- koina toimitetut tiedot samassa muodossa ja korjattuna niilta osin kuin tiedot ovat muuttuneet. Tiedot on toimitettava kuukauden kuluessa siitä kokouksesta, joka on tilinpäätöksen vahvistanut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59885: 4.2.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59886: MÄÄRÄYS (kohdat 18-27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59887: (18) Työeläkevakuutusyhtiön on toimitettava kuukausittain tiedot huomattavista liiketoimista, jotka yhtiö on tehnyt asiakkaidensa kanssa, ellei liiketoimi ole tavanomainen. Liiketoimi on huomattava, jos kerta- luontoinen liiketoimi on yli 1 miljoonaa euroa tai jos toistaiseksi jatkuva liiketoimi synnyttää kassavir- taa yli 1 miljoonaa euroa vuoden aikana. Tavanomaisia liiketoimia ovat yhtiön tekemät likviditeettisijoi- tukset asiakkaana olevan pankin kanssa ja yhtiön myöntämättakaisinlainat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_59888: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59889: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59890: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59893: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59895: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59897: (19) Työeläkevakuutusyhtiön on toimitettava kuukausittain tiedot poikkeuksellisista liiketoimista, jotka yhtiö on tehnyt tai luvannut tehdä. Liiketoimi on poikkeuksellinen, jos se on tehty asiakkaiden hankki- miseksi tai säilyttämiseksi, eikä toimea ole kohdistettu rajoittamattomalle yleisöjoukolle. (Annettu 29.2.2016, voimaan 1.3.2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59898: (20) Tiedot huomattavista ja poikkeuksellisista liiketoimista toimitetaan raportilla 22b (liite 1) raportointi- kuukautta seuraavan kuukauden loppuun mennessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59899: (21) Työeläkevakuutusyhtiön on toimitettava neljännesvuosittain tiedot niistä työkyvyttömyysriskin hallit- semiseksi tehdyistä asiakaskohtaisista palvelusopimuksista, joiden rahallinen lupaus ja kolmannelta osapuolelta ostettavien palveluiden yhteismäärä on vähintään 2000 euroa (liite 2). Tiedot toimitetaan viimeistään neljännesvuotisjaksoa seuraavan kuukauden loppuun mennessä. (Annettu 29.2.2016, voi- maan 1.3.2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59900: (22) Työeläkevakuutusyhtiön hallituksen hyväksymä tilinpäätöstä seuraavan vuoden sijoitussuunnitelma on toimitettava seuraavan tilikauden ensimmäisen kuukauden loppuun mennessä. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59901: (23) Valvottavan on ilman erillistä pyyntöä toimitettava tilintarkastajien tilikauden aikana toimitusjohta- jalle, hallitukselle, tarkastusvaliokunnalle tai pääasiamiehelle luovuttamat raportit ja tarkastusmuistiot kahden viikon kuluessa sen jälkeen, kun tilintarkastajat ovat ne luovuttaneet. (Annettu 23.11.2017, voi- maan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59902: (24) Lisäksi valvottavan on toimitettava Finanssivalvonnalle kahden viikon kuluessa jäljennökset rapor- teista, jotka tilintarkastaja on antanut valvottavan tytäryhtiön hallitukselle tai toimivalle johdolle. Toi- mittamisvelvollisuus ei koske vakiomuotoisia tilintarkastuskertomuksia, jotka on annettu sellaiselle tytäryhtiölle, joka ei ole finanssivalvonnan valvottava. Edellä sanotusta huolimatta, tilintarkastuskerto- mus on aina toimitettava niissa tapauksissa, joissa tilintarkastuslain 3 luvun 5 § 2 momentissa tarkoi- tettu tilintarkastajan lausunto on kielteinen, tilinpäätöstä ei ole laadittu sovellettavien tilinpäätössään- nösten mukaisesti tai kertomuksessa asetetaan ehtoja, annetaan lisätietoja tai tehdään huomautuksia. (Annettu 13.12.2012, voimaan 1.1.2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59903: (25) Henkivakuutusyhtiön ja henkivakuutusta harjoittavan sivuliikkeen on ilman erillistä pyyntöä toimitet- tava elektronisessa muodossa uudet henkivakuutuksen sekä vahinkovakuutusluokkiin 1 ja 2 kuuluvien vakuutusten silloin, kun ne liittyvät henkivakuutusluokkaan 1 tai vastaaviin henkivakuutusluokan 3 va- kuutussopimuksiin, laskuperusteet perusteluineen sekä vastuuvelan laskuperusteet perusteluineen ennen niiden käyttöönottoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59904: Lisäksi tammikuun loppuun mennessä yhtiöiden tulee toimittaa sähköisessä muodossa kalenterivuo- den lopussa voimassa olevista vakuutuslajeista kaikki sovellettavat laskuperusteet viimeisimmät lisä- etuperusteet mukaan luettuina, ei kuitenkaan ennen 1.1.1995 voimaan tulleita laskuperusteita ja 1.1.1995 ja 31.12.2010 väliseltä ajalta vain niistä tuotteista, jotka ovat 31.12.2010 olleet uusmyynnissä. Ennen 31.12.2010 voimaantulleisiin laskuperusteisiin ei tarvitse liittää perusteluja. Laskuperusteisiin liitetään joko selvitys siitä, mitä laskuperusteita kuhunkin vakuutuslajiin sovelletaan, tai laskuperusteet toimitetaan vakuutuslajeittain eri hakemistoihin ryhmiteltyinä. Lisäksi omassa hakemistossaan tulee toimittaa tasoitusmäärän laskuperusteet perusteluineen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59905: (26) Vahinkovakuutusyhtiön kirjanpidon mukaisen vastuuvelan laskuperusteet perusteluineen tulee toimit- taa sähköisesti Finanssivalvonnalle ennen niiden käyttöönottoa. Jos kyse on olemassa oleviin laskupe- rusteisiin tehtävista muutoksista, niin tällöin Finanssivalvonnalle toimitetaan vastuuvelan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_59906: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59907: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59908: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59911: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59913: FIN FIN FIN 13 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59914: laskuperusteet kokonaisuudessaan muutoksilla päivitettyinä sekä selvitys tehdyistä muutoksista pe- rusteluineen. Selvityksessä tulee tällöin esittää myös arvio muutosten vaikutuksista vastuuvelkaan. Tasoitusmäärän laskuperusteille ja niiden muutoksille tulee hakeaFinanssivalvonnan vahvistus. Tällöin toimitettaviin asiakirjoihin liitetään allekirjoituksin varustettu yhtiön hakemus laskuperusteiden vah- vistamisesta. Yhtiön tulee varmistua, että se on laskuperusteissaan ottanut asianmukaisesti huomioon määräysten ja ohjeiden 6/2015 kohdassa 7 luetellut seikat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59915: (27) Vakuutusyhtiön, joka aikoo käyttää vakuutusyhtiölain 10 luvun 8 §:n 2 momentin mukaista volatiliteet- tikorjausta, tulee toimittaa sähköisesti Finanssivalvonnalle 6 luvun 8 §:n 2 momentin mukaiset hallituk- sen hyväksymät kirjalliset toimintaperiaatteet volatiliteettikorjauksen soveltamisperusteista ja toimin- taperiaatteiden muutokset ennen volatiliteettikorjauksen käyttöönottoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59916: 4.3 Kevan toimitettavat asiakirjat (Annettu 14.5.2025, voimaan 30.6.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59917: 4.3.1 Ennen tilintarkastuskertomuksen luovuttamista toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59918: MÄÄRÄYS (kohta 28)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59919: (28) Valvottavan on toimitettava tilinpäätös ja toimintakertomus 10 vuorokautta ennen tilintarkastuskerto- muksen luovuttamista hallitukselle (TTL 3 luku 6 §) tai valvojan suostumuksella tätä myöhäisempänä ajankohtana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59920: 4.3.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59921: MÄÄRÄYS (kohta 29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59922: (29) Valvottavan on toimitettava seuraavat asiakirjat yhtenä kokonaisuutena kuukauden kuluessa siitä ko- kouksesta, joka on tilinpäätöksen vahvistanut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59923: · jäljennös vahvistetusta tilinpäätöksestä sekä toimintakertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59924: · jäljennös tilintarkastuslain mukaisesta tilintarkastuskertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59925: · Kevan valtuutettujen kokouksen pöytäkirjaote, josta käy ilmi tilinpäätöksen vahvistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59926: 4.3.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59927: MÄÄRÄYS (kohdat 30-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59928: (30) Valvottavan on ilman erillistä pyyntöä toimitettava tilintarkastajien tilikauden aikana toimitusjohta- jalle, hallitukselle, valtuutetuille luovuttamat raportit ja tarkastusmuistiot kahden viikon kuluessa sen jälkeen, kun tilintarkastajat ovat ne luovuttaneet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59929: (31) Valvottavan hallituksen hyväksymä tilinpäätöstä seuraavan vuoden sijoitussuunnitelma on toimitet- tava seuraavan tilikauden ensimmäisen kuukauden loppuun mennessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59930: (32) Valvottavan on toimitettava Asset/Liability -selvitys kahden viikon kuluessa siitä, kun hallitus on se kä- sitellyt ja maksutasoselvitys kahden viikon kuluessa siitä, kun valtuutetut ovat sen käsitelleet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_59931: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59932: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59933: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59936: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59938: FIN FIN FIN 14 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59939: 4.4 Maatalousyrittäjien eläkelaitoksen ja Merimieseläkekassan toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59940: 4.4.1 Ennen tilintarkastustilaisuutta toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59941: MÄÄRÄYS (kohdat 33-37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59942: (33) Valvottavan on toimitettava tilinpäätös ja toimintakertomus 10 vuorokautta ennen tilintarkastustilai- suutta. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59943: (34) Lisäksi valvottavan on toimitettava tiedot työkyvyttömyysriskin vähentämiseksi järjestettyjen palvelu- jen sisällöstä ja kustannuksista yhdessä edellä kohdassa 28 tarkoitettujen asiakirjojen kanssa. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59944: (35) Valvottavan on toimitettava tilintarkastajan antama MYEL 128 a §:n 3 momentin / MEL 193 a §:n 3 mo- mentin mukainen tarkastuskertomus viimeistään kaksi vuorokautta ennen tilintarkastustilaisuutta. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59945: (36) Tarkastuskertomuksesta on käytävä ilmi, mitä MYEL 128 a §:n 1 momenteissa ja MEL 193 a §:n 1 mo- mentissa tarkoitettuja tarkastuksia on tehty ja missä laajuudessa sekä ne toimenpiteet, joihin tarkas- tukset ovat antaneet aihetta. Tarkastuskertomuksessa tulee ilmoittaa tilikauden aikaiseen tarkastuk- seen käytetyt henkilötyövuodet ja avustajat. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59946: (37) Tilintarkastajan on esitettävä tarkastuskertomuksessa perusteltu näkemyksensä tilikautena tehdystä arvonkorotuksesta, arvonkorotuksen oikaisusta ja peruuttamisesta sekä käyttöomaisuudeksi ja saa- misiksi katsottavien sijoitusten kirjanpitoarvoista. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59947: OHJE (kohdat 38-39)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59948: (38) Finanssivalvonta suosittaa, että Merimieseläkekassa toimittaa ilmoituksen määräysten ja ohjeiden 10/2017 Merimieseläkekassan hallinto luvun 13 kohdassa (2) tarkoitetuista luotoista ennen tilintarkas- tustilaisuutta. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59949: (39) Finanssivalvonta suosittaa, että Maatalousyrittäjien eläkelaitos toimittaa ilmoituksen määräysten ja ohjeiden 8/2018 Maatalousyrittäjien eläkelaitoksen hallinto luvun 13 kohdassa (2) tarkoitetuista luo- toista ennen tilintarkastustilaisuutta. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59950: 4.4.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59951: MÄÄRÄYS (kohta 40)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59952: (40) Valvottavan on toimitettava seuraavat asiakirjat yhtenä kokonaisuutena kuukauden kuluessa siitä ko- kouksesta, joka on tilinpäätöksen vahvistanut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59953: · jäljennös vahvistetusta tilinpäätöksestä sekä toimintakertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59954: · jäljennös tilintarkastuslain mukaisesta tilintarkastuskertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59955: · Maatalousyrittäjien eläkelaitoksen valtuuskunnan kokouksen / merimieseläkekassan valtuuskun- nan kokouksen pöytäkirjaote, josta käy ilmi tilinpäätöksen vahvistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59956: (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_59957: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59958: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59959: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59962: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59964: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59966: 4.4.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59967: MÄÄRÄYS (kohdat 41-42)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59968: (41) Valvottavan on ilman erillistä pyyntöä toimitettava tilintarkastajien tilikauden aikana toimitusjohta- jalle, hallitukselle, valtuuskunnalle luovuttamat raportit ja tarkastusmuistiot kahden viikon kuluessa sen jälkeen, kun tilintarkastajat ovat ne luovuttaneet. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59969: (42) Valvottavan hallituksen hyväksymä tilinpäätöstä seuraavan vuoden sijoitussuunnitelma on toimitet- tava seuraavan tilikauden ensimmäisen kuukauden loppuun mennessä. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59970: 4.5 Eläkesäätioiden, eläkekassojen, lisäeläkesäätiöiden ja lisäeläkekassojen toimitetta- vat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59971: 4.5.1 Ennen tilintarkastustilaisuutta toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59972: MÄÄRÄYS (kohdat 43-49)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59973: (43) Valvottavan on toimitettava, jos ei muuta ole mainittu, luvussa 4.4.1 mainitut asiakirjat 10 vuoro- kautta ennen tilintarkastustilaisuutta, mutta kuitenkin viimeistään silloin, kun tilinpäätöksen on voi- massa olevien säännösten mukaan oltava laadittuna. (Annettu 23.11.2017, voimaan 31.12.2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59974: (44) Valvottavan on toimitettava luonnos tilintarkastajan tarkastuskertomuksesta viimeistään kaksi vuoro- kautta ennen tilintarkastustilaisuutta. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59975: (45) Valvottavan on toimitettava tilinpäätös ja toimintakertomus. Tilinpäätökseen ja toimintakertomukseen on sisällytettävä erikseen lakisääteisen ja muun toiminnan tiedot. Lisäeläkesäätiön ja -kassan on toimi- tettava kateluettelo liitteineen. Lisäksi eläkekassan ja lisäeläkekassan on toimitettava selvitys osakas- yhteisöille myönnetyistä lainoista. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59976: (46) AB-eläkesäätiön (eläkesäätiöistä ja eläkekassoista annetun lain, lisäeläkesäätiöistä ja lisäeläkekas- soista annetun lain ja vakuutuskassalain voimaanpanolain (951/2021) 3 §:n mukaisen eläkesäätiön) on kohdan (45) lisäksi toimitettava:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59977: · A-osaston kateluettelo liitteineen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59978: · selvitys eläkesäätiön hallituksen vahvistamista jakosäännöistä eläkesäätiön tuottojen ja kulujen jakamiseksi A- ja B-osaston kesken. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59979: (47) A-yhteiseläkesäätiön (ennen 1.1.2022 rekisteröity) ja usean osakkaan lisäeläkesäätio, joka noudattaa osakaskohtaista kirjanpitoa, on toimitettava kohdassa (45) mainittujen asiakirjojenlisäksi:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59980: · tuloslaskelma ja tase työnantajittain;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59981: · työnantajakohtainen kateluettelo liitteineen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59982: · selvitys eläkesäätiön hallituksen vahvistamista jakosäännöistä eläkesäätiön tuottojen ja kulujen jakamiseksi työnantajien kesken. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59983: (48) B-yhteiseläkesäätion (ennen 1.1.2022 rekisteröity) ja usean osakkaan eläkesäätiön on toimitettava koh- dan (40) mukaiset asiakirjat. Mikäli B-yhteiseläkesäätio toimii osakaskohtaisen kirjanpitojärjestelmän
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_59984: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59985: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59986: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59989: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59991: FIN FIN FIN 16 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59992: mukaisesti, on lisäksi toimitettava kohdassa (40) mainitut asiakirjat osakaskohtaisesti. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59993: (49) AB-yhteiseläkesäätion on toimitettava vastaavat erittelyt ottaen huomioon toimivatko osastot osakas- kohtaisen vai tasaavan kirjanpitojärjestelmän mukaisesti. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59994: 4.5.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59995: MÄÄRÄYS (kohdat 50-51)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59996: (50) Eläkekassan ja lisäeläkekassan on toimitettava vuosittain yhtenä kokonaisuutena yhden kuukauden kuluessa siitä kassan kokouksesta, jossa tilinpäätos on vahvistettu, tilinpäätös, toimintakertomus, tilin- tarkastuskertomus sekä tilinpäätöstä käsitelleen kassankokouksen pöytäkirja. (Annettu 18.1.2022, voi- maan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59997: (51) Eläkesäätiön ja lisäeläkesäätiön on toimitettava vuosittain yhtenä kokonaisuutena viiden kuukauden kuluessa tilikauden päättymisestä tilinpäätös ja toimintakertomus sekä tilintarkastuskertomus. (An- nettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59998: 4.5.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_59999: MÄÄRÄYS (kohdat 52-55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60000: (52) Valvottavan hallituksen hyväksymä tilinpäätöstä seuraavan vuoden sijoitussuunnitelma on toimitet- tava seuraavan tilikauden ensimmäisen kuukauden loppuun mennessä. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60001: (53) Valvottavan on toimitettava maksuperusteista lisäeläkejärjestelyä koskevat laskuperusteet ennen nii- den käyttöönottoa. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60002: (54) Valvottavan on ilman erillistä pyyntöä toimitettava tilintarkastajien tilikauden aikana toimitusjohta- jalle, hallitukselle tai pääasiamiehelle luovuttamat raportit ja tarkastusmuistiot kahden viikon kuluessa sen jälkeen, kun tilintarkastajat ovat ne luovuttaneet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60003: (55) Lisäeläkkeitä myöntävän valvottavan on edellä mainittujen asiakirjojen lisäksi toimitettava Finanssival- vonnan pyynnöstä LESKL 15 luku 4 §:ssä mainitut asiakirjat ilman aiheetonta viivytystä. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60004: 4.6 Sairauskassojen ja hautaus- ja eroavustuskassojen toimitettavat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60005: 4.6.1 Ennen tilintarkastusta toimitettavat asiakirjat (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60006: MÄÄRÄYS (kohta 56)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60007: (56) Hautaus- ja eroavustuskassan on toimitettava seuraavat asiakirjat 10 vuorokautta ennen tilintarkastus- tilaisuutta, mutta kuitenkin viimeistään silloin, kun tilinpäätöksen on voimassa olevien säännösten mu- kaan oltava laadittuna:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60008: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60009: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60010: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60013: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60015: FIN FIN FIN 17 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60016: · tilinpäätös ja toimintakertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60017: · matemaatikon lausunto vastuuvelan määrästä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60018: · kateluettelo (liite 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60019: · selvitys valuuttariskistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60020: (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60021: 4.6.2 Tilinpäätöksen vahvistamisen jälkeen toimitettavat asiakirjat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60022: MÄÄRÄYS (kohdat 57-58)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60023: (57) Sairauskassan on toimitettava vuosittain yhtenä kokonaisuutena yhden kuukauden kuluessa siitä kas- san kokouksesta, jossa tilinpäätos on vahvistettu, tilinpäätös, toimintakertomus, tilintarkastuskerto- mus sekä tilinpäätöstä käsitelleen kassankokouksen pöytäkirja. (Annettu 11.10.2016, voimaan 31.12.2016)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60024: (58) Hautaus- ja eroavustuskassan, jonka vastuuvelka muodostuu vakuutusmaksu- ja korvausvastuusta, on toimitettava vuosittain yhtenä kokonaisuutena yhden kuukauden kuluessa siitä kassan kokouksesta, jossa tilinpäätos on vahvistettu, määrämuotoinen kertomus kassan toiminnasta ja tilasta (tilastokerto- mus, liite 7). Tilastokertomukseen on liitettävä seuraavat asiakirjat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60025: · tilinpäätös ja toimintakertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60026: · tilintarkastuskertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60027: · matemaatikon lausunto vastuuvelan määrästä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60028: · kateluettelo (liite 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60029: · arvostuserolaskelma (liite 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60030: · tilinpäätöstä käsitelleen kassakokouksen pöytäkirja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60031: (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60032: 4.6.3 Muut asiakirjat ja selonteot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60033: MÄÄRÄYS (kohdat 59-60)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60034: (59) Sairauskassan ja hautaus- ja eroavustuskassan hallituksen hyväksymä tilinpäätöstä seuraavan vuoden sijoitussuunnitelma on toimitettava seuraavan tilikauden ensimmäisen kuukauden loppuun mennessä. (Annettu 18.1.2022, voimaan 31.3.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60035: (60) Valvottavan on ilman erillistä pyyntöä toimitettava tilintarkastajien tilikauden aikana toimitusjohta- jalle, hallitukselle tai pääasiamiehelle luovutetut raportit ja tarkastusmuistiot kahden viikon kuluessa sen jälkeen, kun tilintarkastajat ovat ne luovuttaneet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60036: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60037: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60038: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60041: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60043: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60045: 4.7 Vakuutusmeklarin liiketoimintakertomus ja tilinpäätostiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60046: (61) Vakuutusten tarjoamisesta annetun lain 60 § 1 momentti velvoittaa vakuutusmeklaria toimittamaan Finanssivalvonnalle vuosittain liiketoimintakertomuksen, tilinpäätöksen ja toimintakertomuksensa, jos toimintakertomus on kirjanpitolain mukaan laadittava. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60047: MÄÄRÄYS (kohdat 62-63)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60048: (62) Vakuutusmeklarin tulee toimittaa liiketoimintakertomus (paitsi liitetaulukot, jotka toimitetaan Mää- räykset ja ohjeet 1/2011-ohjeessa kuvatulla tavalla konekielisesti) kultakin kalenterivuodelta sähköi- sesti (liite 4) seuraavan vuoden huhtikuun 30. päivään mennessä. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60049: (63) Liiketoimintakertomuksessa on ilmoitettava seuraavat tiedot: Yhteystiedot. Liiketoimintakertomuk- seen on merkittävä vakuutusmeklarin nimi, osoite, puhelinnumero ja internet-sivujen osoite sekä va- kuutusten tarjoamisesta vastaavien nimet, puhelinnumerot ja sähköpostiosoitteet, josta hän on tavoi- tettavissa. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60050: · Vakuutusmeklarin liiketoiminta. Liiketoimintakertomukseen on merkittävä seuraavat kohdissa vaa- ditut tiedot. Jos toimintaa ei joiltakin osin ole ollut, on myös tästä mainittava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60051: - harjoittaako vakuutusmeklari vahinkovakuutuksia, henkivakuutuksia vai mo- lempia vakuutuslajeja koskevaa vakuutusten tarjoamista;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60052: - onko vakuutusmeklari erikoistunut tietynlaisia vakuutuksia koskevaan va- kuutusten tarjoamiseen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60053: - vakuutusmeklarin markkinoinnin kohderyhmät;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60054: - vakuutusmeklarin muun liiketoiminnan liikevaihto toimialoittain;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60055: - vakuutusmeklarin omistajat ja kunkin omistusosuus seka muutokset, joita omistuksessa on tapahtunut aiemmin annettuihin tietoihin verrattuna;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60056: - jokaisen maksetun vahingonkorvauksen määrä ja tieto siitä, onko korvaus maksettu vastuuvakuutuksesta, maininta myös jos korvauksia ei ole mak- settu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60057: · Vastuuvakuutus ja varojen erillisyys. Liiketoimintakertomukseen on merkittävä (vastaus tulee antaa kaikkiin kohtiin):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60058: - vastuuvakuutuksenantajan tai muun vastaavan vakuuden nimi ja kotivaltio sekä vakuutusmäärä vahinkoa kohti ja vakuutusmäärä vakuutuskautta kohti;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60059: - jos vakuutusmeklari välittää kuluttajien tai kuluttajiin rinnastettavien elinkei- nonharjoittajien varoja, näiden varojen kokonaismäärä ja perustelut varojen välittämiselle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60060: - jos vakuutusmeklari välittää asiakkaan tai vakuutuksenantajan varoja, asia- kasvaratilin tilinumero ja henkilöt, joilla on tilinkäyttöoikeus;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60061: · Vakuutusmeklarin lukuun toimivat henkilöt. Liiketoimintakertomukseen on merkittävä (vastaus tu- lee antaa kaikkiin kohtiin):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60062: - vakuutusmeklarin palveluksessa Suomessa ja muissa ETA-valtioissa toimi- vien henkilöiden lukumäärä, nimi ja toimipaikka, lyhyt kuvaus kunkin tehtä- vistä sekä se, ketkä heistä on rekisteröity vakuutusmeklareiksi;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60063: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60064: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60065: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60068: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60070: FIN FIN FIN 19 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60071: - vakuutusmeklarin lukuun Suomessa ja muissa ETA-valtioissa toimivien, mui- den kuin vakuutusmeklarin palveluksessa olevien henkilöiden lukumäärä, nimi ja toimi paikka sekä lyhyt kuvaus kunkin tehtävistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60072: OHJE (kohdat 64-65)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60073: (64) Vakuutusmeklarina toimivan osakeyhtiön tulisi toimittaa sähköisesti tai postitse tilinpäätös, toiminta- kertomus ja tilintarkastuskertomus sekä yhtiön tilinpäätöksen vahvistamista koskeva yhtiökokouksen pöytäkirjanote kuukauden kuluessa yhtiökokouksesta, jossa tilinpäätös on vahvistettu. Sähköisesti toi- mitettaessa toimitusosoite on mainittu kohdassa 4.1 (4).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60074: (65) Muun kuin osakeyhtiömuotoisen vakuutusmeklarin tulisi toimittaa sähköisesti tai postitse kyseistä yri- tysmuotoa koskevien säännösten mukaiset tilinpäätösasiakirjat kuukauden kuluessa siitä, kun tilinpää- töksen on kirjanpitolain 3 luvun 6 §:n tai 7 luvun 3 §:n 2 momentin mukaan oltava valmis. Sähköisesti toimitettaessa toimitusosoite on mainittu kohdassa 4.1 (4). Mikäli vakuutusmeklari ei ole tilinpäätösvel- vollinen, asiasta tulisi antaa selvitys Finanssivalvonnalle. (Annettu 7.3.2019, voimaan 31.3.2019)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60075: 4.8 Raportoitujen valvontatietojen oikeellisuuden varmentaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60076: MÄÄRÄYS (kohta 66)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60077: (66) Valvontatietojen toimittajan on laadittava seloste raportoitujen tietojen oikeellisuudesta. Menettelyn tavoitteena on varmistaa, että valvottavan Finanssivalvonnalle toimittamat tiedot ovat tarkistettuja ja oikeita. Seloste päivätään ja sen allekirjoittavat sekä raportin laatija että tietojen oikeellisuuden var- mentaja. Valvottavan on säilytettävä allekirjoitettu seloste ja esitettävä se pyydettäessä Finanssival- vonnalle. Selostetta on päivitettävä aina, kun sen kuvaamassa prosessissa tapahtuu muutoksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60078: OHJE (kohdat 67-68)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60079: (67) Finanssivalvonnan kotisivuilta (finanssivalvonta.fi) on saatavissa ohjeet selostelomakkeen täyttämi- seen ja säilyttämiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60080: (68) Finanssivalvonnasta annetun lain 38 §:n 1 momentin 1 kohdan nojalla Finanssivalvonta maarää rike- maksun sille, joka laiminlyo tai rikkoo velvollisuuden toimittaa tietoja, jotka on saadettytai määrätty säännöllisesti toimitettavaksi Finanssivalvonnan laissa säädetyn tehtävän suorittamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60081: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60082: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60083: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60086: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60088: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60090: 5 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60091: Nämä määräykset ja ohjeet kumoavat voimaan tullessaan näiden määräysten ja ohjeiden soveltamis- alaan kuuluvien valvottavien osalta seuraavat Finanssivalvonnan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60092: · Määräykset ja ohjeet 2/2011; Vakuutusmarkkinoilla toimivan yhteisön valvonta-asiakirjojen toimit- taminen Finanssivalvonnalle, Dnro 6/101/2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60093: · Määräys- ja ohjekokoelman liitteet 1.10.2008, Dnro 2/002/2008
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60094: · Päivitetty määräys- ja ohjekokoelma vakuutusyhtiöille, työeläkevakuutusyhtiöille, vakuutusyhdis- tyksille, vakuutusomistusyhteisöille, kolmannen maan vakuutusyhtiöiden sivuliikkeille ja lailla pe- rustetuille eläkelaitoksille 15.4.2014, Dnro 9/101/2011: kohta 14.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60095: · Määräyksistä ja ohjeista 8/2012 Tilintarkastus on poistettu luvun 1.1 soveltamisalasta vakuutussek- torin valvottavat eli seuraavat: vakuutusyhtiöt, työeläkevakuutusyhtiöt, muussa kuin ETA-valtiossa toimiluvan saaneiden ulkomaisten vakuutusyhtiöiden sivuliikkeet, vakuutusyhtiön ja vakuutusyh- distyksen omistusyhteisöt, vakuutusyhdistykset, eläkekassat, sairauskassat ja muut vakuutuskas- sat, eläkesäätiöt, Maatalousyrittäjien eläkelaitos ja Merimieseläkekassa (sisällytetty lukuun 4.2.1 kohtiin (8) - (10), lukuun 4.2.3 kohtaan (22), lukuun 4.3.1 kohtiin (29) - (30).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60096: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60097: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60098: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60101: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60103: FIN FIN FIN 21 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60104: 6 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60105: Näitä määräyksiä ja ohjeita on sen voimaantulon jälkeen muutettu seuraavasti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60106: Annettu 29.2.2016, voimaan 1.3.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60107: · Muutettu luvun 4 kohtaa (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60108: · Lisätty lukuun 4 kohta (16), minkä johdosta luvun kohdat on numeroitu uudelleen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60109: · Lisätty liite 7.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60110: Muutokset liittyvät työeläkevakuutusyhtiöille työkyvyttömyysriskin hallintaan tähtäävistä toimista an- nettuihin määräyksiin ja ohjeisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60111: Annettu 11.10.2016, voimaan 31.12.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60112: · Luvun 4.2.1 taulukosta 1 poistettu aiempi asiakirja 5 ja tehty muutos asiakirjan 6 määrittelyyn
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60113: · Muutettu luvun 4.3.1 kohtaa (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60114: · Muutettu luvun 4.3.2 kohtia (28) ja (29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60115: · Muutettu luvun 4.4.1 kohtaa (33)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60116: Muutokset liittyvät työeläkevakuutusyhtiön tilinpäätösanalyysin poistumiseen ja yksittäisiin selvennyk- siin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60117: Annettu 23.11.2017, voimaan 31.12.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60118: · Lisätty lukuun 4.1 kohta (5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60119: · Muutettu luvun 4.2 otsikkoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60120: · Muutettu luvun 4.2.1 otsikkoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60121: · Muutettu luvun 4.2.1 kohta (6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60122: · Muutettu luvun 4.2.1 kohta (7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60123: · Lisätty lukuun 4.2.1 kohdat (8) - (10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60124: · Muutettu luvun 4.2.1 taulukon 1 otsikkoa ja taulukon kohtaa 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60125: · Muutettu luvun 4.2.2 taulukon 2 kohtaa 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60126: · Muutettu luvun 4.2.3 kohta (21)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60127: · Muutettu luvun 4.2.3 kohtaa (19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60128: · Lisätty lukuun 4.2.3 kohta (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60129: · Muutettu luvun 4.2.3 kohta (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60130: · Lisätty luku 4.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60131: · Lisätty luku 4.3.1 ja kohdat (26) - (30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60132: · Lisätty luku 4.3.2 ja kohta (31)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60133: · Lisätty luku 4.3.3 ja kohta (33)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60134: · Muutettu luvun 4.4.1 otsikkoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60135: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60136: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60137: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60140: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60142: FIN FIN FIN 22 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60143: · Muutettu luvun 4.4.1 kohdat (34) - (35)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60144: · Muutettu luvun 4.4.2 otsikkoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60145: Muutokset liittyvät terminologian selkeyttämiseen ja muihin selvennyksiin sekä kohtiin, jotka on siir- retty määräyksistä ja ohjeista 8/2012 Tilintarkastus, joka kumoutuu näiden määräysten ja ohjeiden tul- lessa voimaan vakuutussektorin valvottavien osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60146: Annettu 7.3.2019, voimaan 31.3.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60147: · Muutettu luvun 1 kohta (1)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60148: · Lisätty lukuun 1 kohta (3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60149: · Muutettu luvun 2 kohdat (1) - (3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60150: · Lisätty lukuun 4 kohdat (1) - (3), (7), (23), (35), (38), (51) ja (54)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60151: · Muutettu luvun 4 kohdat (1) - (3), (30), (40), (42), (55) ja (56)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60152: · Lisätty luvun 4 kohdan (22) liitteeseen 7.2 uusi sarake
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60153: · Muutettu luvun 4 kohdan (55) liitettä 7.4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60154: Muutokset liittyvät lakiin vakuutusedustuksesta (570/2005), joka on kumottu lailla vakuutusten tarjoa- misesta (234/2018). Muut muutokset liittyvät yksittäisiin selvennyksiin ja lisäyksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60155: Annettu 18.1.2022, voimaan 31.3.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60156: · Muutettu luvun 1 kohta (1)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60157: · Muutettu luvun 2 kohta (1)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60158: · Muutettu luvun 4 kohdat (5), (40)-(48), (50)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60159: · Lisätty luvun 4 kohdat (51), (53), (54)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60160: · Siirretty liitteet 5-7 päivitetystä määräys- ja ohjekokoelmasta vakuutuskassalain alaisille hautaus- ja eroavustuskassoille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60161: Muutokset liittyvät eläkesäätiölain ja vakuutuskassalain uudistukseen. Samassa yhteydessä on myös siirretty päivitetystä määräys- ja ohjekokoelmasta vakuutuskassalain alaisille hautaus- ja eroavustus- kassoille luku vakuutusvalvontavirastolle toimitettavat asiakirjat näihin määräyksiin ja ohjeisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60162: Annettu 14.5.2025, voimaan 30.6.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60163: · Muutettu lukuja 1, 2 ja 4.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60164: · Lisätty uusi luku 4.3 koskien Kevaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60165: Muutokset liittyvät Kevasta annetun lain muutoksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60166: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60167: Määräykset ja ohjeet 4/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60168: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60171: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60174: FIN 23 (23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60177: Näihin määräyksiin ja ohjeisiin liittyvät seuraavat liitteet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60178: · liite 1: Raportti 22 b
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60179: · liite 2: Tietoja työkyvyttömyysriskin hallitsemiseksi tehdyistä palvelusopimuksista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60180: · liite 3: Run-off-yhtiön tilinpäätöstietoja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60181: · liite 4: Vakuutusmeklarin liiketoimintakertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60182: · liite 5: Hautaus- ja eroavustuskassan kateluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60183: · liite 6: Hautaus- ja eroavustuskassan arvostuserolaskelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60184: · liite 7: Hautaus- ja eroavustuskassan tilastokertomus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60185: FIN-FSA FINANSSIVALVONTA
+

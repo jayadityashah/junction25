@@ -1,0 +1,80 @@
+{
+  "summary": {
+    "total_risks_identified": 20,
+    "total_jurisdictions": 3,
+    "total_sources": 13,
+    "total_documents": 98,
+    "total_paragraphs": 125172
+  },
+  "risk_analysis": {
+    "top_risks": [
+      [
+        "CREDIT_RISK",
+        2084
+      ],
+      [
+        "MARKET_RISK",
+        790
+      ],
+      [
+        "LIQUIDITY_RISK",
+        563
+      ],
+      [
+        "OPERATIONAL_RISK",
+        438
+      ],
+      [
+        "FOREIGN_EXCHANGE_RISK",
+        143
+      ],
+      [
+        "SYSTEMIC_RISK",
+        131
+      ],
+      [
+        "CONCENTRATION_RISK",
+        107
+      ],
+      [
+        "REPUTATIONAL_RISK",
+        66
+      ],
+      [
+        "MODEL_RISK",
+        65
+      ],
+      [
+        "LEGAL_RISK",
+        48
+      ]
+    ],
+    "embedding_dimensions": 4
+  },
+  "dimensional_coverage": {
+    "jurisdictions": [
+      "EU",
+      "FINNISH",
+      "INTERNATIONAL"
+    ],
+    "regulatory_sources": [
+      "CRD",
+      "FIVA_MOK",
+      "MiFID",
+      "SFDR",
+      "VYL",
+      "CRR",
+      "FINLAND",
+      "LLL",
+      "EBA",
+      "Basel",
+      "BRRD",
+      "MiFIR",
+      "IFRS"
+    ],
+    "categories": [
+      "NATIONAL_LAWS",
+      "FINANCIAL_REGULATION"
+    ]
+  }
+}

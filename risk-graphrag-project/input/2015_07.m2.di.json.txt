@@ -1,0 +1,1241 @@
+METADATA: {"document_id": 31, "filename": "2015_07.m2.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 24, "paragraph_count": 592}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41585: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41586: ES FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41589: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41590: Rahoitus- ja vakuutusryhmittymien vakava- raisuuden laskenta ja raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41591: Asiatunnus FIVA/2024/486
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41592: Antopäivä 7.12.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41593: Voimaantulopäivä 1.1.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41594: Lisätietoja Pankkivalvonta/Pankkien riskialueet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41595: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41596: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41599: *************** EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41600: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41606: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41607: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41608: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41611: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41612: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41613: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41614: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on nouda- tettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41615: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen no- jalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41617: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41618: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41619: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41620: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41621: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41622: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41623: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41626: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41627: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41629: Soveltamisala ja määritelmät 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41630: 1.1 Soveltamisala 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41631: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41633: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41635: 2.2 Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41637: 2.3 Euroopan unionin direktiivit 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41638: 2.4 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41640: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41642: 3.1 Määräysten ja ohjeiden tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41644: 4 Vakavaraisuuslaskelmat 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41645: 4.1 Rahoitus- ja vakuutusryhmittymien vakavaraisuuden laskentaa koskeva sääntely ja yleiset periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41647: 4.2 Konsolidointimenetelmä 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41648: 4.2.2 Konsolidointimenetelmän täyttöohjeet 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41649: 4.3 Vähennys- ja yhteenlaskumenetelmä 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41650: 4.3.2 Vähennys- ja yhteenlaskumenetelmän täyttöohjeet 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41651: 5 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41653: 5.1 Ryhmittymän vakavaraisuusraportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41655: 5.2 Ryhmittymän rakennetta koskevat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41657: 5.3 Vakavaraisuuslaskelman apulaskelmat ja erittelyt 21
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41658: 5.4 Raportointiajankohdat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41660: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41663: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41668: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41669: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41672: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41676: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41678: 5.5 Raportoitujen tietojen oikeellisuuden varmentaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41680: 6 Kumotut määräykset ja ohjeet 22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41682: Muutoshistoria 23
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41683: 8 Liitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41685: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41686: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41687: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41689: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41692: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41695: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41696: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41697: (1) Näitä määräyksiä ja ohjeita sovelletaan sellaiseen Finanssivalvonnasta annetun lain 4 §:ssä tarkoitet- tuun valvottavaan, joka on rahoitus- ja vakuutusryhmittymien valvonnasta annetun lain 3 §:n 4 mo- mentissa tarkoitettu ryhmittymän johdossa oleva yritys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41698: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41699: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41700: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41703: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41705: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41706: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41708: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41709: · Laki rahoitus- ja vakuutusryhmittymien valvonnasta (699/2004, jäljempänä myös RavaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41710: · Valtioneuvoston asetus rahoitus- ja vakuutusryhmittymän vakavaraisuuden laskemisesta (1356/2015, jäljempänä myös RavaA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41711: · Valtioneuvoston asetus rahoitus- ja vakuutusryhmittymän konsernitilinpäätöksestä (89/2002, jäljempänä myös RavaTPA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41712: · Valtioneuvoston asetusrahoitus- ja vakuutusryhmittymän konsernitilinpäätöksestä annetun valtioneuvoston asetuksen muuttamisesta (239/2003)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41713: · Laki luottolaitostoiminnasta (610/2014, jäljempänä myös LLL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41714: · Vakuutusyhtiölaki (521/2008, jäljempänä myös VYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41715: · Sijoituspalvelulaki (747/2012).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41716: 2.2 Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41718: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat suoraan sovellettavat Euroopan unionin asetukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41719: · Komission delegoitu asetus (EU) N:o 342/2014 (32014R0342), annettu 21 päivänä tammikuuta 2014, Euroopan parlamentin ja neuvoston direktiivin 2002/87/EY ja Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 575/2013 täydentämisestä finanssiryhmittymien vakavaraisuus- vaatimusten laskentamenetelmien soveltamista koskevilla teknisillä sääntelystandardeilla; EUVL L 100, 3.4.2014, s. 1-9 (jäljempänä komission Rava-asetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41720: · Komission delegoitu asetus (EU) 2015/35 (32015R0035), annettu 10 päivänä lokakuuta 2014, vakuutus- ja jalleenvakuutustoiminnan aloittamisesta ja harjoittamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2009/138/EU täydentämisestä (Solvenssi II); EUVL L 12, 17.1.2015, s. 1-797 (jäljempänä Solvenssi II -asetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41721: · Euroopan parlamentin ja neuvoston asetus (EU) N:o 575/2013 (32013R0575), annettu 26 päi- vänä kesäkuuta 2013, luottolaitosten ja sijoituspalveluyritysten vakavaraisuusvaatimuksista ja asetuksen (EU) N:o 648/2012 muuttamisesta; EUVL L 176, 27.6.2013, s. 1-337 [jäljempänä EU:n vakavaraisuusasetus (CRR)].
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41722: 2.3 Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41723: (3) Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan unionin direktiivit:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41724: · Euroopan parlamentin ja neuvoston direktiivi 2002/87/EY (32002L0087), annettu 16 päivänä joulu- kuuta 2002, finanssiryhmittymään kuuluvien luottolaitosten, vakuutusyritysten ja sijoituspalvelu- yritysten lisävalvonnasta sekä neuvoston direktiivien 73/239/ETY, 79/267/ETY, 92/49/ETY, 92/96/ETY, 93/6/ETY ja 93/22/ETY ja Euroopan parlamentin ja neuvoston direktiivien 98/78/EY ja 2000/12/EY muuttamisesta; EUVL L 35, 11.2.2003, s. 1-27
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41725: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41727: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41728: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41731: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41732: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41735: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41739: · Euroopan parlamentin ja neuvoston direktiivi 2009/138/EY (32009L0138), annettu 25 päi- vänä marraskuuta 2009, vakuutus- ja jälleenvakuutustoiminnan aloittamisesta ja harjoittamisesta (Solvenssi II); EUVL L 335, 17.12.2009, s. 1-155 (jäljempänä Solvenssi II -direktiivi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41740: · Euroopan parlamentin ja neuvoston direktiivi 2013/36/EU (32013L0036), annettu 26 päivänä kesä- kuuta 2013, oikeudesta harjoittaa luottolaitostoimintaa ja luottolaitosten ja sijoituspalveluyritys- ten vakavaraisuusvalvonnasta, direktiivin 2002/87/EY muuttamisesta sekä direktiivien 2006/48/EY ja 2006/49/EY kumoamisesta; EUVL L 176, 27.6.2013, s. 338-436 (jäljempänä luottolaitosdirektiivi).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41741: 2.4 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41742: (4) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41743: (5) RavaL 26 §.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41744: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41747: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41749: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41750: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41752: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41757: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41758: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41760: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41761: 3.1 Määräysten ja ohjeiden tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41762: (1) Näissä määräyksissä ja ohjeissa määritellään rahoitus- ja vakuutusryhmittymille yhtenäiset omien varo- jen ja omien varojen vähimmäismäärän laskentaa koskevat periaatteet ja laskelmien laadintaa ja rapor- tointia koskeva ohjeistus. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41763: (2) Määräysten ja ohjeiden tavoitteena on varmistaa, että Finanssivalvonta saa valvomiltaan ryhmittymiltä tiedot, joiden avulla se pystyy valvomaan ryhmittymien vakavaraisuutta tasapuolisesti. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41764: (3) Ryhmittymän vakavaraisuuden valvonnan tavoitteena on varmistua siitä, että ryhmittymälla on riitta- västi omia varoja kattamaan tappiot ja täyttämään omia varoja koskevat lisävaatimukset ryhmittymän tasolla. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41765: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41766: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41767: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41769: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41772: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41773: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41776: 4 Vakavaraisuuslaskelmat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41777: 4.1 Rahoitus- ja vakuutusryhmittymien vakavaraisuuden laskentaa koskeva sääntely ja yleiset peri- aatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41778: (1) RavaL 19 §:n 2 momentin mukaan ryhmittyman johdossa olevan yrityksen on laadittava ja toimitettava Finanssivalvonnalle neljännesvuosittain vakavaraisuuslaskelma, josta käy ilmi lain 1 momentissa tar- koitetut omien varojen määrä ja omien varojen vähimmäismäärä sekä niiden erotus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41779: (2) Ryhmittymään kuuluvien yritysten omien varojen ja omien varojen vähimmäismäärän laskemisesta säädetään RavaL 18 §:ssä. Ryhmittymän omien varojen ja omien varojen vähimmäismäärien laskennan perustana ovat rahoitus- ja vakuutusalojen toimialakohtaiset vakavaraisuussäännökset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41780: (3) Ryhmittymän vakavaraisuuden laskemiseen sovellettavista yleisistä periaatteista säädetään RavaL 20 §:ssä. Tarkemmat saannökset ryhmittyman vakavaraisuuden laskemisesta annetaan RavaA:lla. Lisäksi yleisistä periaatteista säädetään komission Rava-asetuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41781: (4) Yleisia periaatteita, jotka on otettava aina huomioon käytettävästä laskentamenetelmästä riippumatta, ovat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41782: · Ryhmittymän sisäinen pääomien moninkertaisen käytön sekä omien varojen luomisen estäminen (komission Rava-asetus 3 artikla ja RavaL 20 §:n 1 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41783: · Omien varojen siirrettävyys ja saatavuus ryhmittymän eri yritysten välillä (komission Rava-asetus 4 artikla, RavaL 20 §:n 3 momentti ja RavaA 3 §:n 2 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41784: · Toimialakohtaisten omien varojen käytettävyys (komission Rava-asetus 5 ja 6 artiklat, RavaL 20 §:n 2 momentti seka RavaA 3 §:n 1 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41785: · Suhteellisuus (RavaL 20 §:n 4 momentti, RavaA 3 §:n 3 ja 4 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41786: · Toimialakohtaisten lisäpääomavaatimusten sisällyttäminen ryhmittymän vähimmäispääomavaa- timukseen (komission Rava-asetus 9 artikla).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41787: (5) Ryhmittymän vakavaraisuuslaskelma laaditaan joko konsolidointimenetelmällä tai vähennys- ja yh- teenlaskumenetelmällä tai näiden menetelmien yhdistelmänä. Vakavaraisuuden laskennassa käytettä- vista menetelmistä saadetään RavaA 1 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41788: 4.2 Konsolidointimenetelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41789: (6) RavaL 26 §:n nojalla Finanssivalvonta voi antaa tarkempia määräyksia finanssiryhmittymään kuuluvien luottolaitosten, vakuutusyritysten ja sijoituspalveluyritysten lisävalvonnasta sekä valvonnan kannalta tarpeellisia tarkempia määräyksiä RavaL 19 §:n 2 momentissa säädetyn ilmoitusvelvollisuuden täyttä- misestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41790: MÄÄRÄYS (kohdat 7-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41791: (7) Konsolidointimenetelmää käytettäessä laskennan lähtökohtana on emoyrityksen konsernitaseen mu- kainen oma pääoma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41792: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41793: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41794: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41796: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41799: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41804: (8) Ryhmittymän omaan pääomaan lisätään sellaisten ryhmittymään kuuluvien yritysten, joita ei ole yhdis- telty konsernitaseeseen, vaikutus ryhmittymän omaan pääomaan. Konsernitaseesta vähennetään kon- sernitaseeseen yhdisteltyjen, mutta ryhmittymään kuulumattomien yritysten vaikutus ryhmittymän omaan pääomaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41805: (9) Omia varoja laskettaessa taseen oman pääoman eriin tehdään oikaisuja riippuen siitä, perustuuko oma pääoma kansainvälisten (IFRS) vai kotimaisten (FAS) tilinpäätössäännös-ten mukaan laadittuun tasee- seen. Oikaisut johtuvat erilaisista kirjaus- ja arvostusperiaatteista tai siitä, ettei oman pääoman erä ole luettavissa toimialan sääntöjen mukaisiin omiin varoihin. Vastaavasti konsernitaseen omaan pää- omaan sisältymättömät omien varojen erat lisätään toimialakohtaisten sääntöjen mukaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41806: (10) Yrityskohtaiset siirtokelvottomat erät vähennetään yrityskohtaisten omien varojen vähimmäismäärien ylittäviltä osin ja vain toisella toimialalla kelpaavat erät vähennetään siltä osin, kuin ne ylittävät ky- seessä olevan toimialan omien varojen vähimmäismäärän.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41807: (11) Ryhmittymän vakavaraisuus (omien varojen yli- tai alijaama) lasketaan vähentämälla ryhmittymän omista varoista rahoitus- ja vakuutusalojen yhteenlasketut omien varojen vaatimukset. Vakavaraisuus- suhde lasketaan jakamalla ryhmittymän omat varat sen omien varojen vaatimuksella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41808: 4.2.2 Konsolidointimenetelmän täyttöohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41809: MÄÄRÄYS (kohdat 12-28)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41810: (12) Ryhmittyman emoyrityksen konsernitaseen osoittama oman pääoman määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41811: (13) Konsolidontimenetelmää käytettäessä lähtökohtana on ryhmittymän emoyrityksen konsernitaseen osoittama oman pääoman määrä. Silloin, kun konsernitilinpäätos laaditaan RavaTPA:n mukaisesti, omassa pääomassa tulee huomioida myös vähemmistöosuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41812: (14) +/- Ryhmittymään ja konserniin kuuluvien yritysten määrittelyerojen vaikutus omaan pääomaan Konsernitilinpäätökseen yhdistelemättömien, mutta ryhmittymään kuuluvien yritysten vaikutus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41813: (15) Lisätään/vähennetään niiden yritysten vaikutus omaan pääomaan, joita noudatettujen tilinpäätösperi- aatteiden mukaan ei ole otettu mukaan konserniin, mutta jotka kuuluvat ryhmittymään (RavaL 3 §).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41814: (16) Konsernitaseeseen sisaltyvien, mutta ryhmittymään kuulumattomien yritysten vaikutus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41815: (17) Lisätään/vähennetään konsernilaskennassa konsernitaseeseen mukaan otettujen, mutta vakavarai- suuslaskennassa pois jätettävien yritysten vaikutus omaan pääomaan (RavaL 17 § ja VYL 26 luvun 24 ja 25 §).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41816: (18) - Liikearvo ja muut aineettomat hyödykkeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41817: (19) Konsernitaseen liikearvo ja muut aineettomat hyödykkeet vähennetään eriteltynä samoin kuin omis- tusosuuden mukainen osuus osakkuusyhtiöiden liikearvosta ja aineettomista hyödykkeistä. Aineetto- mien hyödykkeiden vähentämiseen sovelletaan rahoitusalan osalta EU:n vakavaraisuusasetuksen (CRR) 37 artiklaa ja vakuutusalan osalta Solvenssi II -asetuksen 12 artiklaa ja 13 artiklan 5 kohtaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41818: (20) - Tilikauden tulokseen ja voitonjakoon kohdistuvat vähennykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41819: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41820: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41821: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41823: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41826: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41827: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41830: Tilikauden tai osavuosijakson voitto, kun Finanssivalvonnan tai Euroopan keskuspankin lupaa sen sisällyttämiseen rahoitusalaan kuuluvan yrityksen ydinpääomaan ei ole saatu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41831: (21) Ryhmittymän omasta pääomasta vähennetään rahoitusalaan kuuluvien yritysten tilikauden tai osavuo- sijakson voitto, kun EU:n vakavaraisuusasetuksen (CRR) 26 artiklan 2 kohdan mukaista lupaa sen sisäl- lyttämiseen ydinpääomaan tai konsolidoituun ydinpääomaan ei ole saatu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41832: Rahoitusalan yritysten ehdotettu ja suunniteltu voitonjako sekä muut edellisessä kohdassa tarkoite- tun luvan ehdoissa edellytetyt vähennykset, mikäli edellisessä kohdassa mainittu lupa voittojen sisäl- Lyttämiseen on saatu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41833: (22) Mikäli edellisessä kohdassa tarkoitettu lupa on myönnetty, vähennetään koko tilikauden tai osavuosi- jakson voiton sijaan rahoitusalaan kuuluvien yritysten tilikauden tai osavuosijakson voitosta suunni- teltu voitonjako ja muut edellisen kohdan lupaehtoihin liittyvät vähennykset siihen saakka, kun yhtiö- kokous on vahvistanut tilinpäätöksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41834: Vakuutusalan yritysten ehdotettu tai päätetty voitonjako
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41835: (23) Ryhmittymän omasta pääomasta vähennetään edellisen tilikauden voiton perusteella ehdotettu tai päätetty voitonjako ryhmittymän ulkopuolelle, jos se vielä on kirjaamatta pois omasta pääomasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41836: Ryhmittymän johdossa olevan holdingyhtion voitonjako
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41837: (24) Ryhmittymän johdossa olevan holdingyhtiön voitonjako, jollei sovelleta EU:n vakavaraisuusasetuksen (CRR) 26 artiklan 2 kohdan mukaista lupamenettelyä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41838: 1. +/- Rahoitusalan toimialakohtaisten säännösten mukaisesti tehtävät muut oikaisut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41839: o Taseeseen merkityt etuuspohjaisen eläkerahaston varat EU:n vakavaraisuusasetuksen (CRR) 41 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41840: · Tulevista veronalaisista voitoista riippuvat laskennalliset verosaamiset EU:n vakavaraisuus- asetuksen (CRR) 36.1(c) ja 39 artikloiden mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41841: · Arvopaperistetuista eristä johtuvat oman pääoman lisäykset EU:n vakavaraisuusasetuksen (CRR) 32 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41842: · Rahavirran suojauksista ja omien velkojen arvonmuutoksista johtuvat voitot tai tappiot EU:n vakavaraisuusasetuksen (CRR) 33 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41843: · Muut EU:n vakavaraisuusasetuksen (CRR) 34 artiklan mukaiset arvonoikaisut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41844: · Luottoriskin kattamiseksi arvioitujen IRB-mallin mukaisesti laskettujen odotettujen tappioi- den ja tulokseen kirjattujen arvonalennusten välinen erotus EU:n vakavaraisuusasetuksen (CRR) 36.1(d) ja 40 artikloiden mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41845: · Merkittävät ydinpääoman (CET1) sijoitukset finanssialan yhteisöihin EU:n vakavaraisuusase- tuksen (CRR) 36.1(i) artiklan mukaisesti. (Sovelletaan ryhmittymän yhteenlaskettuihin omis- tuksiin finanssialan yhteisöissä, joita ei konsolidoida ryhmittymätasolla)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41846: · Ei-merkittävät ydinpääoman (CET1) sijoitukset finanssialan yhteisöihin EU:n vakavaraisuus- asetuksen (CRR) 36.1(h) artiklan mukaisesti. (Sovelletaan ryhmittymän yhteenlaskettuihin omistuksiin finanssialan yhteisöissä, joita ei konsolidoida ryhmittymätasolla)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41847: · Osuuspääoma, joka on tilinpäätössääntöjen mukaan vierasta pääomaa ja joka on ydinpää- omaa EU:n vakavaraisuusasetuksen (CRR) siirtymäsäännösten perusteella
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_41848: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41851: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41852: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41855: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41858: · Ensisijaisen lisäpääoman (AT1) instrumentit EU:n vakavaraisuusasetuksen (CRR) 56 artiklan vähennysten jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41859: · Toissijaisen pääoman (T2) instrumentit EU:n vakavaraisuusasetuksen (CRR) 66 artiklan vä- hennysten jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41860: · Muut oikaisut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41861: 2. +/- Vakuutusalan toimialakohtaisten säännösten mukaisesti tehtävät muut oikaisut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41862: · Käyvän arvon oikaisut Solvenssi II -asetuksen 7-10 sekä 13 ja 14 artikloiden mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41863: · Laskennallisten verojen oikaisut Solvenssi II -asetuksen 15 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41864: · Ehdolliset velat Solvenssi II -asetuksen 11 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41865: · Omistukset rahoitusalan konsolidoimattomiin yli 10 % omistuksiin Solvenssi II -asetuksen 68 artiklan mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41866: · Pääomalainat luokat (Tier) 1, 2 ja 3 Solvenssi II -asetuksen 69, 71-73 ja 76-77 artikloiden mu- kaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41867: · Muut oikaisut Solvenssi II -asetuksen 16 artiklan mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41868: (25) - Vain vakuutusalaan kuuluvien yritysten omiin varoihin hyväksyttävistä eristä määrä, joka ylit- tää vakuutusalaan kuuluvien yritysten yhteenlasketun omien varojen vahimmaismäärän
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41869: Vain vakuutusalan omiin varoihin hyväksyttävät erät, kokonaismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41870: Vain vakuutusalan omiin varoihin hyväksyttävät erät, omien varojen vähimmäismäärän kattamiseen käytetty määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41871: (26) Ryhmittymän omista varoista vähennetään se osa omiin varoihin luetuista siirtokelpoisista ja vain va- kuutusalan hyväksymistä omista varoista, joita ei tarvita vakuutusalan yritysten omien varojen vähim- maismäärän katteeksi. Vähennysmäärää laskettaessa huomioidaan toimialakohtaisten omien varojen lakisääteinen tai viranomaisten sääntelemä suhteellinen rakenne. Tämä vähennys tehdään sen varmis- tamiseksi, että yli toimialojen käytettävissä olevat omat varat ovat monialaisia (RavaL 20 §:n 2 mo- mentti).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41872: 3. - Vain rahoitusalaan kuuluvien yritysten omiin varoihin hyväksyttavista eristä määrä, joka ylittää rahoitusalaan kuuluvien yritysten yhteenlasketun omien varojen vähimmaismäärän
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41873: Vain rahoitusalan omiin varoihin hyväksyttävät erät, kokonaismäärä Vain rahoitusalan omiin varoihin hyväksyttävät erät, omien varojen vähimmäismäärän kattamiseen käytetty määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41874: (27) Ryhmittymän omista varoista vähennetään se osa omiin varoihin luetuista siirtokelpoisista ja vain ra- hoitusalan hyväksymista omista varoista, joita ei tarvita rahoitusalan yritysten omien varojen vähim- maismäärän katteeksi. Vähennysmäärää laskettaessa huomioidaan toimialakohtaisten omien varojen lakisääteinen tai viranomaisten sääntelemä suhteellinen rakenne. Tämä vähennys tehdään sen varmis- tamiseksi, että yli toimialojen käytettävissä olevat omat varat ovat monialaisia (RavaL 20 §:n 2 mo- mentti).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41875: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_41877: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41880: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41881: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41883: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41890: (28) - Sellaiset yrityskohtaiset omien varojen vähimmäismäärän ylittävät omien varojen erät, kuten vähemmistoosuus ja muut lain 20 §:n 3 momentissa ja Euroopan parlamentin ja neuvoston direk- tiivin 2002/87/EY ja Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 575/2013 täydentämi- sesta finanssiryhmittymien vakavaraisuusvaatimusten laskentamenetelmien soveltamista kos- kevilla teknisilla sääntelystandardeilla annetun komission delegoidun asetuksen (EU) N:o 342/2014 6 artiklassa tarkoitetut erät, joita ei voida käyttää ryhmittymään kuuluvien muiden yri- tysten tappioiden kattamiseen (siirtokelpoisuusvaatimus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41891: (29) Vähennetään RavaL 20 §:n 3 momentissa tarkoitetut erät, joita ei voida käyttää ryhmittymään kuulu- vien muiden rahoitus- ja vakuutusalan yritysten omien varojen vähimmäismäärän täyttämiseen (siirto- kelpoisuusvaatimus). Varoilla, jotka eivät ole siirrettävissa ryhmittymän eri yritysten välillä, voidaan kattaa ainoastaan yrityksen omaa omien varojen vähimmäismäärää. Ryhmittymän omista varoista vä- hennettävä kunkin yrityksen omien varojen vähimmäismäärän ylittävä siirtokelvottomien erien osuus lasketaan sisäisten erien eliminointien jälkeen jäljelle jäävistä omista varoista ja omien varojen vähim- mäismääristä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41892: Siirtokelvottomat erät, ryhmittymä yhteensä [rahoitusalan osalta EU:n vakavaraisuusasetus (CRR) 84 artikla ja vakuutusalan osalta Solvenssi II -asetus 330 artikla]
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41893: · pääomalainat ja muut etuoikeudeltaan huonommat velat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41894: · etuoikeutetut osakkeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41895: · vähemmistoosuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41896: · oma lisavarallisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41897: · tasoitusmäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41898: · keskinäisten vakuutusyhtioiden ja vakuutusyhdistysten omat varat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41899: · muut siirtokelvottomat erät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41900: (30) Siirtokelvottomat erät, omien varojen vähimmäismäärän kattamiseen käytetty määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41901: (31) Siirtokelvottomien erien yhteismäärä, joka on käytetty ryhmittymän yritysten omien varojen vähim- mäismäärien kattamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41902: (32) Ryhmittyman omat varat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41903: Ryhmittymän omat varat muodostuvat kaavan kohtien 1-9 summana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41904: (33) - Ryhmittyman omien varojen vähimmäismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41905: Rahoitusalan sääntojen mukaan laskettu omien varojen vähimmäismäärä yhteensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41906: (34) Rahoitusalaan kuuluvien sekä muiden ryhmittymään kuuluvien yritysten rahoitusalan sääntöjen mu- kaan laskettu omien varojen vähimmäismäärä, josta on eliminoitu ryhmittymän sisäisten erien aiheut- tamat vähimmaisvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41907: Vakuutusalan sääntojen mukaan laskettu omien varojen vähimmäismäärä yhteensä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41908: (35) Vakuutusalaan kuuluvien sekä muiden ryhmittymään kuuluvien yritysten vakuutusalan sääntöjen mu- kaan laskettu omien varojen vähimmäismäärä (SCR), josta on eliminoitu ryhmittymän sisäisten erien aiheuttamat vahimmaisvaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_41909: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41910: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41911: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41913: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41916: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41920: (36) Omien varojen vähimmäismäärään sisällytetään komission Rava-asetuksen 9 artiklassa säädetyt toimi- alakohtaiset lisäpääomavaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41921: (37) Ryhmittyman vakavaraisuus (omien varojen ylijäämä/alijäämä)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41922: (38) Ryhmittymän vakavaraisuus eli omien varojen ylijäämä saadaan vähentämällä ryhmittymän omista varoista ryhmittymän omien varojen vähimmäismäärä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41923: (39) Ryhmittyman vakavaraisuussuhde (omat varat/omien varojen vahimmais-maara)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41924: (40) Ryhmittymän vakavaraisuussuhde saadaan jakamalla ryhmittyman omien varojen määrä ryhmittymän omien varojen vähimmäismäärällä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41925: 4.3 Vähennys- ja yhteenlaskumenetelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41926: (41) Vähennys- ja yhteenlaskumenetelmää käytettäessä ryhmittymän vakavaraisuus lasketaan yhdistele- mällä ryhmittymän johdossa olevan yrityksen omat varat ja omien varojen vähimmäismäärä sekä ryh- mittymän omistusosuuden mukainen osuus tytäryritysten ja omistusyhteysyritysten omista varoista ja omien varojen vähimmäismäärästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41927: (42) RavaL 26 §:n nojalla Finanssivalvonta voi antaa tarkempia määräyksia finanssiryhmittymään kuuluvien luottolaitosten, vakuutusyritysten ja sijoituspalveluyritysten lisävalvonnasta sekä valvonnan kannalta tarpeellisia tarkempia määräyksiä RavaL 19 §:n 2 momentissa säädetyn ilmoitusvelvollisuuden täyttä- misestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41928: MÄÄRÄYS (kohdat 31-34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41929: (43) Laskelman lähtökohtana ovat ryhmittymän johtavan yrityksen ja tytär- ja omistusyhteysyritysten yritys- kohtaiset omat varat ja omien varojen vähimmäismäärä, joista huomioidaan ryhmittymän omistus- osuuden mukainen osuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41930: (44) Omista varoista eliminoidaan muun muassa moninkertainen pääoman käyttö sekä omien varojen vä- himmäismäärään sisältyvät ryhmittymän sisäiset erät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41931: (45) Yrityskohtaiset siirtokelvottomat erät vähennetään yrityskohtaisten omien varojen vähimmäismäärien ylittäviltä osin, ja vain toisella toimialalla kelpaavat erät vähennetään siltä osin, kuin ne ylittävät ky- seessä olevan toimialan omien varojen vähimmäismäärän.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41932: (46) Ryhmittymän vakavaraisuus (omien varojen yli- tai alijaama) saadaan vähentämälla ryhmittymän omista varoista rahoitus- ja vakuutusalojen yhteenlasketut omien varojen vähimmäismäärät. Vakava- raisuussuhde saadaan jakamalla ryhmittymän omat varat sen omien varojen vaatimuksella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41933: 4.3.2 Vähennys- ja yhteenlaskumenetelmän täyttöohjeet MÄÄRÄYS (kohdat 35-38)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41934: (47) + Ryhmittyman johdossa olevan yrityksen omien varojen määrä (Raportointilomakkeen rivi 05.05, sarake 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_41935: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41936: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41937: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41939: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41943: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41946: (48) Ryhmittymän johdossa olevan yrityksen omien varojen määrä määräytyy Raval 18 §:n mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41947: (49) - Kohdassa 1 tarkoitettuun omien varojen määrään sisältyvä ryhmittymän johdossa olevan yrityk- sen ja ryhmittymään kuuluvien rahoitus- ja vakuutusalan yritysten välinen moninkertainen pää- oman käytto. Vähennettävät erät tulee eritellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41948: (Raportointilomakkeen rivi 05.05, sarake 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41949: (50) Eliminoidaan ryhmittymän johdossa olevan yrityksen omista varoista niihin sisältyvät ryhmittymän si- säiset pääomalainat ja debentuurit. Välittömän omistuksen lisäksi tulee huomioida myös välillinen omistus RavaA 3 §:n 3 ja 4 momentin mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41950: (51) (Raportointilomakkeen rivi 05.05, sarake 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41951: (52) Eliminoidaan ryhmittymän johdossa olevan yrityksen omista varoista niihin sisältyvä ryhmittymän muu sisäinen moninkertainen pääoman käyttö. Välittömän omistuksen lisäksi tulee huomioida myös välilli- nen omistus RavaA 3 §:n 3 ja 4 momentin mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41952: (53) - Muun tytär- ja omistusyhteysyrityksen osakkeiden tai osuuksien arvoon sisältyvä ryhmittymän johdossa olevan yrityksen osakkeiden tai osuuksien arvo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41953: (54) (Raportointilomakkeen rivi 05.05, sarake 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41954: (55) Vähennetään myös muun toimialan tytär- ja omistusyhteysyrityksen osakkeiden tai osuuksien arvoon sisältyvä johdossa olevan yrityksen osakkeiden ja osuuksien arvo. Tarkoituksena on estää laajemman ryhmittymän (ei pelkästään rahoitus- ja vakuutusalan yrityksien) kautta tapahtuva keinotekoinen pää- oman luominen (ristiinomistus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41955: OHJE (kohta 39)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41956: (56) Edellä kohdassa 38 tarkoitetaan esimerkiksi tilannetta, jossa johdossa oleva yritys on sijoittanut ryh- mittymään kuuluvaan teollisuuslaitokseen omana pääomana tai pääomalainana 200 ja tämä edelleen sijoittaa sen takaisin omana pääomana tai pääomalainana johdossa olevaan yritykseen. Vähennettävä osakkeiden ja osuuksien arvo saadaan kertomalla osakkeiden tai osuuksien arvo johdossa olevan yri- tyksen suhteellisella omistusosuudella tytär- ja omistusyhteysyrityksestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41957: MÄÄRÄYS (kohdat 40-59)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41958: (57) - Kohdassa 1 tarkoitettuun omien varojen määrään sisältyvä ryhmittymän keskinäisistä liiketoi- mista syntynyt sisäinen kate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41959: (58) (Raportointilomakkeen rivi 05.05, sarake 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41960: (59) Vähennetään johdossa olevan yrityksen omiin varoihin sisältyvä sisäinen kate ja muut oikaisut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41961: (60) I Ryhmittymän johdossa olevan yrityksen oikaistu omien varojen määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41962: (61) (Raportointilomakkeen rivi 05.05, sarake 30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41963: (62) + Tytär- ja omistusyhteysyrityksinä olevien rahoitus- ja vakuutusalan yritysten omien varojen yhteen- laskettu määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_41964: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41965: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41966: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41968: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41972: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41975: (63) (Raportointilomakkeen rivit 05.10 .- 05.xx, sarakkeet 05 ja 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41976: (64) Sarakkeeseen 05 merkitään ryhmittymän omistusosuus prosentteina tytär- ja omistusyhteysyrityksinä olevissa rahoitus- ja vakuutusalan yrityksissä. Sarakkeeseen 10 lisätään edellä mainittujen yritysten RavaL 18 §:n mukaiset omat varat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41977: (65) - Kohdassa 5 tarkoitettujen yritysten omien varojen yhteismäärään sisältyvä näiden yritysten ja ryhmit- tymään kuuluvien rahoitus- ja vakuutusalan yritysten välinen moninkertainen pääoman käyttö. Vähen- nettävät erät tulee eritellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41978: (66) (Raportointilomakkeen rivit 05.10 .- 05.xx, sarakkeet 15 ja 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41979: (67) Eliminoidaan ryhmittymään kuuluvien tytär- ja omistusyhteysyrityksinä olevien rahoitus- ja vakuutus- alan yritysten omiin varoihin sisältyvä ryhmittymän sisäinen pääoman käyttö vastaavasti kuten koh- dissa 2 ja 3. Näitä eriä ovat ainakin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41980: o johdossa olevan yrityksen tai sen toisen tytär- tai omistusyhteysyrityksen myöntämät pää- omalainat. Tarkoituksena on vähentää pääomalainojen muodossa oleva kahdenkertainen pääoman käyttö ja estää esim. ryhmittymään kuuluvan teollisuusyrityksen kautta tapah- tuva kahdenkertaisen pääoman luominen. Vähentäminen tapahtuu pääomalainan saaneen yrityksen omista varoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41981: o johdossa olevan yrityksen osakkeiden ja osuuksien arvo (ristiinomistus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41982: (68) - Sijoitukset ryhmittymän johdossa olevan yrityksen muuhun tytär- ja omistusyhteysyritykseen, jos tämä muu yritys on sijoittanut ryhmittymän johdossa olevan yrityksen toiseen rahoitus- ja vakuutusalan tytär- tai omistusyhteysyrityksen omiin varoihin luettaviin eriin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41983: (69) (Raportointilomakkeen rivit 05.10 .- 05.xx, sarakkeet 15 ja 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41984: (70) Vähennetään sijoitukset johdossa olevan yrityksen muuhun tytär- ja omistusyhteysyritykseen, jos tämä muu yritys on sijoittanut johdossa olevan yrityksen toiseen rahoitus- ja vakuutusalan tytär- tai omistus- yhteysyrityksen omiin varoihin luettaviin eriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41985: (71) Tarkoituksena on estää laajemman ryhmittymän kautta tapahtuva omien varojen luominen ryhmitty- män sisällä. Esimerkiksi ryhmittymään kuuluva rahoitus- ja vakuutusalan yritys sijoittaa ryhmittymään kuuluvaan teollisuuslaitokseen, joka edelleen sijoittaa varat takaisin rahoitus- tai vakuutusalan yrityk- sen omiin varoihin hyväksyttäviin eriin. Enintään vähennetään kuitenkin määrä, joka vastaa muun ty- tär- ja omistusyhteysyrityksen sijoitusta rahoitus- tai vakuutusalan tytär- tai omistusyhteysyritykseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41986: (72) - Kohdassa 5 tarkoitettuun omien varojen yhteismäärään sisältyvä ryhmittymän keskinäisistä liiketoi- mista syntynyt sisäinen kate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41987: (73) (Raportointilomakkeen rivit 05.10 .- 05.xx, sarake 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41988: (74) Vähennetään tytär- ja omistusyhteysyrityksenä olevien rahoitus- ja vakuutusalan yritysten omiin varoi- hin sisältyvä sisäinen kate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41989: (75) Omien varojen yhteismäärä oikaisujen jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41990: (76) (Raportointilomakkeen rivi 05.10-05.xx, sarake 30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_41991: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_41992: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_41993: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_41996: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_41999: (77) - Lain 20 §:n 3 momentissa ja Euroopan parlamentin ja neuvoston direktiivin 2002/87/EY ja Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 575/2013 täydentämisestä finanssiryhmittymien vakava- raisuusvaatimusten laskentamenetelmien soveltamista koskevilla teknisillä sääntelystandardeilla an- netun komission delegoidun asetuksen (EU) N:o 342/2014 6 artiklassa tarkoitetut erät, joita ei voida käyttää ryhmittymään kuuluvien muiden rahoitus- ja vakuutusalan yritysten omien varojen vähimmäis- määrän täyttämiseen (siirtokelpoisuusvaatimus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42000: (78) (Raportointilomakkeen sarake 35)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42001: (79) Vähennetään RavaL 20 §:n 3 momentissa tarkoitetut erät, joita ei voida käyttää ryhmittymän kuuluvien muiden rahoitus- ja vakuutusalan yritysten omien varojen vähimmäismäärän täyttämiseen (siirtokel- poisuusvaatimus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42002: (80) Siirtokelvottomuuden osalta sovelletaan samoja periaatteita kuin luvun 4.2.1 konsolidointimenetelmää koskevassa kaavan vastaavassa kohdassa 9.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42003: (81) II Rahoitus- ja vakuutusalan tytär- ja omistusyhteysyritysten omien varojen oikaistu määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42004: (82) + Vain rahoitusalan yritysten omiin varoihin hyväksyttävistä eristä määrä, joka ylittää rahoitusalaan kuuluvien yritysten yhteenlasketun omien varojen vähimmäismäärän
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42005: (83) (Raportointilomakkeen sarake 40)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42006: (84) Vähennetään se osa omiin varoihin luetuista vain rahoitusalan hyväksymistä siirtokelpoisista omista varoista, joita ei tarvita rahoitusalan yritysten omien varojen vähimmäismäärän katteeksi. Vähennys- määräa laskettaessa huomioidaan toimialakohtaisten omien varojen lakisääteinen tai viranomaisten sääntelemä suhteellinen rakenne. Tämä vähennys tehdään sen varmistamiseksi, että yli toimialojen käytettävissä olevat omat varat ovat monialaisia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42007: (85) + Vain vakuutusalan yritysten omiin varoihin hyväksyttävistä eristä määrä, joka ylittää vakuutusalaan kuuluvien yritysten yhteenlasketun omien varojen vähimmäismäärän
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42008: (86) (Raportointilomakkeen sarake 45)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42009: (87) Vähennetään se osa omiin varoihin luetuista vain vakuutusalan hyväksymistä siirtokelpoisista omista varoista, joita ei tarvita vakuutusalan yritysten omien varojen vähimmäismäärän katteeksi. Vähennys- määrää laskettaessa huomioidaan toimialakohtaisten omien varojen lakisääteinen tai viranomaisten sääntelemä suhteellinen rakenne. Tämä vähennys tehdään sen varmistamiseksi, että yli toimialojen käytettävissä olevat omat varat ovat monialaisia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42010: (88) III Rahoitus- ja vakuutusalan omiin varoihin hyväksyttävien erien rajoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42012: IV Ryhmittymän omat varat (I+II-III)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42013: (90) (Raportointilomakkeen sarake 50)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42014: (91) Ryhmittymän omat varat sisältää eliminoitujen omien varojen määrän ryhmittymässä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42015: (92) + Ryhmittymän johdossa olevan yrityksen omien varojen vähimmäismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42016: (93) (Raportointilomakkeella rivi 05, sarake 55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42017: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_42021: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42022: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42023: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42025: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42030: (94) Omien varojen vähimmäismäärään luetaan ryhmittymän johdossa olevan yrityksen omien varojen Ra- vaL 18 §:n mukaisesti maaritetty omien varojen vahimmaismäärä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42031: (95) Omien varojen vähimmäismäärään sisällytetään toimialakohtaiset lisäpääomavaatimukset komission Rava-asetuksen 9 artiklan mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42032: (96) - Kohdassa 12 tarkoitetusta omien varojen vähimmäismäärästä osuus, joka perustuu muihin ryhmitty- män yrityksiin kohdistuviin saamisiin, sijoituksiin, velkoihin ja taseen ulkopuolisiin sitoumuksiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42033: (97) (Raportointilomakkeella rivi 05, sarake 55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42034: (98) Kohdassa 12 tarkoitetusta omien varojen vähimmäismäärästä vähennetään osuus, joka perustuu mui- hin ryhmittymän yrityksiin kohdistuviin saamisiin, sijoituksiin, velkoihin ja taseen ulkopuolisiin si- toumuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42035: (99) + Rahoitus- ja vakuutusalan tytär- ja omistusyhteysyritysten yhteenlaskettu omien varojen vähimmäis- määrä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42036: (100) (Raportointilomakkeella rivi 05.10-05.xx, sarake 55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42037: (101) Omien varojen vähimmäismäärään luetaan rahoitus- ja vakuutusalan tytär- ja omistusyhteysyritysten RavaL 18 §:ssa tarkoitettu yhteenlaskettu omien varojen vahimmaismäärä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42038: (102) Omien varojen vähimmäismäärään sisällytetään toimialakohtaiset lisäpääomavaatimukset komission Rava-asetuksen 9 artiklan mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42039: (103) - Kohdassa 14 tarkoitetusta yhteenlasketusta omien varojen vähimmäismäärästä osuus, joka perustuu muihin ryhmittymän yrityksiin kohdistuviin saamisiin, sijoituksiin, velkoihin ja taseen ulkopuolisiin si- toumuksiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42040: (104) (Raportointilomakkeella rivi 05.10-05.xx, sarake 55)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42041: (105) Kohdassa 14 tarkoitetusta yhteenlasketusta omien varojen vähimmäismäärästä vähennetään se osuus, joka perustuu muihin ryhmittymän yrityksiin kohdistuviin saamisiin, sijoituksiin, velkoihin ja taseen ulkopuolisiin sitoumuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42042: (106) V Ryhmittymän omien varojen vähimmäismäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42043: (107) (Raportointilomakkeella sarake 60)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42044: (108) Sarake 60 laskee sarakkeessa 5 esitetyn prosenttimäärän mukaisen osuuden sarakkeessa 55 esitetystä omien varojen vähimmäismäärästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42045: (109) VI Ryhmittymän vakavaraisuus (IV-V)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42046: (110) (Raportointilomakkeella sarake 65)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42047: (111) Ryhmittymän vakavaraisuudella tarkoitetaan omien varojen ja omien varojen vähimmäismäärän ero- tusta (yli- tai alijäämää). Raportointilomakkeella tämä on sarakkeiden 50 ja 60 erotus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42048: (112) VII Ryhmittymän vakavaraisuussuhde (IV/V)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42049: (113) (Raportointilomakkeella rivi 01, sarake 65)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42050: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_42054: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_42055: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_42056: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_42059: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_42068: (114) Ryhmittymän vakavaraisuussuhde saadaan jakamalla omien varojen määrä omien varojen vähimmäis- määrällä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_42069: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42070: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42071: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42073: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42077: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42078: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42081: 5 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42082: (1) RavaL 26 §:n nojalla Finanssivalvonta voi antaa tarkempia määräyksia finanssiryhmittymään kuuluvien luottolaitosten, vakuutusyritysten ja sijoituspalveluyritysten lisävalvonnasta sekä valvonnan kannalta tarpeellisia tarkempia määräyksiä RavaL 19 §:n 2 momentissa säädetyn ilmoitusvelvollisuuden täyttä- misestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42083: MÄÄRÄYS (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42084: 5.1 Ryhmittymän vakavaraisuusraportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42085: (2) Ryhmittymän johdossa olevan yrityksen tulee raportoida ryhmittymän vakavaraisuustiedot lomakkeen RVA1 "Konsolidointimenetelma" mukaisesti tiedonantajatasolla 405, 265 tai 266. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42086: OHJE (kohdat 3-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42087: (3) Näiden määräysten ja ohjeiden mukaisessa lomakkeen RVA1 "Konsolidointimenetelmä" raportoinnissa noudatetaan tarkempaa raportointiohjeistusta, joka löytyy Finanssivalvonnan verkkopalvelusta (www.finanssivalvonta.fi/raportointi). (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42088: (4) Lomake "RVA2 Vähennys- ja yhteenlaskumenetelmä" ei toistaiseksi ole käytössä Finanssivalvonnan valvottavien taloudellisten tietojen ja riskien raportointijärjestelmässä, koska kyseisellä menetelmällä raportoivia Finanssivalvonnan valvomia ryhmittymia ei nykyisellään ole. Menetelmän käyttöönotosta tulee sopia erikseen Finanssivalvonnan kanssa. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42089: 5.2 Ryhmittymän rakennetta koskevat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42090: MÄÄRÄYS (kohdat 5-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42091: (5) Ryhmittymän johdossa olevan yrityksen tulee ilmoittaa Finanssivalvonnalle ryhmittymän rakennetta koskevat tiedot. Nämä tiedot sisältävät ryhmittymään kuuluvat yritykset eriteltynä niin, että seuraavat asiat ilmenevät:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42092: · yrityksen asema ryhmittymässä (emo-, tytär- tai omistusyhteysyritys). Jos konsernissa on useam- pia konsolidointitasoja, ilmoitetaan lähin emoyritys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42093: · ryhmittymän muiden yritysten yhteenlaskettu omistusosuus raportoitavassa yrityksessä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42094: · yrityksen viimeksi laaditun taseen loppusumma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42095: · yrityksen luonne (omistusyhteisö, luottolaitos, vakuutuslaitos, sijoituspalveluyritys, kiinteistöyh- teisö, muu palveluyritys, muu elinkeinoyhteiso). Kiinteistöyhteisöistä riittää niiden yhteismäärä alakonserneittain eriteltynä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42096: · yrityksen toimialakoodi, jos se on muu kuin rahoituslaitos
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42097: · kumpaan toimialaan yritys luetaan RavaL:n mukaista vakavaraisuutta laskettaessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42098: · yritykset, jotka kuuluvat RavaL 3 §:n mukaiseen ryhmittymään, mutta joita noudatettujen tilin- päätösperiaatteiden mukaan ei ole yhdistelty konsernitilinpäätökseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_42099: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42100: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42101: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42103: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42108: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42109: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42112: (6) Lisäksi tulee eritella ne yritykset, jotka on RavaL 17 §:n 2 momentin tai VYL 26 luvun 24 ja 25 §:n mukai- sesti jätetty ottamatta huomioon ryhmittymän vakavaraisuutta laskettaessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42113: (7) Ilmoitukset tulee lähettää vuosittain viimeisen vuosineljänneksen tilanteesta kohdan 5.3(7) raportointi- aikataulun mukaisesti sähköpostilla osoitteeseen FivaRava-vakavaraisuusraportit@fiva.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42114: 5.3 Vakavaraisuuslaskelman apulaskelmat ja erittelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42115: MÄÄRÄYS (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42116: (8) Ryhmittymän vakavaraisuuslaskelman laadinnassa käytetyt erittelyt, täsmäytys- ja muut apulaskelmat tulee lähettää Finanssivalvonnalle vuosittain viimeisen vuosineljänneksen tilanteesta kohdan 5.3(7) raportointiaikataulun mukaisesti Excel-tiedostona sähköpostilla osoitteeseen FivaRava-vakavaraisuus- raportit@fiva.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42117: 5.4 Raportointiajankohdat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42118: MÄÄRÄYS (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42119: (9) Vakavaraisuuslaskelma tulee lähettää Finanssivalvonnalle neljännesvuosittain, kolmelta ensimmäiseltä vuosineljännekseltä viimeistään 10.5., 10.8. ja 10.11. sekä viimeiseltä vuosineljännekseltä helmikuun viimeisenä päivänä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42120: 5.5 Raportoitujen tietojen oikeellisuuden varmentaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42121: OHJE (kohta 10-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42122: (10) Valvottavan tulisi laatia seloste näiden määräysten ja ohjeiden nojalla raportoitujen tietojen oikeelli- suudesta. Seloste tulisi päivätä, ja sekä raportin laatijan että tietojen oikeellisuuden varmentajan tulisi se allekirjoittaa. Valvottavan tulisi säilyttää allekirjoitettu seloste ja se tulisi esittää pyydettäessä Fi- nanssivalvonnalle. Valvottavan tulisi laatia seloste ensimmäisen ilmoituksen yhteydessä, ja sitä tulisi päivittää aina, kun sen kuvaamassa prosessissa tai vastuuhenkilöissä tapahtuu muutoksia. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42123: (11) Finanssivalvonnan verkkopalvelusta (www.finanssivalvonta.fi) Sääntely-osiosta on saatavissa ohjeet kohdassa (10) tarkoitetun selosteen laatimisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_42124: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42125: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42126: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42128: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42131: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42135: 6 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42137: Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvonnan standardit, määräykset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42138: · RA4.12 Rahoitus- ja vakuutusryhmittymien vakavaraisuuden raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42139: · Vakuutusvalvontaviraston kotimaisille vakuutusyhtiöille, vakuutusyhdistyksille, kolmannen maan vakuutusyhtiöiden sivuliikkeille ja lailla perustetuille eläkelaitoksille antama määräys- ja ohjekokoelma (dnro 9/101/2011), luku 14.2 Rahoitus- ja vakuutusryhmittymien vakavaraisuuden laskennassa käytettävät menetelmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_42140: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42141: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42142: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42145: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42149: 7 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42150: Näitä määräyksia ja ohjeita on muutettu niiden voimaan tulon jälkeen seuraavasti: (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42151: · Luvun 3.1 Määräysten ja ohjeiden tavoitetta koskevien kohtien (1) - (3) sanamuotoa on muutettu määräysten ja ohjeiden muotoilutavan muutoksen vuoksi. Asiasisältö ei ole muuttunut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42152: · Luvun 5 kohtaan (2) on lisätty määräys ryhmittymän vakavaraisuustietojen raportoinnista mukaan lukien tiedonantajatasot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42153: · Luvun 5 kohtaan (3) on päivitetty uutta raportointijärjestelmää koskevat raportointiohjeet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42154: · Luvun 5 kohtaan (4) on lisätty maininta siitä, että RVA2 -raportointitaulukko ei ole toistaiseksi käy- tössä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42155: · Luvun 5.5 Raportoitujen tietojen oikeellisuuden varmentaminen on muutettu ohjeeksi ja tekstin muotoilu on muutettu vastaavasti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42156: · Luvun 5 numeroinnit on päivitetty em. muutoksien vuoksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42157: · Luvun 8 liitteistä on poistettu raportointitaulukko RVA2.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42158: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_42161: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42162: Määräykset ja ohjeet 7/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42163: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42166: 1.1.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42169: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42173: 8 Liitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42174: Näihin määräyksiin ja ohjeisiin liittyvät seuraavat liitteet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42175: · Liite 1: Taulukko RVA1 Konsolidointimenetelmä. (Annettu 25.4.2024, voimaan 29.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_42176: FIN-FSA FINANSSIVALVONTA
+

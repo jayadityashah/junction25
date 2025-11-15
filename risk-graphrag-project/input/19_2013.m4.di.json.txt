@@ -1,0 +1,671 @@
+METADATA: {"document_id": 49, "filename": "19_2013.m4.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 14, "paragraph_count": 296}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60915: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60917: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60919: ES FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60921: N N FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60922: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60923: Vastuuvelan kate: Lisäeläkelaitokset sekä hautaus- ja eroavustuskassat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60924: Dnro FIVA 1/01.00/2021
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60925: Antopäivä 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60926: Voimaantulopäivä 1.1.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60927: Lisätietoja Vakuutusvalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60928: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60929: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60932: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60934: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60935: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60936: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60937: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60938: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60939: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60940: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöja, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60941: Finanssivalvonta antaa määräyksia ainoastaan maarayksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60943: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60944: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Oh- jeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60945: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toiminta- ohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60946: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60947: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60948: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60949: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60950: 20.11.2013 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60951: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60952: 1 Soveltamisala ja maaritelmät 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60953: 1.1 Soveltamisala 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60954: 1.2 Määritelmät 4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60955: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60957: 2.1 Lainsäädäntö 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60958: 2.2 Finanssivalvonnan maarayksenantovaltuudet. 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60959: 3 Tavoitteet 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60960: 4 Katearvo, kateluettelo ja katteeseen kuuluvat varat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60962: 4.1 Omaisuuden katearvon maarittaminen 7
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60963: 4.2 Kateluettelo 7
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60964: 4.3 Omaisuuserien merkitseminen kateluetteloon 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60965: 4.4 Katteen valvonta 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60966: 4.5 Sijoitusrahasto-osuudet, johdannaissopimukset ja erinaiset muut omaisuuslajit vastuuvelan katteessa 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60967: 4.6 Valuuttariski ja sijoitussidonnaisten lisaeläkejärjestelyjen sijoitusriski 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60968: vastuuvelan katteessa (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60969: 5 Kumotut määräykset ja ohjeet 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60970: 6 Muutoshistoria 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60971: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60974: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60975: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60980: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60981: Antopäivä: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60983: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60985: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60986: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60989: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60990: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60991: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetussa laissa tarkoi- tettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60992: · lisäelakesaatioista ja lisaeläkekassoista annetun lain (947/2021) 1 luvun 2 §:ssä määritellyt lisäeläkesäätiöt ja lisäelakekassat (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60993: · hautaus- ja eroavustuskassat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60994: Näitä määräyksiä ja ohjeita sovelletaan lisäksi eläkesäätioistä ja elakekassoista annetun lain, li- säeläkesäätioistä ja lisäeläkekassoista annetun lain ja vakuutuskassalain voimaanpanolain (951/2021) 3 §:n ja 5 §:n mukaisiin osastoihin, jotka harjoittavat lisäeläketoimintaa. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60995: Sijoitussidonnaiseen lisäeläkejärjestelyyn sovelletaan vain luvuissa 4.1 ja 4.4, luvun 4.5 kohdissa 24 - 32 sekä luvussa 4.6 olevia vastuuvelan katetta koskevia määräyksiä ja ohjeita. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60996: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60997: Näissä määräyksissa ja ohjeissa käytetään jäljempanā seuraavia määritelmia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60998: (1) Lisäeläkelaitoksella tarkoitetaan kaikkia edella luvussa 1.1 mainittuja määräysten ja ohjeiden soveltamisalaan kuuluvia Finanssivalvonnasta annetun lain mukaisia valvot- tavia hautaus- ja eroavustuskassoja lukuun ottamatta. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60999: (2) Valvottavalla tarkoitetaan kaikkia edella luvussa 1.1 mainittuja määräysten ja ohjeiden soveltamisalaan kuuluvia Finanssivalvonnasta annetun lain mukaisia valvottavia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_61000: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61001: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61002: Antopäivä: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61004: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61007: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61010: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61011: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61012: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61013: · laki lisäeläkesäätiöistä ja lisäeläkekassoista (947/2021, jäljempänä LESKL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61014: · vakuutuskassalaki (948/2021, jäljempänä VKL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61015: (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61016: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61017: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61018: · LESKL 6 luku 6 §, 7 §, 12 §, 18 §, 21 §, 22 § ja 25 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61019: · VKL 5 luku 5 §, 6 §, 8 §, 12 § ja 14 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61020: (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_61021: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61022: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61023: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61024: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61026: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61030: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61033: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61034: (1) Näiden määräysten ja ohjeiden tavoitteena on varmistaa, että kaikki lisäeläkelaitokset sekä hautaus- ja eroavustuskassat soveltavat katesäännöksiä yhtenäisesti. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_61035: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61036: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61037: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61038: 20.11.2013 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61041: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61042: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61045: 4 Katearvo, kateluettelo ja katteeseen kuuluvat varat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61046: (1) Finanssivalvonnan oikeus antaa vastuuvelan katetta koskevia velvoittavia määräyksiä perustuu LESKL 6 luku 6 §:aan, 7 §:aan, 12 §:aan, 18 §:aan, 21 §:aan ja 22 §:aan ja 25 §:aan seka VKL 5 luku 5 §:aan, 6 §:aan, 8 §:aan, 12 §:aan ja 14 §:aan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61047: (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61048: 4.1 Omaisuuden katearvon maarittäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61049: MÄÄRÄYS (kohdat 2 - 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61050: (2) Vastuuvelan katteeseen luettava omaisuus arvostetaan kullakin tarkasteluhetkellä käy- pään arvoon. Käyvät arvot määritetään Finanssivalvonnan eläkekassojen ja -säätiöi- den kirjanpitoa, tilinpäätöstä ja toimintakertomusta koskevien määräysten ja ohjeiden (15/2012) 9 luvun sekä Finanssivalvonnan sairauskassojen ja hautaus- ja eroavustus- kassojen kirjanpitoa, tilinpäätöstä ja toimintakertomusta koskevien määräysten ja ohjei- den (16/2012) 6 luvun mukaisesti. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61051: (3) Mikali omaisuuserään kohdistuu panttioikeus tai muu erityinen oikeus, joka rajoittaa omaisuuserän käyttämistä valvottavan selvitys- tai konkurssipesässä, tällaisen oikeu- den arvo on vähennettävä edella kohdassa 2 mainittujen määräysten mukaan muutoin laskettavasta katearvosta. Vähennettävä määrä on arvioitava luotettavalla tavalla otta- malla huomioon erityisen oikeuden sisältö ja sanotun oikeuden vaikutus omaisuuden rahaksi muuttamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61052: (4) Katteeseen luettavia varoja arvostettaessa omaisuuden katearvosta on vähennettävä varoja hankittaessa syntyneet velat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61053: 4.2 Kateluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61054: MÄÄRÄYS (kohdat 5 - 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61055: (5) Kate on luetteloitava automaattisen tietojenkäsittelyn tallenteena tai selväkielisenä kir- jallisena asiakirjana. Tallennustavasta riippumatta kateluettelo on voitava tarvittaessa saattaa selväkieliseksi kirjalliseksi dokumentiksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61056: (6) Tilikauden päättymisajankohdan tilannetta vastaava kateluettelo on laadittava viimeis- tään neljän (4) kuukauden kuluessa tilikauden päättymisestä. Kateluettelo on säilytet- tävä tilinpäätösajankohtaa seuraavat kymmenen (10) vuotta. Katteenhaltijan on ilmoi- tettava Finanssivalvonnalle kateluettelon sijaintipaikan osoite sekä luettelon ylläpidosta vastaavan henkilön nimi ja yhteystiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61057: (7) Kateluettelo tulee ylläpitää ajantasaisena.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61058: (8) Lisäeläkelaitoksen, joka harjoittaa sekä maksuperusteista että etuusperusteista lisäelä- kejärjestelyä, tulee merkitä maksuperusteisen lisäeläkejärjestelyn vastuuvelan kat- teena olevat varat kateluetteloon omaksi osastokseen. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_61059: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61062: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61063: Antopäivä: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61065: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61067: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61068: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61071: 4.3 Omaisuuserien merkitseminen kateluetteloon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61072: MÄÄRÄYS (kohdat 9 - 12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61073: (9) Kateluettelon tulee sisältää vastuuvelan katteena olevat omaisuuserät riittavän tarkasti yksilöityinä. Kustakin yksittäisestä omaisuuserästä on kateluetteloon merkittävä omai- suuserän ja siihen kuuluvien asiakirjojen nimike, sijainti, säilytyspaikka, katearvo ja käypä arvo, jos se poikkeaa katearvosta. Jos omaisuuserään kohdistuu katearvoa vä- hentävä panttioikeus tai muu erityinen oikeus, joka rajoittaa omaisuuserän käyttämistä, tällainen oikeus on mainittava kateluettelossa ilmoittamalla omaisuuserän sisalto, arvo ja haltija seka etuoikeusasema suhteessa katteen haltijaan. Omaisuuserät merkitään kateluetteloon LESKL 6 luvun 8 - 11 §:n, 14 §:n ja 16 §:n seka VKL 5 luvun 7 §:n mu- kaisesti ryhmiteltynä. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61074: (10) LESKL 6 luvun 8 §:n mukaisista velkasitoumuksista kateluetteloon tulee merkitä velalli- sen ja/tai takaajan nimi, nimellisarvo, katearvo ja selvitys katearvosta, jos se poikkeaa käyvästä arvosta. Velkasitoumukset ryhmitellään velallisen ja takaajan mukaisesti. Li- säksi annetaan selvitys velalliskohtaisista yhteismääristä ottaen huomioon LESKL 6 luvun 9 §:n ja 17 §:n ja VKL 5 luvun 9 §:n riskikeskittymien rajoittamista koskevat enim- mäisrajat. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61075: (11) Kateluettelossa annetaan lisäksi selvitys kateomaisuuteen sisältyvistä suurimmista ris- kikeskittymistä riittävän tarkasti yksilöityinä sekä kateomaisuuteen sisältyvistä kohde- tai velalliskohtaisista yhteismääristä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61076: (12) Kateluettelossa on annettava selvitys siitä, että LESKL 6 luvun 14 §:ssä ja VKL 5 lu- vun 13 §:ssä tarkoitettuja osakkaan toimintaan liittyvää omaisuutta koskevia rajoituksia on noudatettu. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61077: OHJE (kohdat 13 - 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61078: (13) Finanssivalvonnan tulkinnan mukaan edella kohdassa 12 tarkoitettu lisäelakelaitoksen osakkaaseen liittyvä rajoitus vastuuvelan katteessa koskee esimerkiksi tuotantolaitok- sia, osakkaana olevan työnantajayrityksen tai työnantajan osakkeita ja muuta sellaista omaisuutta, jonka arvo riippuu pääosin osakkaan toiminnasta. Rajoitus koskee myös velkasitoumuksia, joiden vakuutena tällaista omaisuutta on. (Annettu 9.11.2021, voi- maan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61079: (14) Finanssivalvonnan tulkinnan mukaan LESKL 6 luvun 15 §:n mukaisella toiminnallisella kokonaisuudella tarkoitetaan osakkaan käytössä olevaa kiinteistöä tai muuta kohdetta, joka voi myös koostua useammasta kiinteistöstä ja jota voidaan osakkaan toiminnan luonne huomioon ottaen pitää yhtena kokonaisuutena. Rajoitusta sovellettaessa ote- taan lisäeläkelaitoksen suoran omistuksen lisäksi huomioon myös velkasitoumukset, joiden vakuutena kohde on. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_61080: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61081: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61082: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61083: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61084: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61088: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61089: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61092: MÄÄRÄYS (kohdat 15 - 17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61093: (15) Lisäeläkesäätion ja AB-eläkesaatiön A-osaston vastuuvelan katteena olevasta omai- suudesta tulee erikseen käydä ilmi LESKL 6 luvun 14 §:n mukainen kateomaisuus yk- silöintitietoineen esitettynä omana ryhmänään. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61094: (16) Kateluettelon tiedot on mahdollista esittää joko varsinaisessa kateluettelossa tai sen liitteissä. Kateluettelon liitteet laaditaan vastaavalla jaottelulla kuin kateluettelo eli LESKL 6 luvun 8 - 11 §:n, 14 §:n ja 16 §:n seka VKL 5 luvun 7 §:n mukaisesti ryhmi- teltynä. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61095: (17) Työnantajakohtaista järjestelmää noudattavissa lisäeläkesäätioissä luettelot katteena olevasta omaisuudesta laaditaan työnantajakohtaisesti. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61096: 4.4 Katteen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61097: OHJE (kohdat 18 - 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61098: (18) Finanssivalvonta suosittaa, että valvottavan hallitus huolehtisi siitä, että valvottavan vastuuvelka on katettu säädöksien mukaisesti ja että kateomaisuus täyttää lain, ase- tusten ja niiden nojalla annettujen Finanssivalvonnan määräysten asettamat vaatimuk- set. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61099: (19) Finanssivalvonta suosittaa, että valvottavan toimitusjohtaja ilmoittaisi välittömästi val- vottavan hallitukselle ja tilintarkastajalle, jos hän havaitsee puutteita vastuuvelan kat- teessa. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61100: (20) Finanssivalvonta suosittaa, että valvottavan toimitusjohtaja tai hallitus ilmoittaisi viipy- mättä Finanssivalvonnalle, jos on ilmeista, että valvottava ei taytā vastuuvelan katetta koskevia vaatimuksia. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61101: 4.5 Sijoitusrahasto-osuudet, johdannaissopimukset ja erinaiset muut omaisuuslajit vastuuve- lan katteessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61102: OHJE (kohdat 21 - 23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61103: (21) Finanssivalvonnan tulkinnan mukaan LESKL 6 luvun 12 §:n mukaiset rahasto-osuudet on mahdollista käsitellä vastuuvelan katteessa siten, että lisäeläkelaitos selvittää ra- hasto-osuuksien LESKL 6 luvun 8 - 11 §:n mukaiset varat vähintään euromääräisesti tai prosenttiosuuksittain. Tämä edellyttää, että lisäeläkelaitos kykenee riittävän yksityis- kohtaisesti erittelemään rahasto-osuuksiin sisältyvien varojen euromääräisen tai pro- senttiosuuksittaisen jakauman ja osoittamaan, miten varat jakautuvat vastuuvelan kat- teessa sekä dokumentoi varojen jakauman selvittämisessä käyttämänsä periaatteet. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61104: (22) Finanssivalvonta suosittaa, että edella kohdassa 21 tarkoitetussa rahasto-osuuksien varojen euromääräisessä tai prosenttiosuuksittaisessa selvittämisessä lisäeläkelaitos käyttäisi apunaan sijoitusrahaston sääntöja ja muuta rahasto-osuuksien varoista saa- tavissa olevaa riittavän yksityiskohtaista, ajantasaista ja luotettavaa tietoa. Mikäli tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_61105: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61106: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61107: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61108: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61109: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61111: eivät ole riittävät rahasto-osuuksiin sisältyvien varojen erittelyyn, lisäeläkelaitoksen tu- lisi tehdä erittely rahasto-osuuksiin sisältyvien arvopaperikohtaisten sijoitusten perus- teella. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61112: (23) Mikäli lisäeläkelaitos käsittelee rahasto-osuudet vastuuvelan katteessa edella koh- dissa 21 - 22 esitetyn mukaisesti, Finanssivalvonta suosittaa, että lisäeläkelaitos il- moittaisi vastuuvelan katetta koskevat tiedot Finanssivalvonnan tiedonkeruulomak- keilla käyttämäänsä menettelya vastaavasti. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61113: MÄÄRÄYS (kohta 24)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61115: Valvottavan tulee ottaa johdannaissopimukset huomioon vastuuvelan katteessa, mutta kuitenkin siten, että sellaisista johdannaissopimuksista, jotka on tehty muussa tarkoi- tuksessa kuin katteena olevan omaisuuden sijoitusriskien pienentämiseksi, tulee ottaa huomioon ainoastaan kyseisen johdannaissopimuksen katearvoa vähentävä vaikutus. Tämä tarkoittaa, että tällaisten johdannaissopimusten arvo katearvoa laskettaessa on enintään nolla. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61116: OHJE (kohta 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61117: (25) Finanssivalvonnan tulkinnan mukaan edella kohdassa 24 tarkoitettuja muita kuin kat- teena olevan omaisuuden sijoitusriskien pienentämiseksi tehtyjä johdannaissopimuk- sia ovat johdannaissopimukset, jotka lisaeläkelaitos on LESKL 6 luvun 18 §:n ja hau- taus- tai eroavustuskassa VKL 5 luvun 8 §:n mukaisesti tehnyt sijoitusten tehokkaan hoidon mahdollistamiseksi. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61118: MÄÄRÄYS (kohdat 26 - 32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61119: (26) Sijoitusriskia pienentāvā johdannaissopimus otetaan vastuuvelan katteessa huomioon yhdessä suojauksen kohteen tai kohteiden kanssa. Kateomaisuuden kokonaisriskin arvioimiseksi valvottavan on oltava selvilla johdannaissopimuksen kohteen tai kohtei- den riskistä ja siitä, miten johdannaissopimus vaikuttaa siihen. Johdannainen katso- taan katteena olevan omaisuuden sijoitusriskiä pienentäväksi, mikäli seuraavat ehdot täyttyvät: (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61120: - tavoitteena on tappioilta suojautuminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61121: - valvottava kykenee osoittamaan, mitä yksittäistä sijoitusta, tai jos riskien suojauksen kohteita on useita, mitä sijoitusten muodostamaa kokonaisuutta suojaus koskee. Sijoitusten muodos- tama kokonaisuus voi muuttua dynaamisesti, mikäli suojauksen tehokkuus kuitenkin säilyy riit- tävänä;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61122: - johdannaissopimuksen ja suojattavan sijoituksen välillä on riittävä yhteys, vaikka niiden kohde- etuus ei olisikaan sama;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61123: - riskin pienentämisen tehokkuus on arvioitu etukäteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61124: (27) Johdannainen voidaan katsoa katteena olevan omaisuuden sijoitusriskiä pienentä- väksi, mikäli se poistaa vähintään 70 prosenttia suojattavasta riskistä. Arvion tulee pe- rustua dokumentoituihin periaatteisiin ja dataan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61125: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_61130: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61132: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61133: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61134: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61135: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61139: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61142: (28) Valvottavan hallituksen tulee hyväksyä periaatteet, joilla johdannaissopimukset katso- taan katteena olevan omaisuuden sijoitusriskia pienentäviksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61143: (29) Sijoitusriskiä pienentävien johdannaisten määrittelyn lähtökohta on riskienhallinta. Se ei ole vastuuvelkaa katettaessa sidoksissa kirjanpidon suojauslaskennan määritelmiin. Mikäli johdannaissopimus katsotaan katteena olevan omaisuuden sijoitusriskiä pienen- täväksi, valvottavan tulee perustella johdannaissopimuksen sijoitusriskiä pienentävä vaikutus. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61144: (30) Sijoitusriskia pienentävän johdannaissopimuksen käyttötarkoitus on määriteltävä ja dokumentoitava johdannaissopimusta tehtäessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61145: (31) Johdannaisilla tapahtuvaa sijoitusriskien pienentämisen tehokkuutta tulee arvioida säännöllisesti. Suojauksen tehokkuutta tulee seurata vähintään neljännesvuosittain. Käyttötarkoitus on muutettava ei-sijoitusriskia pienentäväksi, jos suojaus ei toimi riitta- vän tehokkaasti. Vaikeissa markkinatilanteissa seurannan on oltava ajantasaista. Suo- jauksen katsotaan jatkuvan, jos sijoitus korvataan toisella samanlaisella sijoituksella ja korvaaminen toisella sijoituksella on osa valvottavan kirjallista suojausstrategiaa. Kor- vaaminen uudella sijoituksella tulee dokumentoida uudelleen suojaukseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61146: (32) Suojauksen tehokkuuden arviointi voi perustua riskimittariin (esimerkiksi VaR -luku), volatiliteettiin tai korrelaatioon. Menetelmiä tulee soveltaa johdonmukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61147: OHJE (kohdat 33 - 34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61148: (33) Finanssivalvonnan tulkinnan mukaan OECD-valtiossa toimiluvan saaneen julkisen val- vonnan alaisen vakuutusyhtiön myöntämä kapitalisaatiosopimus rinnastetaan LESKL:n 6 luvun 8 §:n 3 kohdan mukaiseen velkasitoumukseen. Katteeseen hyväksy- tään määrä, joka vastaa kapitalisaatiosopimuksen takaisinostoarvoa. Rinnastus kos- kee sopimuksia, joille kertyy tuottoa joko kiinteänä ja/tai vakuutusyhtiön toiminnan tu- lokseen perustuvana korkona. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61149: (34) Finanssivalvonnan tulkinnan mukaan jos edella kohdassa 33 mainittu kapitalisaatioso- pimus on myönnetty sijoitussidonnaisena, noudatetaan, mitä rahasto-osuuksista sijoi- tusrahastoissa on säädetty LESKL:ssä sekä edella kohdissa 21 - 23. (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61150: 4.6 Valuuttariski ja sijoitussidonnaisten lisäeläkejärjestelyjen sijoitusriski vastuuvelan kat- teessa (Annettu 9.11.2021, voimaan 1.1.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61151: MÄÄRÄYS (kohdat 35 - 42)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61152: (35) Valvottavan hallituksen tulee arvioida säännöllisesti (vähintään kerran vuodessa) val- vottavan sijoituksiin sisaltyvia valuuttaliikkeestā aiheutuvia riskejā.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61153: (36) Valvottavan hallituksen tulee päättää valuuttaliikkeen järjestämisessä noudatettavista periaatteista, ja periaatteet on kirjattava sijoitussuunnitelmaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61154: (37) Katettaessa vastuuvelkaa muun valuutan kuin euron määräisilla varoilla ja sitoumuk- silla tai sellaisilla varoilla ja sitoumuksilla, joita ei ole täysin suojattu valuuttakurssien
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_61155: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61156: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61157: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61158: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61159: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61162: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61167: muutoksilta, valvottavan on huolehdittava siitä, että minkään valuutan määräinen va- luuttariski ei pääse muodostumaan kohtuuttoman suureksi suhteessa valvottavan ris- kinkantokykyyn.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61168: (38) Valuuttaliikkeen järjestämisessä on suorien valuuttariskien lisäksi otettava huomioon myös välilliset valuuttariskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61169: (39) Valuuttariskin seurannan on oltava jatkuvaa ja ajantasaista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61170: (40) Mikäli valvottava käyttää valuuttariskin suojaamiseen johdannaisia, johdannaisten seu- rannan on oltava jatkuvaa ja ajantasaista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61171: (41) Valvottavan hallituksen tulee päättää sijoitussidonnaisten lisäeläkejärjestelyjen sijoitus- riskien seurannassa noudatettavista periaatteista, ja periaatteet on kirjattava sijoitus- suunnitelmaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61172: (42) Sijoitussidonnaisten lisäeläkejärjestelyjen sijoitusriskien seurannan on oltava jatkuvaa ja ajantasaista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_61173: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61174: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61175: Antopäivä: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61177: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61180: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61183: 5 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61184: (1) Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvon- nan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61185: · Vakuutusvalvontaviraston eläkekassoille 1.1.2013 päivitetyn määräys- ja ohjekokoelman (dnro 7/101/2011) luvun 2 Muuta kuin lakisääteistä toimintaa harjoittavan eläkekassan ja AB- eläkekassan A-osaston sijoitustoiminta ja vastuuvelan kate alaluvun 2.2 Vastuuvelan kate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61186: · Vakuutusvalvontaviraston eläkesäätiöille 1.1.2013 päivitetyn määräys- ja ohjekokoelman (dnro 8/101/2011) luvun 2 Muuta kuin lakisääteistä toimintaa harjoittavan eläkesäätiön ja AB- eläkesäätiön A-osaston sijoitustoiminta ja eläkevastuun kate alaluvun 2.2 Eläkevastuun kate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61187: · Vakuutusvalvontaviraston hautaus- ja eroavustuskassoille 1.1.2013 päivitetyn määräys- ja oh- jekokoelman luvun 2 Kassan sijoitustoiminta alaluvun 2.2 Vastuuvelan kate.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_61188: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61189: Määräykset ja ohjeet 19/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61190: Antopäivä: 20.11.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61192: 1.1.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61195: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61196: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61199: 6 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61200: Näitä määräyksia ja ohjeita on muutettu sen voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61201: Annettu 23.11.2017, voimaan 31.12.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61202: · muutettu 4 luvun kohtaa (34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61203: Muutos perustuu vakuutuskassalain ja eläkesäätiolain muuttamiseen, jolloin OECD-valtiot rinnas- tetaan ETA-valtioihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61204: Annettu 7.3.2019, voimaan 31.3.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61205: · muutettu 4 lukua
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61206: Muutokset perustuvat vakuutuskassalain (1164/1992) ja eläkesäätiölain (1774/1995) muutoksiin sekä katetta koskevien määräysten ja ohjeiden selventämiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61207: Annettu 9.11.2021, voimaan 1.1.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61208: · muutettu 1 - 4 lukuja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61209: Muutokset perustuvat vakuutuskassalain ja eläkesäätiolain kokonaisuudistukseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_61210: FIN-FSA FINANSSIVALVONTA
+

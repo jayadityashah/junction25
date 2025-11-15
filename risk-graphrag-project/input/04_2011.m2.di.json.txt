@@ -1,0 +1,500 @@
+METADATA: {"document_id": 53, "filename": "04_2011.m2.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 11, "paragraph_count": 209}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66894: Määräykset ja ohjeet 4/2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66895: Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytet- tävät menetelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66896: Dnro FIVA 7/01.00/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66897: Antopäivä 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66898: Voimaantulopäivä 31.3.2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66899: FINANSSIVALVONTA puh. 09 183 51 faksi 09 183 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66900: Lisätietoja Riskienvalvonta/Markkina- ja likviditeettiriskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_66901: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66902: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66903: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66905: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66906: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 2 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66907: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66909: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66912: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66915: Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66918: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66921: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66924: Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66927: Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66930: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66933: Laskentamenetelmia koskevat vaatimukset ja menettelytapaohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66936: Laskentamenetelmät ja niitä koskevat vaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66939: Laskentamenetelmä 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66942: Laskentamenetelmä 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66945: Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_66947: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66948: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66949: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66951: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66952: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 3 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66953: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66954: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66955: Näitä määräyksia ja ohjeita sovelletaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66956: · suomalaisiin luottolaitoksiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66957: · ulkomaisten luottolaitosten Suomessa sijaitseviin sivuliikkeisiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66958: · muihin asuntoluottoja tarjoaviin luotonantajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66959: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66960: Näissä määräyksissä ja ohjeissa käytetään seuraavia määritelmia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66961: · asuntoluotolla tarkoitetaan luottoa, jonka elinkeinonharjoittaja (luotonantaja) sopi- muksen mukaan myöntää tai lupaa myöntää kuluttajalle lainana, maksunlykkäyk- senä tai muuna vastaavana taloudellisena järjestelynä asunto-omaisuuden hankki- miseksi tai siihen kohdistuvan omistusoikeuden säilyttämiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66962: · asunto-omaisuudella tarkoitetaan asuinkiinteistoä, asuinhuoneiston hallintaan oi- keuttavia yhteisöosuuksia sekä asuinrakennusta, joka sijaitsee kiinteistöä koskevan käyttöoikeuden nojalla hallitulla alueella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66963: · ennenaikainen takaisinmaksu tarkoittaa luoton takaisinmaksua osittain tai kokonaan alkuperäistä maksusuunnitelmaa nopeammin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66964: · diskonttotekija ilmaisee tulevaisuudessa saatavan rahayksikon laskentahetken mu- kaisen käyvän arvon (nykyarvo).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66965: · nollakuponkikorkokäyrällä tarkoitetaan nollakuponki-instrumenttien hinnoista johdet- tujen korkojen aikarakennetta, eli lainan korkotason riippuvuutta sen erääntymispäi- västä. Nollakuponki-instrumentilla tarkoitetaan joukkovelkakirjalainaa, jolle ei lainan juoksuaikana makseta korkoa. Lainan erääntyessä liikkeeseenlaskija maksaa lai- nan nimellisarvon takaisin joukkovelkakirjan omistajalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66966: · asiakasmarginaali tarkoittaa asiakasriippuvaista asuntoluoton viitekoron päälle lisät- tävää tekijāā, joka heijastelee mm. riskia luotonottajan takaisinmaksukyvysta. Asun- toluoton korko muodostuu viitekoron ja asiakasmarginaalin summana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66967: · diskonttomarginaali kuvaa samaa asiaa kuin asiakasmarginaali, mutta diskontto- marginaalia käytetään diskonttotekijöiden määrittelyssä. Diskonttomarginaali ja asiakasmarginaali voivat erota toisistaan laskentateknisistä syistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_66968: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66969: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66970: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66972: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66973: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 4 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66974: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66975: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66976: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66977: · Kuluttajansuojalaki (38/1978)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66978: · Valtioneuvoston asetus luottosopimuksesta kuluttajalle annettavista tiedoista 2.9.2010/789
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66979: 2.2 Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66980: Näiden määräysten ja ohjeiden aihepiiriin liittyy seuraava Euroopan unioni direktiivi:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66981: · Euroopan parlamentin ja neuvoston direktiivi 2014/17/EU, annettu 4 päivänä helmi- kuuta 2014, kuluttajille tarkoitetuista kiinteää asunto-omaisuutta koskevista luotto- sopimuksista ja direktiivien 2008/48/EY ja 2013/36/EU sekä asetuksen (EU) N:o 1093/2010 muuttamisesta; EUVL L 60, 28.2.2014, s. 34-85.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66982: 2.3 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66983: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraavaan lain sään- nökseen:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66984: · Kuluttajansuojalain 7 a luvun 20 § 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_66985: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66986: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66987: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66989: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66990: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 5 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66991: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66992: (1) Naiden määräysten ja ohjeiden tavoitteena on antaa kuluttajansuojalain 7 a luvun 20 §:ssä tarkoitetut määräykset tappion laskentamenetelmästä. Tavoitteena on siten selkeyttää ja yhtenäistää asuntoluoton ennenaikaisesta takaisinmaksusta perittävän korvauksen enim- maismäärän laskentaan käytettävia menetelmia ja niille asetettavia vaatimuksia. Asiak- kaan näkökulmasta tavoitteena on edistää hinnoittelun lapinäkyvyyttä ja ennakoitavuutta siten, että asiakas jo luottoa ottaessaan on tietoinen käytettävistä laskentamenetelmistä ja kykenee muodostamaan käsityksen mahdollisen ennenaikaisen takaisinmaksun korvauk- sen määrästä erilaisissa tilanteissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66993: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66994: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66995: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66997: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66998: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 6 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66999: 4 Laskentamenetelmiä koskevat vaati- mukset ja menettelytapaohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67000: (1) Kuluttajansuojalain 7 a luvun 20 §:n 1 momentin mukaan luotonantajalla on oikeus saada korvaus kuluttajalta tämän maksaessa asuntoluoton tai sen osan ennenaikaisesti, jos luot- toa on myönnetty yli 20 000 euroa eika luoton korkoa ole sidottu viitekorkoon (kiinteä korko) tai viitekoron määräytymisjakso on vähintään kolme vuotta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67001: (2) Kuluttajansuojalain 7 a luvun 20 § 1 momentin mukaan jos luotonantaja käyttää oikeuttaan saada korvausta, tämän on toimitettava viipymättä takaisinmaksupyynnön vastaanotettu- aan kuluttajalle pysyvällä tavalla laskelma, josta kay ilmi vaaditun korvauksen määrä ja sen laskennassa käytetyt perusteet ja oletukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67002: (3) Kuluttajansuojalain 7 a luvun 20 §:n 2 momentissa on säädetty, että korvauksena luoton- antaja saa peria enintään korkotason alenemisesta johtuvan tappion jäljella olevalta kiin- teäkorkoiselta luottojaksolta tai viitekoron määräytymisjaksolta. Momentin mukaan Finans- sivalvonta antaa tarkempia määräyksiä tappion laskentamenetelmästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67003: (4) Kuluttajansuojalain 7 luvun 13 §:n 2 momentin 4 kohdan mukaan edellytetään, että luoton- antaja antaa kuluttajalle ennen luottosopimuksen tekemistä riittävät ja selkeät selvitykset sen arvioimiseksi, soveltuuko luotto ja mahdollisesti tarjotut lisäpalvelut kuluttajan tarpeisiin ja hänen taloudelliseen tilanteeseensa, sekä tiedon siitä, voiko kuluttaja irtisanoa lisäpalve- lua koskevan sopimuksen erikseen ja mitä seuraamuksia irtisanomisesta kuluttajalle ai- heutuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67004: (5) Luottosopimuksesta kuluttajalle annettavista tiedoista annetun valtioneuvoston asetuksen 5 a §:n 13 kohdassa säädetaan, että asuntoluottosopimuksessa on mainittava tieto oikeu- desta maksaa luotto ennenaikaisesti ja luotonantajan mahdollisesta oikeudesta saada tästä korvausta sekä korvauksen määräytymisen perusteista ja ohjeet ennenaikaisen ta- kaisinmaksuoikeuden käyttämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67005: (6) Luottosopimuksesta kuluttajalle annettavista tiedoista annetussa valtioneuvoston asetuk- sessa säädetään Eurooppalaisesta standardoidusta tietosivusta (ESIS) (liite 3, A osa). ESIS tietosivun kohdassa 9 on ilmoitettava, että velallisella on mahdollisuus maksaa luotto ennenaikaisesti takaisin joko kokonaan tai osittain. Lisäksi on ilmoitettava tarvittaessa en- nenaikaista takaisinmaksua koskevat ehdot ja ennenaikaisesta takaisinmaksusta perittävä maksu. ESIS-tietosivun edella mainittua kohtaa koskevissa täydennysohjeissa (liite 3, B osa) saadetään, että luotonantajan on luoton ennenaikaisesta takaisinmaksusta perittäviä maksuja koskevassa kohdassa kiinnitettävä kuluttajan huomio mahdollisiin luoton ennenai- kaisesta takaisinmaksusta perittäviin maksuihin, joita luoton ennenaikaisesta takaisinmak- susta on maksettava korvauksena luotonantajalle, ja mahdollisuuksien mukaan ilmoitet- tava luoton ennenaikaisesta takaisinmaksusta perittävien maksujen määrä. Lisäksi sääde-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67006: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67007: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67008: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67010: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67011: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 7 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67012: tään, että jos korvauksen määrä riippuu eri tekijöistä, kuten jo takaisin maksetusta mää- rästä tai ennenaikaisen taikaisinmaksun ajankohtana voimassa olevasta korosta, luotonan- tajan on ilmoitettava, miten korvaus lasketaan, ja ilmoitettava sen mahdollinen enimmais- määrä. Kohdassa säädetään myös, että lisaksi on tuotava korostetusti esiin havainnollisia esimerkkejä, jotka antavat kuluttajalle käsityksen siitā, kuinka suuri korvaus olisi erilaisissa tilanteissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67013: 4.1 Laskentamenetelmät ja niitä koskevat vaatimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67014: MÄÄRÄYS (KOHDAT 7-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67015: (7) Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän korvauksen enimmäismäärä on maaritettāvā joko luvussa 4.1.1 tai luvussa 4.1.2 kuvatulla laskentamenetelmälla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67016: (8) Luvuissa 4.1.1 ja 4.1.2 kuvatuissa laskentamenetelmissä tarvittavat diskonttotekijät (dt,tn) n=1' asuntoluoton ennenaikaisen takaisinmaksun hetkella t, on maaritettava
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67017: a) vallitsevan nollakuponkikorkokäyrän perusteella tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67018: b) vallitsevan lainan viitekorkona käytettävän koron tason perusteella huomioiden kiinteän korkojakson jäljella oleva maturiteetti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67020: c) diskonttotekijät tulee määrittää yleisesti hyväksyttävälla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67021: d) diskonttotekijöitä määriteltäessä ei saa huomioida muutoksia asiakkaan tai luoton- myöntäjän luottoluokituksessa, eikä luotonmyöntäjän rahoitus- tai suojauskustan- nuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67022: e) mikäli asiakasmarginaali huomioidaan diskonttotekijöiden määrittelyssä, on margi- naali huomioitava laskelmissa lainan myöntöhetken suuruisena. Mikäli käytetty me- netelmä edellyttää erillistā asiakasmarginaalia ja laskennallista diskonttomarginaa- lia, tulee molemmat pitää edella mainitun mukaisesti muuttumattomina.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67023: (9) Luvuissa 4.1.1 ja 4.1.2 kuvatuilla menetelmilla lasketun asuntoluoton ennenaikaisesta ta- kaisinmaksusta perittävän korvauksen enimmäismäärän (K ) tulee luotonmyöntöhetkellä olla nolla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67024: (10) Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän korvauksen enimmäismäärä on laskettava lainavaluutan määräisenä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67025: (11) Mikäli asuntoluoton myöntäjä muuttaa asuntoluoton ennenaikaisesta takaisinmaksusta pe- rittävän enimmaiskorvauksen laskentaan käytettävää menetelmää, saa muutettua mene- telmää soveltaa ainoastaan muutoksen jälkeen myönnettäviin asuntoluottoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67026: (12) Luotonmyöntäjän on säilytettävä enimmäiskorvauksen laskennassa käytettävät tiedot ja parametrit luotettavalla tavalla kiinteäkorkoisen lainan voimassaolon ajan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67027: 4.1.1 Laskentamenetelmä 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67028: MÄÄRÄYS (KOHDAT 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67029: (13) Menetelmässä 1 ennenaikaisesta takaisinmaksusta perittävän korvauksen enimmäismää- rän laskenta perustuu oletukselle, että alkuperäinen laina puretaan ja korvataan uudella
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67030: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67031: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67032: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67034: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67035: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 8 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67036: lainalla (jatkossa korvaava laina), jonka korkotaso määräytyy takaisinmaksuhetken markki- natilanteen perusteella. Korvaavan lainan maturiteetti asetetaan samaksi kuin alkuperäi- sen lainan jäljellä oleva maturiteetti. Kiinteän korkojakson maturiteetiksi asetetaan alkupe- räisen lainan kiinteän korkojakson jäljellä oleva maturiteetti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67037: Alkuperäisen lainan ja korvaavan lainan kassavirrat ja jäljella oleva pääoma diskontataan nykyhetkeen takaisinmaksuhetkellä vallitsevien korkojen mukaisilla diskonttotekijöillä. Näin laskettu lainojen nykyarvojen erotus kertoo ennenaikaisesta takaisinmaksusta perittävän korvauksen enimmaismäärän.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67038: (14) Hetkellä t tapahtuvasta asuntoluoton ennenaikaisesta takaisinmaksusta perittävän kor- vauksen enimmäismäärä on laskettava kaavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67040: dt,tn (Ct,n - Ct,n), 0%, n=1 2 N
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67042: Kt= asuntoluoton ennenaikaisesta takaisinmaksusta hetkellä t perittävän korvauksen enim- mäismäärä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67043: dt,tn= diskonttotekija, joka kertoo hetkellä t" > t saatavan rahayksikon nykyarvon hetkellä t,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67044: Ct,n= alkuperäisen lainan jäljellä oleva kassavirta, joka maksetaan hetkellä t" > t, n = 1, ... , N,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67045: Ct,n= Hetkellä t myönnettäväksi kuviteltavan korvaavan lainan kassavirta, joka maksetaan hetkellä tn > t, n = 1, ... , N.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67046: (15) Kassavirrat (Ct,n)n=1 ja (Ct,n)", saavat sisältää ainoastaan lainasopimuksen mukaiset kiinteät korkomaksut, lainasuunnitelman mukaiset lyhennykset, sekä jäljellä olevan laina- pääoman kiinteän korkojakson päättyessä hetkellä tN-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67047: (16) Korvaavan lainan kassavirtoja (Ctn)" määritettäessä n=1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67050: a) lainakoron tulee määräytya samoin periaattein ja perustua samaan viitekorkoon kuin alkuperäisen lainan kiinteä korko huomioiden kuitenkin se, että uuden lainan kiinteän korkojakson maturiteetiksi asetetaan alkuperäisen lainan kiinteän korko- jakson jäljellä olevaa maturiteetti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67051: b) asiakasmarginaali on huomioitava samansuuruisena kuin alkuperäisessä lai- nassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67052: 4.1.2 Laskentamenetelmä 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67053: MÄÄRÄYS (KOHDAT 17-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67054: (17) Menetelmässä 2 ennenaikaisesta takaisinmaksusta perittävän korvauksen enimmäismää- rän laskenta, perustuu joukkovelkakirjalainojen arvostusperiaatteisiin ja enimmaiskorvaus määräytyy korkotason muutoksen aiheuttamasta arvostuserosta lainan nykyarvossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67055: (18) Hetkellä t tapahtuvasta asuntoluoton ennenaikaisesta takaisinmaksusta perittävän kor- vauksen enimmaismäärä on laskettava kaavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67056: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67057: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67058: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67060: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67061: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 9 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67062: Kt = max n=1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67063: N È de,tn Ct,n - Lt, 0},
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67065: Kt= asuntoluoton ennenaikaisesta takaisinmaksusta hetkellä t perittävän korvauksen enim- mäismäärä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67066: dt,ty = diskonttotekijä, joka kertoo hetkellä tn > t saatavan rahayksikön nykyarvon hetkellä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67067: t, Ct,n= alkuperäisen lainan jäljellä oleva kassavirta, joka maksetaan hetkellä t, > t, n = 1, ... , N, Lt= alkuperäisen lainan jäljellä oleva lainapääoma hetkellä t.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67069: (19) Kassavirrat (Ct,n)"_, saavat sisältää ainoastaan lainasopimuksen mukaiset kiinteät korko- maksut, lainasuunnitelman mukaiset lyhennykset, sekä jäljella olevan lainapääoman kiin- n=1 teän korkojakson päättyessä hetkellä tN.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67070: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67071: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67072: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67074: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67075: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 10 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67076: 5 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67077: Näitä määräyksia ja ohjeita on muutettu niiden voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67078: Annettu 6.6.2017, voimaan 1.9.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67079: · Muutettu luvun 1.2 maaritelmia
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67080: - Poistettu kuluttajaluoton määritelmä tarpeettomana
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67081: - Muutettu asuntoluoton määritelmä vastaamaan 1.1.2017 voimaan tulleen kulut- tajansuojalain 7 a luvun määritelmää
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67082: - Lisätty asunto-omaisuuden määritelmä kuluttajansuojalain 7 a luvun määritel- män mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67083: · Muutettu luvun 2.1 lainsaadantoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67084: - Lisätty Valtioneuvoston asetus luottosopimuksesta kuluttajalle annettavista tie- doista 2.9.2010/789, johon tehdyt määräysten ja ohjeiden soveltamisalaan kuu- luvat muutokset tulivat voimaan 1.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67085: · Muutettu luvun 2.2 Euroopan unionin direktiiveja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67086: - Korvattu Euroopan parlamentin ja neuvoston direktiivi 2008/48/EY (kulutusluot- tosopimuksia koskeva direktiivi) Euroopan parlamentin ja neuvoston direktiivillä 2014/17/EU (asuntoluottodirektiivi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67087: · Muutettu luvun 2.3 Finanssivalvonnan maaraystenantovaltuutta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67088: - Korvattu aikaisempi valtuutus vastamaan 1.1.2017 voimaan tulleen kuluttajan- suojalain 7 a luvun määräystenantovaltuutusta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67089: · Muutettu luvun 3 tavoitteita
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67090: - Korvattu viittaus määräystenantovaltuutukseen edella mainitun mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67091: · Muutettu luvun 4 lainsaadantotaustaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67092: - Lisätty kuluttajansuojalain 7 a luvun asuntoluoton ennenaikaista takaisinmaksua koskevat säännökset, jotka tulivat voimaan 1.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67093: - Lisätty kuluttajansuojalain 7 luvun 13 §:n hyvää luotonantotapaa koskeva sään- nös
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67094: - Lisätty asuntoluoton ennenaikaisesta takaisinmaksusta annetut säännökset, jotka sisältyvät Valtioneuvoston asetukseen luottosopimuksesta kuluttajalle an- nettavista tiedoista 2.9.2010/789
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67095: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67096: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67097: 15.12.2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67099: 31.3.2012 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67100: Määräykset ja ohjeet 4/2011 Asuntoluoton ennenaikaisesta takaisinmaksusta perittävän enimmäiskorvauksen laskentaan käytettävät menetelmät 11 (11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67101: · Kumottu tarpeettomana luku 4.2 Menettelytapoja koskeva ohjeet. Vastaavasti ku- mottu viittaus kyseiseen lukuun luvun 4 lainsäädäntötaustasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67102: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

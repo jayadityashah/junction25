@@ -1,0 +1,515 @@
+METADATA: {"document_id": 84, "filename": "1501_2001_amendments_up_to_642_2006.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "LLL", "jurisdiction": "FINNISH", "page_count": 23, "paragraph_count": 199}
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135597: (Unofficial translation, amendments up to 642/2006 included)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135598: Act on Commercial Banks and Other Credit Institutions in the Form of a Limited Company 28.12.2001/1501
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135600: General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135602: This Act shall apply to a deposit bank in the form of a limited company (a com- mercial bank) and to another credit institution in the form of a limited company, hereinaf- ter in this Act referred to as a credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135603: The Limited-Liability Companies Act (624/2006) shall be applied to a credit insti- tution unless otherwise provided for below in this Act or in the Act on Credit Institutions (1607/1993). A limited-liability savings bank referred to in the Act on Savings Banks (1502/2001) shall further be governed by the provisions of the Act on Savings Banks and a limited-liability co-operative bank referred to in the Act on Cooperative Banks and other Credit Institutions in the Form of a Cooperative (1504/2001) shall be governed by the Act on Cooperative Banks and other Credit Institutions in the Form of a Cooperative. A credit institutions engaged in mortgage-credit bank activity and referred to in the Act on Mortgage Credit Banks (1240/1999) shall further be governed by the provisions of the Act on Mortgage Credit Banks. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_135604: Section 2 (30.7.2004/702)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135605: At least one of the founders of a credit institution and at least one of the members of its Board of Directors as well as its Managing Director shall be permanently resident or, if the founder is a legal person, have its registered office in the European Economic
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135607: Area unless the Financial Supervision Authority grants an exemption therefrom. The exemption may be granted if it does not endanger the efficient supervision of the credit institution and the management of the credit institution in accordance with sound and prudent business principles.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135609: The Articles of Association of a credit institution functioning as the central bank- ing institution of savings banks may provide that the shares of the bank or, if the bank has different classes of shares, shares of a certain class may be held only by a savings bank, a limited-liability savings bank, a subsidiary of a savings bank or a limited-liability savings bank, the Central Association for Savings Banks and another corporation com- parable to them. The Articles of Association of a credit institution functioning as the central banking institution of cooperative banks may provide that the shares of the bank or, if the bank has different classes of shares, shares of a certain class may be held only by a cooperative bank, a limited-liability cooperative bank, a subsidiary of a cooperative bank or a limited-liability cooperative bank, the Central Association for Cooperative Banks and another corporation comparable to them.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_135610: Section 3 a (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135611: A credit institution may be changed into a credit institution in the form of a coop- erative in compliance with the provisions of chapter 19 of the Limited-Liability Compa- nies Act. The change of the corporate form shall correspondingly further be governed by the provisions of section 6, subsection 1 on merger.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135613: Chapter 2 Merger
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135615: The draft terms of merger of a credit institution shall, in addition to that provided for in chapter 16, section 3 of the Limited-Liability Companies Act, contain an account of the commitments referred to in section 74, subsecion 1, paragraphs 2 and 3 of the Act on Credit Institutions, the creditors of which may object to the merger as provided for in chapter 16, section 6, subsection 1 of the Limited-Liability Companies Act. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135616: Section 5 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135617: Credit institutions participating in the merger or, in the case of a subsidiary merger, the credit institution that is the parent company shall notify the Financial Super- vision Authority of the merger. The notification, which shall be accompanied by the draft terms of merger and the report referred to in chapter 16, section 4 of the Limited-Liability Companies Act shall be submitted to the Financial Supervision Authority before the credit institution applies for a summons referred to in chapter 16, section 6 of the Lim- ited-Liability Companies Act. The Financial Supervision Authority may, upon receipt of the notification, request also other information it deems necessary.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135618: The registration authority shall, without delay, inform the Financial Supervision Authority of the notification regarding the objection of a creditor referred to in chapter 16, section 15, subsection 2 of the Limited-Liability Companies Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_135619: The Financial Supervision Authority may, with regard to an absorption merger referred to in chapter 16, section 2, subsection 1, paragraph 1 of the Limited-Liability Companies Act, object to the merger by notifying the registration authority thereof within one month from the due date referred to in chapter 16, section 6, subsection 2 of the Limited-Liability Companies Act if the merger is likely to endanger the maintenance of the prerequisites set for the authorisation of the acquiring credit institution. The credit
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135621: institutions participating in the merger shall be notified of the objection without delay. The merger may, in a case referred to in this subsection, be registered only if the Finan- cial Supervision Authority does not object to it within the above period of time.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135622: An appeal relating to a decision of the Financial Supervision Authority referred to in this section shall be handled as urgent.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135623: 5 a § (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135624: If a creditor has objected to the merger, the registration authority shall request a statement from the Financial Supervision Authority on the effects of the implementation of the merger on the position of the creditor and on whether it is necessary to implement the merger without delay in order to safeguard the stable operations of the credit institu- tions. Notwithstanding the provisions of chapter 16, section 15, subsection 2 of the Limited-Liability Companies Act on the grounds for registration, the registration authority shall register the implementation of the merger despite the objection by the creditor if the Financial Supervision Authority, in its statement, deems that the implementation of the merger will not weaken the financial position of the creditor and that the implementation of the merger without delay is necessary in order to safeguard the stable operations of the credit institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_135625: Section 5 b (30.7.2004/702)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135626: Participation of a Finnish credit institution in a merger referred to in Article 2, paragraph 1 of Council Regulation (EC) No 2157/2001 on the Statute for a European company (SE), hereinafter the SE Regulation, shall be governed by the provisions of sections 4, 5 and 5 a.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135627: If, in the merger, the acquiring company is to be registered in another State, the provisions of section 5, subsections 3 and 4 shall, however, not be applied to the merger. The registration authority may not issue a certificate relating to such merger, referred to in section 4, subsection 3 of the Act on European Companies (742/2004), if
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_135629: the Financial Supervision Authority has notified the registration authority prior to the granting of the permission referred to in subsection 2 of the same section that the credit institution has not complied with the provisions on merger or the continuance of opera- tions or the termination of operations in Finland. The permission may be granted before one month has passed from the due date referred to in chapter 16, section 6, subsection 2 of the Limited-Liability Companies Act only if the Financial Supervision Authority has notified that it does not oppose the transfer of the registered office. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135630: If the credit institution to be registered in another State intends to continue credit- institution activity in Finland after the merger, it shall be governed by the provisions of the Act on the Operations of a Foreign Credit Institution in Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135632: The provisions of chapter 16, sections 6, 7 and 15 of the Limited-Liability Com- panies Act on a creditor shall not apply to a depositor. The credit institution being ac- quired shall, however, notify the depositor of the merger at the latest three months prior to the due date set by the registration authority to other creditors under chapter 16, section 6, subsection 2 of the Limited-Liability Companies Act. The notification shall state the trade name and address of the acquiring credit institution. The notification shall further indicate that in case the total funds of the depositor in deposit in the credit institu- tions participating in the merger exceeds the maximum amount of deposit guarantee provided for in section 65 j of the Act on Credit Institutions, the provisions of section 65 q of the said Act shall be applied to the deposit guarantee. The depositor shall be entitled, within six months from receipt of the notification and notwithstanding the original con- tract terms, to give notice to terminate a deposit which, under section 65 j of the Act on Credit Institutions, will be excluded from the deposit guarantee in full or in part. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135633: The provisions of subsection 1 on a depositor shall correspondingly apply to a depositor of the acquiring credit institution if the creditors of the acquiring credit institu- tion shall be heard in accordance with chapter 16, section 6, subsection 3 of the Limited- Liability Companies Act. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135635: The provisions of this section on a depositor and the right of a depositor to give notice to terminate a deposit in connection with a merger shall correspondingly apply to the transfer of the registered office of a credit institution to another State belonging to the European Economic Area as well as to a merger where the acquiring credit institution is to be registered in another State. The depositor shall have the right to give notice to terminate a deposit if the deposit covered with a deposit guarantee is excluded from the deposit guarantee in full or in part after the measure. The credit institution shall clarify any changes in the information issued under section 65 m of the Act on Credit Institution in the notification to be submitted to the depositor. (13.8.2004/749)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135636: The credit institution shall in cases referred to in subsection 3 draw up a clarifica- tion of the deposit guarantee (deposit-guarantee clarification) explaining the arrange- ments relating to the deposit guarantee to be made before and after the measure as well as presenting the possible differences in the deposit-guarantee cover. The credit institution shall request a statement of the Financial Supervision Authority on the de- posit-guarantee clarification. The request for a statement shall be appended with the additional accounts ordered by the Financial Supervision Authority. The deposit- guarantee clarification and a copy of the statement of the Financial Supervision Author- ity shall be appended to the notification to be submitted to the depositor. (13.8.2004/749)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_135637: Section 6 a (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135638: If the registered office of a credit institution is transferred to another State or the acquiring credit institution in a merger is to be registered in another State and, after the measure, the deposit is excluded from the deposit guarantee in full or in part, the de- positor shall have the right to give notice to terminate the deposit also so that the credit institution shall without delay pay the terminated deposit or give a guarantee securing its payment. The notice to terminate shall be given in writing and at the latest on the due date to be indicated in the summons to be issued to the creditors of the credit institution referred to in chapter 16, section 6 of the Limited-Liability Companies Act. The notifica- tion referred to in section 6 shall indicate the right of the depositor to give notice to
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135640: terminate his deposit in accordance with this section. The credit institution shall notify the Financial Supervision Authority of the notice to terminate a deposit without delay after the end of the time period reserved for giving notice to terminate referred to in this section.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135641: Section 7 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135642: In a combination merger, the authorisation referred to in section 10 of the Act on Credit Institutions shall be applied for the credit institution to be established. A combina- tion merger may not be registered unless the authorisation is registered at the same time.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135643: Chapter 3 Division and lowering of restricted own capital
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135644: Section 8 repealed by Act of 21.7.2006/642.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135646: The draft terms of division of the credit institution being divided and the registra- tion of the implementation of the division shall correspondingly be governed by the provisions of sections 4, 5, 5 a and 6 on merger. The provisions of section 5, subsection 3 shall, however, not apply to the total division referred to in chapter 17, section 2, subsection 1, paragraph 1 of the Limited-Liability Companies Act if the companies to be established in the division are solely credit institutions. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_135647: Subsection 2 repealed by Act of 21.7.2006/642.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135648: The provisions of section 7 shall, where applicable, apply to a credit institution to be established in the division.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135649: The provisions of chapter 17, section 16, paragraph 6 of the Limited-Liability Companies Act on the debts of the company being divided shall not apply to a debt or a
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135651: part thereof which may be compensated from the deposit-guarantee fund referred to in chapter 6 a of the Act on Credit Institutions or from the compensation fund referred to in chapter 6 of the Act on Investment Firms (579/1996). (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135652: Section 10 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135653: The provisions of chapter 14, sections 2 - 5 as well as of chapter 17, sections 6, 7 and 15 on a creditor shall, upon application of the provisions of this chapter, apply to the party on behalf of whom the credit institution has granted a guarantee or another comparable commitment or to whom a monetary claim may arise on the basis of a derivatives contract concluded with the credit institution if the commitment is transferred to the liability of another than a credit institution referred to in section 2 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135654: Section 11 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135655: Upon lowering the share capital, premium fund or reserve fund of a credit institu- tion or upon distribution of non-restricted equity so that the creditors shall have the right to object to the lowering or distribution under chapter 14, section 2 of the Limited-Liability Companies Act, the provisions of chapter 14, sections 2-5 of the Limited-Liability Com- panies Act on creditors shall not be applied to depositors.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_135656: Chapter 4 Conveyance of business operations
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135658: Section 12
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135659: A credit institution (the conveying credit institution) may convey its assets and li- abilities to one or several credit institutions or to another undertaking (the recipient undertaking) as provided for in this chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135660: The conveyance of business operations may be implemented even if the convey- ing credit institution has been placed in liquidation unless measures have been taken to distribute the assets of the credit institution to shareholders.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135661: Section 13
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135662: The Board of Directors of the conveying credit institution shall prepare draft terms of conveyance, which shall, where applicable, be governed by the provisions of chapter 17, section 3 of the Limited-Liability Companies Act. The draft terms of conveyance shall further be governed by the provisions of section 4 .(21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135663: The implementation of the conveyance of business operations shall further, where appropriate, be governed by the provisions of chapter 3 above on the implemen- tation of a division. The summons procedure of creditors referred to above in this para- graph shall, however, apply only to debts to be conveyed.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135664: The conveyance of business operations shall, where applicable, be governed by the provisions of chapter 17, section 16, subsection 6 of the Limited-Liability Companies Act and the provisions of section 9, subsection 4. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135665: The assets, liabilities, reserves and commitments of the conveying credit institu- tion shall be transferred to the recipient undertaking in the manner stated in the draft terms of conveyance when the conveyance is registered.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_135666: Chapter 5 Voluntary surrender of the authorization
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135668: Section 14
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135669: In accordance with this chapter, the Financial Supervision Authority may, on application by the credit institution, withdraw its authorisation without the credit insti- tution having to be placed in liquidation. (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135670: The application shall be appended with:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135671: 1) a copy of the decision of the General Meeting of the Shareholders of the credit institution by which the credit institution has decided to surrender its authorization;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135672: 2) an account to the effect that the credit institution no longer has deposits and that it is no longer engaged in other business operations subject to an authorization under the Act on Credit Institutions or the Act on Investment Firms;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135673: 3) an opinion of the auditor on the account referred to in subparagraph 2; and with
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135674: 4) a permission of the registration authority to surrender the authorization.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135675: Section 15 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135676: A decision to surrender the authorisation of a credit institution shall be made with a qualified majority in accordance with chapter 5, section 27 of the Limited-Liability Companies Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_135677: Section 16 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135678: A permission of the registration authority shall be obtained for the surrender of the authorisation. The provisions of chapter 14, sections 2 - 5 of the Limited-Liability Companies Act and of section 10 of this Act shall be applied to the permission proce- dure. The summons to the creditors regarding the division of a credit institution or the conveyance of its business operations may be issued together with the summons re-
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135680: garding the surrender of the authorisation if the measures are applied for simultane- ously.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135681: Section 17 (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135682: The Financial Supervision Authority shall notify the decision referred to in section 14 for registration. The withdrawal of the authorisation shall enter into force when the decision is registered.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135683: Chapter 6 Liquidation and bankruptcy
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135684: The Act of 19.5.2004/408 entered into force 31.5.2004. A liquidation and a bankruptcy com- menced before the entry into force of this Act shall be governed by the provisions in force upon the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135685: Provisions on liquidation (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135686: Section 18
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135687: The provisions of the Limited Companies Act shall be applied to the liquidation of a credit institution unless otherwise provided for in this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135688: The registration authority and the court of law shall, by the date specified in chapter 20, section 5 of the Limited-Liability Companies Act, request an opinion of the Financial Supervision Authority on the striking from the register or the placing in liquida- tion. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135689: The provisions of section 24 of the Trade Register Act (129/1979) shall not be applied to a credit institution. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_135690: Section 18 a
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135692: (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135693: A credit institution shall notify the Financial Supervision Authority before the credit institution is placed in liquidation by a decision of the General Meeting of the Sharehold- ers. The provisions on a decision of the General Meeting of the Shareholders shall, where applicable, be applied to the unanimous decision of the shareholders referred to in chapter 5, section 1, subsection 2 of the Limited-Liability Companies Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135694: Section 19 (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135695: Upon deciding on the withdrawal of the authorisation of a credit institution, the Financial Supervision Authority shall, at the same time, order the credit institution to be placed in liquidation unless otherwise provided for in chapter 5. The liquidation shall commence when the decision of the Financial Supervision Authority on the withdrawal of the authorisation and the placing in liquidation has been made.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_135696: Section 20
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135697: Upon deciding on the placing of a credit institution in liquidation, the Financial Supervision Authority shall, at the same time, elect one or more liquidators. The provi- sions of chapter 20, section 9, subsections 1 and 3 of the Limited-Liability Companies Act shall otherwise be applied to the liquidators. The order referred to in chapter 20, section 9, subsection 3 of the Limited-Liability Companies Act may, in addition to the provisions of the said provision, be applied for also by the Financial Supervision Author- ity. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135698: The liquidators shall submit the notification referred to in chapter 20, section 10 of the Limited-Liability Companies Act to the Deposit-Guarantee Fund, the Government Guarantee Fund and the Investor-Compensation Fund if the credit institution is a mem- ber of the fund as well as, if the notification is based on a decision other than that re- ferred to in section 19, to the Financial Supervision Authority. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135700: The liquidators shall, without delay after the Financial Supervision Authority has decided on the withdrawal of the authorisation, convene the General Meeting of the Shareholders of the credit institution to decide on measures to be taken to merge the credit institution in another credit institution or remedy the prerequisites set for an authorisation in another manner or to dissolve the credit institution. (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135701: The liquidators shall apply for the withdrawal of the authorisation from the Financial Supervision Authority without delay after the prerequisites set for the au- thorisation no longer exist or when the appropriate continuance of the liquidation no longer requires an authorisation. (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135702: The liquidators shall notify the Financial Supervision Authority of the final settle- ment as well as of the notification referred to in chapter 20, section 17, subsection 1 of the Limited-Liability Companies Act. (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135703: Section 20 a (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135704: The registration authority, the Financial Supervision Authority and the court shall, upon choosing a liquidator, issue him a testimonial of his choice to the task. An extract from or a copy of the minutes of the General Meeting of the Shareholders shall certify that the General Meeting has chosen the liquidator to his tasks.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135705: Section 20 b (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135706: When, in the liquidation of a credit institution, the summons issued to the credi- tors is made public in the manner referred to in chapter 20, section 14 of the Limited- Liability Companies Act and in section 4, subsection 3 of the Act on Public Summons (729/2003), the notification shall also state: (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135707: 1) the provisions of section 24, subsection 2 on the reporting of a depositor to the bank; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_135708: 2) whether a creditor needs to notify a preferential claim or a claim secured in re.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135710: The notification shall be submitted at least in Finnish and Swedish. The notifi- cation shall bear, in all the official languages of the States belonging to the European Economic Area (an EEA State), the heading "Invitation to lodge a claim or to submit observations relating to a claim. Time limits to be observed".
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135711: Provisions on bankruptcy (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135712: Section 21
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135713: A credit institution may be placed in bankruptcy upon the application by the credit institution or its creditor in compliance with the provisions of the Bankruptcy Act (31/1868) and the provisions of this Act below.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135714: A credit institution shall notify the Financial Supervision Authority prior to submit- ting its application for surrendering its assets in bankruptcy. (19.5.204/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135715: Section 22
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135716: Where a creditor applies for the placing of a credit institution in bankruptcy, the court of law shall notify the Financial Supervision Authority of the application without delay. The Court shall postpone the handling of the matter with not more than one month if the Financial Supervision Authority presents a request thereon within one week from receipt of the notification referred to in this subsection. (27.6.2003/589)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135717: A creditor whose claim is based solely on a claim to be compensated in full from the deposit guarantee fund may not apply for the placing of a commercial bank in bank- ruptcy on the basis of this claim.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_135718: Section 22 a (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135719: The notification to be delivered to the creditors of the credit institution relating to the lodging of proof of claims shall, in addition, state what is otherwise provided in:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_135721: 1) section 23 on the duty of a depositor to secure his claim and in section 24, subsection 2 on the reporting of a depositor to the bank; as well as
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_135722: 2) whether a creditor needs to notify a preferential claim or a claim secured in re.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135723: The notification to be delivered to the creditors of the credit institution relating to the lodging of proof of claims or the submission of observations relating to claims shall be submitted at least in Finnish and Swedish. The notification shall bear, in all the official languages of the EEA States, the heading "Invitation to lodge a claim. Time limits to be observed" or correspondingly "Invitation to submit observations relating to a claim. Time limits to be observed".
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_135724: Section 23 (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135725: If the assets of a commercial bank have been surrendered in bankruptcy, the depositor need not lodge his claim or secure his claim in a deposit account unless otherwise provided for in section 24, subsection 2. The provisions of this section on a depositor shall not apply to the deposit-guarantee fund to which the rights of the deposi- tor have been transferred under section 65 j, subsection 7. (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_135726: Provisions common to liquidation and bankruptcy (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_135727: Section 23 a (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135729: The General Meeting of the Shareholders, the registration authority, the Fi- nancial Supervision Authority and a Finnish court shall be have the authority to decide on the placing of a credit institution in liquidation as provided for in this Act and in the Companies Act. A Finnish court shall be have the authority to decide on the placing of a credit institution in bankruptcy as separately provided for. The procedure provided for above shall also cover the branches of a credit institution located in other EEA States.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_135730: Section 23 b (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135731: The Financial Supervision Authority shall without delay inform the supervisory au- thorities of the other EEA States, in which the credit institution has a branch or in which it offers services referred to in the Act on Credit Institutions of the decision to place a credit institution in liquidation or in bankruptcy and of the possible effects thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135732: With regard to liquidation, the liquidator and, with regard to bankruptcy, the ad- ministrator shall publish an extract from the decision in the Official Journal of the Euro- pean Communities and in two national newspapers in each EEA State referred to in subsection 1. The extract shall be published at least in Finnish and Swedish.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_135733: Section 23 c (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135734: The liquidator and, with regard to bankruptcy, the administrator shall request that the opening of liquidation or bankruptcy proceedings be registered in the land register, the trade register or any other public register kept in another EEA State if the registration of the opening of liquidation or bankruptcy proceedings is mandatory according to the legislation of the said State.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_135735: Section 23 d (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135737: A creditor who has his place of residence, domicile or head office in another EEA State may lodge or secure his claim or submit observations relating to his claim also in the official language of that other State. In that event, the lodgement or securing of his claim or the submission of observations on his claim shall bear the heading "Lodgement or securing of claim" or correspondingly "Submission of observations relating to claims" in either Finnish or Swedish.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135738: In the liquidation or bankruptcy of a credit institution, a public authority of another EEA State shall be deemed comparable to a creditor referred to in subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_135739: Section 23 e (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135740: The liquidator and, with regard to a bankruptcy, the administrator shall keep the creditors regularly informed with regard to progress of the liquidation and bankruptcy proceedings.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_135741: Section 24
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135742: A creditor of a credit institution shall, unless otherwise provided in the contract terms, be liable to accept payment also for an unmatured debt after the credit institution has been placed in liquidation or in bankruptcy. In that case, the creditor shall be entitled to receive compensation for a damage resulting from the difference between the interest agreed upon and a lower market-rate interest. The provisions of this paragraph shall not apply to collateralized bond loans referred to in section 2 of the Act on Mortgage Credit Banks.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135743: When a commercial bank has been placed in liquidation or in bankruptcy, the bank shall, with a public notice, summon the depositors who have not, within ten years prior to the commencement of the liquidation or bankruptcy proceedings, used their account with the bank, to report themselves to the bank within two years from the sum- mons under the threat that the account owner shall otherwise be precluded from exer- cising his right to be heard towards the bank. The summons shall also be sent to the said depositors by letter to the address known to the bank. In that event, the provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135745: of section 20 b, subsection 2 and section 22 a, subsection 2 shall correspondingly be applied. (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_135746: Provisions of the applicable law to be complied with in the European Economic Area (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_135747: Section 24 a (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135748: The laws of Finland shall be applied to the liquidation and bankruptcy of a credit institution as well as to the legal effects of the procedure unless otherwise provided for below in this chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_135749: Section 24 b (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135750: The legal effects relating to employment contracts and relationships shall be governed solely by the law of the EEA State applicable to the employment contract or relationship.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_135751: Section 24 c (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135752: The legal effects relating to a contract conferring the right to make use of or dis- pose of immovable property shall be governed solely by the law of the EEA State within the territory of which the immovable property is situated.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_135754: Section 24 d (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135755: The legal effects relating to the rights of a credit institution in respect of immov- able property, a ship or an aircraft subject to registration in a public register shall be governed solely by the law of the EEA State under the authority of which the register is kept.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_135756: Section 24 e (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135757: The enforcement of rights in respect of securities or derivatives contracts, the ex- istence or transfer of which presupposes their recording in an account, register or cen- tralised deposit system shall be governed by the law of the EEA State where the register or account is held or the deposit system is located.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_135758: Section 24 f (19.5.2004)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135759: The legal effects of netting agreements shall be governed solely by the law gov- erning the said contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135760: The legal effects of repurchase agreements shall be governed solely by the law governing such agreements unless otherwise provided for in section 24 e.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_135761: Section 24 g (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135762: The legal effects of liquidation or bankruptcy proceedings with regard to transac- tions carried out in the context of a regulated market shall be governed solely by the law applicable to transactions carried out in the context of these markets unless otherwise provided for in section 24 e.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_135764: Section 24 h (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135765: The opening of liquidation or bankruptcy proceedings shall not affect the rights in re of a creditor or a third party in respect of assets belonging to a credit institution situ- ated within the territory of an EEA State other than Finland. The same shall apply to rights based on a reservation of title where, at the time of the adoption of such meas- ures or the opening of such proceedings, the asset is situated within the territory of an EEA State other than Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135766: The opening of liquidation or bankruptcy proceedings shall not affect the right of creditors to demand the set-off of their claims against the claims of the credit institution, where such set-off is permitted by the law applicable to the claim of the credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135767: The provisions of subsections 1 and 2 shall not preclude the actions of voidness, voidability or unenforceability laid down in the laws of Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_135768: Section 24 i (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135769: If a credit institution concludes a contract for consideration relating to an immov- able asset, a ship or an aircraft subject to registration in a public register or a security or a derivatives contract, the rights in which are recorded in a register or an account or in a centralised deposit system, the validity of this contract shall be governed by the law of the EEA State within the territory of which the immovable asset is situated or where the register, account or deposit system is kept.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_135770: Section 24 j (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135771: The provisions of section 24 a or section 24 h, subsection 3 shall not apply to voidness, voidability or unenforceability of contracts where the beneficiary of a contract detrimental to the creditors provides proof that the contract is subject to the law of an
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_135773: EEA State other than Finland and that the law does not allow any means of challeng- ing the contract in the case in point.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_135774: Section 24 k (19.5.2004/408)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135775: A lawsuit that is pending upon the opening of liquidation or bankruptcy proceed- ings and which concerns an asset or a right of which the credit institution has been divested shall be governed solely by the law of the EEA State in which the lawsuit is pending.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_135776: Chapter 7 Liability for damages
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_135777: Section 25 (21.7.2006/642)
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135778: The liability for damages of a shareholder, member of the Supervisory Board and the Board of Directors as well as the Managing Director, based on a violation of this Act, shall be governed by the Act on Credit Institutions. The bringing of an action for dam- ages on behalf of a credit institution based on the liability for damages referred to above shall be governed by the provisions of chapter 22, sections 6 - 8 of the Limited-Liability Companies Act. The liability for damages of an auditor shall be governed by the Audit Act (936/1994).
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135779: Without prejudice to the provisions of chapter 22, sections 6 and 7 of the Limited- Liability Companies Act, the Financial Supervision Authority shall be entitled to bring an action for damages on behalf of a credit institution against a person or organisation referred to in section 97 c of the Act on Credit Institutions if it considers this to be neces- sary in the interests of the depositors.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135781: Chapter 8 Entry into force and transitory provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135782: Section 26
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135783: This Act shall enter into force on 1 January 2002 and it shall repeal the Act on Commercial Banks of 28 December 1990 (1269/1990) with later amendments.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135784: Section 27
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135785: The provisions of this Act shall be complied with instead of a provision in the Articles of Association contrary to this Act. An amendment of the Articles of Association contrary to this Act shall be notified for registration at the same time as another amend- ment of the Articles of Association is notified for registration and at the latest within three years from the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135786: If a permission for the lowering of the share capital, a merger or a division is applied for from the Ministry of Finance prior to the entry into force of this Act, the pro- cedure shall be governed by the provisions of the Act on Commercial Banks (1269/1990) in force upon the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135787: Section 24, paragraph 1 of the Act shall not be applied to debts arisen prior to the entry into force of the Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135788: 21.7.2006/642
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135789: This Act enters into force on 1 September 2006.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135790: The provisions in force upon the entry into force of this Act shall be applied to a merger or a division if the draft terms of merger or the draft terms of division are notified for registration before the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135791: The lowering of restricted equity, conveyance of business operations, surrender of the authorisation and liquidation shall be governed by the provisions in force upon the entry into force of this Act if the decision on the implementation of the said measure has been made prior to the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135792: Damages based on an act or neglect that has taken place prior to the entry into force of this Act shall be governed by the provisions in force upon the entry into force of this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_135793: GP 109/2005
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_135795: Finance Committee Report 7/2006 Reply of Parliament 63/2006
+

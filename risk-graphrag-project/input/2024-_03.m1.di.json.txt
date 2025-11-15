@@ -1,0 +1,626 @@
+METADATA: {"document_id": 25, "filename": "2024-_03.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 14, "paragraph_count": 285}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39731: FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39734: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39735: Pankkipalveluissa noudatettavat menette- lytavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39736: Asiatunnus FIVA/2023/1204
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39737: Antopäivä 1.11.2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39738: Voimaantulopäivä 7.11.2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39739: Lisätietoja: Pankkivalvonta/Menettelytavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39740: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_39741: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39742: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39743: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39746: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39748: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39750: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39751: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39752: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjä, joita on nouda- tettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39753: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen no- jalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39755: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39756: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39757: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39758: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_39759: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39760: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39761: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39764: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39765: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39767: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39773: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39776: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39779: Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39781: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39784: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39787: Euroopan Unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39790: Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39792: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39794: Palveluiden markkinointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39796: Asuntoluoton mainonnassa annettavat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39798: Luottosopimuksia koskeva tiedonantovelvollisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39800: Luottosopimuksiin liitetyt vakuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39806: Vakuuksien realisointi ja suorituksen vaatiminen takaajalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39808: Talletussopimuksia koskeva markkinointi ja tiedonantovelvollisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39810: Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_39812: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39813: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39814: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39817: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39819: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39821: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39822: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39823: Näitä määräyksia ja ohjeita sovelletaan Finanssivalvonnasta annetun lain 4 §:ssa ja 5 §:ssa tarkoitettui- hin valvottaviin ja muihin finanssimarkkinoilla toimiviin silta osin kuin ne tarjoavat tai välittävät asunto- tai kuluttajaluottoja taikka tarjoavat talletustilejā.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39824: Näitä määräyksia ja ohjeita sovelletaan myös Finanssivalvonnasta annetun lain 6 §:ssä tarkoitettuihin ulkomaisten ETA-valvottavien Suomessa oleviin sivuliikkeisiin ja ulkomaisiin valvottaviin, jotka tarjoa- vat tai välittävät asunto- tai kuluttajaluottoja taikka tarjoavat talletustilejä Suomessa sivuliikettä perus- tamatta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39825: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39826: Näissä määräyksissä ja ohjeissa tarkoitetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39827: · kuluttajalla kuluttajansuojalain 1 luvun 4 §:n tarkoittamaa kuluttajaa,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39828: · palveluntarjoajalla kaikkia edella luvussa 1.1 tarkoitettuja valvottavia, muita finanssimarkkinoilla toimivia seka ulkomaisia valvottavia silta osin, kun ne tarjoavat tai valittävät kuluttajaluottoja taikka tarjoavat talletustilejä Suomeen tai Suomessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39829: · asuntoluotolla kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvaa luottoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39830: · kuluttajaluotolla kuluttajansuojalain 7 luvun soveltamisalaan kuuluvaa luottoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_39831: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39832: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39833: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39836: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39838: FIN FIN FIN 5 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39839: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39840: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39841: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39842: · Kuluttajansuojalaki (38/1978)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39843: · Laki luottolaitostoiminnasta (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39844: · Kauppakaari (3/1734)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39845: · Laki takauksesta ja vierasvelkapanttauksesta (361/1999)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39846: 2.2 Euroopan Unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39847: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan unionin direktiivit:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39848: · Euroopan parlamentin ja neuvoston direktiivi 2014/17/EU, annettu 4 päivänä helmikuuta 2014, ku- luttajille tarkoitetuista kiinteää asunto-omaisuutta koskevista luottosopimuksista ja direktiivien 2008/48/EY ja 2013/36/EU sekä asetuksen (EU) N:o 1093/2010 muuttamisesta;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39849: · Euroopan parlamentin ja neuvoston direktiivi 2008/48/EY, annettu 23 päivänä huhtikuuta 2008, ku- lutusluottosopimuksista ja neuvoston direktiivin 87/102/ETY kumoamisesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39850: 2.3 Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39851: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39852: · kuluttajansuojalain 7 a luvun 5 §:n 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_39853: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39854: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39855: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39858: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39860: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39862: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39863: Näiden määräysten ja ohjeiden tavoitteena on antaa kuluttajansuojalain 7 a luvun 5 §:n tarkoittamat määräykset sekä antaa muuta täydentävää lisäohjeistusta kuluttajaluotonantoon ja talletustileihin liit- tyvistä velvoitteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39864: Määräyksillä ja ohjeilla on tarkoitus edistää hyvia menettelytapoja ja asiakkaansuojaa ja siten lisätä asiakkaiden luottamusta palveluntarjoajien ja finanssimarkkinoiden toimintaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_39865: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39866: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39867: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39870: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39872: FIN FIN FIN 7 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39873: 4 Palveluiden markkinointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39874: (1) Kuluttajansuojalain 2 luvussa on yleiset markkinointia koskevat säännökset. Lisäksi luottolaitoslain 15 luvun 2 §:ssä on markkinointia koskeva yleissäännös.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39875: Ohje (kohdat 2-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39876: (2) Finanssivalvonnan tulkinnan mukaan kohdassa 1 mainitut lainsäännökset tarkoittavat sitä, että palve- luiden markkinoinnissa kuvataan mahdollisimman tasapuolisesti ja ymmärrettävästi ne palvelun tai tuotteen keskeiset ominaisuudet ja pääasiallinen sisältö, joilla saattaa olla merkitystä asiakkaan teh- dessä palvelua tai tuotetta koskevia ratkaisuja. Markkinoinnissa annettavien tietojen perusteella asiak- kaan tulee kyetä markkinointiaineiston perusteella ymmärtämään, minkälaisesta palvelusta tai -tuot- teesta on kysymys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39877: (3) Finanssivalvonnan tulkinnan mukaan kohdassa 1 mainitut lainsäännökset tarkoittavat sitä, että mark- kinoinnissa annettavien tietojen perusteella ei tule luoda mielikuvien avulla tai muutoin perusteetonta vaikutelmaa palvelun tai tuotteen edullisuudesta tai palveluntarjoajan luotettavuudesta. Tuotteen mahdolliset riskit tulee kertoa selkeasti ja ymmärrettävästi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39878: (4) Finanssivalvonta suosittaa, että palveluntarjoajat viivytyksetta oikaisevat tai taydentävät riittavällä tavalla sellaisen markkinoinnissaan antaman väärän tiedon, jonka totuudenvastaisuus tai harhaanjoh- tavuus käy ilmi vasta tiedon esittämisen jälkeen ja jolla saattaa olla olennaista merkitystä asiakkaalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_39879: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39880: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39881: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39884: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39886: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39888: 5 Asuntoluoton mainonnassa annettavat tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39889: (5) Kuluttajansuojalain 7 a luvun 5 §:n 1 momentin mukaan asuntoluoton mainonnassa on ilmoitettava luoton todellinen vuosikorko, jos mainonnasta ilmenee luoton korko tai muu luotosta perittävia kus- tannuksia kuvaava luku taikka muu luottosopimuksen ehtoja koskeva tieto. Lisäksi mainonnasta on tällöin käytävä ilmi muut 5 §:ssä luetellut tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39890: (6) Kuluttajansuojalain 7 a luvun 5 §:n 2 momentin mukaan luoton todellinen vuosikorko ja muut 1 mo- mentissa tarkoitetut tiedot on annettava selkeästi, tiiviisti ja näkyvästi edustavan esimerkin avulla. Fi- nanssivalvonnan on annettava tarkemmat määräykset esimerkin määräytymisen perusteista. Todelli- nen vuosikorko on ilmoitettava mainonnassa vähintään yhtä näkyvästi kuin muut luoton kustannuksia kuvaavat luvut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39891: Määräys (kohdat 7-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39892: (7) Silloin, kun kuluttajansuojalain 7 a luvun 5 §:n mukaan asuntoluoton mainonnassa on ilmoitettava luo- ton todellinen vuosikorko, on sitä koskeva tieto ja muut kyseisessä momentissa tarkoitetut tiedot an- nettava edustavan esimerkin avulla, jonka määräytymisessä on otettava huomioon seuraavat seikat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39893: · Todellinen vuosikorko on laskettava oikeusministeriön kuluttajaluoton todellisesta vuosikorosta antaman asetuksen 9.12.2016/1123 mukaisesti, jolloin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39894: - luoton määrä laskelmassa on 100 000 euroa ja luoton takaisinmaksuaika 20 vuotta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39895: - luotto nostetaan kerralla edustavan esimerkin laskentahetkellä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39896: - luotto maksetaan takaisin yhtä suurina kuukausierinä, joista ensimmäinen suoritetaan kuukauden kuluttua lainan nostamisesta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39897: - luoton korkosidonnaisuus on yleisimmin käytetty korkosidonnaisuus viimeisimmältä raportoin- tiajankohdalta Suomen Pankin uusia asuntolainasopimuksia koskevien tilastojen mukaan,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39898: - luoton korko on edella mainitun viitekoron arvo edustavan esimerkin laskentahetkellä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39899: - luoton marginaali on laskennallinen korkomarginaali viimeisimmältä raportointiajankohdalta Suo- men Pankin uusia asuntolainoja koskevien tilastojen mukaan,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39900: - muut luottokustannukset kuin korko ovat kyseisen luotonantajan voimassa olevan hinnaston mu- kaiset luottokustannukset esimerkin suuruiselle luotolle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39901: · Muilta osin todellista vuosikorkoa laskettaessa käytetään edella mainitussa oikeusministeriön ase- tuksessa määriteltyjä oletuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39902: (8) Esimerkin tulee olla edustava suhteessa kyseessä olevan luotonantajan tarjoamiin luottoihin. Mikäli luotonantajan tarjoamat asuntoluotot poikkeavat merkittävästi kohdan (7) oletuksista, luotonantajan tulee käyttää todellisen vuosikoron laskemisessa sellaisia ehtoja, jotka ovat edustavat suhteessa kysei- sen luotonantajan tarjoamiin asuntoluottoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39903: (9) Todellista vuosikorkoa koskevassa laskelmassa käytetyt oletukset on ilmoitettava selvästi laskelman yhteydessä. Lisäksi on ilmoitettava, onko luotonantaja käyttänyt todellisen vuosikoron laskemisessa Finanssivalvonnan antamia oletuksia vai niitä ehtoja, jotka ovat edustavat suhteessa kyseisen luoton- antajan tarjoamiin asuntoluottoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39904: (10) Kuluttajansuojalain 7 a luvun 5 §:n 1 momentin perusteella ilmoitettavissa tiedoissa on kerrottava luo- ton todellisen vuosikoron lisäksi kyseisen pykälän edellyttämät muut tiedot siten, että siltä osin, kun
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_39905: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39906: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39907: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39910: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39912: FIN FIN FIN 9 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39913: tietoja on käytetty mainoksessa ilmoitettavan todellisen vuosikoron laskemisessa, ilmoitetaan laskel- massa käytetyt tiedot. Muut luottokustannukset kuin korko on eriteltävä ja yksilöitävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39914: (11) Mainoksessa on selkeasti ilmoitettava, että kyseessä on suuntaa antava esimerkki, joka on laskettu käyttäen oletuksia eikä esimerkki välttämättä vastaa kuluttajalle myönnettävän luoton todellista vuosi- korkoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_39915: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39916: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39917: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39920: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39922: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39924: 6 Luottosopimuksia koskeva tiedonantovelvollisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39925: (12) Kuluttajansuojalain 7 luvun 13 §:n mukaan luotonantajan on luotonannossa meneteltava vastuullisesti. Pykälän 2 momentin 5 kohdan mukaan erityisesti edellytetään, että luotonantaja: antaa kuluttajalle ennen luottosopimuksen tekemistä riittävät ja selkeät selvitykset sen arvioimiseksi, soveltuuko luotto ja mahdollisesti tarjotut lisäpalvelut kuluttajan tarpeisiin ja hänen taloudelliseen tilanteeseensa, sekä tie- don siitä, voiko kuluttaja irtisanoa lisäpalvelua koskevan sopimuksen erikseen ja mitä seuraamuksia irti- sanomisesta kuluttajalle aiheutuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39926: Ohje (kohdat 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39927: (13) Finanssivalvonnan tulkinnan mukaan kuluttajansuojalain 7 luvun 13 §:n 2 momentin 5 kohta tarkoittaa sitä, että palveluntarjoajan tulee erityisesti asuntoluotoissa ja muissa määrältään suurissa tai pitkäai- kaisissa kuluttajaluotoissa antaa ennen luottosopimuksen tekemistä asiakkaalleen riittavästi tietoa ainakin seuraavista luotonottoon liittyvista seikoista:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39928: · eri luottovaihtoehdoista,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39929: · eri korkovaihtoehdoista ja -rakenteista,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39930: · luottosopimuksen kestoon liittyvien muuttuvien taloudellisten tekijöiden aiheuttamista riskeistä (esim. pitkiin vaihtuvakorkoisiin lainoihin liittyvät koronnousun ja takaisinmaksun riskit),
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39931: · luoton eri lyhennystapojen vaikutuksista luottosopimukseen,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39932: · asiakkaan suoritettavaksi tulevien maksujen laiminlyönnin seuraamuksista,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39933: · verotukseen liittyvistä keskeisistä seikoista (esim. mahdollinen korkojen vähennysoikeus, ensiasun- non ostajan asema) ja mahdollisista erityisesti asuntoluottoon liittyvista valtion tukimuodoista (esim. valtiontakaus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39934: (14) Luottosopimuksen keskeisiä ehtoja ja ominaisuuksia on korostettava asiakkaalle ennen luottosopi- muksen solmimista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39935: (15) Finanssivalvonnan tulkinnan mukaan kuluttajansuojalain 7 luvun 13 §:n 2 momentin 5 kohta tarkoittaa sitä, että palveluntarjoajan tulee kertoa asiakkaalle korkosuojaussopimuksia tehtäessä erityisesti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39936: · korkokaton kokonaishinta euroina ja korkokaton hinta laskennallisena korkokustannuksena korko- katon voimassaolon ajalle per annum,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39937: · miten korkokatto tai muu korkosuojaus vaikuttaa eri tilanteissa luoton takaisinmaksuun,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39938: · voiko korkosuojaussopimuksen irtisanoa erikseen ja mitä seurauksia korkosuojaussopimuksen en- nenaikaisesta irtisanomisesta on,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39939: · tieto siitä, ettei asiakasmarginaali sisälly korkokattoon, ellei toisin ole sovittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39940: (16) Finanssivalvonta suosittaa, että erityisesti suurissa luotoissa asiakkaan kanssa kaydaän aina erikseen läpi erilaiset keinot, joilla hän voi suojautua korkojen nousua vastaan. Korkosuojaustuotteiden ohella
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_39941: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39942: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39943: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39946: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39949: FIN 11 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39950: tulisi esitella myös muita suojautumisen vaihtoehtoja kuten kiinteäkorkoinen laina tai asiakkaan oma säästäminen. 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39951: 1 Kohdat 15-16 ovat aikaisemmin olleet suosituksia Finanssivalvonnan kirjeessä Suomessa toimiville pankeille 31.3.2010: "Pankkien pitkän aikavälin kannattavuuden ja asiak- kaansuojan turvaaminen". Ohjeistuksen sisaltoon on tehty vähäisia kielellisia ja teknisia muutoksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_39952: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39953: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39954: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39957: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39959: FIN FIN FIN 12 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39960: 7 Luottosopimuksiin liitetyt vakuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39961: 7.1 Yleistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39962: (17) Vakuuksiin liittyvistä luotonantajan velvollisuuksista on säädetty kauppakaaressa (3/1734) sekä laissa takauksesta ja vierasvelkapanttauksesta (361/1999).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39963: (18) Kauppakaaren 10 luvun 14 §:n 1 momentissa ja takauksesta ja vierasvelkapanttauksesta annetun lain 12 §:n 1 ja 2 momenteissa on säädetty luotonantajan velvollisuudesta antaa tietoja panttaajalle ja ta- kaajalle, joka on luonnollinen henkilö tai yksityistakaaja, ennen panttaussitoumuksen tai takauksen tekemistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39964: Ohje (kohdat 19-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39965: (19) Finanssivalvonta suosittaa, että luotonantaja ottaa huomioon vakuudenantajien taloudellisen turvalli- suuden vakuussitoumuksia laadittaessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39966: (20) Finanssivalvonta suosittaa, että vierasvelkavakuuden antajalle selvitetään vakuudenantajan mahdolli- suus rajoittaa vastuutaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39967: 7.2 Vakuuksien realisointi ja suorituksen vaatiminen takaajalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39968: (21) Kauppakaaren 10 luvun 2 §:n 4 momentin mukaan panttia myytäessa on otettava huomioon myös pan- tin omistajan etu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39969: Ohje (kohdat 22-23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39970: (22) Finanssivalvonta suosittaa, että jos luotonantaja joutuu realisoimaan saamiaan vakuuksia tai vaati- maan suoritusta takaajalta, se toimii mahdollisimman tarkoituksenmukaisella ja osapuolille vähiten haittaa tuottavalla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39971: (23) Finanssivalvonta suosittaa, että vakuuden realisoinnissa noudatetaan seuraavia periaatteita, jos niiden noudattaminen ei vaaranna vakuudenhaltijan asemaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39972: · jos vakuutena on velallisen omaisuutta ja ulkopuolinen vakuus, tulisi ensisijaisesti pyrkiä realisoi- maan velallisen antama vakuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39973: · jos luoton vakuutena on tarkoitus olla useilta tahoilta olevia pantteja tai takauksia, voidaan vakuuk- sia annettaessa sopia siitä, että mahdollisessa realisointitilanteessa pyritään realisointimenettely ratkaisemaan sopimusteitse. Jos sopimukseen ei päästä, vakuudenhaltija voi valita realisointijärjes- tyksen, ellei lainsäädännöstä muuta johdu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39974: · realisoinnissa tulisi ottaa huomioon saatavan määrän suhde vakuutena olevan omaisuuden arvoon siten, että pienestä saatavasta ei realisoitaisi arvokasta vakuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39975: · vakuutena olevat rahoitusvälineet tulisi myydä säännellyllä markkinalla tai monenkeskisessä kau- pankäyntijärjestelmässä tai niitä vastaavassa kaupankäynnissä muussa valtiossa, jos se on mahdol- lista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39976: · vakuuksia, erityisesti rahoitusvälineitä realisoitaessa tulisi noudattaa vakuudenantajan mahdolli- sesti esittämia toivomuksia realisointijärjestyksestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_39977: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39978: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39979: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39982: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39984: FIN FIN FIN 13 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39985: 8 Talletussopimuksia koskeva markkinointi ja tiedonantovelvolli- suus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39986: (24) Luottolaitoslain 15 luvun 2 §:n mukaan luottolaitoksen on markkinoinnissaan annettava asiakkaalle markkinoitavasta hyödykkeestä kaikki ne tiedot, joilla saattaa olla merkitystä asiakkaan tehdessä hyö- dykettä koskevia ratkaisuja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39987: Luottolaitos ei saa markkinoinnissaan antaa totuudenvastaisia tai harhaanjohtavia tietoja eikä käyttää muutoinkaan asiakkaan kannalta sopimatonta tai hyvän tavan vastaista menettelyä. Kuluttajan kan- nalta sopimattomasta tai hyvän tavan vastaisesta menettelystä säädetään lisäksi kuluttajansuojalain (38/1978) 2 luvussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39988: Markkinointia, joka ei sisällä asiakkaan taloudellisen turvallisuuden kannalta tarpeellisia tietoja, on aina pidettava sopimattomana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39989: Ohje (kohdat 25-27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39990: (25) Finanssivalvonnan tulkinnan mukaan luottolaitoslain 15 luvun 2 § tarkoittaa sitä, että ennen talletusso- pimuksen tekemistä asiakkaalle annettavat riittävät tiedot asianomaiseen talletussopimukseen liitty- vista seikoista tulisi kattaa tiedot ainakin seuraavista:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39991: · korkovaihtoehdot ja -rakenteet, esimerkiksi:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39992: - koron määräytyminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39993: - koron määrä/korkoprosentti sopimuksen tekohetkellä, sen laskutapa, sovellettava viitekorko, kor- kojakso ja koronmaksupäivä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39994: - tieto vuotuisesta korosta (korko p.a.)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39995: - jos talletuksen tuotto tai korko on sidottu muuhun instrumenttiin, kuten osakekoriin tai -indeksiin, tulisi asiakkaalle selvittää, miten tuotto tai korko muodostuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39996: - jos sopimuksessa käytetään enimmais- tai vähimmäiskorkolausekkeita taikka korkoportaita, tulisi asiakkaalle selvittää niiden merkitys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39997: · sopimuksen molemminpuoliset irtisanomisehdot ja määräaikaistalletusten osalta se, onko sopimus mahdollista päättää ennen sen erääntymistä ja paljonko tästä aiheutuu maksuja ja muita kuluja asi- akkaalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39998: · kaikki kustannukset, joita sopimuksesta aiheutuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_39999: · sopimuksen verokohtelu (esim. koron tai tuoton verottaminen)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40000: · tilinkäyttöä koskevat mahdolliset nosto- tai muut rajoitukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40001: (26) Finanssivalvonta suosittaa, että talletussuojaa ei markkinoida talletukseen liittyvänä erityisena etuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40002: (27) Finanssivalvonta suosittaa, että tilinomistajalle toimitetaan muista talletustileistä kuin maksupalvelu- lain mukaisista maksutileista kuluitta tiliote vähintään kerran kalenterivuodessa, jollei tiheämmästä toimittamistavasta ole muuta sovittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_40003: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40004: Määräykset ja ohjeet 3/2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40005: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40008: 7.11.2024 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40010: FIN FIN FIN 14 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40011: 9 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40012: Näillä määräyksillä ja ohjeilla on kumottu seuraavat Finanssivalvonnan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40013: · Finanssipalvelujen ja -tuotteiden markkinointi Määräykset ja ohjeet 15/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40014: · Finanssipalvelujen tarjoamisessa noudatettavat menettelytavat Määräykset ja ohjeet 16/2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_40015: FIN-FSA FINANSSIVALVONTA
+

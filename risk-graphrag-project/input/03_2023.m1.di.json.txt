@@ -1,0 +1,572 @@
+METADATA: {"document_id": 42, "filename": "03_2023.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 12, "paragraph_count": 275}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57086: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57089: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57090: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57091: ES FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57093: N N FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57094: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57095: Eräiden luotonantajien ja vertaislainanvä- littäjien rekisteröinti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57096: Dnro FIVA/2022/1517
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57097: Antopäivä 5.6.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57098: Voimaantulopäivä 1.7.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57099: Lisätietoja Digitalisaatio ja analyysi/Digitalisaa- tio ja pankkipalvelut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57100: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57101: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57104: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57106: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57107: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57110: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57111: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57112: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57113: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöja, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57114: Finanssivalvonta antaa määräyksia ainoastaan maarayksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57116: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetaan Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57117: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Oh- jeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57118: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toiminta- ohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57119: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57120: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57121: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57122: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57124: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57125: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57126: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57128: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57130: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57132: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57135: 2.2 Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57137: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57139: 4 Rekisteri-ilmoituksen sisältö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57141: 4.1 Rekisteri-ilmoituksen yleiset vaatimukset ja ilmoituksen tekeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57143: 4.2 Ilmoituksen tekijan tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57145: 4.3 Tieto toiminnan luonteesta 7
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57146: 4.4 Ilmoituksen tekijan luotettavuus ja luottotoiminnan tuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57148: 4.4.1 Luotettavuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57150: 4.4.2 Luottotoiminnan tuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57152: 4.5 Asiakasvarojen säilyttäminen ja käsitteleminen 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57153: 4.6 Muut tiedot 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57154: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57156: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57160: *************** CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57162: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57163: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57166: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57169: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57171: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57172: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57173: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain (878/2008) 5 §:ssä tarkoitettuihin muihin finanssimarkkinoilla toimiviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57174: · toimijoihin, jotka ovat eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annetun lain (186/2023) 4 §:n perusteella velvollisia ilmoittautumaan Finanssivalvonnan pitämään luotonantaja- ja vertaislainanvälittäjärekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57175: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57176: Näissä määräyksissa ja ohjeissa kaytetaan jaljempana seuraavia maaritelmia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57177: · Valvottavalla tarkoitetaan kaikkia edellä luvussa 1.1 todettuja määräysten ja ohjeiden so- veltamisalaan kuuluvia toimijoita;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57178: · Ilmoituksella tarkoitetaan eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä anne- tun lain 4 §:n mukaista rekisteri-ilmoitusta;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57179: · Ilmoituksen tekijällä tarkoitetaan sitä, joka on velvollinen tekemään eräiden luotonantajien ja luotonvälittäjien rekisteröinnista annetun lain 4 §:n mukaisen rekisteri-ilmoituksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57180: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57181: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57182: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57185: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57187: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57190: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57191: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57192: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57193: · laki eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä (186/2023), jäljempänä myös LLR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57194: · laki Finanssivalvonnasta (878/2008)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57195: 2.2 Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57196: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraavaan lain säännökseen:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57197: · eraiden luotonantajien ja luotonvälittajien rekisteröinnista annetun lain 4 §:n 4 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57198: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57199: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57200: Antopäivä: 5.6.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57202: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57206: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57209: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57210: (1) Näihin määräyksiin ja ohjeisiin on koottu luotonantajia ja vertaislainanvälittājia koskevat Finanssi- valvonnan määräykset, ohjeet, suositukset ja tulkinnat rekisteri-ilmoitukseen sisällytettävistä tie- doista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57211: (2) Määräysten ja ohjeiden tavoitteena on ohjeistaa markkinoille tuloa ja tehostaa rekisteröitymispro- sessia. Määräyksissä ja ohjeissa tuodaan esille ne seikat, joihin Finanssivalvonta laissa säädet- tyjä vaatimuksia tulkitessaan erityisesti kiinnittää huomiota, kun se arvioi, täyttääkö rekisteri-ilmoi- tuksen tehnyt taho eräille kuluttajaluottojen myöntäjille tai vertaislainanvälittäjille asetetut edelly- tykset. Rekisteröinnin edellytysten tulee täyttyä koko toiminnan ajan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57212: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57213: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57214: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57216: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57219: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57220: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57223: 4 Rekisteri-ilmoituksen sisältö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57224: 4.1 Rekisteri-ilmoituksen yleiset vaatimukset ja ilmoituksen tekeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57225: (1) Luotonantajien ja vertaislainanvälittäjien valvomiseksi pidetään rekisteria (luotonantaja- ja vertais- lainanvälittäjärekisteri), jonka rekisterinpitäjä on Finanssivalvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57226: (2) Sen, joka aikoo tarjota kuluttajaluottoja tai välittäa vertaislainoja, on tehtävä ilmoitus Finanssival- vonnalle rekisteriin merkitsemistä varten.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57227: OHJE (kohdat 3-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57228: (3) Finanssivalvonta on julkaissut verkkosivuillaan hakemuslomakkeen, jota suositellaan käytettä- väksi hakemusta laadittaessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57229: (4) Ilmoituksen voi tehdä joko suomen tai ruotsin kielellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57230: (5) Myös hakemuksen liitteiden tulisi pääasiassa olla suomen- tai ruotsinkielisia. Muilla kielilla laadit- tuja liitteitä voidaan tapauskohtaisesti hyväksya, jos siitä on erikseen sovittu Finanssivalvonnan kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57231: 4.2 Ilmoituksen tekijan tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57232: (6) LLR 4 §:n 2 momentin 1 kohdan mukaan rekisteri-ilmoitukseen on sisällytettävä 8 §:n 1 momentin 1 ja 2 kohdassa tarkoitetut tiedot. LLR:n 8 §:n 1 momentin 1 ja 2 kohtien mukaan rekisteri-ilmoi- tukseen on sisällytettävä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57233: · yksityisen elinkeinonharjoittajan täydellinen nimi ja henkilötunnus tai tämän puuttuessa syntymäaika sekä toiminimi, mahdollinen aputoiminimi, yritys ja yhteisötunnus tai muu vastaava tunniste ja niiden toimipaikkojen käyntiosoite, joissa luottotoimintaa tai vertaislai- nanvälitystä harjoitetaan;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57234: · oikeushenkilön toiminimi, mahdollinen aputoiminimi, yritys ja yhteisötunnus tai muu vas- taava tunniste ja niiden toimipaikkojen käyntiosoite, joissa luottotoimintaa tai vertaislai- nanvälitystä harjoitetaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57235: 4.3 Tieto toiminnan luonteesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57236: (7) LLR 4 §:n 2 momentin 2 kohdan mukaan rekisteri-ilmoitukseen on sisällytettävä tieto siitä, ha- keeko ilmoituksen tekijā rekisteröintia luotonantajaksi vai vertaislainanvälittäjäksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57237: (8) Jos kyse on luotonantajaksi rekisteröitymisestä, rekisteri-ilmoitukseen on kohdassa 7 mainitun lainkohdan nojalla sisällytettāvā tieto siitä, aikooko tämä myöntaa myös kuluttajansuojalain 7 a luvun soveltamisalaan kuuluvia asunto-omaisuuteen liittyvia kuluttajaluottoja tai asuntoyhteisö- luottoja taikka välittaa vertaislainoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57238: MÄÄRÄYS (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57239: (9) Ilmoituksen tekijan on liitettava rekisteri-ilmoitukseen kuvaus toiminnastaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57240: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57241: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57242: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57245: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57247: OHJE (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57248: (10) Finanssivalvonta suosittaa, että toiminnan kuvauksessa mainitaan myös luotonannossa tai ver- taislainanvälityksessä käytettävät yhteistyökumppanit. Tällaisia voivat olla esimerkiksi tietojärjes- telmia tarjoavat yhtiöt tai myynnissä, markkinoinnissa tai asiakaspalvelussa käytettävät yhteistyö- kumppanit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57249: 4.4 Ilmoituksen tekijan luotettavuus ja luottotoiminnan tuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57250: (11) LLR 4 §:n 2 momentin 3 kohdan mukaan rekisteri-ilmoitukseen tulee sisällyttää selvitys 7 §:n 1 momentissa tarkoitetuista henkilöistä, joiden luotettavuus tulee arvioitavaksi, jos ilmoituksen tekijä on oikeushenkilö.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57251: (12) LLR 4 §:n 2 momentin 4 kohdan mukaan rekisteri-ilmoitukseen tulee sisällyttää selvitys ilmoituk- sen tekijän, tai jos ilmoituksen tekijä on oikeushenkilö, 7 §:n 2 momentissa tarkoitettujen henkilöi- den koulutuksesta ja työkokemuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57252: OHJE (kohdat 13-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57253: (13) Hakemuksen arvioinnin osana Finanssivalvonta tekee edella mainituista henkilöistä luotettavuus- ja sopivuusarvioinnin (ns. fit & proper -arvioinnin).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57254: (14) Finanssivalvonta on julkaissut verkkosivuillaan lomakkeen, jota suositellaan käytettäväksi luotet- tavuus- ja sopivuusselvitystä laadittaessa. Lomakkeessa on tarkemmat ohjeet muun muassa toi- mitettavista liitteistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57255: 4.4.1 Luotettavuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57256: (15) LLR 6 §:n 1 momentin mukaan Ilmoituksen tekijaa tai 7 §:n 1 momentissa tarkoitettua henkiloa ei pidetä 5 §:n 1 momentin 3 kohdassa edellytetylla tavalla luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton harjoittamaan kuluttajaluottojen tai asuntoyhteisö- luottojen tarjoamista taikka vertaislainanvälitystä, omistamaan mainitunlaista toimintaa harjoitta- vaa yhteisoa tai toimimaan sen hallituksen jäsenenä tai varajäsenenā, toimitusjohtajana tai toimi- tusjohtajan sijaisena taikka muussa ylimmässä johdossa, taikka jos hän on muutoin aikaisem- malla toiminnallaan osoittanut olevansa ilmeisen sopimaton toimimaan mainitunlaisessa tehtä- vässä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57257: MÄÄRÄYS (kohta 16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57258: (16) Ilmoitukseen on liitettävä kohdassa 14 mainitussa lomakkeessa tarkoitetut selvitykset niiden luon- nollisten henkilöiden luotettavuudesta ja sopivuudesta, joita luotettavuusvaatimus koskee.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57259: OHJE (kohdat 17-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57260: (17) LLR 7 §:n 1 momentin mukaan jos ilmoituksen tekija on oikeushenkilö, 5 §:n 1 momentin 3 koh- dassa säädetty vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentā ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57261: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57263: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57264: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57269: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57270: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57272: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57274: varajäsentä, vastuunalaista yhtiömiestä, muuta ylimpään johtoon kuuluvaa ja sitä, jolla on suo- raan tai välillisesti vähintään kymmenesosa osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta tai vastaava omistus tai määräamisvalta, jos kyse on muu yhteiso kuin osakeyhtio.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57275: (18) Finanssivalvonnan tulkinnan mukaan LLR 7 §:n 1 momentin tarkoittamana muuna ylimpään joh- toon kuuluvana henkilönä pidetään johtoryhmän jäsentä ja yksittäisen liketoiminta-alueen johta- jaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57276: (19) Finanssivalvonnan tulkinnan mukaan LLR 7 §:n 1 momentti tarkoittaa sita, että arvioitaessa ilmoi- tuksen tekijästä vähintään 10 % omistavan osakeyhtiön tai muun yhteisön luotettavuutta, luotetta- vuusselvitys toimitetaan kyseisen omistajayhtiön toimitusjohtajasta ja hänen sijaisestaan, hallituk- sen jäsenestä ja varajäsenestä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsenestä ja varajāsenesta, vastuunalaisesta yhtiömiehestā ja muusta ylimpään johtoon kuuluvasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57277: (20) Finanssivalvonta suosittaa toimittamaan omistusrakenteesta kuvauksen. Omistusrakenteen ku- vaus tulisi laatia siten, että kuvauksesta on mahdollista arvioida, minkä laajuisena luotettavuusar- viointi on toteutettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57278: 4.4.2 Luottotoiminnan tuntemus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57279: (21) LLR 7 §:n 2 momentin mukaan, jos ilmoituksen tekija on oikeushenkilö, 5 §:n 1 momentin 4 koh- dassa säädetty vaatimus luottotoiminnan tuntemuksesta koskee ylintä johtoa. Jos ilmoituksen tekijā harjoittaa myös muuta liiketoimintaa kuin kuluttajaluottojen tai asuntoyhteisöluottojen tarjoa- mista taikka vertaislainanvalitystā, vaatimus koskee niitä henkilöitä, jotka tosiasiallisesti vastaavat luottotoiminnasta tai vertaislainanvälityksestä. LLR 5 §:n 1 momentin 4 kohdan mukaan Finanssi- valvonnan on rekisteröitävä ilmoituksen tekijä luotonantajaksi tai vertaislainanvälittäjäksi, jos il- moituksen tekijällä on sellainen luottotoiminnan tuntemus kuin harjoitetun luottotoiminnan tai ver- taislainanvälityksen luonteeseen ja laajuuteen katsoen on tarpeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57280: (22) LLR 10 §:n 2 momentin mukaan, jos luotonantaja myöntää kuluttajansuojalain 7 a luvun sovelta- misalaan kuuluvia kuluttajaluottoja, luotonantajan palveluksessa olevilla ja muutoin luotonantajan lukuun toimivilla henkilöilla, jotka osallistuvat luottojen myöntämiseen, on oltava luottotoimintaa koskeva riittavā tietāmys ja patevyys ottaen huomioon kuluttajille tarkoitetuista kiinteää asunto- omaisuutta koskevista luottosopimuksista ja direktiivien 2008/48/EY ja 2013/36/EU sekä asetuk- sen (EU) N:o 1093/2010 muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2014/17/EU III liitteessa saadetyt vaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57281: OHJE (kohdat 23-24)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57282: (23) Lain esitoiden mukaan kuluttajaluottojen tarjoaminen ja vertaislainanvälitys edellyttää hyvää am- mattitaitoa ja lainsäädannön tuntemusta. Luottotoiminnan tuntemuksella tarkoitetaan esimerkiksi niiden lainsäädännön alojen tuntemista, jotka tulevat kysymykseen kuluttajaluottojen tarjontaa tai vertaislainanvälitystä harjoitettaessa sekä näiden alojen edellyttämää teknistä tietoa, taitoa ja muuta vastaavaa valmiutta.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57283: (24) Finanssivalvonnan suosittaa, että jos kyseessa on luotonantaja, joka myöntaa kuluttajansuojan- lain 7 a luvun soveltamisalaan kuuluvia asunto-omaisuuteen liittyvia kuluttajaluottoja, luottotoimin- nan tuntemusta arvioitaessa otetaan soveltuvin osin huomioon luotonantajien ja luotonvälittäjien
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57284: 1 HE 101/2022 vp s. 63, HE 77/2016 vp s. 83, HE 24/2010 vp s. 47 ja 48.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57285: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57287: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57292: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57293: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57295: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57304: ammatillisista vaatimuksista asunto-omaisuuteen liittyvissa kuluttajaluotoissa annetusta valtioneu- voston asetuksesta (1031/2016) ilmenevät seikat. Vaatimus koskisi ylintā johtoa kollektiivina.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57305: MÄÄRÄYS (kohta 25)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57306: (25) Henkilön tulee toimittaa Finanssivalvonnalle selvitys luottotoiminnan tuntemuksen varmista- miseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57307: OHJE (kohdat 26-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57308: (26) Finanssivalvonnan tulkinnan mukaan riittavan ammattitaidon arvioinnissa otetaan huomioon toi- minnan laatu ja laajuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57309: (27) Finanssivalvonnan tulkinnan mukaan soveltuvana koulutuksena voidaan pitää esimerkiksi kau- pallista tai oikeustieteellistä koulutusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57310: (28) Finanssivalvonnan tulkinnan mukaan luottotoiminnan tuntemusta arvioitaessa huomioon voidaan ottaa myös aikaisempi työkokemus luotonantotoimintaan liittyvistä tehtävistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57311: (29) Lain esitoiden mukaan luottotoiminnan tuntemuksen arvioimiseksi tarpeellisia toimitettavia asia- kirjoja voivat olla esimerkiksi ansioluettelo, tutkinto- ja työtodistukset sekä todistukset osallistumi- sesta merkittäviin koulutusohjelmiin tai ammatillisiin kursseihin.2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57312: (30) Lain esitoiden mukaan vaatimus luottotoiminnan tuntemuksesta koskee ylintä johtoa kollektii- vina.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57313: (31) Finanssivalvonnan tulkinnan mukaan on hyväksyttävää, että ylimmälla johdolla kokonaisuudes- saan on riittävä koulutus ja kokemus. Luottotoiminnan tuntemusta ei siten ehdottomasti edellytetä kaikilta ylimpään johtoon kuuluvilta henkilöiltä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57314: (32) Finanssivalvonta suosittelee toimittamaan edella kohdassa (29) mainitut asiakirjat luottotoiminnan tuntemuksen arvioimiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57315: 4.5 Asiakasvarojen säilyttäminen ja käsitteleminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57316: (33) LLR 4 §:n 2 momentin 5 kohdan mukaan rekisteri-ilmoitukseen tulee sisällyttää tieto siitä, onko ilmoituksen tekijalla tarkoitus vastaanottaa asiakasvaroja, ja selvitys siitä, miten ilmoituksen tekijā aikoo huolehtia asiakasvarojen sailyttämisestä ja käsittelemisestä. LLR 11 §:n 1 momentin mu- kaan Finanssivalvonnan on myönnettava ilmoituksen tekijalle oikeus vastaanottaa asiakasvaroja, jos ilmoituksen tekija on toimittanut Finanssivalvonnalle selvityksen asiakasvarojen säilyttämi- sestä ja käsittelystä 12 §:n 1 momentissa edellytetyllä tavalla, eikä ilmoituksen tekijää ole pidet- tävä ilmeisen sopimattomana vastaanottamaan asiakasvaroja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57317: (34) LLR 12 §:n 1 momentin mukaan luotonantajan ja vertaislainanvälittäjan tulee järjestää sen hallin- taan luovutettujen asiakkaan varojen säilyttaminen ja käsittely luotettavalla tavalla. Mainitun 1 momentin 1 kohdan mukaan luotonantajan ja vertaislainanvälittäjän on huolehdittava asiakasva- rojen pitämisestä erillään sen omista varoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57318: 2 HE 101/2022 vp, s. 63, HE 77/2016 vp, s. 83, HE 24/2010 vp, s. 47.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57319: 3 HE 101/2022 vp, s. 63, HE 77/2016 vp, s. 83, HE 24/2010 vp, s. 49.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57320: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57321: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57322: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57324: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57327: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57328: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57331: (35) LLR 12 §:n 1 momentin 3 kohdan mukaan asiakasvarat talletetaan Suomessa tai muussa ETA- valtiossa toimiluvan saaneessa talletuspankissa olevalle pankkitilille. Lain esitöiden mukaan luo- tonantajan tai vertaislainanvälittäjän on huolehdittava siitä, että talletuspankki ei voi käyttää asia- kasvaratililla olevia varoja luotonantajalta tai vertaislainanvälittajaltā olevien saataviensa kuittauk- seen.4 Lain esitoiden mukaan asiakkaiden varat on talletettava asiakasvaratilille.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57332: OHJE (kohdat 36-42)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57333: (36) Finanssivalvonnan tulkinnan mukaan ilmoituksen tekijän on toimitettava Finanssivalvonnalle sel- vitys asiakasvarojen säilyttämisestä ja käsittelystä, jos se aikoo säilyttää asiakasvaroja LLR 12 §:n 1 momentissa edellytetylla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57334: (37) Finanssivalvonnan tulkinnan mukaan asiakasvarat on säilytettävä asiakasvaratilillä niin, ettei ole vaaraa niiden sekoittumisesta toisen henkilön, ilmoituksen tekijän tai muun palveluntarjoajan va- roihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57335: (38) Finanssivalvonta suosittaa, että valvottava laatisi arvion asiakasvarojen säilyttämiseen ja suojaa- miseen liittyvistä operatiivisista riskeistä. Riskiarviosta tulisi käydä ilmi:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57336: · millaisia riskejä asiakasvarojen säilyttämiseen ja suojaamiseen liittyy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57337: · millä toimilla valvottava pyrkii estämään tunnistettujen riskien toteutumisen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57338: · mikä on riskitaso tehtyjen toimien jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57339: Riskiarvion tulisi sisältää myös mahdolliseen toiminnan harjoittamisen lopettamiseen tai liiketoi- minnan siirtoon liittyvät riskit asiakasvarojen säilyttämiselle ja suojaamiselle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57340: (39) Finanssivalvonta suosittaa, että valvottava maarittelisi asiakasvarojen suojaamiseen ja säilyttami- seen liittyvät olennaiset prosessit. Valvottavalla tulisi olla riittävät kontrollit, jotka varmistavat asia- kasvarojen asianmukaisen suojaamisen ja pienentävät käsittelyyn liittyvät henkilöriskit hyväksyt- tävälle tasolle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57341: (40) Finanssivalvonta suosittaa, että valvottava määrittelisi asiakasvarojen säilyttämiseen liittyville pro- sesseille toipumisajat eli pisimmän sallitun katkon, joka ei vielä hairitse toimintaa. Prosesseille tulisi suunnitella vaihtoehtoiset toimintamallit ja toipumismenettelyt toiminnan katkosten varalta. Erityisesti olisi varmistettava, että liiketoiminnan toipumisen kannalta tärkeät tiedot ovat palautet- tavissa ajan tasalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57342: (41) Finanssivalvonnan tulkinnan mukaan valvottavan on LLR 12 §:n 1 momentin 1 ja 2 kohtien mu- kaisten vaatimusten täyttämiseksi pidettävä kirjaa omista varoistaan ja asiakasvaroistaan. Valvot- tavan on varmistettava kirjanpidon eheys, saatavuus ja luottamuksellisuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57343: (42) Finanssivalvonta suosittaa, että tietojärjestelmiin rakennettaisiin kontrollit, jotka mahdollistavat kirjanpidon ja säilytyksessä olevien varojen täsmäytyksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57344: 4 HE 101/2022 vp, s. 65 ja HE 77/2016 vp, s. 86.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57345: 5 HE 101/2022 vp, s. 65 ja HE 77/2016 vp, s. 86.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57346: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57347: Määräykset ja ohjeet 3/2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57348: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57351: 1.7.2023 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57355: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57358: 4.6 Muut tiedot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57359: (43) LLR 8 §:n 3 momentin mukaan luotonantajan ja vertaislainanvälittäjan on viipymättä ilmoitettava Finanssivalvonnalle rekisteriin merkittyjen tietojen muutoksista. Lisäksi luotonantajan ja vertaislai- nanvälittäjän on ilmoitettava Finanssivalvonnalle toimintansa lopettamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57360: FIN-FSA FINANSSIVALVONTA
+

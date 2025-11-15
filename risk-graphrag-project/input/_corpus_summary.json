@@ -1,0 +1,50 @@
+{
+  "total_documents": 98,
+  "total_paragraphs": 125172,
+  "risk_mentions": {
+    "SYSTEMIC_RISK": 131,
+    "LIQUIDITY_RISK": 563,
+    "MARKET_RISK": 790,
+    "CREDIT_RISK": 2084,
+    "OPERATIONAL_RISK": 438,
+    "SOVEREIGN_RISK": 30,
+    "MODEL_RISK": 65,
+    "FOREIGN_EXCHANGE_RISK": 143,
+    "VOLATILITY_RISK": 15,
+    "CONCENTRATION_RISK": 107,
+    "CLIMATE_RISK": 17,
+    "SETTLEMENT_RISK": 18,
+    "LEGAL_RISK": 48,
+    "INFLATION_RISK": 9,
+    "REPUTATIONAL_RISK": 66,
+    "BUSINESS_RISK": 14,
+    "CYBER_RISK": 7,
+    "LEVERAGE_RISK": 2,
+    "PENSION_RISK": 3,
+    "INSURANCE_RISK": 39
+  },
+  "jurisdictions": [
+    "EU",
+    "FINNISH",
+    "INTERNATIONAL"
+  ],
+  "categories": [
+    "NATIONAL_LAWS",
+    "FINANCIAL_REGULATION"
+  ],
+  "subcategories": [
+    "CRD",
+    "FIVA_MOK",
+    "MiFID",
+    "SFDR",
+    "VYL",
+    "CRR",
+    "FINLAND",
+    "LLL",
+    "EBA",
+    "Basel",
+    "BRRD",
+    "MiFIR",
+    "IFRS"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "total_nodes": 1039,
+  "total_edges": 0,
+  "density": 0,
+  "connected_components": 1039,
+  "largest_component_size": 1,
+  "average_clustering": 0.0,
+  "node_types": {
+    "JURISDICTION": 13,
+    "REGULATORY_SOURCE": 132,
+    "RISK_CATEGORY": 108,
+    "REGULATORY_BODY": 34,
+    "REGULATORY_REQUIREMENT": 375,
+    "COMPLIANCE_TIMELINE": 109,
+    "": 54,
+    "LEGAL_ENTITY": 140,
+    "INDUSTRY_SECTOR": 25,
+    "IMPLEMENTATION_METHOD": 33,
+    "REMEDIATION_ACTION": 12,
+    "FINANCIAL_INSTITUTION": 3,
+    "CREDIT INSTITUTIONS ACT": 1
+  },
+  "top_nodes_by_degree": [
+    {
+      "node": "62e48b7b-b059-4182-83d7-2332efb12b1e",
+      "centrality": 0.0,
+      "type": "JURISDICTION",
+      "degree": 0
+    },
+    {
+      "node": "32cf0ab6-52a4-4369-9c41-afab8de9a832",
+      "centrality": 0.0,
+      "type": "REGULATORY_SOURCE",
+      "degree": 0
+    },
+    {
+      "node": "8d70b045-4ded-4f2f-a636-9c1a6971989e",
+      "centrality": 0.0,
+      "type": "RISK_CATEGORY",
+      "degree": 0
+    },
+    {
+      "node": "d9f05e5c-5a38-4e71-8abf-c6a64415b0d3",
+      "centrality": 0.0,
+      "type": "REGULATORY_BODY",
+      "degree": 0
+    },
+    {
+      "node": "fe1108d2-3207-45be-aff0-0fa70e079ba9",
+      "centrality": 0.0,
+      "type": "REGULATORY_REQUIREMENT",
+      "degree": 0
+    },
+    {
+      "node": "271b52c2-505b-400f-bbd5-365a6a9e989e",
+      "centrality": 0.0,
+      "type": "COMPLIANCE_TIMELINE",
+      "degree": 0
+    },
+    {
+      "node": "29b8cfc4-a272-48e4-9e5c-6d8ccbbafb22",
+      "centrality": 0.0,
+      "type": "COMPLIANCE_TIMELINE",
+      "degree": 0
+    },
+    {
+      "node": "56431242-cbc3-4625-ae32-e8275186c245",
+      "centrality": 0.0,
+      "type": "REGULATORY_BODY",
+      "degree": 0
+    },
+    {
+      "node": "d91f4073-c9cb-4e21-bfe1-6e78adf857c4",
+      "centrality": 0.0,
+      "type": "COMPLIANCE_TIMELINE",
+      "degree": 0
+    },
+    {
+      "node": "3c8ea734-bac3-4ec5-89db-42545e8e9d2b",
+      "centrality": 0.0,
+      "type": "REGULATORY_REQUIREMENT",
+      "degree": 0
+    }
+  ]
+}

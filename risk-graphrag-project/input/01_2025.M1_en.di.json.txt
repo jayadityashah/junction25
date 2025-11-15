@@ -1,0 +1,687 @@
+METADATA: {"document_id": 14, "filename": "01_2025.M1_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 14, "paragraph_count": 549}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30864: FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30865: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30866: Management of default risks in consumer lending
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30867: Journal Number FIVA/2024/2102
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30868: Issued 22.5.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30869: Valid from 1.6.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30870: Further information from: Banking Supervision/Conduct Supervision
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30871: FINANCIAL SUPERVISORY AUTHORITY tel. +358 9 183 51 firstname.surname@fiva.fi fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_30872: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30873: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30876: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30877: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30882: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30883: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30884: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30885: FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do SO.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30886: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30887: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30888: Also recommendations and other operating guidelines that are not binding are presented under this heading, as are FIN-FSA's recommendations on compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30889: The formulation of the guideline shows when it constitutes an interpretation and when it constitutes a recommendation or other operating guideline. A more detailed description of the formulation of guidelines and the legal nature of regulations and guidelines is provided on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30890: fin-fsa.fi > Regulation > Legal framework of FIN-FSA regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_30891: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30892: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30895: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30896: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30898: S FIN 3 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30904: Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30907: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30910: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30912: Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30915: Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30918: FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30920: Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30922: Management of default risks in consumer lending
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30925: Data and operating models to be applied in risk rating systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30928: Principle and calculation of the Gini coefficient
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:CREDIT_RISK]
+PARAGRAPH_30931: Thresholds and distributions for the assessment of default risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30934: Principle and calculation of the highest-risk 5% bucket
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30937: Data to be submitted to the FIN-FSA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30940: Permission to deviate from the MK reporting obligation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_30942: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30943: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30946: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30947: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30949: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30951: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30952: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30953: These regulations and guidelines shall apply to the following supervised entities and foreign supervised entities as referred to in section 4 of the Act on the Financial Supervisory Authority (878/2008, FIN-FSA Act) as well as other financial market participants as referred to in section 5 of said Act that grant unsecured consumer credits falling within the scope of application of chapter 7 of the Consumer Protection Act (38/1978):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30954: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30955: · Finnish branches of foreign credit institutions authorised in the EEA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30956: · Finnish branches of foreign credit institutions authorised in non-EEA countries (branch offices of a third-country credit institution)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30957: · foreign credit institutions authorised in the EEA and providing services in Finland without establishing a branch
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30958: · traders obliged under section 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries (186/2023) to register in the register of credit providers and crowdfunding intermediaries maintained by the FIN-FSA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30959: These regulations and guidelines also apply to other supervised entities as referred to in section 4 of the FIN-FSA Act and other financial market participants as referred to section 5 of said Act that provide unsecured consumer credits falling within the scope of application of chapter 7 of the Consumer Protection Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30960: These regulations and guidelines are only applicable to the origination of credit to Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30961: 1.2 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30962: For the purposes of these regulations and guidelines, the following terms shall have the following meanings:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30963: · Supervised entity refers to all supervised entities, foreign supervised entities and other financial market participants as listed above and referred to in the FIN-FSA Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [RISK:CREDIT_RISK]
+PARAGRAPH_30964: · Gini coefficient refers to a key figure measuring the performance of a credit risk model in discriminating good credits from bad ones at the time of credit decision. The calculation formula of the coefficient is specified in chapter 4.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30965: · Bad credits refer to credits more than 90 days past due and recognised as impaired, and credits terminated before reaching 90 days past due and not recognised as impaired.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30966: . Good credits include credits not past due, credits no more than 90 days past due, and repaid credits.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30967: · Highest-risk 5% bucket refers to credits assigned the highest risk scores with the scorecard at the time of credit application.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [RISK:CREDIT_RISK]
+PARAGRAPH_30968: · Scorecard refers to a statistical credit risk model that calculates a risk score for the credit applicant at the time of credit application and is used to make credit decisions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_30969: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30970: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30973: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30974: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30976: FIN FIN FIN 5 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30977: · Rating system refers to models, criteria and processes used to monitor, assess and manage credit risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30978: . Risk score refers to a numeric value generated by the scorecard at the time of credit application and used to assess the credit risk associated with each credit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_30979: · Reference date refers to the date when the report data were derived.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30980: · Reference period refers to the period during which the reportable credits were granted.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_30981: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30982: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30985: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30986: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30988: FIN FIN FIN 6 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30989: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30990: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30991: The following legal provisions, as amended, relate to the matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30992: · Credit Institutions Act (610/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30993: · Consumer Protection Act (38/1978)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30994: · Act on the Registration of Certain Credit Providers and Credit Intermediaries (186/2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30995: 2.2 FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30996: The FIN-FSA's power to issue binding regulations is based on the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30997: . Chapter 15, section 11 b, subsection 4 of the Credit Institutions Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30998: · Section 13, subsection 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_30999: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31000: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31003: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31004: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31006: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31008: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31009: The objective of these regulations and guidelines is to guide supervised entities granting unsecured consumer credit on the methods and requirements for managing default risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31010: The regulations and guidelines describe the minimum requirements for operating models applied by supervised entities in their rating systems used to monitor and assess default risks in consumer lending.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [RISK:CREDIT_RISK]
+PARAGRAPH_31011: These regulations and guidelines are necessary to ensure the performance and reliability of supervised entities rating systems in the assessment of default risk in consumer lending and thereby prevent the granting of credit to consumers with unreasonably high default risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31012: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31013: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31016: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31017: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31019: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31021: 4 Management of default risks in consumer lending
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31022: 4.1 Data and operating models to be applied in risk rating systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31023: (1) In accordance with chapter 15, section 11 b, subsection 2 of the Credit Institutions Act and section 13, subsection 2 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, lenders shall have a risk rating system allowing it to monitor and assess default risks reliably in consumer lending. In accordance with chapter 18, section 6 of the Credit Institutions Act, chapter 15, section 11 b of said Act applies to branches of foreign credit institutions and foreign credit institutions providing services in Finland based on the freedom of provision of services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31024: (2) In accordance with chapter 15, section 11 b, subsection 4 of the Credit Institutions Act and section 13, subsection 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the FIN-FSA may issue more detailed regulations on the data and operating models to be applied in rating systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31025: REGULATION (paragraphs 3-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31026: (3) Supervised entities shall measure the performance of the operating model of the rating system in the assessment of default risks on the credit granting date using the Gini coefficient.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31027: (4) Supervised entities shall calculate the Gini coefficient using the methodology described in paragraphs (9)-(13) with an example calculation. Supervised entities must calculate the Gini coefficient using a comparable method in connection with MK reporting in accordance with section 4.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31028: (5) The example calculation presented in paragraphs (9)-(13) illustrates the method used by the FIN-FSA to calculate the Gini coefficient with fictitious values. The calculation model is also available on the FIN- FSA website in an Excel file attached to these regulations and guidelines. The data used in the calculation are based on MK reporting defined in section 4.5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31029: 4.2 Principle and calculation of the Gini coefficient
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:CREDIT_RISK]
+PARAGRAPH_31030: (6) The Gini coefficient measures how reliably the scoring system applied by the lender can discriminate credits with a high default risk from low-risk credits in the measurement data sample.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31031: (7) If the risk rating system functions reliably, when credits are divided into equal-sized buckets by risk score, the proportion of bad credits will be significantly higher in the highest-risk 5% bucket than in lower-risk buckets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31032: REGULATION (paragraph 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31033: (8) For the calculation of the Gini coefficient, the supervised entity shall use the last day of December (31 Dec) as the reference date and the 1-2 years (1 Jan-31 Dec) preceding the reference date as the reference period. For example, the review for the reference date 31 December 2025 concerns new credits granted between 1 January and 31 December 2024. The number of bad credits and other data to be used in the calculation are determined based on the situation as at the reference date. In calculating the Gini coefficient, the supervised entity shall use the number (count) of credits.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31034: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31035: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31038: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31039: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31041: FIN FIN FIN 9 (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31042: Table 1. Example data for calculating the Gini coefficient
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31043: Good credits, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31045: credits, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31047: credits, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31049: credits, cumulative,%
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31051: credits, cumulative,%
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31053: share of all credits, % Examined credit group as
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31054: average, %
+Cumulative share of bad credits between groups on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31056: of bad credits
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31057: Area of all credits
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31058: Credit applications above the approval
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31059: threshold and approved, lowest score
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [RISK:CREDIT_RISK]
+PARAGRAPH_31060: (=highest credit risk), 5% bucket
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31265: (9) The example data sample consists of a total of 6,002 credits, including 5,787 good credits and 215 bad credits. The data are divided into 20 buckets by risk score on the credit granting date so that each bucket has approximately 300 credits. In the table, the cumulative percentage shares of all credits and bad credits are calculated, starting from the highest-risk 5% bucket with the lowest but still approved risk scores. All credits are divided broadly evenly into the 5% buckets, but the share of bad credits in each bucket varies, being higher in the higher-risk buckets than in the lower-risk buckets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31266: (10) The Gini coefficient is defined in Chart 1 as the ratio of areas ap and (aR + ap) multiplied by 100:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31267: Gini = (aR + ap) aR 100%,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31268: where aR represents the area between a random scoring model and the actual one, and (aR + ap) represents the area between a random scoring model and a perfect one. The discriminatory power of the scoring model is better, the closer the Gini coefficient is to 100%.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31269: Chart 1. This chart illustrates the principle of the Gini coefficient. The blue curve indicates the performance of the scoring model in discriminating good credits from bad ones, while the black curve represents the discriminatory power of a random scoring model. The Gini coefficient is calculated as the ratio of the area between the actual scoring model's curve and the random model's line to the total area above the random model's line, multiplied by 100.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31270: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31271: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31274: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31275: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31277: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [RISK:CREDIT_RISK]
+PARAGRAPH_31279: Discriminatory power of the credit risk model
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31286: Scoring model
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31288: Bad credits, % cumulatively
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31297: Random model
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31306: 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 All approved credits, cumulative % from lowest to highest scores
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31307: (11) In Chart 1, the horizontal axis represents the cumulative proportion of approved credits out of total credits, starting from the highest-risk 5% bucket, while the vertical axis represents the corresponding proportion of bad credits. The area aR is approximated by first forming a bar between each 5% bucket, where the width of the horizontal axis represents the relative proportion of each bucket (here: 5%). The height of the bar indicates the average share of bad credits in these two buckets. For example, the width of the bar between the 5% and 10% score buckets is 5, and its height, on a rounded basis, is 14+26.5 = 20,2 (see Table 1 column "Cumulative share of bad credits between groups on average, %"). 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31308: (12) The area of the entire scoring model is determined by calculating the sum of the areas of each bar (width of the bar multiplied by its height). In the example, the area of bad credits is 7,587.2, where the area above the area of a random model aR is 7587,2 - 5000 = 2587,2. The area falling below a random model is exactly 5,000 because it constitutes half of the potential area of the entire chart 100-100 5,000). 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31309: (13) Correspondingly, the area of the difference between a random model and a perfect model aR + ap is 5,000. Hence, in this example, the Gini coefficient is calculated with the following formula:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31310: Gini = 2,587.2 . 100% = 51.7%. 5,000
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31311: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31312: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31315: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31316: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31318: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK]
+PARAGRAPH_31320: 4.3 Thresholds and distributions for the assessment of default risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31321: (14) In accordance with chapter 15, section 11 b, subsection 1 of the Credit Institutions Act and section 13, subsection 1 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the business model applied by a lender in its lending must not, assessed as a whole, lead to the granting of credits to consumers with an unreasonably high default risk. In accordance with chapter 18, section 6 of the Credit Institutions Act, chapter 15, section 11 b of said Act applies to branches of foreign credit institutions and foreign credit institutions providing services in Finland based on freedom of provision of services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK]
+PARAGRAPH_31322: (15) In accordance with chapter 15, section 11 b, subsection 4 of the Credit Institutions Act and section 13, subsection 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the FIN-FSA may issue more detailed regulations on thresholds and distributions necessary for the assessment of default risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31323: REGULATION (paragraphs 16-17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31324: (16) Supervised entities shall use the proportion of bad credits in the highest-risk 5% bucket relative to the total of good and bad credits in that bucket at a given point in time as a criterion for moderate default risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31325: (17) Supervised entities shall calculate the proportion of bad credits in the highest-risk 5% bucket using the methodology described with an example calculation in paragraphs (21)-(22). Supervised entities must calculate the proportion using a comparable method in connection with MK reporting in accordance with section 4.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31326: (18) The example calculation in paragraphs (21)-(22) illustrates, with fictitious values, the calculation applied by the FIN-FSA for the proportion of bad credits in the highest-risk 5% bucket. The calculation model is also available on the FIN-FSA website in an Excel file attached to these regulations and guidelines. The data used in the calculation are based on MK reporting defined in section 4.5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31327: 4.4 Principle and calculation of the highest-risk 5% bucket
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:CREDIT_RISK]
+PARAGRAPH_31328: (19) The percentage share of bad credits in the highest-risk 5% bucket relative to all credits in the bucket indicates the level of default risk at which the supervised entity grants credits to consumers assigned the highest approved level of default risk at the time of credit origination.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31329: REGULATION (paragraph 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31330: (20) In calculating the share of bad credits in the highest-risk 5% bucket, the supervised entity shall use the last day of December (31 Dec) as the reference date and the prior 1-2 years (period from 1 Jan to 31 Dec) as the reference period. For example, the review for the reference date 31 December 2025 concerns new credits granted between 1 January and 31 December 2024. The number of bad credits and other data to be used in the calculation are determined based on the situation as at the reference date. In calculating the share, the supervised entity shall use the number (count) of credits.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31331: (21) Bad credits in the highest-risk 5% bucket as a share of all credits in the bucket are calculated with the formula: (H5%)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31332: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31333: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31336: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31337: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31339: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31341: DPD>905% + W5% 100,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31342: H5% DPD≤905% + R5% + DPD>905% +W5%
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31343: where DPD>905% is the number of credits more than 90 past due, W5% is the number of credits recognised as impaired, and terminated before reaching 90 days past due and those not impaired, DPD <905% is the number of credits no more than 90 days past due and R5% is the number of repaid credits in the highest-risk 5% bucket.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31344: Table 2. Example data for the highest-risk 5% bucket.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31345: Not past due or past due <= 30 days, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31346: Past due > 30 days and <= 90 days, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31347: Past due > 90 days, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31348: Repaid credits, count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31349: past due and not Realised credit losses, before reaching 90 days recognised as impaired, and credits terminated count
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [RISK:CREDIT_RISK]
+PARAGRAPH_31350: Credit applications above approval threshold and approved, lowest score (=highest credit risk), 5% bucket
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31356: (22) Table 2 presents the example data for the highest-risk 5% bucket for calculating the proportion of bad credits relative to all credits in the bucket. Based on the figures of the example:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31357: H5% 248 + 10 + 19 +12+11 19 + 11 · 100 = 10%
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31358: 4.5 Data to be submitted to the FIN-FSA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31359: (23) In accordance with chapter 15, section 11 b, subsection 3 of the Credit Institutions Act and section 13, subsection 3 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, lenders must provide the FIN-FSA with information necessary for supervision regarding payment delays, non-performing exposures, realised credit losses and risk ratings applied at the time of credit origination concerning credits granted them, unless the FIN-FSA receives corresponding information under other legislation in an extent sufficient for supervision. However, the information shall be provided regularly, at least on an annual basis, and whenever separately required by the FIN-FSA. In accordance with chapter 18, section 6 of the Credit Institutions Act, chapter 15, section 11 b of said Act applies to branches of foreign credit institutions and foreign credit institutions providing services in Finland based on the freedom of provision of services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31360: (24) In accordance with chapter 15, section 11 b, subsection 4 of the Credit Institutions Act and section 13, subsection 4 of the Act on the Registration of Certain Credit Providers and Credit Intermediaries, the FIN-FSA may issue more detailed regulations on the content of the data to be submitted, the manner of submission of the data, the submission date of the data, and the reporting frequency.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31361: (25) The default risk management report (MK, maksukyvyttömyysriskien hallinta) is used to monitor data on consumer credits granted to Finland and necessary for FIN-FSA supervision regarding payment delays, non-performing exposures, realised credit losses and risk ratings applied at the time of credit granting.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31362: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31363: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31366: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31367: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31369: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31371: REGULATION (paragraphs 26-38)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31372: (26) Supervised entities must submit the MK report to the FIN-FSA in accordance with the reporting map for the financial sector1. Reporting is made for reporter levels 201, 205, 210, 214, 218, 221, 222, 260, and 227.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31373: (27) A supervised entity that is the parent company of a consolidation group must report the data at the level of the consolidation group (reporter level 205 or 214). The reporting obligation does not apply to the parent companies of sub-consolidation groups. Other supervised entities belonging to the consolidation group are not required to report the data.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31374: (28) If a supervised entity does not belong to a consolidation group, it must report the data at the solo level (reporter level 201 or 210).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31375: (29) The central institution of an amalgamation of deposit banks must report the data at the level of the amalgamation (reporter level 260). Other supervised entities within the amalgamation are not required to report the data.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31376: (30) Branches of foreign credit institutions pursuing credit institution activities in Finland must report the data at the solo level (reporter level 221 or 222).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31377: (31) The reporting concerns unsecured consumer credits falling within the scope of application of chapter 7 of the Consumer Protection Act. Hire purchase credits with a reservation of title condition are excluded from the scope of the reporting. The reporting is submitted once a year on a product-specific basis. If a single product has several applicable models, these are reported by model.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31378: (32) The reference date in the MK template is the last day (31th) of December. The reference period is a one- year period 1-2 years prior to the reference date. In other words, in the first reporting cycle, for the reference date 31 December 2025, reporting concerns all new credits granted between 1 January and 31 December 2024. The purpose of the reporting is to review credits granted during a year, over a review period of 1-2 years. For credits granted on 1 January, the review period is almost 24 months, and for credits granted on 31 December, it is 12 months. Applications to raise a credit limit or amount of credit are excluded from the reporting.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31379: (33) Reportable credits are divided across the rows of the MK template into 20 buckets as equal in size as possible. Each bucket contains approximately 5% all credits granted in terms of the number of credits.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31380: . For example, if the rejection threshold of the scorecard is 100, and the risk score band 100-120 contains 5% of all approved credits in the sample (in terms of count), the first and highest-risk 5% bucket consists of credits that were assigned a risk score of 100-120 points at the time of credit granting.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31381: · Correspondingly, if the score band 121-135 contains the next 5% of approved applicants in the sample, the second 5% bucket with the second-highest risk consists of credits that were assigned a risk score of 121-135 points at the time of credit granting.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31382: (34) The data to be reported in the columns of the MK template are: Not past due or past due <= 30 days, count; Not past due or past due <= 30 days, €; Past due > 30 days and <= 90 days, count; Past due > 30 days and <= 90 days, €; Past due > 90 days, count; Past due > 90 days, €; Repaid credits, count; Realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31383: 1https://www.finanssivalvonta.fi/globalassets/en/reporting/reporting_map_financial_sector.pdf
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31384: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31385: Regulations and guidelines 1/2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31388: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31389: 1.6.2025 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31391: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31393: credit losses, count and Realised credit losses, €. Realised credit losses also include information on potentially sold credit portfolios to the extent that write-offs have been made, and on credits that have been terminated before falling more than 90 days past due and without being recognised as impaired. Reporting is made at the contract level.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31394: (35) Supervised entities falling within the scope of application of FIN-FSA regulations and guidelines 20/2013 (supervised entities and foreign branches referred to in the FIN-FSA Act (878/2008)) shall report data on assets past due and not past due using the instructions concerning FINREP template F 18.00 provided in Commission Implementing Regulation (EU) No 451/2021 with respect to the threshold values of the significance of the asset and its level of classification (by transaction, by debtor).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31395: (36) The supervised entity shall report the Gini coefficient of the product on the MK form in accordance with paragraph (13).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31396: (37) The supervised entity shall report the proportion of bad credits in the highest 5% risk bucket relative to all credits in that bucket in accordance with paragraph (22).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31397: (38) The data are submitted to the FIN-FSA using the FIN-FSA Reporter Portal.2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31398: 4.6 Permission to deviate from the MK reporting obligation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31400: The FIN-FSA may, on an application by the supervised entity, grant a fixed-term exemption from the minimum number of reportable risk buckets under paragraph (33) if:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31401: · The supervised entity has demonstrated that compliance with the requirement for the minimum number of reportable risk buckets would cause a significant operational detriment and has presented a credible plan to align its activities with these requirements within a reasonable period of time; or
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31402: · Lending by the supervised entity is sufficiently limited in extent and nature to justify a reduction in the number of reportable buckets; or
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31403: . The supervised entity has another justified reason to deviate from the requirement for the minimum number of reportable buckets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31404: In general, exemptions from the minimum number of risk buckets to be reported shall be granted only in exceptional circumstances and must not compromise the objectives of regulation on risk ratings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31405: REGULATION (paragraphs 40-41)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31406: (40) A supervised entity shall submit a written application to the FIN-FSA if it requests an exemption from the number of risk buckets to be reported under paragraph (33).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31407: (41) The supervised entity shall notify the FIN-FSA in writing without undue delay if there is a change in the conditions on which an exemption was granted.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31408: 2 https://www.finanssivalvonta.fi/globalassets/fi/raportointi/raportoitavat-ja-ilmoitettavat-tiedot/taloudellisen-tilan-ja-riskien-raportointi/raportoinnin-ohjeet/fin- fsa_guide_reporter_portal.pdf
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31409: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+

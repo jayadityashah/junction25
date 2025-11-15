@@ -1,0 +1,1532 @@
+METADATA: {"document_id": 48, "filename": "2016_03.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 32, "paragraph_count": 729}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60186: Määräykset ja ohjeet 3/2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60187: Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60188: Dnro FIVA 4/01.00/2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60189: Antopäivä 28.04.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60190: Voimaantulopäivä 01.07.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60191: FINANSSIVALVONTA puh. 010 831 51 faksi 010 831 5590 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_60192: Lisätietoja Instituutiovalvonta/Rahoitussektori
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60193: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60196: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60197: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60199: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60200: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjā, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60201: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain sään- nöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60203: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60204: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoitta- via. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60205: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toi- mintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_60206: Finanssivalvonta.fi > Saantely > Maarays- ja ohjekokoelma > Uusi maarayskokoelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60207: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60210: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60211: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60213: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60218: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60221: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60224: Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60226: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60229: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60232: Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60235: Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60238: Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60240: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60242: Toimiluvan yleiset edellytykset ja toimiluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60245: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60248: Toimiluvan yleiset edellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60251: Toimiluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60253: Toimilupahakemukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60256: Toimilupahakemus ja hakemukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60259: Selvitys perustettavasta luottolaitoksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60262: Luottolaitoksen harjoitettavaksi aiottu liiketoiminta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60265: Talletusten ja muiden takaisinmaksettavien varojen vastaanottaminen yleisöltä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60268: Maksupalvelu ja muu maksuliike
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60271: Luottolaitos sijoituspalveluiden tarjoajana
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60274: Liiketoiminnassa noudatettavat menettelytavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60277: Tallettajien ja sijoittajien suoja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60280: Hallinto ja ohjaus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_60283: Johtaminen ja toiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60286: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60289: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60290: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60293: Luottolaitoksen johto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60296: Johdon luotettavuus, sopivuus ja ammattitaito
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60299: Henkilöstö ja sen ammattitaito
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60302: Palkitsemisjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60305: Tilintarkastajat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60308: Selvitys perustajista ja tärkeimmistä omistajista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60311: Selvitys merkittävistä sidonnaisuuksista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60314: Taloudelliset toimintaedellytykset ja liiketoimintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60317: Taloudelliset toimintaedellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60320: Liiketoimintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60323: Vähimmäispääoma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60326: Arvio kannattavuudesta ja omien varojen riittävyydestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60329: Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60332: Liiketoiminnoista riippumattomien toimintojen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60335: Luottoriskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60338: Markkinariskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60341: Likviditeettiriski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60344: Operatiiviset riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60347: Asiakkaan tunnistamis- ja tuntemisjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60350: Tietojärjestelmät, tietoturvallisuus ja liiketoiminnan jatkuvuussuunnittelu22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60352: Kirjanpitojärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60355: Toimintojen ulkoistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60358: Talletuspankin yhteenliittymän keskusyhteisön toimilupa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60361: Kiinnitysluottopankin toimilupa ja lupa kiinnitysluottopankkitoimintaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60364: Vapaaehtoinen toimiluvasta luopuminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60367: Säästöpankin ja osuuspankin yhteisömuodon muutosten yhteydessä tehtävään toimilupahakemukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60370: toimiluvan saaneen luottolaitoksen toiminta ulkomailla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60373: Luottolaitoksen sivuliikkeen perustaminen, palvelujen tarjoaminen ja kotipaikan siirto ulkomaille
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60376: Luottolaitoksen sivuliikkeen perustaminen ETA-valtioon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60379: Luottolaitoksen sivuliikkeen perustaminen valtioon, joka ei kuulu ETA- alueeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60382: Palveluiden tarjoaminen jonkin muun ETA-valtion alueella sivuliikettä perustamatta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60385: Luottolaitoksen konsolidointiryhmään kuuluvan rahoituslaitoksen sijoittumisoikeus ja palvelujen tarjoamisoikeus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_60388: Luottolaitoksen kotipaikan siirto toiseen ETA-valtioon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60391: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60394: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60395: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60398: Ulkomaisen luottolaitoksen toiminta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60401: Ulkomaisen ETA-luottolaitoksen sivuliikkeen perustaminen ja palvelujen tarjoaminen Suomeen 29
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60403: Kolmannen maan luottolaitoksen sivuliikkeen perustaminen ja edustuston avaaminen Suomeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60406: Sivuliikkeen toimiluvan edellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60409: Sivuliikkeen toimiluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60412: Edustuston avaaminen ja toiminta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_60414: 8 Kumotut määräykset ja ohjeet 32
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60415: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60418: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60419: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60421: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60422: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60423: Näitä määräyksia ja ohjeita sovelletaan haettaessa Finanssivalvonnalta toimilupaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60424: · luottolaitostoiminnasta annetun lain 1 luvun 5 §:ssä tarkoitettuun luottolaitostoi- mintaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60425: · talletuspankkien yhteenliittymästä annetun lain 4 §:ssä tarkoitetulle keskusyhtei- sölle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60426: · kiinnitysluottopankkitoiminnasta annetun lain 5 §:ssä tarkoitetulle kiinnitysluotto- pankille ja saman lain 10 §:ssä tarkoitetun luvan hakemiseen talletuspankille tai luottoyhteisölle kiinnitysluottopankkitoimintaan niiltä osin kuin Finanssivalvonnan määräyksiin ja ohjeisiin 6/2012 Kiinnitysluottopankkkitoimintaa koskeva lupame- nettely ja riskienhallinta ei sisälly luottolaitostoimiluvan hakemiseen ja edellytyk- siin liittyvia tarkempia määräyksiä ja ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60427: Lisäksi näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta an- netun lain 4 §:n 2 momentissa tarkoitettuihin toimilupavalvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60428: · luottolaitokset (luku 4.1 määräys kohta 4 ja luku 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60429: · talletuspankkien yhteenliittymän keskusyhteisö (luku 5.9 määräys kohta 94)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60430: Lisäksi näiden määräysten ja ohjeiden lukua 7 sovelletaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60431: · luottolaitostoiminnasta annetun lain 1 luvun 7 §:n 3 momentissa tarkoitetun ulko- maisen ETA-luottolaitoksen sivuliikkeen perustamiseen Suomeen tai tällaisen luottolaitoksen luottolaitospalvelujen tarjoamiseen Suomessa sivuliikettä perusta- matta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_60432: · luottolaitostoiminnasta annetun lain 1 luvun 7 §:n 4 momentissa tarkoitetun kol- mannen maan luottolaitoksen sivuliikkeen perustamiseen Suomeen tai tällaisen luottolaitoksen edustuston avaamiseen Suomessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60433: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60436: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60437: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60439: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60440: Näissä määräyksissā ja ohjeissa tarkoitetaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60441: (1) johdolla hallitusta ja, jos yhteisölla on hallintoneuvosto, hallintoneu- vostoa, toimitusjohtajaa sekä kaikkia toimitusjohtajan välittömässä alaisuudessa toimivia, jotka ovat yhteisön ylimmissa johtotehtävissä tai tosiasiallisesti johtavat sen toimintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60442: (2) toimivalla johdolla yhteisön toimitusjohtajaa sekä kaikkia toimitusjoh- tajan välittömässä alaisuudessa toimivia, jotka ovat yhteisön ylim- missä johtotehtävissa tai tosiasiallisesti johtavat sen toimintaa. 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60443: (3) yhteisöllä kaikkia määräyksen ja ohjeen soveltamisalaan kuuluvia oikeushenkilöitä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_60444: 1 Lain esitöiden (HE 39/2014) mukaan toimivaan johtoon kuuluvia toimitusjohtajan lisäksi ovat esimerkiksi johtoryhmän jäsenet tai keskeisiä liiketoi- mintoja johtavat henkilöt, vaikka eivät poikkeuksellisesti kuuluisikaan johtoryhmään. Riippuen luottolaitoksen toiminnasta tällainen henkilö voisi olla esimerkiksi arvopaperikaupankäynnistä vastaava johtaja, tietojärjestelmistā tai olennaisesta maantieteellisestā alueesta vastuussa oleva johtaja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60445: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60448: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60449: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60451: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60452: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60453: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60454: · laki luottolaitostoiminnasta (610/2014, jäljempänä myös LLL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60455: · laki kiinnitysluottopankkitoiminnasta (688/2010, jäljempänä myös kiinnitysluotto- pankkilaki)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60456: · laki talletuspankkien yhteenliittymästä (599/2010, jäljempänä myös talletuspank- kien yhteenliittymälaki)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60457: · laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista (1501/2001, jäljempänä myös liikepankkilaki)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60458: · laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista (423/2013, jäljempänä myös osuuspankkilaki)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60459: · säästöpankkilaki (1502/2001)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60460: · maksupalvelulaki (290/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60461: · maksulaitoslaki (297/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60462: · osakeyhtiölaki (624/2006)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60463: · sijoituspalvelulaki (747/2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60464: · arvopaperimarkkinalaki (746/2012, jäljempänä myös AML)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60465: · laki rahoitusvakausviranomaisesta (1195/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60466: · valtiovarainministeriön asetus luottolaitoksen, ulkomaisen luottolaitoksen Suo- messa olevan sivuliikkeen ja talletuspankkien yhteenliittymän keskusyhteisön toimilupahakemukseen sekä sivuliikkeen perustamista ulkomaille koskevaan ha- kemukseen liitettävistä selvityksistä (697/2014, jäljempänä myös LLVMA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60467: · valtioneuvoston asetus omistusosuuden hankkimista ja luovuttamista luottolai- toksessa, sijoituspalveluyrityksessä, rahastoyhtiössä, säilytysyhteisössä, erityi- sessä säilytysyhteisössä, vakuutusyhtiössä, rahoitus- ja vakuutusryhmittymän omistusyhteisössä ja vaihtoehtorahastojen hoitajassa koskevasta ilmoituksesta annetun asetuksen 1 ja 4§:n muuttamisesta (VNA 700/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60468: · valtiovarainministeriön asetus luottolaitosten ja sijoituspalveluyritysten palkitse- misjärjestelmistä (1372/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_60469: · laki Finanssivalvonnasta (878/2008, jäljempänä myös FivaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60470: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60473: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60474: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60476: · rikosrekisterilaki (770/1993)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60477: · laki liiketoimintakiellosta (1059/1985)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60478: · laki rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä (503/2008, jäljempänä myös ResL tai rahanpesulaki)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60479: · valtioneuvoston asetus rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä (616/2008, jäljempänä myös ResA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60480: · eurooppayhtiölaki (742/2004)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60481: · eurooppaosuuskuntalaki (906/2006)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60482: 2.2 Euroopan unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60483: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat suoraan sovellettavat Euroopan unionin asetukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60484: · Neuvoston asetus (EY) N:o 2157/2001 (32001R2157), annettu 8 päivänä loka- kuuta 2001, eurooppayhtiön (SE) säännöistä; EYVL L 294, 10.11.2001, s.1-21 (jäljempänä eurooppayhtiöasetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60485: · Neuvoston asetus (EY) N:o 1435/2003 (32003R1435), annettu 22 päivänä hei- näkuuta 2003, eurooppaosuuskunnan (SCE) säännöistä; EYVL L 207, 18.8.2003, s. 1-24 (jäljempänä eurooppaosuuskunta-asetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60486: · Euroopan parlamentin ja neuvoston asetus (EU) N:o 575/2013 (32013R0575), annettu 26 päivänä kesākuuta 2013, luottolaitosten ja sijoituspalveluyritysten va- kavaraisuusvaatimuksista ja asetuksen (EU) N:o 648/2012 muuttamisesta (ETA:n kannalta merkityksellinen teksti), EUVL L 176, 27.6.2013, s. 1-337 (jäl- jempänä EU:n vakavaraisuusasetus)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60487: · Neuvoston asetus (EU) N:o 1024/2013 (32013R1024), annettu 15 päivänä loka- kuuta 2013, luottolaitosten vakavaraisuusvalvontaan liittyvää politiikkaa koske- vien erityistehtävien antamisesta Euroopan keskuspankille, EUVL L 287, 29.10.2013, s. 63-89 (jäljempänä YVM-asetus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60488: 2.3 Euroopan unionin direktiivit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60489: Näiden määräysten ja ohjeiden aihepiiriin liittyvät läheisesti seuraavat Euroopan unionin direktiivit:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60490: · Euroopan parlamentin ja neuvoston direktiivi 2013/36/EU (32013L0036), annettu 26 päivänä kesākuuta 2013, oikeudesta harjoittaa luottolaitostoimintaa ja luotto- laitosten ja sijoituspalveluyritysten vakavaraisuusvalvonnasta, direktiivin 2002/87/EY muuttamisesta sekä direktiivien 2006/48/EY ja 2006/49/EY kumoa- misesta (ETA:n kannalta merkityksellinen teksti); EUVL L 176, 27.6.2013, s. 338-436 (jäljempänä luottolaitosdirektiivi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_60491: · Euroopan parlamentin ja neuvoston direktiivi 2004/39/EY rahoitusvälineiden markkinoista seka neuvoston direktiivien 85/611/ETY ja 93/6/ETY ja Euroopan parlamentin ja neuvoston direktiivin 2000/12/EY muuttamisesta ja neuvoston di- rektiivin 93/22/ETY kumoamisesta (32004L0039); EUVL L 145, 30.4.2004, s. 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60492: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60495: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60496: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60498: · Euroopan parlamentin ja neuvoston direktiivi 2014/49/EU (32014L0049), annettu 16 päivänä huhtikuuta 2014, talletusten vakuusjärjestelmistä (ETA:n kannalta merkityksellinen teksti), (uudelleenlaadittu); EUVL L 173, 12.6.2014, s. 149-178.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60499: 2.4 Finanssivalvonnan määräyksenantovaltuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60500: Finanssivalvonnan oikeus antaa velvoittavia määräyksia perustuu seuraaviin sään- nöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60501: · LLL 4 luvun 1 §:n 4 momentti, jonka mukaan Finanssivalvonnalle on tehtava ilmoitus, jos toimiluvan myöntämisen edellytyksissä olevissa LLL 4 luvun 1 §:n 1 momentissa tarkoitetuissa tiedoissa tapahtuu toimiluvan myöntämisen jälkeen olennainen muutos. Saman säännöksen mukaan Finanssivalvonta voi antaa tarkemmat määräykset ilmoituksen antamisesta ja sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60502: · LLL 17 luvun 6 §:n 1 momentin mukaan Finanssivalvonta voi mainitun sään- nöksen nojalla antaa kolmannen maan luottolaitokselle, joka aikoo avata edustuston Suomessa, tarkemmat määräykset edustuston avaamiseen Fi- nanssivalvonnalle tehtävän ilmoituksen sisällöstä ja ilmoitusmenettelystä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_60503: · Talletuspankkien yhteenliittymästä annetun lain 11 § 2 momentti, jonka mu- kaan keskusyhteisön on tehtävä Finanssivalvonnalle sen tarkemmin määrää- mälla tavalla ilmoitus, jos toimiluvan myöntämisen edellytyksina olevat tiedot muuttuvat olennaisesti toimiluvan myöntämisen jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60504: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60507: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60508: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60510: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60511: (1) Näiden määräysten ja ohjeiden tavoitteena on
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60512: · esittää yhtena kokonaisuutena lainsäännöksiä täydentävät luottolaitok- sen toiminnan aloittamista sekä hallinnon ja riskienhallinnan järjestämistä koskevat määräykset ja ohjeet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60513: · tehostaa hakuprosessia. Määräyksiin ja ohjeisiin on koottu toimilupiin liittyvä menettely. Määräyksissä ja ohjeissa tuodaan esille myös se, mihin seikkoihin Finanssivalvonta kiinnittää erityisesti huomiota, kun se arvioi, täyttääkö toimilupaa hakenut yhteisö toiminnan harjoittamiselle asetetut edellytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_60514: · edistää markkinoiden vakautta seka rahoitus- ja sijoituspalveluja käyttävien asiakkaiden etujen turvaamista. Määräyksillä ja ohjeilla ha- lutaan osaltaan varmistaa myös se, että markkinoilla toimivat vain sellai- set tahot, jotka täyttävät toiminnan harjoittamiselle laeissa ja muissa säännöksissä asetetut vaatimukset. Finanssivalvonnan tulee voida var- mistua siitä, että toimilupaa hakevaa yhteisoa tullaan johtamaan ammatti- taitoisesti sekä terveiden ja varovaisten liikeperiaatteiden mukaisesti. Toi- miluvan edellytysten tulee täyttyä yhteisön koko toiminnan ajan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60515: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60518: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60519: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60521: 4 Toimiluvan yleiset edellytykset ja toi- miluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60522: 4.1 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60523: (1) LLL 4 luvussa säädetaan toimiluvan yleisista edellytyksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60524: (2) LLL 4 luvun 1 §:n mukaan toimiluvan luottolaitokselle2 myöntää Finanssivalvon- nalle toimitetusta hakemuksesta Euroopan keskuspankki (jäljempänä EKP) niin kuin YVM-asetuksessa, sen nojalla annetuissa EKP:n asetuksissa ja päätöksissä sekä LLL:n 4 luvussa säädetään. Toimiluvan talletuspankkien yhteenliittymän kes- kusyhteisölle (talletuspankkien yhteenliittymälain 11 §) ja kolmannen maan luotto- laitoksen sivuliikkeelle Suomessa (LLL 17 luku 3 §) sekä luvan talletuspankille tai luottoyhteisölle kiinnitysluottopankkitoimintaan (kiinnitysluottopankkilaki 10 §) myöntää Finanssivalvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60525: (3) Finanssivalvonta antaa LLL 4 luvun 1 §:n 4 momentin nojalla seuraavan määräyk- sen toimiluvan myöntämisen edellytyksenä olevissa tiedoissa toimiluvan myöntämi- sen jälkeen tapahtuneiden olennaisten muutosten ilmoittamisesta Finanssivalvon- nalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60526: MÄÄRÄYS (KOHTA 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60527: (4) Toimiluvan edellytyksissä tapahtuneet olennaiset muutokset on ilmoitettava Fi- nanssivalvonnalle Finanssivalvonnan verkkopalvelun kohdassa Raportointi saata- vissa olevaa ilmoituslomaketta käyttäen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60528: 4.2 Toimiluvan yleiset edellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60529: OHJE (KOHDAT 5-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60530: (5) Finanssivalvonnan tulkinnan mukaan LLL 4 luvun säännöksista johtuu, että toimilu- paedellytysten täyttymisen arvioinnissa erityinen huomio kiinnitetään siihen, että:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60531: · voidaan varmistua siitä, etta yhteisoa tullaan johtamaan ammattitaitoisesti sekä terveiden ja varovaisten liikeperiaatteiden mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60532: · voidaan varmistua siitä, että perustajat ja omistajat ovat luotettavia
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_60533: 2 ml. kiinnitysluottopankkilain 5 §:ssä tarkoitettu kiinnitysluottopankin toimilupa, joka voidaan myöntää LLL 1 luvun 7 §:ssä tarkoitetulle luottolaitok- selle, joka täyttää kiinnitysluottopankkilaissa säädetyt edellytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60534: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60537: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60538: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60540: · merkittävä sidonnaisuus ei estä yhteisön tehokasta valvontaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60541: · yhteisöön merkittävässä sidonnaisuudessa olevaan luonnolliseen henkilöön tai oikeushenkilöön sovellettavat ETA-alueen ulkopuolisen valtion lait, asetukset tai hallinnolliset määräykset eivät estä yhteisön tehokasta valvontaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60542: · yhteisöllä on riittävät taloudelliset toimintaedellytykset ja -suunnitelmat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60543: · yhteisöllä on pääkonttori Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60544: · yhteisö täyttää muut laissa asetetut edellytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60545: (6) Toimilupa myönnetaan toisessa ETA-valtiossa toimiluvan saaneen ulkomaisen luottolaitoksen tytäryritykselle tai tällaisen laitoksen emoyrityksen tytäryritykselle samoin perustein kuin Suomessa alun perin rekisteröidylle luottolaitokselle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60546: (7) Finanssivalvonta kiinnittää hakemuksen arvioinnissa huomiota myös siihen, että hakemus sisältää kaikki kyseisissä laeissa ja asetuksissa edellytetyt tiedot, että tie- dot on esitetty johdonmukaisesti ja etta hakemus antaa kattavan kuvan toimiluvan hakijasta. Toimilupahakemukseen sisältyvien liitteiden sisällössä ja laajuudessa voi olla eroja eri toimijoiden välillä. Liitteiden sisältö ja laajuus määräytyvät kunkin yh- teisön harjoittaman toiminnan luonteen ja laajuuden mukaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60547: 4.3 Toimiluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60548: (8) LLL 4 luvun 1 §:n 1 momentin mukaan luottolaitostoimilupaa koskeva hakemus tehdään Finanssivalvonnalle. Saman lainkohdan mukaan hakemukseen liitettävistä selvityksistä säädetään LLVMA:ssa. Hakemukseen liitettävistä selvityksistä tode- taan myös jäljempänä luvussa 5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60549: OHJE (KOHDAT 9-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60550: (9) Finanssivalvonta suosittaa, että toimiluvan hakija on yhteydessä Finanssivalvon- taan ennen varsinaisen toimilupahakemuksen jättämistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60551: (10) Toimilupahakemuksen voi tehdä joko suomen, ruotsin tai englannin kielellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60552: (11) Myös hakemuksen liitteiden tulisi pääasiassa olla suomen, ruotsin tai englannin kielisia. Muilla kielilla laadittuja liitteitä voidaan tarvittaessa hyväksya, jos siitä on erikseen sovittu Finanssivalvonnan kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60553: (12) Hakemus liitteineen toimitetaan Finanssivalvontaan osoitteeseen: PL 103, 00101 Helsinki (käyntiosoite Rauhankatu 19).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60554: (13) Toimiluvan hakuprosessi on kuvattu myös Finanssivalvonnan verkkopalvelussa Toimiluvat ja rekisteröinti -alasivulla (www.finanssivalvonta.fi/fi/Toimiluvat). Lisäksi verkkopalvelussa on tietoja Finanssivalvonnan valvottavia koskevista velvollisuuk- sista, kuten valvontamaksuista ja raportointivelvollisuuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_60555: (14) FivaL 20 §:n ja rikosrekisterilain 4 a §:n 1 momentin 2 kohdan mukaan Finanssival- vonnalla on oikeus saada oikeusrekisterikeskukselta rikosrekisterilaissa tarkoitettu rikosrekisteriote sekä ote sakkorekisteristä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60556: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60559: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60560: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60562: 5 Toimilupahakemukseen liitettävät sel- vitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60563: 5.1 Toimilupahakemus ja hakemukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60564: (1) Luottolaitoksen toimilupahakemuksesta säädetään LLL 4 luvun 1 §:ssä. Talletus- pankkien yhteenliittymän keskusyhteisön toimilupahakemuksesta säädetään talle- tuspankkien yhteenliittymälain 11 §:ssä ja kolmannen maan luottolaitoksen Suo- meen perustettavan sivuliikkeen toimilupahakemuksesta LLL 17 luvun 2 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60565: (2) Hakemukseen liitettävista selvityksistä säädetään LLVMA:ssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60566: 5.2 Selvitys perustettavasta luottolaitoksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60567: (3) Perustettavaa luottolaitosta koskevista toimilupahakemukseen liitettävistä selvityk- sistä on säännökset LLVMA 2 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60568: 5.3 Luottolaitoksen harjoitettavaksi aiottu liiketoiminta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60569: (4) Luottolaitostoimilupa voidaan antaa talletuspankin tai luottoyhteisön toimintaan. Talletuspankille sallittu liiketoiminta on määritelty LLL 5 luvun 1 §:ssä ja luottoyhtei- sölle sallittu liiketoiminta LLL 5 luvun 2 §:ssä. Vain talletuspankki voi vastaanottaa yleisöltä LLL 1 luvun 9 §:ssä määriteltyjā talletuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60570: (5) LLVMA 9 §:n 1 momentin 1 kohdan nojalla harjoitettavaksi aiottu toiminta kuvataan hakemukseen liitettävässä liiketoimintasuunnitelmassa (ks. tarkemmin jäljempänä näiden määräysten ja ohjeiden luku 5.7.2).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60571: 5.3.1 Talletusten ja muiden takaisinmaksettavien varojen vastaanottaminen ylei- söltä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60572: (6) LLVMA 10 §:n 1 momentissa säädetään talletustoiminnan ja muiden takaisinmak- settavien varojen osalta liiketoimintasuunnitelmalle asetetuista vaatimuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_60573: (7) LLVMA 10 §:n 1 momentissa säädetään niistä toimilupahakemukseen liitettävistä selvityksistä, jotka on annettava talletustoimintaan tai muiden yleisöltä takaisinmak- settavien varojen vastaanottamiseen liittyvästä riskien hallinnasta ja seurannasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60574: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60577: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60578: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60580: 5.3.2 Maksupalvelu ja muu maksuliike
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60581: (8) Maksupalveluilla tarkoitetaan muun muassa maksutoimeksiantojen toteuttamista asiakkaan puolesta. Maksupalveluihin kuuluvat esimerkiksi tilisiirrot ja maksuväli- neiden liikkeeseenlasku. Maksupalvelut on tarkemmin määritelty maksupalvelu- ja maksulaitoslaeissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60582: (9) LLVMA 11 §:n 1 momentissa on säännökset hakemukseen liitettävistä selvityk- sistä, jotka koskevat luottolaitoksen omien ja sen asiakkaiden maksujen välittä- mistä sekä sitä, mihin maksujen välitysjärjestelmiin luottolaitos aikoo liittya ja miten liittyminen käytännössä tapahtuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60583: OHJE (KOHDAT 10-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60584: (10) Finanssivalvonta suosittaa, että edellisessa kohdassa tarkoitettu selvitys sisältää yleiskuvauksen maksujenvälityksestä, sen organisoinnista ja vastuista sekä mak- sujenvälitykseen liittyvistä järjestelmistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60585: (11) Yksityiskohtaisemmat määräykset ja ohjeet maksujärjestelmiin liittyvästä riskienhal- linnasta on annettu Finanssivalvonnan määräyksissä ja ohjeissa 8/2014 Operatiivi- sen riskin hallinta rahoitussektorin valvottavissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60586: 5.3.3 Luottolaitos sijoituspalveluiden tarjoajana
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60587: (12) LLL 5 luvun 1 §:ssä säädetään talletuspankin ja luottoyhteisön oikeudesta sijoitus- palvelujen tarjoamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60588: (13) LLL 5 luvun 1 §:n 3 momentin ja 2 §:n 2 momentin mukaan talletuspankin ja luotto- yhteisön yhtiöjärjestyksessä tai säännöissä on mainittava, tarjoaako yhteisö SipaL 1 luvun 11 §:n mukaisia sijoituspalveluja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60589: (14) Kun talletuspankki ja luottoyhteisö tarjoavat sijoituspalveluja, niiden on noudatet- tava sijoituspalvelujen tarjoamiseen liittyviä SipaL 10 luvussa säädettyjā menettely- tapoja. Lisäksi Finanssivalvonta on antanut menettelytapoja koskevia määräyksiä ja ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60590: OHJE (KOHTA 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60591: (15) Finanssivalvonta suosittaa, että hakemuksen liitteena olevassa liiketoimintasuunni- telmassa kuvataan tarjottavaksi aiotut sijoitus- ja oheispalvelut Finanssivalvonnan toimiluvista, rekisteröinneistä ja ilmoituksista antamien määräysten ja ohjeiden 3/2014 lukujen 6.3.1 ja 6.3.2 mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60592: 5.3.4 Liiketoiminnassa noudatettavat menettelytavat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60593: (16) LLL 15 luvussa ja SipaL 10 luvussa seka AML 4 luvussa saadetaan luottolaitoksen toiminnan järjestämisen ja asiakassuhteissa noudatettavien menettelytapojen vaa- timuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_60594: (17) Tarjottavien sijoitus- ja oheispalvelujen osalta hakemukseen liitettävistä selvityk- sista on saannökset LLVMA 15 §:n 1 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60595: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60598: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60599: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60601: OHJE (KOHDAT 18-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60602: (18) Selvityksia laadittaessa tulisi ottaa huomioon toiminnan laatu ja laajuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60603: (19) Sijoitus- ja oheispalveluja tarjoavan luottolaitoksen hakemukseen tulisi littää harjoi- tettavaksi aiotusta toiminnasta riippuen Finanssivalvonnan toimiluvista, rekisteröin- neistä ja ilmoituksista antamien määräysten ja ohjeiden 3/2014 luvun 6.3.3 mukai- set selvitykset tai luonnokset sisäisistä toimintaohjeista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60604: (20) Yksityiskohtaisemmat liiketoiminnassa noudatettavia menettelytapoja koskevat määräykset ja ohjeet ovat Finanssivalvonnan määräyksissä ja ohjeissa 15/2013 Finanssipalvelujen ja -tuotteiden markkinointi ja 16/2013 Finanssipalvelujen tarjoa- misessa noudatettavat menettelytavat sekä standardissa 2.3 Rahoituspalvelusopi- mukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60605: 5.4 Tallettajien ja sijoittajien suoja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60606: (21) LLL 1 luvun 8 §:n 3 momentin mukaan talletuspankin velvollisuudesta maksaa tal- letussuojamaksua ja kuulua talletussuojajärjestelmään säädetään rahoitusvakaus- viranomaisesta annetussa laissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60607: (22) LLL 1 luvun 2 §:n 4 momentin mukaan luottolaitoksen velvollisuudesta kuulua sijoittajien korvausrahastoon säädetään SipaL:ssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60608: (23) LLL 1 luvun 2 §:n 6 momentin mukaan sijoituspalvelulain soveltamisesta sijoi- tuspalveluja tarjoavaan luottolaitokseen saadetaan SipaL:n 1 luvun 4 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60609: (24) SipaL 1 luvun 4 §:n 1 momentissa on maaritelty sijoituspalveluja tarjoavin luot- tolaitoksiin sovellettavat SipaL:n säännökset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60610: (25) SipaL 11 luvun 1 §:n mukaan luottolaitoksen, joka yhtiöjärjestyksensa tai sääntö- jensä mukaan voi tarjota sijoituspalveluja, on kuuluttava sijoittajien korvausrahas- toon. Vaatimus korvausrahaston jäsenyydestä ei koske luottolaitosta, joka tarjoaa sijoituspalveluna yksinomaan toimeksiantojen välittämistä tai sijoitusneuvontaa tai monenkeskisen kaupankäynnin järjestämistä ja jolla ei ole hallinnoitavana asiakas- varoja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60611: (26) LLVMA 10 §:n 2 momentin nojalla talletuspankin on liitettävä toimilupahakemuk- seensa jäljennös hakemuksesta, jolla se on hakenut talletussuojarahaston jäse- nyyttä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60612: (27) Luottolaitoksen, jonka SipaL 11 luvun 1 §:n mukaan on kuuluttava sijoittajien kor- vausrahastoon, on SipaVMA 10 §:n 4 momentin nojalla liitettävä toimilupahake- mukseen jäljennös hakemuksesta, jolla luottolaitos on hakenut sijoittajien korvaus- rahaston jäsenyyttä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60613: 5.5 Hallinto ja ohjaus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60614: 5.5.1 Johtaminen ja toiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_60615: (28) LLL 7 luvussa säädetään luottolaitoksen hallinnolle ja ohjaukselle asetetuista vaati- muksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60616: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60619: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60620: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60622: (29) LLVMA 12 §:n 3 momentin nojalla toimilupahakemukseen tulee liittää päätöksente- koelinten työjärjestykset ja sovellettavat sisäiset toimintaohjeet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60623: 5.5.2 Luottolaitoksen johto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60624: (30) LLVMA 5 §:ssä säädetään niistä selvityksista, jotka hakemukseen on liitettävä luot- tolaitoksen johdosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60625: 5.5.3 Johdon luotettavuus, sopivuus ja ammattitaito
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60626: (31) LLL 7 luvun 4 §:ssä säädetään luottolaitoksen hallituksen jäsenelle ja toimivan joh- don jäsenelle asetetuista vaatimuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60627: (32) LLVMA 6 §:n 1 momentissa on säännökset johtoon kuuluvista henkilöistä annetta- vista selvityksistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60628: OHJE (KOHDAT 33-34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60629: (33) Finanssivalvonta suosittaa, että edellisessa kohdassa tarkoitetut tiedot annetaan Finanssivalvonnan standardissa RA1.4, Luotettavuutta, sopivuutta ja ammattitaitoa koskevien tietojen ilmoittaminen Rahoitustarkastukselle, edellytetyllä tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60630: (34) Yksityiskohtaisempia määräyksiä ja ohjeita johdon luotettavuudesta, sopivuudesta ja ammattitaidosta on Finanssivalvonnan standardissa 1.4 Luotettavuuden, sopi- vuuden ja ammattitaidon arviointi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60631: 5.5.4 Henkilösto ja sen ammattitaito
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60632: (35) LLVMA 12 §:n 1 momentissa on säännökset hakemukseen liitettävästä henkilöstöä koskevasta selvityksestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60633: OHJE (KOHDAT 36-37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60634: (36) Finanssivalvonta suosittaa, että toimitusjohtaja on päätoiminen. Toimitusjohtajalle tulisi lisäksi olla nimettyna varahenkilö, jotta luottolaitoksen toiminta voidaan tur- vata myös toimitusjohtajan ollessa estyneenä. Toimitusjohtajan päätoimisuudesta voidaan poiketa esimerkiksi, jos luottolaitoksen hallinto on järjestetty tavalla, joka on riittava turvaamaan valvottavan luotettavan toiminnan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60635: (37) Henkilöstöä ja sen ammattitaitoa koskevia yksityiskohtaisempia määräyksiä ja oh- jeita on Finanssivalvonnan määräyksissä ja ohjeissa 8/2014 Operatiivisen riskin hallinta rahoitussektorin valvottavissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60636: 5.5.5 Palkitsemisjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_60637: (38) LLL 8 luvussa säädetaan luottolaitoksen palkitsemisjärjestelmille asetetuista vaati- muksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60638: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60641: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60642: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60644: OHJE (KOHTA 39)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60645: (39) Finanssivalvonnan tulkinnan mukaan LLL 8 luvun säännöksista johtuu, että toimilu- pahakemukseen tulee liittää palkitsemista koskeva selvitys, josta käy ilmi, että toi- milupaa hakevan luottolaitoksen palkitsemisjärjestelmä täyttää LLL 8 luvussa ase- tetut vaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60646: 5.5.6 Tilintarkastajat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60647: (40) Luottolaitoksen tilintarkastajille asetetuista vaatimuksista säädetään LLL 12 luvun 14 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60648: (41) LLVMA 8 §:ssä säädetään luottolaitoksen tilintarkastajista annettavista selvityk- sistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60649: 5.5.7 Selvitys perustajista ja tärkeimmistā omistajista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60650: (42) Luottolaitoksen perustajasta sekä sellaisesta osakkeenomistajasta, joka omis- taa vähintään yhden kymmenesosan luottolaitoksen osakkeista tai osuuden, joka tuottaa vähintään 10 prosenttia sen osakkeiden äänivallasta, on säädetty LLL 4 luvun 4 §:n 1 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60651: (43) LLVMA 4 §:n 2 momentin mukaan toimilupahakemukseen liitetään selvitykset luottolaitoksen perustajista ja omistajista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60652: (44) Tiedoista ja selvityksistä, jotka on liitettävä ilmoitukseen, säädetään omistusosuu- den hankkimista ja luovuttamista luottolaitoksessa, sijoituspalveluyrityksessä, ra- hastoyhtiössä, säilytysyhteisössä, vakuutusyhtiössä ja rahoitus- ja vakuutusryhmit- tymän omistusyhteisössä koskevassa valtioneuvoston asetuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60653: OHJE (KOHTA 45)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60654: (45) Finanssivalvonta suosittaa, että ilmoituksen tekemisessä käytetään lomakkeita, jotka ovat saatavilla Finanssivalvonnan verkkopalvelussa kohdassa Raportointi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60655: 5.6 Selvitys merkittävista sidonnaisuuksista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60656: (46) LLL 5 luvun 12 §:n 1 momentin mukaan merkittävä sidonnaisuus ei saa olla es- teena luottolaitoksen tehokkaalle valvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60657: (47) LLL 5 luvun 12 §:n tarkoittamista merkittävista sidonnaisuuksista annettavasta sel- vityksestä säädetään LLVMA 7 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60658: OHJE (KOHDAT 48-50)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60659: (48) Finanssivalvonnan tulkinnan mukaan sidonnaisuuden syntymiseen vaikuttava sopi- mus voi olla esimerkiksi osakassopimus tai sopimus osakkeiden myyntirajoituksista tai etuosto-oikeudesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_60660: (49) Finanssivalvonnan tulkinnan mukaan LLVMA 7 §:n tarkoittamasta selvityksestä tu- lee käydä ilmi, keiden välillä merkittävia sidonnaisuuksia on. Jos sidonnaisuuksia ei
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60661: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60664: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60665: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60667: ole, on myös tästä mainittava hakemuksessa. Merkittävista sidonnaisuuksista teh- tävään selvitykseen tulee myös sisällyttää kuvaus luottolaitoksen konserniraken- teesta ja muista sidossuhteista LLL 5 luvun 12 §:n 1 momentissa tarkoitettuihin luonnollisiin henkilöihin ja oikeushenkilöihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60668: (50) Finanssivalvonta kiinnittää merkittäviin sidonnaisuuksiin erityistā huomiota, jos lii- ketoiminnasta tai omistusrakenteesta ei voida saada selkeää kokonaiskäsitystä tai jos yritysryhmään kuuluva yhteisö toimii valtiossa, jonka salassapitosäännökset tai puutteellinen valvonta- ja sääntelyjärjestelmä haittaavat konsolidoidun valvonnan toteuttamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60669: 5.7 Taloudelliset toimintaedellytykset ja liiketoimintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60670: 5.7.1 Taloudelliset toimintaedellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60671: (51) LLL 1 luvun 2 §:n 1 momentin mukaan luottolaitoksen taloudelliselle asemalle ase- tettavista vaatimuksista säädetään EU:n vakavaraisuusasetuksessa, sekä siinā tar- koitetuissa Euroopan komission asetuksella tai päätöksella annetuissa teknisissä standardeissa. Saman lainkohdan mukaan luottolaitoksia koskevia säännöksiä on lisaksi luottolaitosdirektiivissa seka siina tarkoitetuissa Euroopan komission asetuk- sella tai päätöksella annetuissa teknisissä standardeissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60672: (52) Jos hakijalla on aiempaa liiketoimintaa, hakemukseen liitettävistä selvityksistä on säännökset LLVMA 9 §:n 3 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60673: OHJE (KOHTA 53)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60674: (53) Taloudellisia toimintaedellytyksiä arvioidessaan Finanssivalvonta kiinnittää erityi- sesti huomiota siihen, miten seuraavien edellytysten voidaan katsoa täyttyvän ha- kemuksessa esitettyjen tietojen perusteella:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60675: · toiminta on vakaata ja toiminnan harjoittamiseen on riittävät taloudelliset toimin- taedellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60676: · luottolaitoksella on strategia ja liiketoimintasuunnitelma vähintään kolmelle vuo- delle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60677: · luottolaitoksen omat varat suhteessa riskien ottoon ja riskienhallintajärjestel- mien tasoon ovat riittävät ja omien varojen riittavyydesta on tehty suunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60678: 5.7.2 Liiketoimintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60679: (54) Luottolaitoksen taloudellisten toimintaedellytysten selvittämiseksi hakemukseen on liitettävä LLVMA 9 §:ssä tarkoitetut selvitykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60680: OHJE (KOHDAT 55-56)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_60681: (55) Omaan pääomaan ja vakavaraisuuteen liittyvät vaatimukset asettavat osaltaan ra- joituksia luottolaitoksen liiketoiminnalle. Finanssivalvonnan tulkinnan mukaan LLVMA 9 §:ssä tarkoitetuissa selvityksissa tulee siksi ottaa huomioon myös luotto- laitoksen riskinkantokyky.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60682: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60685: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60686: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60688: (56) Luotonantoon ja luottoriskien hallintaan liittyvia selvityksia kuvataan naiden mää- räysten ja ohjeiden luvussa 5.8.2.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60689: 5.7.3 Vähimmäispääoma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60690: (57) LLL 10 luvun 2 §:n 1 momentin mukaan talletuspankin ja luottoyhteisön osake-, osuus- tai peruspääoman on oltava vähintään viisi miljoonaa (5 000 000) euroa. Pääoman on oltava kokonaan merkitty toimilupaa myönnettäessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60691: 5.7.4 Arvio kannattavuudesta ja omien varojen riittavyydestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60692: (58) LLVMA 9 §:n 1 momentin 2-4 kohdissa on säännökset luottolaitoksen taloudellisten toimintaedellytysten riittävyyden selvittämiseksi hakemukseen liitettävistä selvityk- sistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60693: OHJE (KOHDAT 59-60)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60694: (59) Finanssivalvonnan tulkinnan mukaan LLVMA 9 §:n mukaisesti tehtävissä kannatta- vuus- ja vakavaraisuusarvioissa tulee esittää arviot (ns. stressitestit) liketoiminnan kannalta olennaisten tekijöiden muutosten vaikutuksista liiketoiminnan kannatta- vuuteen ja vakavaraisuuteen sekä arvio siitä, millä aikavälillä saavutetaan voitolli- nen tulos. Näiden vaihtoehtoisten skenaarioiden (vähintään kahden) osalta tulee myös esittää tulos- ja tase-ennusteet samoin kuin omien varojen ja omien varojen vaatimusten ennusteet kolmelle seuraavalle vuodelle (vakavaraisuuslaskelma, josta ilmenevät omien varojen erät, vähennykset ja riskipainotetut varat). Taustatie- doissa tulee kuvata kunkin skenaarion osalta keskeiset taustaoletukset ja niissä tehdyt muutokset ja niiden vaikutukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60695: (60) Finanssivalvonta suosittaa, että arviot vakavaraisuusvaatimuksen täyttymisestä ja omien varojen riittävyydestä sekä kuvaus vakavaraisuuden hallintaprosessista laa- ditaan Finanssivalvonnan vakavaraisuusvaatimusta koskevien standardien mukai- sesti. Keskeiset vakavaraisuuden hallinnan periaatteet käyvät ilmi Finanssivalvon- nan standardista 4.2 Valvottavan vakavaraisuuden hallinta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60696: 5.8 Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60697: (61) LLL 9 luvussa saadetään luottolaitoksen riskienhallinnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60698: (62) LLL 9 luvun 2 §:ssä säädetään luottolaitoksen riskienhallintajärjestelmille asetetta- vista yleisistä vaatimuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60699: (63) LLVMA 12 §:n 1 momentin 1 ja 5-7 kohdissa on säännökset hakemukseen liitty- vistä riskienhallintaan liittyvistä selvityksistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60700: OHJE (KOHTA 64)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_60701: (64) Eri riskialueita koskevia yksityiskohtaisempia määräyksiä ja ohjeita on Finanssival- vonnan riskienhallintaa ja vakavaraisuutta koskevissa määräyksissä ja ohjeissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60702: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60705: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60706: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60708: 5.8.1 Liiketoiminnoista riippumattomien toimintojen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60709: (65) LLL 9 luvun 8 §:ssä säädetaan luottolaitoksen riippumattoman riskien valvontatoi- minnon ja muiden valvontatoimintojen järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60710: (66) LLVMA 12 §:n 1 momentin 2-4 kohdissa on säännökset toimilupahakemukseen riippumattomien valvontatoimintojen osalta annettavista selvityksistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60711: OHJE (KOHTA 67)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60712: (67) Finanssivalvonta suosittaa, että hakemukseen liitetään Finanssivalvonnan standar- diin RA1.4 Luotettavuutta, sopivuutta ja ammattitaitoa koskevien tietojen ilmoittami- nen Rahoitustarkastukselle sisältyvän lomakkeen L3 mukaisesti tehty selvitys riip- pumattomista valvontatoiminnoista vastaavista henkilöistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60713: 5.8.2 Luottoriskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60714: (68) LLVMA 13 §:n 1 momentissa on säännökset toimilupahakemukseen liitettävistä selvityksistä luottoriskien hallinnan osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60715: OHJE (KOHTA 69)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60716: (69) Luottoriskien hallintaa koskevat yksityiskohtaiset määräykset ja ohjeet ovat Finans- sivalvonnan standardissa 4.4a Luottoriskien hallinta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60717: 5.8.3 Markkinariskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60718: (70) LLVMA 13 §:n 2 momentissa on säännökset toimilupahakemukseen liitettävistä selvityksistä korko-, valuutta-, osake- ja hyödykeriskin hallinnan osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60719: OHJE (KOHTA 71)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60720: (71) Markkinariskien hallintaa ja vakavaraisuusvaatimusta koskevat yksityiskohtaiset määräykset ja ohjeet sisältyvät Finanssivalvonnan standardiin 4.4c Markkinariskin hallinta ja määräyksiin ja ohjeisiin 25/2013 Vakavaraisuuden laskenta ja suuret asiakasriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60721: 5.8.4 Likviditeettiriski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60722: (72) Toimilupahakemukseen liitettävistä selvityksistä maksuvalmius- ja rahoitusriskin hallinnan osalta on saannökset LLVMA 13 §:n 2 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60723: OHJE (KOHTA 73)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60724: (73) Likviditeettiriskin hallintaa koskevat yksityiskohtaiset määräykset ja ohjeet ovat Fi- nanssivalvonnan standardissa 4.4d Likviditeettiriskin hallinta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60725: 5.8.5 Operatiiviset riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_60726: (74) LLVMA 14 §:n 1 momentissa on saannökset toimilupahakemukseen liitettävista selvityksistä operatiivisen riskin sekä sen hallinnan osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60727: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60730: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60731: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60733: OHJE (KOHTA 75)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60734: (75) Operatiivisten riskien hallintaa koskevat yksityiskohtaiset määräykset ja ohjeet ovat Finanssivalvonnan määräyksissä ja ohjeissa 8/2014 Operatiivisen riskin hallinta rahoitussektorin valvottavissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60735: 5.8.6 Asiakkaan tunnistamis- ja tuntemisjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60736: (76) Finanssivalvonnan tulee FivaL 3 §:n 2 momentin 5 kohdan mukaan valvoa, että luottolaitos noudattaa rahanpesun ja terrorismin rahoittamisen estämiseksi annet- tuja säännöksia ja määräyksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60737: (77) Asiakkaan tunnistamisella ja tuntemisella tarkoitetaan menettelytapoja, joilla luotto- laitos varmistuu asiakkaan oikeasta henkilöllisyydestä sekä siitä, että se tuntee asi- akkaansa toimintaa ja taustoja niin laajasti kuin asiakassuhde edellyttää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60738: (78) LLL 15 luvun 18 §:ssä ja ResL:ssa edellytetaan, että luottolaitos järjestää asiak- kaan tunnistamis- ja tuntemismenettelynsä luotettavasti. Lisäksi ResL edellyttää, että luottolaitos mitoittaa näiden menettelyjen laajuuden riskiarviointiin pohjautuen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60739: (79) Toimilupahakemukseen on liitettävä LLVMA 16 §:ssä mainitut selvitykset ja johdon hyväksymät sisäiset ohjeet asiakkaan tunnistamis- ja tuntemisjärjestelmästä ja siitä, miten luottolaitos varmistuu rahanpesun ja terrorismin rahoittamisen estä- miseksi annettuihin määräyksiin sisältyvän selonotto- ja ilmoitusvelvollisuuden nou- dattamisesta. Lisäksi hakemuksessa on oltava LLVMA:n mukaisesti selvitys tunnis- tamisasiakirjojen säilyttämisestä, vastuuhenkilöistä ja henkilökunnan koulutusohjel- masta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60740: OHJE (KOHTA 80)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60741: (80) Asiakkaan tuntemisesta sekä rahanpesun ja terrorismin rahoittamisen estämistä koskevista periaatteista ja riskienhallinnasta saa tietoa rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain ja -asetuksen ohella Fi- nanssivalvonnan standardista 2.4 Asiakkaan tunnistaminen ja tunteminen - rahan- pesun ja terrorismin rahoittamisen estäminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60742: 5.8.7 Tietojärjestelmät, tietoturvallisuus ja liiketoiminnan jatkuvuussuunnittelu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60743: (81) LLVMA 14 §:n 2 momentissa ja 17 §:n 1 ja 2 momentissa on saadetty luottolaitok- sen toimilupahakemukseen liitettävistä selvityksistä keskeisten toimintojen jatku- vuussuunnittelun osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60744: OHJE (KOHDAT 82 - 83)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60745: (82) Finanssivalvonta suosittaa, että hakemukseen liitetaan lisäksi tietoturvallisuudesta tehdyt riskiarviot sekä selvitys yhteisön omasta tietoturvallisuudesta tehdyistä sisäi- sistä ja ulkoisista arvioinneista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_60746: (83) Operatiivisten riskien hallintaa koskevat yksityiskohtaiset määräykset ja ohjeet ovat Finanssivalvonnan määräyksissä ja ohjeissa 8/2014 Operatiivisen riskin hallinta rahoitussektorin valvottavissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60747: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60750: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60751: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60753: 5.8.8 Kirjanpitojärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60754: (84) LLL 5 luvun 8 §:ssä saadetän luottolaitoksen kirjanpitojärjestelmille ja tietojärjes- telmille asetetuista vaatimuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60755: (85) LLVMA 18 §:ssä on säännökset hakemukseen liitettävista selvityksistā kirjanpito- järjestelmän osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60756: OHJE (KOHDAT 86-87)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60757: (86) Finanssivalvonnan tulkinnan mukaan LLVMA 18 §:ssä tarkoitetusta selvityksestä tulee käydä ilmi muun muassa kirjanpitojärjestelmän yleiskuvaus, osakirjanpitojär- jestelmien väliset liittymät sekä manuaaliset ja tietojärjestelmiin sisältyvät täsmäy- tykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60758: (87) Kirjanpitojärjestelmaa arvioidessaan Finanssivalvonta kiinnittaa huomiota erityisesti siihen, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60759: · kirjanpitojärjestelmä on luotettava ja riittavillā jatkuvuusjärjestelyillā tuettu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60760: · kirjanpitojärjestelmä pystyy tuottamaan riittävän yksilöityä tietoa johdon rapor- tointiin ja viranomaisraportointiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60761: · luottolaitoksen järjestelmä täyttää kauppa- ja teollisuusministeriön päätöksessä (47/1998) kirjanpidossa käytettävista menetelmistä sekä kirjanpitolautakunnan yleisohjeessa koneellisessa kirjanpidossa käytettävistä menetelmistä (annettu 22.5.2000) määritellyt kriteerit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60762: 5.8.9 Toimintojen ulkoistaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60763: (88) LLL 5 luvun 10 §:n 1 momentissa säädetään luottolaitoksen liiketoiminnan harjoit- tamisesta asiamiehen välityksella ja muusta toiminnan merkittävästä ulkoistami- sesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60764: (89) LLVMA 9 §:n 2 momentissa on säännökset ulkoistettavien toimintojen osalta hake- mukseen liitettävistä selvityksistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60765: OHJE (KOHTA 90)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60766: (90) Finanssivalvonta suosittaa, että ulkoistamisesta tehtävästä selvityksestä käyvät lisäksi ilmi seikat, jotka on lueteltu Finanssivalvonnan määräyksissā ja ohjeissa 1/2012 Ulkoistaminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60767: 5.9 Talletuspankin yhteenliittymän keskusyhteisön toimilupa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60768: (91) Talletuspankkien yhteenliittymän keskusyhteisön toimilupahakemuksesta sääde- tään talletuspankkien yhteenliittymälain 11 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60769: (92) Toimilupahakemukseen liitettävistä selvityksistä on säännökset LLVMA 1 §:n 2 mo- mentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_60770: (93) Finanssivalvonta antaa talletuspankkien yhteenliittymästä annetun lain 11 §:n 2 momentin nojalla seuraavan määräyksen keskusyhteisön toimiluvan myöntämisen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60771: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60774: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60775: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60777: edellytyksenä olevissa tiedoissa toimiluvan myöntämisen jälkeen tapahtuneiden olennaisten muutosten ilmoittamisesta Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60778: MÄÄRÄYS (KOHTA 94)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60779: (94) Keskusyhteisön toimiluvan edellytyksissä tapahtuneet olennaiset muutokset on il- moitettava Finanssivalvonnalle Finanssivalvonnan verkkopalvelun kohdassa Ra- portointi saatavissa olevaa ilmoituslomaketta käyttäen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60780: OHJE (KOHTA 95)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60781: (95) Finanssivalvonta suosittaa, että kohdassa (92) tarkoitettujen selvitysten toimittami- sessa Finanssivalvonnalle noudatetaan samoja periaatteita kuin mitä edella on sa- nottu luottolaitosten toimilupahakemukseen liittyvien selvitysten toimittamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60782: 5.10 Kiinnitysluottopankin toimilupa ja lupa kiinnitysluottopankkitoimintaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60783: (96) Kiinnitysluottopankin toimiluvasta on säännelty kiinnitysluottopankkilain 5 §:ssä ja luvasta talletuspankille tai luottoyhteisölle kiinnitysluottopankkitoiminnan harjoitta- miseen on säännökset kiinnitysluottopankkilain 10 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60784: OHJE (KOHTA 97)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60785: (97) Kiinnitysluottopankin toimiluvan hakemisesta ja luvan hakemisesta kiinnitysluotto- pankkitoimintaan on yksityiskohtaiset määräykset ja ohjeet Finanssivalvonnan an- tamissa määräyksissä ja ohjeissa 6/2012 Kiinnitysluottopankkitoimintaa koskeva lupamenettely ja riskienhallinta luetellut selvitykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60786: 5.11 Vapaaehtoinen toimiluvasta luopuminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60787: (98) Luottolaitoksen vapaaehtoisesta toimiluvasta luopumisesta säädetään liikepankki- lain 14 §:ssä ja osuuspankkilain 19 §:ssä. Toimiluvan peruuttamista hakevan luot- tolaitoksen on tullut lopettaa toimiluvanvarainen toiminta. Toimiluvasta luopumi- sesta on oltava asianmukaisessa järjestyksessä tehty päätös. Hakemukseen liitet- tävista selvityksista on säännökset mainituissa lainkohdissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60788: (99) Osuuspankkilain 21 §:n 2 momentin mukaan osuuspankin, joka luovuttaa koko lii- ketoimintansa osuuspankkilain 17 §:n 1 momentissa tarkoitetulla tavalla, ei tarvitse liittää hakemukseen edellisessa kohdassa tarkoitettuja selvityksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60789: OHJE (KOHDAT 100-101)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60790: (100) Säästöpankin hakiessa toimiluvan peruuttamista Finanssivalvonta suosittaa lähet- tämään soveltuvin osin kohdassa (98) tarkoitetut selvitykset, ellei kyseessä ole säästöpankkilain 91 §:n 1 momentin mukainen liiketoiminnan luovutus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_60791: (101) Mikali luottolaitos on tarjonnut sijoituspalveluja, Finanssivalvonta suosittaa liittä- mään hakemukseen myös Finanssivalvonnan määräysten ja ohjeiden 3/2014 Toi- miluvat, rekisteröinnit ja ilmoitukset luvussa 6.10 (Vapaaehtoinen toimiluvasta luo- puminen) luetellut selvitykset siltä osin, kun niitä ei ole kohdassa (98) mainittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60792: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60795: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60796: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60798: 5.12 Säästöpankin ja osuuspankin yhteisömuodon muutosten yhteydessä tehtävään toimilupahakemukseen liitettävät selvitykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60799: (102) Säästöpankin ja osuuspankin yhteisömuodon muutosten yhteydessä tehtävään toi- milupahakemukseen liitettävistä selvityksistä on säännökset LLVMA 1 §:n 3 mo- mentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60800: (103) LLVMA 1 §:n 3 momentin mukaan asetuksessa säädettya ei sovelleta säästöpank- kilain 90 §:n eika osuuspankkilain 17 §:n 1 momentin mukaisesti perustettavan luottolaitoksen toimilupahakemukseen, lukuun ottamatta asetuksen 2 §:n 3 mo- mentin 1 ja 4 kohtaa sekä 4 momenttia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60801: (104) Jos toimilupaa haetaan säästöpankkilain 90 §:n tai osuuspankkilain 17 §:n 1 mo- mentin mukaisesti perustettavalle luottolaitokselle, LLVMA 2 §:n 4 momentin no- jalla toimilupahakemukseen on lisäksi liitettävä selvitys siitä, että hakijan kaikki va- rat, velat ja sitoumukset on siirretty perustettavalle luottolaitokselle mainituissa lain- kohdissa tarkoitetulla tavalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60802: (105) Kombinaatiosulautumisessa tai jakautumisessa perustettavan luottolaitoksen toimi- lupahakemukseen on LLVMA 2 §:n 5 momentin nojalla liitettävä lisäksi sulautumis- suunnitelma tai jakautumissuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60803: OHJE (KOHTA 106)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_60804: (106) Koska liiketoiminnan luovutus perustettavalle säästöpankkiosakeyhtiölle tapahtuu samanaikaisesti, kun säästöpankkiosakeyhtiö ja sen toimilupa sekä luovuttavasta säästöpankista muodostettava säätiö rekisteröidään, Finanssivalvonnan tulkinnan mukaan kohdassa (102) tarkoitettu selvitys tulee antaa siirrettävästä liiketoimin- nasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60805: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60808: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60809: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60811: 6 Suomessa toimiluvan saaneen luotto- laitoksen toiminta ulkomailla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60812: 6.1 Luottolaitoksen sivuliikkeen perustaminen, palvelujen tarjoaminen ja kotipaikan siirto ulkomaille
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60813: 6.1.1 Luottolaitoksen sivuliikkeen perustaminen ETA-valtioon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60814: (1) LLL 6 luvun 1 §:n 1 momentissa saadetaan luottolaitoksen ilmoitusvelvollisuudesta Finanssivalvonnalle, jos luottolaitos aikoo perustaa sivuliikkeen muuhun ETA- valtioon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60815: OHJE (KOHDAT 2-3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60816: (2) Finanssivalvonnan tulkinnan mukaan LLL 6 luvun 1 §:n 1 momentissa tarkoitettuja, tietoja ja selvityksiä ovat myös seuraavat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60817: · valtio, jonka alueelle sivuliike aiotaan perustaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60818: · sivuliikkeen osoite
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60819: · toimintasuunnitelma, josta kay ilmi harjoitettavan liiketoiminnan laajuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60820: · sivuliikkeen organisaatiorakenne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60821: · sivuliikkeen toiminnasta vastuussa olevien henkilöiden nimet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60822: · selvitys sivuliikkeen sisäisen valvonnan ja riskienhallinnan järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60823: · selvitys sivuliikkeen johdon luotettavuudesta, sopivuudesta ja ammattitaidosta Finanssivalvonnan standardin RA 1.4 Luotettavuutta, sopivuutta ja ammattitai- toa koskevien tietojen ilmoittaminen Finanssivalvonnalle (fit & proper -rapor- tointi) mukaisesti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_60824: (3) Finanssivalvonnan tulkinnan mukaan LLL 6 luvun säännöksistä myös johtuu, että ennen sivuliikkeen avaamista luottolaitoksen tulisi toimittaa Finanssivalvonnalle il- moitus, jonka vastaanottavan valtion valvontaviranomainen on mahdollisesti anta- nut valvottavalle yleiseen etuun liittyvistä ehdoista, joiden mukaisesti toimintaa tu- lee harjoittaa. Finanssivalvonnalle tulisi toimittaa ilmoitus myös sivuliikkeen avaa- misajankohdasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60825: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60828: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60829: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60831: 6.1.2 Luottolaitoksen sivuliikkeen perustaminen valtioon, joka ei kuulu ETA- alueeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60832: (4) Luottolaitoksen, joka aikoo perustaa sivuliikkeen muuhun kuin ETA-valtioon, on LLL 6 luvun 2 §:n 1 momentin nojalla haettava lupa sivuliikkeen perustamiseen Fi- nanssivalvonnalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60833: (5) LLL 6 luvun 2 §:n 2 momentin mukaan lupahakemukseen liitettävista selvityksistä on säännökset LLVMA:ssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60834: (6) LLVMA 19 §:ssä on säännökset lupahakemukseen liitettävistä tiedoista perustetta- essa sivuliike valtioon, joka ei kuulu ETA-alueeseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60835: OHJE (KOHTA 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60836: (7) Edellä kohdassa 4 tarkoitetun luvan myöntämisen edellytyksiä arvioidessaan Fi- nanssivalvonta kiinnittää erityisesti huomiota siihen, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60837: · sivuliikkeen hallinto täyttää samat vaatimukset kuin luottolaitoksen hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60838: · mikään ulkomainen toimintayksikkö ei jää tehokkaan valvonnan ulkopuolelle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60839: · valvontayhteistyö Finanssivalvonnan ja isäntävaltion välillä on toimivaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60840: 6.1.3 Palveluiden tarjoaminen jonkin muun ETA-valtion alueella sivuliiketta perus- tamatta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60841: (8) LLL 6 luvun 4 §:n 1 momentin mukaan luottolaitoksen, joka aikoo tarjota LLL 5 lu- vun 1 §:n 1 momentissa tarkoitettuja palveluita jonkin muun ETA-valtion alueella perustamatta sivuliikettä, on ilmoitettava etukäteen Finanssivalvonnalle, mitä pal- veluita se tarjoaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60842: OHJE (KOHDAT 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60843: (9) Luottolaitos voi tarjota edella tarkoitettuja palveluja asiamiehen tai muun edustajan taikka postin, puhelimen ja elektronisen tiedonsiirron välityksellä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60844: (10) Finanssivalvonnan tulkinnan mukaan LLL 6 luvun säännöksista johtuu, että luotto- laitoksen, joka aikoo tarjota palveluja ensimmaisen kerran muussa ETA-valtiossa, tulisi hyvissa ajoin ennen toiminnan aloittamista antaa Finanssivalvonnalle ilmoitus, minkä ETA-valtion alueella palveluja aiotaan tarjota
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60845: 6.1.4 Luottolaitoksen konsolidointiryhmaan kuuluvan rahoituslaitoksen sijoittu- misoikeus ja palvelujen tarjoamisoikeus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_60846: (11) LLL 6 luvun 5 §:n 1 momentin nojalla luottolaitoksen kanssa samaan konsolidointi- ryhmään kuuluva suomalainen rahoituslaitos voi täytettyään ETA-valtiossa sivuliik- keen perustamiselle tai palvelujen tarjoamiselle asetetut edellytykset perustaa sivu- liikkeen tai muutoin tarjota palveluja ETA-valtioon. Sivuliikkeen perustamisessa ja palvelujen tarjoamisessa noudatetaan LLL 6 luvun 1 ja 4 §:n säännöksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60847: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60850: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60851: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60853: (12) LLL 6 luvun 5 §:n 2 momentin mukaan Finanssivalvonnan on tarkastettava edelli- sessä kohdassa tarkoitettujen edellytysten täyttyminen ja rahoituslaitoksen täyttä- essä edellytykset annettava asiasta todistus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60854: (13) Rahoituslaitoksen on LLL 6 luvun 5 §:n 3 momentin nojalla ilmoitettava Finanssi- valvonnalle, jos rahoituslaitoksen olosuhteissa tapahtuu LLL 6 luvun 5 §:n 1 mo- mentissa tarkoitettuihin edellytyksiin vaikuttavia muutoksia. Finanssivalvonta ilmoit- taa asianomaisen valtion valvontaviranomaiselle, jos rahoituslaitos ei enää täytä kyseisiä edellytyksiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60855: 6.1.5 Luottolaitoksen kotipaikan siirto toiseen ETA-valtioon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60856: (14) Jos luottolaitos aikoo siirtaa kotipaikkansa toiseen ETA-valtioon siten kuin euroop- payhtioasetuksen 8 artiklassa tai eurooppaosuuskunta-asetuksen 7 artiklassa sää- detään, luottolaitoksen on LLL 6 luvun 6 §:n 1 momentin nojalla lähetettävä Finans- sivalvonnalle jäljennös eurooppayhtiöasetuksen 8 artiklan 2 ja 3 kohdassa tai eu- rooppaosuuskunta-asetuksen 7 artiklan 2 ja 3 kohdassa tarkoitetusta siirtosuunni- telmasta ja selonteosta viipymättä sen jälkeen, kun luottolaitos on ilmoittanut suun- nitelman rekisteröitäväksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60857: (15) Jos luottolaitos aikoo kotipaikan siirron jälkeen jatkaa luottolaitostoimintaa Suo- messa, LLL 6 luvun 6 §:n 2 momentin mukaan siihen sovelletaan, mitä ulkomaisen luottolaitoksen toiminnasta Suomessa säädetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_60858: (16) Rekisteriviranomainen ei saa antaa eurooppayhtiölain 9 §:n 5 momentissa tai eu- rooppaosuuskuntalain 9 §:n 5 momentissa tarkoitettua todistusta, jos Finanssival- vonta on ilmoittanut rekisteriviranomaiselle ennen eurooppayhtiölain 9 §:n 2 mo- mentissa tai eurooppaosuuskuntalain 9 §:n 3 momentissa tarkoitetun luvan myön- tämistä, että luottolaitos ei ole noudattanut kotipaikan siirtoa tai Suomessa tapahtu- van toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen osakeyhtiölain 16 luvun 6 §:n 2 momentissa tai osuuskuntalain 20 luvun 6 §:n 2 momentissa tarkoitettua maarapaivaa vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta kotipaikan siirtoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60859: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60862: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60863: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60865: 7 Ulkomaisen luottolaitoksen toiminta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60866: 7.1 Ulkomaisen ETA-luottolaitoksen sivuliikkeen perustaminen ja palvelu- jen tarjoaminen Suomeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60867: (1) LLL 16 luvun 1 §:n mukaan ulkomainen ETA-luottolaitos voi perustaa sivuliikkeen Suomeen tai muuten tarjota Suomessa LLL 5 luvun 1 §:ssä tarkoitettuja palveluja, jotka sisältyvät sen toimilupaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60868: (2) LLL 16 luvun 2 §:n 1 momentin mukaan luottolaitoksen sivuliikkeen voi perustaa luottolaitoksen kotivaltion valvontaviranomaisen ilmoitettua siitä Finanssivalvon- nalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60869: (3) LLL 16 luvun 2 §:n 2 momentissa on saannökset sivuliikeilmoitukseen liitettävista tiedoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60870: (4) FivaL:n 59 §:n nojalla Finanssivalvonnan on ilmoitettava ulkomaiselle ETA- luottolaitokselle kahden kuukauden kuluessa siitä, kun se on saanut edellä koh- dassa 1 tarkoitetun ilmoituksen sivuliikkeen toiminnan aloittamisesta Suomessa, sivuliikkeen toimintaa ja valvonnan toteuttamista koskevat vaatimukset ja ne ylei- sen edun vaatimat ehdot, joita luottolaitoksen on noudatettava Suomessa toimies- saan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60871: (5) LLL 16 luvun 3 §:n mukaan sivuliike voi aloittaa toimintansa, kun luottolaitos on saanut Finanssivalvonnalta edella kohdassa 3 tarkoitetun ilmoituksen tai, jos ilmoi- tuksen tekemiselle säädetty kahden kuukauden määräaika on päättynyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60872: (6) Jos edella kohdassa 3 tarkoitettuihin tietoihin tulee muutoksia, luottolaitoksen on ilmoitettava niistä Finanssivalvonnalle vähintään kuukautta ennen niiden toteutta- mista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60873: OHJE (KOHTA 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_60874: (7) Finanssivalvonnan tulkinnan mukaan LLL 16 luvun säännöksistä johtuu, että ennen sivuliikkeen toiminnan aloittamista Finanssivalvonnalle ilmoitetaan aloittamispäivä- määrä. Ilmoitukseen liitetään kaupparekisterilain (129/79) 1 a §:ssä tarkoitettu re- kisteriote.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60875: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60878: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60879: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60881: 7.2 Kolmannen maan luottolaitoksen sivuliikkeen perustaminen ja edus- tuston avaaminen Suomeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60882: (8) LLL 1 luvun 7 §:n 4 momentissa tarkoitettu kolmannen maan luottolaitos voi LLL 17 luvun 1 §:n 1 momentin mukaan tarjota Suomeen perustetusta sivuliikkeestä sellai- sia LLL 5 luvun 1 §:ssä tarkoitettuja palveluja, jotka sisaltyvät sivuliikkeelle LLL 17 luvun 2 §:n mukaisesti myönnettyyn toimilupaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60883: (9) LLL 17 luvun 1 §:n 2 momentin mukaan kolmannen maan luottolaitoksella voi li- säksi olla Suomessa edustusto.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60884: 7.2.1 Sivuliikkeen toimiluvan edellytykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60885: (10) Kolmannen maan luottolaitoksen Suomeen perustettavan sivuliikkeen toimiluvan edellytyksistä säädetään LLL 17 luvun 3 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60886: 7.2.2 Sivuliikkeen toimiluvan hakeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60887: (11) LLL 17 luvun 2 §:n 1 momentin mukaan kolmannen maan luottolaitoksen, joka ai- koo harjoittaa Suomessa luottolaitostoimintaa, on haettava Finanssivalvonnalta toi- milupa Suomeen perustettavalle sivuliikkeelle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60888: (12) Toimilupahakemukseen liitettävistä selvityksistä säädetään LLL 17 luvun 2 §:n 2-3 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60889: (13) Toimilupahakemuksessa ilmoitettavista yhteystiedoista sekä tarkempia säännöksiä hakemukseen liitettavista selvityksista säädetään LLL 17 luvun 2 §:n 4 momentin mukaan valtiovarainministeriön asetuksella (LLVMA).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60890: (14) Toimilupahakemukseen liitettävistä tiedoista on säännökset LLVMA 20 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60891: (15) Jos vieraan valtion lainsäädännöstä tai muusta painavasta syystä johtuu, ettei LLVMA 20 §:n 1 tai 2 momentissa tarkoitettua selvitystä tai tietoa voida esittää, Fi- nanssivalvonta voi LLVMA 20 §:n 5 momentin nojalla hyväksyä muun siihen verrat- tavan selvityksen tai tiedon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60892: 7.2.3 Edustuston avaaminen ja toiminta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60893: (16) Finanssivalvonta antaa LLL 17 luvun 6 §:n 1 momentin nojalla seuraavan määräyk- sen kolmannen maan luottolaitoksen edustuston avaamiseen Suomessa liittyvän Finanssivalvonnalle tehtävän ilmoituksen sisällöstä ja ilmoitusmenettelystä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60894: MÄÄRÄYS (KOHTA17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60895: (17) Kolmannen maan edustuston avaamiseen liittyvät tiedot on ilmoitettava Finanssi- valvonnalle Finanssivalvonnan verkkopalvelun kohdassa Raportointi saatavissa olevaa ilmoituslomaketta käyttäen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_60896: (18) LLL 17 luvun 6 §:n 2 momentin mukaan edustusto ei saa harjoittaa LLL 5 luvun 1 §:ssä tarkoitettuja toimia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60897: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60900: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60901: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60903: (19) LLL 17 luvun 6 §:n 3 momentin mukaan edustusto voi aloittaa toimintansa, kun se on tehnyt edella kohdassa 14 tarkoitetun ilmoituksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60904: OHJE (KOHTA 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_60905: (20) Edustuston voi perustaa liikesuhteiden solmimista ja palveluiden esittelyä varten. Edustuston toimintaa voivat olla esimerkiksi ns. brandimarkkinointi tai markkinointi- tutkimukset. Edustusto voi edistää asiakassuhteiden luomista, mutta ei voi tehdä liiketoimintaan tai asiakassuhteisiin kuuluvia sopimuksia luottolaitosta sitovasti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60906: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60909: 1.7.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60910: Määräykset ja ohjeet 3/2016 Luottolaitostoimiluvat sekä ilmoitukset suomalaisten luottolaitosten toiminnasta ulkomailla ja ulkomaisten luottolaitosten toiminnasta Suomessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60912: 8 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60913: Nämä määräykset ja ohjeet kumoavat voimaan tulleessaan seuraavat Finanssivalvonnan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_60914: · Määräysten ja ohjeiden 3/2014 Toimiluvat, rekisteröinnit ja ilmoitukset luku 5 Luottolaitoksen toimilupa
+

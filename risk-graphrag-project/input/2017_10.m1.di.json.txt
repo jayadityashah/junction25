@@ -1,0 +1,1487 @@
+METADATA: {"document_id": 55, "filename": "2017_10.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 32, "paragraph_count": 623}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67285: Määräykset ja ohjeet 10/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67286: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67287: Dnro FIVA 8/01.00/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67288: Antopäivä 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67289: Voimaantulopäivä 1.12.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67290: FINANSSIVALVONTA puh. 09 183 51 faksi 09 183 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67291: Lisätietoja Vakuutusvalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_67292: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67293: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67294: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67295: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67296: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67298: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67299: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67300: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjā, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67301: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain sään- nöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67303: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67304: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoitta- via. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67305: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toi- mintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67306: Finanssivalvonta.fi > Saantely > Määräys- ja ohjekokoelma > Määräyskokoelman rakenne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_67307: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67309: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67310: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67311: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67312: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67314: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67317: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67320: Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67323: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67325: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67328: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67331: Merimieseläkekassan johdon kelpoisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67334: Valtuuskunta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67340: Toimitusjohtaja ja toimitusjohtajan sijainen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67343: Johdon kelpoisuuden ja hyvämaineisuuden yhteisarviointi (Fit & Proper - arviointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67346: Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67349: Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67352: Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67355: Sisäisen valvonnan toimivuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67358: Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67361: Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67364: Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67367: Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67370: Riskienhallintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67373: Hyvän vakuutustavan valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67376: Vakuutustapa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67379: Sijoitustoiminnan järjestäminen ja sijoitussuunnitelma ja raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_67381: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67382: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67383: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67385: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67386: Merimieseläkekassan hallinto 4 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67390: Merimieseläkekassan sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67393: Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67396: Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67399: Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhallinnassa/sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67401: Luotonotto, siitä Finanssivalvonnalle tehtävät ilmoitukset sekä luottohairioriskinvaihtosopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67403: Varautuminen valmiuslain ja puolustustilalain mukaisiin poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67406: Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67409: Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67412: Varautuminen tietojen hallinnan ja tietotekniikan osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67415: Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67418: Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67420: Työkyvyttömyysriskin hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67423: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67426: Ohje työkyvyttömyysriskin hallintaan tähtäävistä toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67432: Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67434: 16 Kumotut määräykset ja ohjeet 31 32
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67436: Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_67437: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67438: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67439: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67441: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67442: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67444: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67445: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67446: Näitä määräyksia ja ohjeita sovelletaan seuraavaan Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuun valvottavaan:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67447: · Merimieselakekassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_67448: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67449: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67450: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67451: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67452: Merimieseläkekassan hallinto 6 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67453: 2 Säädöstausta ja kansainväliset suosi- tukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67454: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67455: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67456: · merimieseläkelaki (1290/2006, jäljempänä myös MEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67457: · työntekijän eläkelaki (395/2006, jäljempänä myös TyEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67458: · laki Finanssivalvonnasta (878/2008, jäljempänä myös FivaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67459: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67460: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännök- siin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67461: · Sisäisen valvonnan ja riskienhallinnan järjestäminen (MEL 184 §:n 3 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67462: · Sijoitustoiminnan itsenaisyys sek sijoitustoimintaa taydentavien varojenhoitopalve- lujen, asiantuntijapalvelujen, aputoimintojen ja näihin rinnastettavien palvelujen käyttö (MEL 203 §:n 2 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67463: · Sijoitussuunnitelma (MEL 204 §:n 3 momentti)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_67464: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67465: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67466: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67468: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67469: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67471: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67472: (1) Merimieseläkekassan hallintoa koskevat määräykset ja ohjeet ovat osa Finanssivalvonnan Merimieseläkekassalle antamaa määräysten ja ohjeiden kokonaisuutta. Näiden määräys- ten ja ohjeiden tavoitteena on ohjeistaa Merimieseläkekassan hallinnon järjestämistä niiltä osin kuin lainsäädannöstä ei ole saatavissa riittävää ohjeistusta sekä teknisesti uudistaa ja nykyaikaistaa Finanssivalvonnan määräykset ja ohjeet aihepiirin osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67473: (2) Näiden määräysten ja ohjeiden tavoitteena on Merimieseläkekassan toiminnan selkeyttä- minen, hallinnon asianmukaisen järjestämisen edistäminen, hallinnon selkeyden ja ymmär- rettävyyden ja sitä kautta valvottavuuden parantaminen sekä Merimieseläkekassan varo- jen käytön valvottavuuden parantaminen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_67474: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67475: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67476: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67478: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67479: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67481: 4 Merimieseläkekassan johdon kelpoi- suus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67482: 4.1 Valtuuskunta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67483: (1) MEL 168 §:n 1 momentin 3 kohdan mukaan Merimieseläkekassan valtuuskunnan jäse- nella tulee olla merenkulun, vakuutusalan tai sijoitustoiminnan tuntemusta. MEL 168 §:n 2 momentin mukaan valtuuskunnan puheenjohtajalla tai varapuheenjohtajalla tulee olla hyvä työeläkevakuutustoiminnan tuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67484: OHJE (kohdat 2-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67485: (2) Finanssivalvonnan tulkinnan mukaan MEL 168 §:n 1 momentin 3 kohdassa tarkoitettu me- renkulun, vakuutusalan tai sijoitustoiminnan tuntemusta koskeva vaatimus täyttyy, mikäli valtuuskunnan jäsenella on kokemusta merenkulkualan tai vakuutusalan toimijasta tai sijoi- tustoiminnan kokemusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67486: (3) Finanssivalvonnan tulkinnan mukaan MEL 168 §:n 2 momentissa tarkoitettu hyvää työelä- kevakuutustoiminnan tuntemusta koskeva vaatimus täyttyy, mikäli valtuuskunnan puheen- johtajalla tai varapuheenjohtajalla on riittavän pitkä vastaava kokemus muun työelakealan toimijan johdosta, mikäli hänella on riittavan pitkaltā ajalta muuta rinnastettavaa kokemusta työeläkealan toimijassa, tai riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67487: (4) Finanssivalvonnan tulkinnan mukaan edella kohdassa 3 mainitun muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67488: (5) Finanssivalvonta suosittaa, että edella kohdassa 3 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Merimieseläkekassan tai Työeläkevakuuttajat TELA ry:n järjestämä ja kä- sittaa työelākevakuutus- ja sijoitustoimintaan seka liikkeenjohtoon liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67489: 4.2 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67490: (6) MEL 180 §:n 2 momentin mukaan hallituksen puheenjohtajalla ja varapuheenjohtajalla tu- lee olla hyvä työeläkevakuutustoiminnan tuntemus ja hallituksessa on oltava hyvä meren- kulkualan ja sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_67491: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67492: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67493: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67495: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67496: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67498: OHJE (kohdat 7-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67499: (7) Finanssivalvonnan tulkinnan mukaan MEL 180 §:n 2 momentissa tarkoitettu hyvää työelä- kevakuutustoiminnan tuntemusta koskeva vaatimus täyttyy, mikäli hallituksen puheenjoh- tajalla ja varapuheenjohtajalla on riittavän pitkä vastaava kokemus muun työeläkealan toi- mijan johdosta, mikäli hänella on riittavän pitkältā ajalta muuta rinnastettavaa kokemusta työeläkealan toimijassa, tai riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67500: (8) Finanssivalvonnan tulkinnan mukaan edella kohdassa 7 mainitun muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67501: (9) Finanssivalvonta suosittaa, että edella kohdassa 7 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Merimieseläkekassan tai Työeläkevakuuttajat TELA ry:n järjestämä ja kä- sittaa tyoelakevakuutus- ja sijoitustoimintaan seka liikkeenjohtoon liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67502: (10) Finanssivalvonnan tulkinnan mukaan MEL 180 §:n 2 momentissa tarkoitettu hyvää meren- kulkualan asiantuntemusta koskeva vaatimus täyttyy, mikäli vähintään yhdella kolmas- osalla hallituksen jäsenistä on hyvä merenkulkualan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67503: (11) Finanssivalvonnan tulkinnan mukaan MEL 180 §:n 2 momentissa tarkoitettu hyvää sijoitus- toiminnan asiantuntemusta koskeva vaatimus täyttyy, mikäli vähintään yhdella kolmas- osalla hallituksen jäsenistä on hyvä sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67504: (12) Finanssivalvonta suosittaa, että hallituksen jaostoja valittaessa varmistutaan siitä, että ja- oston jäsenilla on jaoston toimialaan nähden riittävä ammattitaito ja pätevyys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67505: 4.3 Toimitusjohtaja ja toimitusjohtajan sijainen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67506: (13) MEL 187 §:n 2 momentin mukaan Merimieseläkekassan toimitusjohtajalla on oltava hyvä työeläkevakuutustoiminnan, sijoitustoiminnan ja liikkeenjohdon tuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67507: OHJE (kohdat 14-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67508: (14) Finanssivalvonnan tulkinnan mukaan MEL 187 §:n 2 momentissa tarkoitetut hyvää työelä- kevakuutustoiminnan, sijoitustoiminnan ja liikkeenjohdon tuntemusta koskevat vaatimukset täyttyvät riittävän pitkän vastaavanlaisissa tehtävissä hankitun työkokemuksen kautta tai riittävän pitkän muun työkokemuksen ja kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67509: (15) Finanssivalvonnan tulkinnan mukaan vastaavanlaisen työkokemuksen voi hankkia toimi- malla työeläkevakuutusalalla vastuullisissa tehtävissä ja muun työkokemuksen voi hankkia toimimalla rahoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67510: (16) Finanssivalvonta suosittaa, että edella kohdassa 14 mainittu kattava koulutus- ja perehdyt- tämisohjelma on Merimieseläkekassan tai Työeläkevakuuttajat TELA ry:n järjestämä ja kä- sittää työeläkevakuutus- ja sijoitustoimintaan seka liikkeenjohtoon liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_67511: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67512: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67513: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67515: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67516: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67518: 5 Johdon kelpoisuuden ja hyvämainei- suuden yhteisarviointi (Fit & Proper - arviointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67519: (1) Valtuuskunnan ja hallituksen jäsenien ja varajäsenien sekā toimitusjohtajan ja toimitusjoh- tajan sijaisen (jäljempäna "johto") kelpoisuusehdoilla tarkoitetaan MEL:n asettamia vaati- muksia. Kelpoisuudella tarkoitetaan myös hallintoelimiä kokonaisuutena koskevia kollegi- aalisia kelpoisuusvaatimuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67520: (2) MEL 168 §:ssä säädetään valtuuskunnan jäsenten ja varajäsenten kelpoisuudesta. MEL 180 §:ssä säädetään hallituksen jäsenten ja varajäsenten kelpoisuudesta ja hyvämainei- suudesta. Toimitusjohtajan ja toimitusjohtajan sijaisen kelpoisuudesta ja hyvämaineisuu- desta säädetään MEL 187 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67521: OHJE (kohdat 3-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67522: (3) Finanssivalvonta suosittaa, että kaikki johtoa koskevat vaatimukset saatetaan etukäteen ehdokkaita asettavien tahojen sekä nimityspäätöksen tekevän tahon tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67523: (4) Finanssivalvonta suosittaa, että Merimieseläkekassa varmistaa, että valtuuskunnan ja hal- lituksen jäsenet ja varajäsenet sekä toimitusjohtaja ja toimitusjohtajan sijainen täyttävät nimitettäessa ja tehtävässa toimiessaan MEL 168 §:n, 180 §:n ja 187 §:n mukaiset kelpoi- suusehdot ja hyvämaineisuusedellytykset (niin sanottu Fit & Proper -kokonaisuus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67524: (5) Finanssivalvonta suosittaa, että asianmukaiset toimintamallit ja kirjalliset toimintaperiaat- teet kaikkien vaatimusten täyttymisen varmistamiseksi sekä seuraamiseksi on varmistettu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67525: (6) Finanssivalvonta suosittaa, että Merimieseläkekassa ilmoittaa Finanssivalvonnalle valtuus- kunnan ja hallituksen jäsenen ja varajäsenen sekä toimitusjohtajan ja toimitusjohtajan sijai- sen nimittämisestä heti, kun se on mahdollista. Uudelleennimittämisestä ei tarvitse antaa uutta ilmoitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67526: (7) Finanssivalvonta suosittaa, että Merimieseläkekassa ilmoittaa viipymättä edella kohdassa 6 mainittujen henkilöiden eroamisesta tai erottamisesta Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67527: (8) Finanssivalvonta suosittaa, että edella kohdissa 6 ja 7 tarkoitetuista ilmoituksista käyvät ilmi henkilön yksilöinti- ja yhteystiedot sekä kotipaikka ja tehtävä, johon hänet on Merimies- eläkekassassa nimitetty, ja milloin hän aloittaa tai aloitti tehtävässään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67528: (9) Finanssivalvonta suosittaa, että Merimieseläkekassa liittää kohdassa 6 tarkoitettuun ilmoi- tukseen selvityksen siitä, miten Merimieseläkekassa on varmistanut, että henkilö täyttää Fit & Proper -kokonaisuuden. Mikäli kyseessa on jäljempana kohdassa 10 tai 11 mainittu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_67529: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67530: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67531: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67533: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67534: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67536: tilanne, tulisi Merimieseläkekassan toimittaa Finanssivalvonnalle kaikki tekoon, rangaistuk- seen ja asian muuhun arviointiin liittyvät tiedot sekä esittää ne perusteet, miksi henkilön voitaisiin kuitenkin katsoa soveltuvan tehtäväänsä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67537: (10) Finanssivalvonnan tulkinnan mukaan henkilö ei ole MEL 180 §:n ja 187 §:n mukaisesti hy- vämaineinen, mikäli:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67538: · hänet on tuomittu viimeisen viiden vuoden aikana vankeusrangaistukseen tai vii- meisen kolmen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan kat- soa osoittavan hanen olevan ilmeisen sopimaton tehtävään tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67539: · hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopima- ton tehtävään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67540: (11) Finanssivalvonnan tulkinnan mukaan edella kohdan 10 ensimmäisessä alakohdassa tar- koitettu määräaika lasketaan nimittamista koskevassa tilanteessa tuomion lainvoimaiseksi tulosta tehtävässa aloittamishetkeen. Jos tuomio ei ole saanut lainvoimaa, tuomittu voisi kuitenkin jatkaa Merimieseläkekassan johtoon kuuluvan päätösvallan käyttämista, jos sitä on hänen aikaisempi toimintansa, tuomioon johtaneet olosuhteet ja muut asiaan vaikutta- vat seikat kokonaisuutena arvioiden pidettävä ilmeisen perusteltuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_67541: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67542: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67543: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67544: Merimieseläkekassan hallinto 12 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67545: 6 Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67546: (1) MEL 184 §:n 1 momentin 1 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia eläkekassan hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67547: OHJE (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67548: (2) Finanssivalvonta suosittaa, että Merimieseläkekassan hyvä hallinto täyttää ainakin seuraa- vat vaatimukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67549: · Merimieseläkekassalla tulisi olla keskeisten toimintojen osalta kirjallisesti määritellyt periaatteet sekä selkeät määrälliset ja laadulliset tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67550: · tavoitteiden maarittelyssa tulisi ottaa huomioon myös terveet ja varovaiset liikeperi- aatteet. Erityisesti vakuutettujen ja vakuutuksenottajien oikeudet ja edut tulisi ottaa huomioon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67551: · toimintatavat ja tavoitteet tulisi saattaa koko henkiloston tietoon
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67552: · hallituksen tulisi voida tehokkaasti ja riippumattomasti valvoa toimitusjohtajaa ja muuta toimivaa johtoa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67553: · hallituksen tulisi laatia toimintaansa varten kirjallinen työjärjestys, jossa on määri- telty hallituksen keskeiset tehtävät ja toimintaperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_67554: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67555: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67556: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67558: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67559: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67561: 7 Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67562: 7.1 Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67563: (1) MEL 184 §:n 1 momentin 4 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia, että elakekassalla on toimintansa laatuun ja laajuuteen nähden riittävä sisäi- nen valvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67564: (2) MEL 184 §:n 1 momentin 1 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia eläkekassan hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67565: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämi- sestä perustuu MEL 184 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67566: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67567: (4) Finanssivalvonnan tulkinnan mukaan MEL 184 §:n 1 momentin 4 kohdan mukaisen sisäi- sen valvonnan tarkoituksena on varmistaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67568: · toiminnan taloudellisuus, tehokkuus ja tuloksellisuus;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67569: · asetettujen päämäärien ja tavoitteiden saavuttaminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67570: · lakien, määräysten, toimintaperiaatteiden, hallintoelinten päätösten, sisäisten suun- nitelmien, sääntöjen ja menettelytapojen noudattaminen;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67571: · toimintaan liittyvien riskien hallinta ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67572: · raportoinnin seka muun johtamisinformaation luotettavuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67573: MÄÄRÄYS (kohdat 5-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67574: (5) Hallitus vastaa sisäisen valvonnan järjestämisestä ja organisoinnista kaikille organisaatio- ja toimintotasoille. Hallituksen on vuosittain arvioitava, onko sisäinen valvonta asianmukai- sesti järjestetty ja tarvittaessa ryhdyttävä korjaaviin toimenpiteisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67575: (6) Hallituksen tulee määrittää sisältö sisäiselle valvonnalle sekä vahvistaa sisäisen valvonnan toimintaperiaatteet. Hallitus myös vastaa siitä, että toimintaperiaatteita noudatetaan Meri- mieseläkekassassa sekä ulkoistettujen palveluiden osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_67576: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67577: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67578: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67580: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67581: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67583: 7.2 Sisaisen valvonnan toimivuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67584: MÄÄRÄYS (kohdat 7-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67585: (7) Merimieseläkekassan sisäisen valvonnan tulee kattaa kaikki Merimieseläkekassan toimin- not.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67586: (8) Sisäisen valvonnan järjestämisessä on otettava huomioon toiminnan laatu ja laajuus ja sen tulee olla suhteessa kunkin toiminnon riskeihin. Laatua ja laajuutta tulee arvioida työeläke- vakuutustoiminnan sosiaaliturvanäkökulmasta ja työeläkevarojen yhteiskunnallisella luon- teella, riippumattomuudella ja itsenäisyydella sekä vakavaraisuuteen liittyvillā vaatimuk- silla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67587: (9) Sisäisen valvonnan toimivuuden vuoksi Merimieseläkekassalle on vahvistettava organi- saatio, jossa tehtävät, päätösvalta ja vastuu on asianmukaisesti jaettu ja raportointisuhteet selkeästi määritelty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67588: (10) Työnjaot ja tehtävänkuvat tulee organisaatiossa määritellä siten, ettei kukaan yksin ilman asianmukaista valvontaa hoida vaikutukseltaan merkittäväa toimenpidettä läpi koko käsit- telyketjun. Vastuun määritykset on dokumentoitava kirjallisesti. Organisaatiorakenteen tu- lee tukea tehokkaan sisäisen valvonnan ja riskienhallinnan järjestämistä. Säännösten nou- dattamista tulee valvoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67589: (11) Raportoinnin on oltava selkeää, luotettavaa, oikea-aikaista ja tulevaisuuden huomioonotta- vaa. Informaatiovirran tulee olla avointa ja säilya raportoinnissa muuttumattomana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67590: (12) Raportointijärjestelmä on järjestettāvā siten, ettā hallitus ja toimitusjohtaja saavat tiedon kaikesta olennaisesta toiminnasta seka tilintarkastajien ja viranomaisten Merimieseläke- kassalle toimittamista tarkastushavainnoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67591: OHJE (kohta 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67592: (13) Finanssivalvonta suosittaa, että sisäisen valvonnan valvontatoimenpiteisin kuuluvat esi- merkiksi johdolle tehtävät selonteot ja raportit, tulos- ja poikkeamaraportit mukaan lukien riskirajojen noudattamisen valvonta, fyysiset valvontatoimenpiteet, omaisuuden inventoin- nit, hyväksymis- ja valtuutusjärjestelmä, varmistukset ja täsmäytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67593: MÄÄRÄYS (kohdat 14-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67594: (14) Sisäisen valvonnan valvontatoimenpiteiden ja niiden perusteella laadittujen raporttien tulee olla osa Merimieseläkekassan jatkuvaa toimintakulttuuria. Sisäisen valvonnan toimivuutta on seurattava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67595: (15) Toiminnan jatkuvuuden varmistamisen ja varojen turvaamisen näkökulmasta Merimieselä- kekassan tulee kiinnittää erityista huomiota tieto- ja muuta turvallisuutta koskeviin riittäviin valvontatoimiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_67596: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67597: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67598: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67600: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67601: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67603: 8 Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67604: (1) MEL 184 §:n 1 momentin 4 kohdan mukaan Merimieselakekassan hallituksen tehtävänä on huolehtia, että elakekassalla on toimintansa laatuun ja laajuuteen nähden riittävä sisäi- nen valvonta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67605: (2) MEL 184 §:n 1 momentin 1 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia eläkekassan hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67606: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämi- sesta perustuu MEL 184 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67607: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67608: (4) Finanssivalvonnan tulkinnan mukaan MEL 184 §:n 1 momentin 1 kohdassa säädetty halli- tuksen velvollisuus huolehtia eläkekassan hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä tarkoittaa, että hallituksella on velvollisuus luoda Merimieseläkekassan toi- minnan kannalta tarpeellinen organisaatio ja varmistaa sen toiminta sekä ryhtyä tarvittaviin korjaaviin toimenpiteisiin, jos säännösten vastaista tai muutoin virheellistä toimintaa on ha- vaittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67609: MÄÄRÄYS (kohta 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67610: (5) Merimieseläkekassalla on oltava sellainen ohje- ja raportointijärjestelmä, että hallitus voi varmistaa Merimieseläkekassan toiminnan lainmukaisuuden ja toimintaan liittyvien muiden ulkoisten ja sisäisten sääntöjen noudattamisen sekä sen, että säännösten noudattamista valvotaan oikeassa suhteessa Merimieseläkekassan toiminnan laatuun ja laajuuteen näh- den. Toimitusjohtajan on osaltaan toimittava hallituksen tietokanavana Merimieseläkekas- san menettelytavoista ja autettava tarvittaessa hallitusta puuttumaan oikeudellisiin riskei- hin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_67611: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67612: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67613: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67614: Merimieseläkekassan hallinto 16 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67615: 9 Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67616: (1) MEL 184 §:n 1 momentin 1 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia eläkekassan hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67617: OHJE (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67618: (2) Finanssivalvonta suosittaa, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67619: · Merimieseläkekassalla on sisäinen tarkastus, jonka järjestamisestä Merimieseläke- kassan hallitus vastaa. Hallituksen tulisi hyväksya sisäisen tarkastuksen toimintape- riaatteet ja vuosittainen tarkastussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67620: · Merimieseläkekassan hallitus järjestää sisaisen tarkastuksen organisaatioaseman sekä toimivallan selkeäksi sekä varmistaa Merimieseläkekassan toimintojen riippu- mattoman ja objektiivisen tarkastuksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67621: · sisäinen tarkastus on riippumaton tarkastettavista toiminnoista ja tilintarkastuksesta. Sisäisen tarkastuksen tulisi kuitenkin olla kiinteä osa Merimieseläkekassan toimin- taa. Hallitus voi niin halutessaan ostaa sisäisen tarkastuksen palveluja ulkopuoli- selta palveluntuottajalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67622: · sisäinen tarkastus on Merimieseläkekassan kokoon ja toimintaan nähden oikein mi- toitettu, ja silla on riittavā ammattitaito ja kokemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67623: · sisäisen tarkastuksen tuloksista ja toimenpidesuosituksista raportoidaan toimitus- johtajalle ja hallitukselle. Raportointi tulisi suorittaa siten, että toimitusjohtaja ja halli- tus voivat ilman turhaa viivästystä ryhtya toimiin mahdollisten havaittujen epäkoh- tien poistamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_67624: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67625: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67626: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67627: Merimieseläkekassan hallinto 17 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67628: 10 Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67629: 10.1 Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67630: (1) MEL 184 §:n 1 momentin 4 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on huolehtia, että eläkekassalla on toimintansa laatuun ja laajuuteen nähden riittävät ris- kienhallintajärjestelmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67631: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä riskien hallinnan järjestämisestä perustuu MEL 184 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67632: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67633: (3) Finanssivalvonnan tulkinnan mukaan MEL 184 §:n 1 momentin 4 kohdassa mainitulla ris- kienhallinnalla tarkoitetaan strategioita, prosesseja ja raportointimenettelyja, joilla Meri- mieseläkekassaan kohdistuvia, sen liiketoiminnasta aiheutuvia ja liiketoimintaan oleellisesti liittyvia riskeja tunnistetaan, valvotaan, mitataan, seurataan ja hallitaan. Riskienhallintaan kuuluvat Finanssivalvonnan tulkinnan mukaan myös ne ehkäisevät toimenpiteet, jotka ris- kien tunnistamisen, raportoinnin ja arvioinnin johdosta on kulloinkin päätetty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67634: MÄÄRÄYS (kohdat 4-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67635: (4) Riskienhallinnassa on otettava huomioon kaikki olennaiset Merimieseläkekassan toimin- taan vaikuttavat sisäiset ja ulkoiset sekä ulkoistettujen toimintojen riskit. Riskienhallinnan on katettava varojen ja vastuiden hallinta, sijoitukset, maksuvalmius, keskittymäriskin hal- linta sekä operatiivisten riskien hallinta. Riskienhallinnassa tulee tarkastella yksittäisiä ris- keja ja yksittäisten riskien yhteisvaikutuksia Merimieseläkekassan toiminnassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67636: (5) Riskienhallinta on järjestettävä siten, että se on riittävässä määrin riippumaton riskiä otta- vista toiminnoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67637: (6) Riskienhallinta on sisällytettävä toimivaksi osaksi Merimieseläkekassan organisaatioraken- netta ja päätöksentekoprosesseja. Merimieseläkekassan organisaatiorakenteen ja päätök- sentekoprosessien on tuettava tehokasta riskienhallintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67638: (7) Merimieseläkekassan riskienhallinnan tehtävänä on seurata, että riskit tulevat Merimies- eläkekassassa asianmukaisesti ja annetun ohjeistuksen mukaisesti tunnistetuiksi, valvo- tuiksi, mitatuiksi, seuratuiksi ja hallituiksi. Tarvittaessa sen tulee myös ylläpitää, kehittää ja valmistella riskienhallinnan periaatteita hallituksen vahvistettaviksi sekä laatia menetelmiä käytettäväksi riskien arvioimisessa ja mittaamisessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67639: (8) Riskienhallintajärjestelmän on oltava sellainen, että se helpottaa riskienhallinnan täytän- töönpanoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_67640: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67641: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67642: 30.10.2017 Merimieseläkekassan hallinto 1.12.2017 lukien toistaiseksi 18 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67644: Merimieseläkekassalla tulee olla riskienhallintaan tarvittavat menetelmät. Määrällisten mit- tausmenetelmien lisäksi myös laadullisia riskejä varten on oltava tarvittavat arviointimene- telmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67646: Menetelmien avulla Merimieseläkekassan on jatkuvasti tunnistettava riittävän kattavasti kaikki riskienhallinnassa huomioon otettavat riskit. Merimieseläkekassan on voitava koh- tuudella varmistua siitä, että kaikki asetettujen tavoitteiden saavuttamiseen olennaisesti vaikuttavat riskit on tunnistettu ja saatettu hallituksen käsiteltäviksi. Riskien vaikutusten merkittävyys ja toteutumisen todennäköisyys on arvioitava, ja niiden hallitsemiseksi on ke- hitettävä asianmukaiset menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67648: Merimieseläkekassalla tulee olla riittävät riskienhallintamenetelmät rahanpesun ja terroris- min rahoituksen torjuntaan mukaan lukien asiakkaan tunnistamiseen ja riskiperusteiseen arviointiin tarvittavat menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67650: Riskienhallintasuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67651: MÄÄRÄYS (kohdat 12-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67653: Hallituksen on vuosittain hyväksyttävä Merimieseläkekassan koko toiminnan kattava ris- kienhallintasuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67655: Riskienhallintasuunnitelmassa tulee määritellä Merimieseläkekassan merkittävimmät riskit, mittarit, riskinoton rajat, riskienhallinnan tavoitteet, riskinhallintatoimenpiteet, vastuut ja val- vontaperiaatteet. Lisäksi riskienhallinta tulee sisällyttää tarkoituksenmukaisesti Merimies- eläkekassan toimintojen suunnitteluun laatimalla esimerkiksi keskeisille toiminnoille tai pro- sesseille erillinen riskienhallintasuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67657: Riskienhallintasuunnitelman riskinoton rajoja määritettäessä tulee ottaa huomioon Meri- mieseläkekassan riskinotto-/riskinkantokyky. Lisäksi on määriteltävä, kuka vastaa riskin- otosta, miten riskiä mitataan ja seurataan sekä miten riskin pysymistä hyväksyttävissä ra- joissa valvotaan. Riskienhallintasuunnitelmassa on otettava huomioon myös ulkoistetut toi- minnot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67659: Riskienhallintasuunnitelmasta on käytävä ilmi, miten riskeistä raportoidaan. Riskienhallin- tasuunnitelman mukaisesta riskienhallinnan kokonaistilanteesta tulee raportoida vähintään vuosittain Merimieseläkekassan hallitukselle. Suunnitelman mukaisten riskiraporttien tulee olla osa kunkin liiketoiminnan prosesseja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_67660: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67661: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67662: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67663: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67664: Merimieseläkekassan hallinto 19 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67665: 11 Hyvän vakuutustavan valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67666: (1) Merimieseläkekassa on lailla perustettu erityiseläkelaitos, ja sen toiminta perustuu lähtö- kohtaisesti MEL:iin. Eläkelaitoksella on maksutuloonsa suhteutettuna mittava sijoitusvaral- lisuus. Tästä johtuen odotusarvo sijoitustoiminnan vuosituottojen kokonaismäärälle on suuri, jolla puolestaan on merkittävä vaikutus eläkelaitoksen vahvan vakavaraisuuden ke- hittämisessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67667: (2) Merimieseläkekassan toiminnassa on joitakin yhtiömäisiä tai yhtiöoikeudellisia piirteitä mutta eläkelaitos ei ole työeläkevakuutusyhtiö tai yhtiö. Eläkelaitoksella ei myöskään ole kilpailijoita, ja sen rahoituspohja poikkeaa kilpailluilla työeläkemarkkinoilla toimivista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67668: (3) Edellä esitetystä johtuen on ilmeistä, että eläkelaitoksen suhde asiakaskuntaansa ja intres- siryhmiinsä on muodostunut esimerkiksi työeläkevakuutusyhtiöihin verrattuna poik- keavaksi. Erityisesti kilpailijoiden puuttuminen johtaa myös siihen, ettei eläkelaitoksella liene relevantteja syitä, joiden vuoksi sen pitäisi testata toimintaansa koskevan normiston rajoja. Tässä mielessä hyvälla vakuutustavalla voidaan olettaa olevan vain vähäinen mer- kitys toiminnan ohjauksessa. Merimieseläkekassassa eläketurva järjestetään kuitenkin va- kuuttamisen välityksellä. Vakuuttamisen ja vakuutustavan yhteydella voi siten arvioida ole- van eläkelaitoksen toiminnalle periaatteellinen merkitys. Jäljempänä luvussa 11.1 todettua tulee tulkita suhteellisesti edella todetun merkityksen valossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67669: 11.1 Vakuutustapa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67670: (4) On tilanteita, joissa laki tai sopimuksen ehdot eivät anna menettelytapakysymykseen suo- raa vastausta. Hyvä tapa voi tällöin täydentää muuta sääntelyā ja nousta ratkaisuperus- teena keskeiseen asemaan. Hyvä tapa voi esimerkiksi nousta esiin yksittäisten asiakkai- den kohdalla silloin, kun heidän korvausvaatimuksiaan arvioidaan finanssialan lautakun- nissa tai yleisissä tuomioistuimissa. Finanssitoiminnassa tunnetaan useita erilaisia hyviä käytänteitä. Esimerkiksi hyvä vakuutus-, pankki- ja esimerkiksi arvopaperimarkkinatapa ohjaavat toimijoiden toimintaa finanssimarkkinoilla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67671: (5) Finanssivalvonnan lakisääteisiin päätehtäviin kuuluu hyvän vakuutustavan valvonta. Tätä viranomaisvalvontaa toteutetaan lähinna asiakaskollektiivien tai koko asiakaskunnan ta- solla. "Hyvä vakuutustapa" on vanha vakuutusoikeudellinen periaate, jota on vakiintuneesti käytetty vakuutusalalla. Käsite on saanut sisältöä muun muassa myös vakuutussopimus- lain (543/1994) sekä vakuutusyhtiölain (521/2008) esitöiden kautta. Periaate on hyvin ylei- nen ja muistuttaa kasuistisen luonteensa vuoksi kilpailuoikeussäännöstöä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67672: (6) Käsite sisältää perussäännön, jonka mukaan vakuutusalalla päätösvaltaa käyttävän toi- minnan on oltava paitsi lain sanamuodon mukaista, myös sen tarkoituksen mukaista, eetti-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_67673: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67674: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67675: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67677: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67678: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67680: sesti kestävää, kohtuullista ja oikeudenmukaista. Edella todetun voinee tiivistää myös to- teamukseen, jonka mukaan kaikki se mikä ei ole erikseen kiellettya, ei välttämätta ole sal- littua. Valvonnan näkökulmasta tämä on perinteisesti tarkoittanut sitä, että painopiste ei ole siinä miten vakuutusyrityksissa toimitaan vaan siina, miten niissa pitäisi toimia. Käytän- nössä tämä tarkoittaa sitä, että käsite saa sisältönsä, kun arvioidaan hyvän vakuutustavan merkitystä vakuutuksenottajien, mahdollisten vakuutuksenottajien, korvauksensaajien ja vakuutettujen - ei valvottavien näkökulmasta. Finanssivalvonta ei siten käsitteen perus- teella arvioi vakuutusyritysten sisäistä toimintakulttuuria, vaan vakuutusyritysten ja "ulko- maailman" välistä suhdetta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67681: (7) Lakisääteisistä vakuutuksista työeläkevakuutuksessa lainsäädännöllinen ympäristö on eri- tyislaatuinen. Sen ydin on työeläkevakuutusyhtiöistä annetussa laissa (354/1997), mutta se saa vaikutteita myös muusta lainsäädännöstä, kuten hallintolaista (434/2003) ja ylei- sistä yhtiöoikeudellisista - esimerkiksi hyvän hallinnon - periaatteista. Työeläkevakuuttami- nen perustuu luonteensa vuoksi siten voimakkaammin lakiin, jolloin sopimusvapaus ja sen myötä vakuutusehtojen soveltamisala kapenevat yksityisvakuutuksen vastaavasta. Hyvä vakuutustapa liittyy vakuutusalalla erityisesti yksityisvakuutukseen mutta sillä on merkityk- sensä myös lakisääteisen vakuutuksen puolella.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67682: OHJE (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67683: (8) Finanssivalvonta suosittaa, että Merimieseläkekassa noudattaa liiketoimissaan ja sopimus- suhteissaan hyvän vakuutustavan mukaisia periaatteita, jolla tarkoitetaan, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67684: · Merimieselakekassa ei suhteissaan vakuutuksenottajiin tai muissa liiketoimissaan käytä Merimieseläkekassan toimintaan kuulumattomia järjestelyjā
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67685: · Merimieseläkekassa kohtelee kaikkia oikeudenmukaisesti ja tasapuolisesti, eivätkä sen liiketoimet tuota epäoikeutettua etua esimerkiksi yksittäiselle vakuutuksenotta- jalle. Kaikki Merimieseläkekassan ja vakuutuksenottajan väliset liiketoimet, myös esimerkiksi lainojen ja muun vakuutuksenottajan toiminnan rahoittamisen, kiinteistö- ja muiden kauppojen sekä vuokrasopimusten tulisi olla tehty hyvän tavan mukai- sesti markkinaehdoin. Vakuutuksenottajilta ostettavat palvelut tulisi ostaa markki- naehtoisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_67686: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67687: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67688: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67689: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67691: 12 Sijoitustoiminnan järjestäminen ja si- joitussuunnitelma ja raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67692: (1) MEL 203 §:n 1 momentin mukaan Merimieseläkekassan sijoitustoiminnan on oltava itse- näistä ja elakekassassa on sitā varten oltava riittavā henkilösto toiminnan luonne ja laajuus huomioon ottaen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67693: (2) MEL 204 §:n 1 momentin mukaan Merimieseläkekassan hallituksen on laadittava eläke- kassalle sen varojen sijoittamista koskeva suunnitelma (sijoitussuunnitelma).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67694: (3) MEL 184 §:n 1 momentin 5 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on hyväksyä elakekassan sijoitussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67695: (4) MEL 184 §:n 1 momentin 6 kohdan mukaan Merimieseläkekassan hallituksen tehtävänä on päättää elakekassan varojen sijoittamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67696: (5) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sijoitustoiminnan itsenäisyydesta sekä sijoitustoimintaa täydentävien varojenhoitopalvelujen, asiantuntijapalvelujen, aputoi- mintojen ja näihin rinnastettavien palvelujen käytöstä perustuu MEL 203 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67697: (6) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sijoitussuunnitelmasta perustuu MEL 204 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67698: 12.1 Merimieseläkekassan sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67699: 12.1.1 Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67700: OHJE (kohdat 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67701: (7) Finanssivalvonta suosittaa, että Merimieseläkekassalla on maksuliikennettään varten omat, muista yhteisöistä erilliset kassa- ja pankkitilit. Merimieseläkekassa ei voisi käyttää esimerkiksi yhteistä konsernitiliä muun yhteisön tai säätiön kanssa. Konsernitilillä tarkoite- taan pankkitiliä, jossa maksuliikenne on hajautettu yksikkökohtaisesti, mutta varojen hal- linta hoidetaan keskitetysti. Sellainen on esimerkiksi pankkitili, jossa eri yhteisöjen pankkiti- lien varat kootaan yhdeksi kokonaisuudeksi, ja jonka alatileihin kullakin yhteisöllä on oma käyttöoikeutensa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67702: (8) Merimieseläkekassan ja muun yhteisön tai säätiön välillä olisi mahdollista käyttää erilaisia selvittelytilejā, joille kirjataan palvelujen ostoa ja myyntia tai naitā vastaavia tapahtumia tai Merimieseläkekassan ja asunto- ja kiinteistöyhteisöjen välistä vähäistä maksuliikennettä, ei kuitenkaan vakuutusmaksuliikennettä. Tilia ei myöskään saisi käyttää Merimieseläkekas-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_67703: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67704: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67705: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67707: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67708: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67710: san ja muun edella mainitun yhteisön tai säätiön yhteisten tai yhteisöjen välisten omaisuu- den saantoja tai luovutuksia koskevien tilitapahtumien kirjaamiseen. Tilin saldon tulisi jat- kuvasti olla euromäärältään vähäinen. Tilin tapahtumat selvitetaan kuukausittain, kuitenkin viimeistään tilitapahtumakuukautta seuraavan kuukauden aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67711: 12.1.2 Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67712: MÄÄRÄYS (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67713: (9) Merimieseläkekassan sijoitustoiminnan päätöksenteon valmistelusta ja päätöksenteosta tulee vastata Merimieseläkekassan oma sijoitustoiminnan organisaatio ja henkilöstö, joka on riippumaton muista tahoista. Merimieseläkekassan omalla henkilökunnalla on oltava riittavassa maarin sellaista sijoitustoiminnan osaamista ja ammattitaitoa, ettei Merimieselä- kekassan tarvitse turvautua sijoitustoiminnassaan muihin kuin sijoitustoimintaa täydentä- viin varojenhoitopalveluihin, asiantuntijapalveluihin, aputoimintoihin ja näihin rinnastettaviin palveluihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67714: OHJE (kohdat 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67715: (10) Edellä kohdassa 9 tarkoitettuja palveluja, joita voidaan hankkia Merimieseläkekassan ulko- puolelta, ovat esimerkiksi sijoituspäätösten valmistelua ja tekemistä palveleva tietojen tuot- taminen ja kerääminen sijoitusmarkkinoilta. Tällaisia toimintoja voivat olla muun muassa erilaiset markkina-analyysit, yritystutkimukset, luottotietojen hankkiminen sekä sijoitustoi- mintaan liittyvät koti- ja ulkomaiset asiantuntijapalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67716: MÄÄRÄYS (kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67717: (11) Merimieseläkekassan ulkopuolelta ostettavien aputoimintojen tulee tuottaa Merimieseläke- kassan käyttöön sellaisia tietoja, jotka ovat tarpeen sijoitustoiminnan päätösten valmiste- lussa ja seurannassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67718: OHJE (kohdat 12-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67719: (12) Edella kohdassa 11 tarkoitettuja aputoimintoja voivat olla esimerkiksi sijoitustoiminnan tie- tojenkäsittelyyn, juridiikkaan ja laskentatoimeen liittyvät palvelut. Aputoimintoja voivat olla myös jo tehtyjen sijoituspäätösten toteuttamiseen ja sijoitusten hoitoon liittyvät toiminnot kuten esimerkiksi kiinteistöjen huoltopalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67720: (13) Merimieseläkekassa voi tehdä sijoitustoimintaa täydentāviä omaisuudenhoitosopimuksia esimerkiksi luottolaitoksen, sijoituspalvelulaissa (747/2012) tarkoitetun sijoituspalveluyrityk- sen tai siihen rinnastettavan yrityksen sekä muussa valtiossa toimiluvan saaneen, julkisen valvonnan alaisen sijoituspalveluyrityksen kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67721: MÄÄRÄYS (kohdat 14-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67722: (14) Merimieseläkekassan hallituksen tulee hyväksyä sopimukset ulkopuolisten omaisuuden- hoitajien kanssa. Erityisesti päätöksentekovaltuuksia annettaessa tulee varmistaa, että Merimieseläkekassan itsenäinen päätöksenteko sijoitusasioissa ei vaarannu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67723: (15) Sijoitusvarojen hoitoa koskevasta omaisuudenhoitosopimuksesta tulee ilmetä ainakin seu- raavat seikat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_67724: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67725: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67726: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67728: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67729: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67731: · toimeksiannon laajuus ja valtuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67732: · sijoitustoiminnan periaatteet ja rajoitukset (mm. tavoitteet, riskit, omaisuuden allo- kointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67733: · säännöllinen raportointi (mm. tuotto/tavoitteet, allokaatio ja riskitaso)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67734: · hoitopalkkio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67735: · sopimuksen irtisanomismenettely.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67736: (16) Toimeksianto saa koskea vain tiettya, rajattua osuutta Merimieseläkekassan sijoituksista ja näiden toimeksiantojen yhteismäärä ei saa olla merkittävä. Toimeksiannon osuus omai- suudenhoitoyhteisön hallinnassa olevista kokonaisvaroista ei myöskään saa olla merkit- tävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67737: 12.2 Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhal- linnassa/sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67738: OHJE (kohta 17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67739: (17) Finanssivalvonnan tulkinnan mukaan MEL 184 §:n 1 momentin 5 ja 6 kohdat sekä 204 §:n 1 momentti tarkoittavat, että hallitus vastaa Merimieseläkekassan sijoitusvaltuuksien asian- mukaisuudesta ja sijoittamisen riskeistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67740: MÄÄRÄYS (kohdat 18-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67741: (18) Hallitus vastaa sijoitussuunnitelman pitämisestä ajan tasalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67742: (19) Ainakin seuraavat asiakokonaisuudet tulee käsitellä sijoitussuunnitelman yhteydessä sen lisäksi, mitä MEL 204 §:n 2 momentissa säädetään:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67743: · Toimintaympariston ja Merimieselakekassan toiminnan sijoitustoiminnalle asettamat vaatimukset lyhyellä ja pitkälla aikavälillä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67744: - Arvio toimintaympariston tilasta ja kehitysnäkymistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67745: - Arvio Merimieseläkekassan vakavaraisuuden kehittymisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67746: - Vastuullisen vakuutusmatemaatikon sijoitusriskienhallintaa ja sijoitustoimin- taa varten laatima selvitys vastuuvelan luonteen ja tuottovaateen sekä vaka- varaisuuden ja maksuvalmiuden ylläpidon asettamista vaatimuksista sekä Merimieseläkekassan vakuutusteknisten riskien hallinnan asianmukaisuu- desta ottaen huomioon Merimieseläkekassan toiminnan laatu ja laajuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67747: - Arvio sijoitussalkun keskeisista riskeista mm. arvonmuutosten ja odotettujen tuottojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67748: · Sijoitustoiminnan yleiset periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67749: - Merimieselakekassan sijoitustoiminnan strategiset tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67750: - Riskienhallinnalliset tavoitteet ja rajoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67751: - Sijoituksiin liittyvät merkittävimmat riskit, kuten valuutta-, luotto-, korko-, markkina- ja likviditeettiriski jne.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67752: - Johdannaisten käytön periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_67753: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67754: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67755: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67757: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67758: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67760: Periaatteiden kuvauksessa tulee tarvittaessa ottaa kantaa periaatteiden ja toimin- nan eroavuuksiin pitkälla ja lyhyellä aikavälillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67761: · Varojen sijoittaminen vuonna X
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67762: - Perusallokaatio (sijoitettavien varojen jakautuminen omaisuuslajeihin) ja sal- litut vaihteluvälit eli limiitit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67763: - Tuottotavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67764: - Riskienhallinnalliset tavoitteet ja rajoitteet (limiitit) sekä mahdolliset vertailuin- deksit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67765: - Vakavaraisuusluokittelun perusteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67766: · Ohjausjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67767: - Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67768: - Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67769: - Sijoitusorganisaation paatosvaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67770: - Ulkopuolisten palveluiden käyttö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67771: - Riskienhallinnan ja sisaisen valvonnan organisointi tai viittaus hallituksen niistä mahdollisesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67772: - Sijoitustoiminnan jatkuvuuden varmistaminen normaaliolojen hairiotilanteissa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67773: · Raportointijärjestelmien kuvaus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67774: - Sijoitusriskienhallintatoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67775: - Sijoitustoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67776: - Tilanteet, joissa hallitukselle raportoidaan erikseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67777: · Muut keskeiset linjauspäätökset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67778: - Omistajaohjauksen periaatteet tai viittaus hallituksen asiasta mahdollisesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67779: - Vastuullisen sijoittamisen periaatteet tai viittaus hallituksen asiasta mahdolli- sesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67780: · Sijoitussuunnitelman päivittämisen periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67781: (20) Finanssivalvonnalle on toimitettava hallituksen hyväksymä sijoitussuunnitelma ja ne halli- tuksen tekemät muut päätökset, joihin sijoitussuunnitelmassa edella sanotun mukaisesti mahdollisesti viitataan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_67782: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67783: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67784: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67785: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67787: 13 Luotonotto, siitä Finanssivalvonnalle tehtävät ilmoitukset sekä luottohäi- riöriskinvaihtosopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67788: OHJE (kohdat 1-4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67789: (1) Finanssivalvonta suosittaa, että Merimieseläkekassa ja sen tytäryhteisö ilmoittavat viimeis- tään kahden viikon kuluessa luoton ottamisesta Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67790: · välttämättöman maksuvalmiuden hoitamiseksi ottamastaan luotosta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67791: · pääomalainan ottamisesta ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67792: · oman henkilökuntansa omistamalta henkilöstorahastolta ottamastaan luotosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67793: (2) Finanssivalvonta suosittaa, että ennen vuositilintarkastusta Finanssivalvonnalle laaditaan lisäksi erillinen ilmoitus, jossa edella kohdassa 1 todettujen luottojen osalta ilmoitetaan kaikki:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67794: · Merimieselakekassalla voimassa olevat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67795: · Merimieselakekassan edellisen kalenterivuoden aikana nostamat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67796: · Merimieseläkekassan tytäryhteisöjen voimassa olevat luotot ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67797: · Merimieseläkekassan tytäryhteisöjen edellisen kalenterivuoden aikana nostamat luotot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67798: (3) Liiketoimintaan liittyvät tavanomaiset tililuotot ja muut niihin rinnastettavat luotot ilmoitettai- siin vain, mikäli Finanssivalvonta sitä erikseen pyytää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67799: (4) Luottohäiriöriskinvaihtosopimukset katsotaan vakioiduiksi sopimuksiksi eikä niitä tulkita va- kuuden antamiseksi, jos sopimukset on laadittu International Swaps and Derivatives Asso- ciationin (ISDA) laatimien tai muiden vastaavien standardoitujen mallidokumentaatioiden mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_67800: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67801: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67802: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67804: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67805: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67807: 14 Varautuminen valmiuslain ja puolus- tustilalain mukaisiin poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67808: (1) Tässä ohjeessa tarkoitetaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67809: · poikkeusoloilla valmiuslain (1552/2011) mukaista poikkeusolojen voimassaoloaikaa sekä puolustustilalain (1083/1991) mukaista puolustustilan voimassaoloaikaa ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67810: · Merimieseläkekassan vastuulla olevilla keskeisilla julkisilla tehtävilla esimerkiksi kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen kuuluvia tehtäviä. Tällaisiin tehtäviin liittyvia, Merimieseläkekassaa ja sitä kautta kansalaisia koskevia poikkeusoloriskejä ovat muun muassa eläkkeiden maksun vaarantumiseen, eläk- keiden rahoituksen ja likviditeetin hallinnan vaarantuminen, erilaisten Merimieselä- kekassan omien tai yhteiskunnan järjestelmien ja infrastruktuurin toiminnan vaaran- tuminen, omalla vastuulla olevien verkostojen toimimattomuus ja palvelutoiminnan pysähtyminen sekä esimerkiksi erilaiset informaatio- ja vastapuoliriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67811: (2) MEL 229 §:n 1 momentin mukaan Merimieseläkekassan tulee varmistaa tehtäviensä mah- dollisimman häiriötön hoitaminen myös poikkeusoloissa osallistumalla vakuutusalan val- miussuunnitteluun ja valmistelemalla etukäteen poikkeusoloissa tapahtuvaa toimintaa sekä muin toimenpitein.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67812: 14.1 Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67813: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67814: (3) Finanssivalvonta suosittaa, että Merimieseläkekassa sailyttää toimintakykynsä vähintään 12 kuukautta kestävän poikkeusolon ajan. Merimieseläkekassan toimintakyky tulisi mitoit- taa siten, että sen vastuulla olevat keskeiset julkiset tehtävät eivät poikkeusoloissa vaa- rannu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67815: 14.2 Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67816: OHJE (kohdat 4-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67817: Velvollisuus ennakolliseen varautumiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67818: (4) · Finanssivalvonta suosittaa, että Merimieselakekassa jo normaalioloissa ryhtyy poik- keusoloja koskevan toimintakykyvelvoitteen turvaamiseksi ennakollisiin varautumis- toimiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67819: (5) Valmiussuunnitelma osana Merimieseläkekassan riskienhallintadokumentaatiota.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_67820: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67821: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67822: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67824: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67825: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67827: · Finanssivalvonta suosittaa, että Merimieselakekassa laatii hallituksen hyväksymän valmiussuunnitelman.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67828: (6) Valmiussuunnitelman tarkoitus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67829: · Finanssivalvonta suosittaa, että valmiussuunnitelma turvaa poikkeusoloissa sellai- set kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat seikat, joihin Merimieseläkekassa voi omilla toimillaan vaikuttaa. Toisin sanoen, poikkeus- olojen aikaisen toimintakyvyn kannalta keskeisten julkisten tehtävien, kuten eläkkei- den ratkaisu- ja maksatustoiminnan, varojenhoidon, asiakastietojen, tietojärjestel- mien, niiden tarvitseman tietojenkäsittelyinfrastruktuurin sekä palveluverkostojen toimivuuden ja käytettävyyden turvaaminen sekä häiriötön hoito.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67830: (7) Valmiussuunnitelman pääsisältö.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67831: · Finanssivalvonta suosittaa, että valmiussuunnitelmassa kuvataan poikkeusolojen toimintaperiaatteet, toiminnot, palvelut sekä tarvittava yhteistyö sidosryhmien kanssa. Suunnitelman tulisi sisältää myös toimivuusvaatimukset poikkeusolotilantei- siin, palveluiden hallitun supistamisen vaiheet sekä toimenpiteet normaalioloihin pa- laamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67832: (8) Vastuu valmiussuunnitelman ajantasaisuudesta ja toteuttamisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67833: · Finanssivalvonta suosittaa, että toimitusjohtaja tai hallituksen tehtävään erikseen määräämä henkilö vastaa valmiussuunnitelman ajantasaisuudesta, valmiussuunni- telman mukaisiin toimenpiteisiin ryhtymisestä, poikkeusoloihin varautumisesta, toi- minnan johtamisesta, päätöksentekojärjestelmän ylläpitämisestä sekā viestinnästa kaikissa oloissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67834: (9) Valmiussuunnitelman toimintakelpoisuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67835: · Finanssivalvonta suosittaa, että valmiussuunnitelman toimintakelpoisuus varmiste- taan normaalioloissa testaamalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67836: 14.3 Varautuminen tietojen hallinnan ja tietotekniikan osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67837: OHJE (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67838: (10) Finanssivalvonta suosittaa, että
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67839: · Merimieseläkekassa turvaa tietojen säilymisen ja riittavän tapahtumien kirjaamisen poikkeusoloissa. Mikäli tietojärjestelmät eivät ole käytössä, tietoliikenne ei toimi tai muut infrastruktuurin palvelut ovat rajoitetusti käytettävissä, tulisi tietojen säilyminen ja riittava tapahtumien kirjaaminen varautua suorittamaan muulla tavoin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67840: · Merimieseläkekassa varmistaa tietojenkäsittelyn infrastruktuurissa poikkeusolojen varmuuskopioinnin toipumisjärjestelmineen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67841: · Merimieseläkekassa järjestää toiminnan jatkuvuuden kannalta riittavan tietojen ja ohjelmien varmistuksen toipumisjärjestelmineen riittävän etäälle sijaitseviin turvati- loihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67842: · Merimieseläkekassa varmistaa kansalaisten toimeentuloturvan ja eläkevarojen py- syvyyden varmistamiseksi poikkeusoloissa riittävän määrän tietojenkäsittelykapasi- teettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_67843: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67844: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67845: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67847: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67848: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67850: · Merimieselakekassalla on toiminnan jatkuvuuden varmistamiseksi kyky käynnistää tietojenkäsittelytoiminta uudessa ympäristössä/varakonekeskuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67851: · Merimieseläkekassa varmistaa valmiiksi suunnitellut ja toimivat yhteydet tarpeelli- siin yhteistyökumppaneihin sekä yhteisiin tai keskitettyihin tietovarastoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67852: · Merimieseläkekassa suunnittelee varmistusten käytön siten, että niiden tietojen ja käytettävissä olevien ohjelmistojen pohjalta kyetään käynnistämään liiketoiminta uudelleen siinäkin tilanteessa, että varsinainen tietojenkäsittelykeskus ja sen lähi- alueet ovat pysyvästi tuhoutuneet. Tämä edellyttäisi varmistusten käyttövalmiuden varmistamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67853: 14.4 Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67854: OHJE (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67855: (11) Finanssivalvonta suosittaa, että poikkeusoloihin varautuminen ulotetaan ulkoistettuihin toi- mintoihin siinä laajuudessa kuin Merimieseläkekassan keskeisten julkisten tehtävien tur- vaaminen edellyttää. Vaatimus tulisi ottaa huomioon jo ulkoistamissopimuksissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67856: (12) Finanssivalvonta suosittaa, että ulkoistettujen palvelujen toimivuus ja käytettävyys varmis- tetaan valvonnalla ja sopimusjärjestelyillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67857: 14.5 Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67858: OHJE (kohta 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67859: (13) Finanssivalvonta suosittaa, että jos Merimieseläkekassa ei noudata tätä ohjetta, ilmoittaa se Finanssivalvonnalle ohjeesta poikkeaminen syyt, sen miten ohjeesta poiketaan, poik- keamiseen liittyvät perustelut sekä selvityksen siitä, miten MEL 229 §:n 1 momentin mukai- nen varautumisvelvollisuus täytetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_67860: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67861: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67862: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67863: Merimieseläkekassan hallinto 29 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67864: 15 Työkyvyttömyysriskin hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67865: 15.1 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67866: (1) Tähän lukuun on koottu Finanssivalvonnan suositukset Merimieseläkekassan työkyvyttö- myysriskin hallintaan tähtäävän toiminnan periaatteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67867: (2) Luku on tarkoitettu tulkittavaksi Merimieseläkekassaa koskevassa lainsäädännössä sen toiminnan tarkoitusta ja vastuullista varojen käyttoa koskevien periaatteiden valossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67868: 15.2 Ohje työkyvyttömyysriskin hallintaan tähtäävistä toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67869: 15.2.1 Rahoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67870: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67871: (3) Finanssivalvonta suosittaa, että Merimieseläkekassa seuraa työkyvyttömyysriskin hallin- taan tarkoitetuista toimista syntyneitä kuluja ja vertaa niitä työkyvyttömyysriskin hallintaa varten kerättyihin maksuihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67872: 15.2.2 Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67873: OHJE (kohdat 4-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67874: (4) Finanssivalvonta suosittaa, että riskienhallinnan yleisten periaatteiden mukaisesti työkyvyt- tömyysriskin hallitsemiseksi tarkoitetun toiminnan lähtökohtana on riskiperusteisuus. Meri- mieseläkekassan tulisi perustaa työkyvyttömyysriskin alentamiseen tähtäävät toimenpiteet tutkittuun tietoon merenkulun työkyvyttömyyttä aiheuttavista riskeistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67875: (5) Varojen käytön näkökulmasta oleellista on toiminnan kohdentaminen todennettavissa ole- viin työkyvyttömyysriskeihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67876: (6) Merimieseläkekassa voi järjestää merenkulkijoille työkyvyttömyysriskin vähentämiseksi palveluja, joiden tarkoitus on kehittää merenkulkijain työtä ja työpaikkaa sekä tukea heidän työkykyään. Merimieseläkekassan työkyvyttömyysriskin hallitsemiseksi tarkoitetun toimin- nan ja siihen liittyvien kustannusten tulisi kohdistua työn ja sen johtamisen, työprosessien ja työpaikan kehittämiseen, työssäjaksamisen edistämiseen, psykososiaalisen kuormituk- sen hallintaan sekä merenkulkijoiden fyysisen ja henkisen työkyvyn ylläpitohankkeisiin. Merimieseläkekassa voi tässä tarkoituksessa tehdä yhteistyötä merenkulkijoille työterveys-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_67877: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67878: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67879: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67881: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67882: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67884: huoltoa tuottavien toimijoiden ja muiden merenkulun toimijoiden kanssa. Yhteistyö ei kui- tenkaan voisi koskea sairaanhoitoa eikä se poista työnantaja-asemaan perustuvien työ- suojeluun tai työterveyshuoltoon liittyvien lakisääteisten velvoitteiden toteuttamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67885: (7) Finanssivalvonnan tulkinnan mukaan palveluja ei tule kohdentaa yksittäiseen merenkulki- jaan, vaan palvelut tulee kohdentaa useammille henkilöille. Työkyvyttömyysriskin hallin- taan liittyvia palveluja voidaan kohdentaa riskiperusteisuuden mukaan asiakasryhmille, joissa työkyvyttömyysriskin arvioidaan olevan erityisen suuri.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67886: (8) Työkyvyn ylläpitoon ja työkyvyttömyysriskin ennaltaehkäisyyn tarkoitettuihin palvelujen kustannuksiin voidaan lukea Merimieseläkekassan henkilöstön palkkakustannukset siltä osin kuin näiden henkilöiden työ välittömästi kohdistuu työkyvyttömyysriskin hallintaan liit- tyvien palvelujen suunnitteluun ja tuottamiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67887: (9) Työkyvyttömyysriskin hallintaan liittyviä hyväksyttäviä kustannuksia eivät olisi asiakkaisiin kohdistuvat laitehankinnat kuten erilaiset työtä helpottavat laitteet tai kuntosalilaitteet, tieto- järjestelmähankinnat tai kulttuuri- ja liikuntasetelit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67888: (10) Merimieseläkekassan tulisi seurata työkyvyttömyysriskin hallitsemiseksi tarkoitettujen toi- mien vaikuttavuutta ja kohdentumista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_67889: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67890: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67891: 30.10.2017 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67892: Merimieseläkekassan hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67894: 16 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67895: Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvonnan määräykset ja ohjeet sekä kannanotot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67896: · Määräys- ja ohjekokoelma vakuutusyhtiöille, työeläkevakuutusyhtiöille, vakuutusyh- distyksille, vakuutusomistusyhteisöille, kolmannen maan vakuutusyhtiöiden sivuliik- keille ja lailla perustetuille eläkelaitoksille 10.1.2017. Dnro FIVA 16/01.00/2016: ala- luku 10.1 Sijoitussuunnitelma kohta 4. Alalukuja 10.1 Sijoitussuunnitelma ja 10.8 Työeläkevakuutusyhtiön sijoitustoiminnan järjestäminen ei sovelleta Merimieseläke- kassaan näiden määräysten ja ohjeiden voimaantulon jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67897: · Finanssivalvonnan kannanotto 1/2010 Palkitsemiseen liittyva kannanotto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67898: · Finanssivalvonnan kannanotto 1/2011 Palkitsemisjärjestelmia koskevan kannan- oton päivitys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67899: · Finanssivalvonnan kannanotto 3/2010 Työelakelaitosten valisiin vastuunsiirtoihin kytketyt omaisuusjärjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_67900: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67901: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67902: 30.10.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67903: 1.12.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67904: Merimieseläkekassan hallinto 32 (32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67905: 17 Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67906: (1) Näiden määräysten ja ohjeiden luvun 4 ohjeita sovelletaan näiden määräysten ja ohjeiden voimaantulon jälkeen Merimieseläkekassalle nimitettäviin valtuuskunnan ja hallituksen jä- seniin ja varajāseniin sekā toimitusjohtajaan ja toimitusjohtajan sijaiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_67907: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

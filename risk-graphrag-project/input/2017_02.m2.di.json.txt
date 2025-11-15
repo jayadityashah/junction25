@@ -1,0 +1,2300 @@
+METADATA: {"document_id": 52, "filename": "2017_02.m2.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 46, "paragraph_count": 1058}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65836: FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65843: Määräykset ja ohjeet 2/2017 Työeläkevakuutusyhtiöiden hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65844: Dnro FIVA/2022/799
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65845: Antopäivä 10.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65846: Voimaantulopäivä 1.4.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65847: Lisätietoja Vakuutusvalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65848: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65849: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65852: *************** EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_65853: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65855: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65856: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65858: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65860: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65862: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65863: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65864: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöja, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65865: Finanssivalvonta antaa määräyksia ainoastaan maarayksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65867: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetaan Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65868: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Oh- jeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65869: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toiminta- ohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65870: Finanssivalvonta.fi > Saantely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_65871: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65872: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65873: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65875: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65877: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65879: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65881: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65883: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65885: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65887: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65889: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65891: 4 Työeläkevakuutusyhtiön johdon kelpoisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65893: 4.1 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65895: 4.2 Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65897: 5 Johdon kelpoisuuden ja hyvämaineisuuden yhteisarviointi (Fit & Proper -arviointi) 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65898: 6 Hyvä hallinto 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65899: 6.1 Hallintoneuvoston valvontatehtävä (Annettu 22.11.2023, voimaan 1.4.2024) 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65900: 7 Sisäinen valvonta 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65901: 7.1 Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65902: 7.2 Sisäisen valvonnan järjestäminen ja toimivuus 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65903: 7.3 Raportointi 16
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65904: 8 Compliance 17
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65905: 8.1 Toiminnon järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65907: 8.2 Toiminnon tarkoitus ja tehtavia 18
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65908: 8.3 Raportointi (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65910: 9 Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_65912: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65918: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65919: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65922: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65925: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65929: Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65932: Sisalto, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65935: Riskienhallintajärjestelmän toimintaperiaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65939: hairioistä ja virheistä ilmoittaminen (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65942: Ilmoitus toiminnan hairioista ja virheista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65945: Vuosi-ilmoitus operatiivisen riskin aiheuttamista tappioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65948: Palkitseminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65951: Hallintoneuvoston ja hallituksen vastuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65954: Muuttuvan (tulospohjaisen) palkitsemisen periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65963: Hyvän vakuutustavan noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65966: Sijoitustoiminnan järjestäminen ja sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65969: Työeläkevakuutusyhtiön sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65971: 14.1.1 Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65973: 14.1.2 Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65975: 14.2 Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhallinnassa / sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65978: Luotonotto, siitä ilmoittaminen ja luottohairioriskisopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65981: Työeläkelaitosten välisiin vastuunsiirtoihin kytketyt omaisuusjärjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65984: Hakemus työnantajakohtaisen vakuutuskannan luovuttamiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65987: Varautuminen poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65990: Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_65992: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_65993: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_65994: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_65996: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_65998: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66001: 18.2 Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen 37
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66002: 18.3 Varautuminen tietojen hallinnan ja tietojärjestelmien osalta 38
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66003: 18.4 Varautuminen ulkoistettujen toimintojen osalta 38
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66004: 18.5 Ohjeen noudattaminen 39
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66005: 19 Osallistuminen asuntokauppalain mukaiseen rakennuttamistoimintaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66007: 20 Yhtiokohtaisten maksunosien markkinointi (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66009: 21 Raportointi Finanssivalvonnalle (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66011: 22 Kumotut määräykset ja ohjeet 44
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66012: 23 Muutoshistoria 45
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66013: 24 Siirtyma- ja voimaantulomääräykset (Annettu 22.11.2023, voimaan 1.4.2024) 46
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_66014: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66015: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66016: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66018: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66020: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66023: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66024: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66025: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66026: · työeläkevakuutusyhtiöt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_66027: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66028: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66029: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66031: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66034: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66037: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66038: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66039: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66040: · laki työeläkevakuutusyhtiöistä (354/1997, jäljempänä TVYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66041: · vakuutusyhtiölaki (521/2008, jäljempänä VYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66042: · osakeyhtiölaki (624/2006, jäljempänä OYL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66043: · laki Finanssivalvonnasta (jäljempänä FivaL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66044: · työntekijän eläkelaki (395/2006, jäljempänä TyEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66045: · yrittäjän eläkelaki (1272/2006, jäljempänä YEL)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66046: · asuntokauppalaki (843/1994)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66047: · laki sopimattomasta menettelystä elinkeinotoiminnassa (1061/1978, jäljempänä SopMenL) (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66048: · valmiuslaki (1552/2011) (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66049: · puolustustilalaki (1083/1991). (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66050: 2.2 Finanssivalvonnan maarayksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66051: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66052: · TVYL 12 j §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66053: · TVYL 27 §:n 5 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66054: · TVYL 28 §:n 3 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66055: · TVYL 29 c §:n 5 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66056: · VYL 15 luvun 1 §:n 2 momentti
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66057: · VYL 15 luvun 3 §:n 2 momentin 2 kohta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66058: · FivaL 18 §:n 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66059: (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_66060: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66061: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66062: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66064: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66066: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66070: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66071: (1) Nämä määräykset ja ohjeet ovat osa Finanssivalvonnan tyoelakevakuutusyhtioille antamaa mää- räysten ja ohjeiden kokonaisuutta. Tavoitteena on täydentää työeläkevakuutusyhtiöiden hallinnon järjestämistä koskevia lain säännöksiä sekä teknisesti uudistaa hallinnon järjestämiseen liittyvia määräyksiä ja ohjeita. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66072: (2) Tavoitteena on myös edistää työeläkevakuutusyhtiöiden hallinnon selkeyttä, ymmärrettävyyttä ja asianmukaista järjestämista seka työelakevakuutusyhtioiden toiminnan kilpailuneutraliteettia. Tätä kautta tavoitteena on myös parantaa työeläkevakuutusyhtiöiden toiminnan valvottavuutta. (An- nettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_66073: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66075: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66076: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66078: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66079: 4 Työeläkevakuutusyhtiön johdon kelpoisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66080: 4.1 Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66081: (1) TVYL 9 e §:n 2 momentin mukaan työeläkevakuutusyhtiön hallituksen jäsenella on oltava hyvä työeläkevakuutustoiminnan asiantuntemus. Hallituksessa on oltava myös hyvä sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66082: OHJE (kohdat 2-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66083: (2) Finanssivalvonnan tulkinnan mukaan TVYL 9 e §:n 2 momentissa tarkoitettu hyvää työeläkeva- kuutustoiminnan asiantuntemusta koskeva vaatimus täyttyy, mikäli hallituksen jäsenella on vas- taavaa kokemusta toisen työeläkevakuutusyhtiön hallituksesta, mikäli hänella on muuta hallitusjä- senyyteen rinnastettavaa kokemusta työeläkelaitoksesta, tai hän suorittaa kattavan perehdytys- koulutuksen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66084: (3) Finanssivalvonta suosittaa, että edella kohdassa 2 mainittu kattava perehdytyskoulutus on työelä- kevakuutusyhtiön tai Työeläkevakuuttajat TELA ry:n järjestämä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66085: (4) Finanssivalvonnan tulkinnan mukaan TVYL 9 e §:n 2 momentissa tarkoitettu hyvää sijoitustoimin- nan asiantuntemusta koskeva vaatimus täyttyy, mikäli vähintään yhdella kolmasosalla hallituksen jäsenistä on hyvä sijoitustoiminnan asiantuntemus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66086: (5) Finanssivalvonta suosittaa, että työeläkevakuutusyhtiön hallituksen valiokuntia valittaessa varmis- tutaan siitä, että valiokunnan jäsenilla on valiokunnan toimialaan nähden riittava ammattitaito ja pätevyys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66087: 4.2 Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66088: (6) TVYL 11 §:n 2 momentin mukaan työeläkevakuutusyhtiön toimitusjohtajalta ja toimitusjohtajan sijaiselta edellytetään hyvää työeläkevakuutustoiminnan, sijoitustoiminnan ja liikkeenjohdon tun- temusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66089: OHJE (kohdat 7-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66090: (7) Finanssivalvonnan tulkinnan mukaan TVYL 11 §:n 2 momentissa tarkoitetut vaatimukset täyttyvät riittävän pitkän vastaavanlaisissa tehtävissa hankitun työkokemuksen kautta tai riittavän pitkän muun työkokemuksen sekä kattavan koulutus- ja perehdyttämisohjelman kautta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66091: (8) Finanssivalvonnan tulkinnan mukaan vastaavanlaisen työkokemuksen voi hankkia toimimalla työ- eläkevakuutusalalla vastuullisissa tehtävissä ja muun työkokemuksen voi hankkia toimimalla ra- hoitus- tai vakuutusalalla vastuullisissa tehtävissä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66092: (9) Finanssivalvonta suosittaa, että edella kohdassa 7 mainittu kattava koulutus- ja perehdyttämisoh- jelma on työeläkevakuutusyhtiön tai Työeläkevakuuttajat TELA ry:n järjestämä ja käsittää erityi- sesti työeläkevakuutus- ja sijoitustoimintaan sekä liikkeenjohtoon liittyvia osa-alueita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66093: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_66097: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66098: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66099: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66101: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66105: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66108: 5 Johdon kelpoisuuden ja hyvämaineisuuden yhteisarviointi (Fit & Proper -arviointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66109: (1) Hallintoneuvoston ja hallituksen jäsenien, varajäsenien sekä toimitusjohtajan ja toimitusjohtajan sijaisen (jäljempänä "johto") kelpoisuusehdoilla tarkoitetaan TVYL:n asettamia vaatimuksia. Kel- poisuudella tarkoitetaan myös hallintoelimiä kokonaisuutena koskevia kollegiaalisia kelpoisuus- vaatimuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66110: (2) TVYL 9 e §:ssä säädetään työeläkevakuutusyhtiön hallituksen jäsenten ja varajäsenten kelpoi- suudesta ja hyvämaineisuudesta. Toimitusjohtajan ja toimitusjohtajan sijaisen kelpoisuudesta ja hyvämaineisuudesta säädetään TVYL 11 §:ssä. Hallituksen jäsenten ja varajäsenten muutok- seen liittyvästä ilmoitusvelvollisuudesta säädetään TVYL 9 f §:ssä ja 9 g §:ssä. TVYL 11 §:n 4 momentissa säädetään ilmoitusvelvollisuudesta koskien toimitusjohtajaa ja toimitusjohtajan si- jaista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66111: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksia edella kohdassa 2 mainituista ilmoituk- sista perustuu TVYL 9 f §:n ja 11 §:n 4 momentin nojalla VYL 6 luvun 21 §:n 1 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66112: OHJE (kohdat 4-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66113: (4) Finanssivalvonta suosittaa, että myös hallintoneuvoston jäsenten muutoksista ilmoitetaan viipy- mättä Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66114: (5) Finanssivalvonnan tulkinnan mukaan työeläkevakuutusyhtio vastaa TVYL 9 g §:n ja 11 §:n 4 mo- mentin perusteella siitä, että hallituksen jäsenet ja varajäsenet sekā toimitusjohtaja ja toimitusjoh- tajan sijainen täyttävät valittaessa ja tehtävässä toimiessaan TVYL 9 e §:n ja 11 §:n mukaiset kel- poisuusehdot ja hyvämaineisuusedellytykset (niin sanottu Fit & Proper -kokonaisuus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66115: (6) Finanssivalvonta suosittaa, että kaikki johtoa koskevat kelpoisuusvaatimukset saatetaan etukä- teen ehdokkaita asettavien tahojen sekä nimityspäätöksen tekevän hallintoelimen tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66116: (7) Finanssivalvonta suosittaa, että asianmukaiset toimintamallit ja kirjalliset toimintaperiaatteet kaik- kien kelpoisuusvaatimusten täyttymisen varmistamiseksi sekä seuraamiseksi on varmistettu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66117: MÄÄRÄYS (kohdat 8-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66118: (8) Työeläkevakuutusyhtiön on tehtävä valintaa tai nimittämistä koskeva ilmoitus hallituksen jäsenen ja varajäsenen sekä toimitusjohtajan ja toimitusjohtajan sijaisen osalta viimeistään kaksi viikkoa ennen kuin henkilö aloittaa tehtävässään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66119: (9) Muutosta koskevasta ilmoituksesta tulee kayda ilmi henkilön yksilöinti- ja yhteystiedot sekä koti- paikka ja tehtävä, johon hanet on työelakevakuutusyhtiössä valittu, ja milloin hän aloittaa tai aloitti tehtävässään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66120: (10) Hallituksen jäsenen ja varajäsenen valintaa koskevaan ilmoitukseen tulee liittää toimitusjohtajan allekirjoittama vakuutus, jossa työelakevakuutusyhtio ilmoittaa selvittäneensä henkilon täyttävän Fit & Proper -kokonaisuuden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_66121: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66122: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66123: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66125: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66127: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66131: (11) Toimitusjohtajan ja toimitusjohtajan sijaisen nimittämista koskevaan ilmoitukseen tulee liittää halli- tuksen puheenjohtajan allekirjoittama vakuutus, jossa työeläkevakuutusyhtiö ilmoittaa selvittä- neensä henkilön täyttävän Fit & Proper -kokonaisuuden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66132: (12) Edella kohdassa 8 tarkoitettuun ilmoitukseen tulee liittää perustelut sille, miksi työeläkevakuutus- yhtiö katsoo henkilön täyttävän Fit & Proper -kokonaisuuden.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66133: OHJE (kohdat 13-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66134: (13) Edella kohdassa 8 mainitun henkilön uudelleenvalinnasta ei tarvitse antaa uutta ilmoitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66135: (14) Finanssivalvonnan tulkinnan mukaan henkilo ei ole TVYL 9 e §:n 2 momentin ja TVYL 11 §:n 2 momentin mukaisesti hyvämaineinen, mikäli:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66136: · hänet on tuomittu viimeisen viiden vuoden aikana vankeusrangaistukseen tai viimeisen kol- men vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton tehtävään tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66137: · hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton tehtä- vään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66138: (15) Finanssivalvonnan tulkinnan mukaan edella kohdan 14 ensimmaisessa alakohdassa tarkoitettu määräaika lasketaan valintaa tai nimittamista koskevassa tilanteessa tuomion lainvoimaiseksi tulosta tehtävässa aloittamishetkeen. Jos tuomio ei ole saanut lainvoimaa, tuomittu voisi kuitenkin jatkaa työeläkevakuutusyhtiön johtoon kuuluvan päätösvallan käyttämistä, jos sitä on hänen ai- kaisempi toimintansa, tuomioon johtaneet olosuhteet ja muut asiaan vaikuttavat seikat kokonai- suutena arvioiden pidettävä ilmeisen perusteltuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66139: (16) Finanssivalvonnan tulkinnan mukaan Finanssivalvonta voi TVYL 9 g §:n ja 11 §:n 4 momentin nojalla joko omasta aloitteestaan ilmoituksen saatuaan, tai yhtiön vaatimuksesta erikseen arvi- oida henkilon Fit & Proper -sopivuutta tehtäväänsä. Mikali kyseessa on edella kohdassa 14 tai 15 mainittu tilanne, tulisi yhtiön toimittaa arviointia varten kaikki tekoon, rangaistukseen ja asian muuhun arviointiin liittyvät tiedot sekä esittää ne perusteet, miksi henkilön voitaisiin kuitenkin kat- soa soveltuvan tehtäväänsä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_66140: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66141: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66142: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66144: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66146: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66147: ****************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66150: 6 Hyvä hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66151: (1) TVYL 4 luvussa säädetään työeläkevakuutusyhtioiden hallinnosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66152: (2) TVYL 9 d §:n 1 momentin mukaan hallintoneuvosto valvoo hallituksen ja toimitusjohtajan vas- tuulla olevaa yhtiön hallintoa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66153: (3) TVYL 9 f §:n nojalla hallitukseen ja sen jaseneen sovellettavan OYL 6 luvun 2 §:n 1 momentin mukaan hallitus huolehtii yhtiön hallinnosta ja sen toiminnan asianmukaisesta järjestämisestä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66154: (4) TVYL 11 §:n 4 momentin nojalla toimitusjohtajaan sovellettavan OYL 6 luvun 17 §:n 1 momentin mukaan toimitusjohtaja hoitaa yhtion juoksevaa hallintoa hallituksen antamien ohjeiden ja mää- räysten mukaisesti. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66155: (5) TVYL 9 a §:n 2 momentin mukaan työeläkevakuutusyhtiön hallituksen ja toimitusjohtajan on joh- dettava yhtiötä ammattitaitoisesti, terveiden ja varovaisten liikeperiaatteiden sekä luotettavaa hal- lintoa koskevien periaatteiden mukaisesti. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66156: (6) TVYL 12 b §:ssä säädetään työeläkevakuutusyhtioiden yleisista hallintovaatimuksista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66157: (7) Hallituksen esityksen 96/2014 mukaan1 työeläkevakuutusyhtiön hallintojärjestelmällä pyritään varmistamaan se, että yhtiötä johdetaan terveiden ja varovaisten liikeperiaatteiden mukaisesti ja että yhtiön toiminnassa noudatetaan näitä periaatteita. Esityksen mukaan hallintojärjestelmän avulla toteutetaan vastuiden jako yhtiön kaikilla organisaatiotasoilla, ja sen avulla seurataan yh- tiön johdon antamien ohjeiden noudattamista yhtiön toiminnassa. Esityksen mukaan lopullinen vastuu hallintojärjestelmästä on työeläkevakuutusyhtiön hallituksella. (Annettu 22.11.2023, voi- maan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66158: (8) Hallituksen esityksen 96/2014 mukaan2 selkeän ja toimivan hallintojärjestelmän toteuttaminen edellyttää, että yhtiössä organisaatiorakenteeseen sisältyvät valta-, vastuu- ja raportointisuhteet on määritelty, jaettu ja erotettu toisistaan ja että tiedonkulku on esteetöntä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66159: (9) TVYL 12 b §:n 1 momentin mukaan työeläkevakuutusyhtiöllä on oltava yhtiön toiminnan laatuun ja laajuuteen nähden riittävä ja toimiva hallintojärjestelmä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66160: (10) Hallituksen esityksen 96/2014 mukaan työeläkevakuutusyhtiöiden kohdalla toiminnan laadun ja laajuuden arvioinnissa korostuvat toimintaan liittyvien riskien luonne ja suuruus sekä vakavarai- suuteen liittyvät vaatimukset. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66161: OHJE (kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66162: (11) Finanssivalvonnan tulkinnan mukaan TVYL 12 b §:ssä tarkoitetun hallintojärjestelmän tulee täyt- tää ainakin seuraavat vaatimukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66163: · Työeläkevakuutusyhtiöllä on keskeisten toimintojen osalta kirjalliset toimintaperiaatteet sekä selkeät määrälliset ja laadulliset tavoitteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66164: 1 Hallituksen esitys 96/2014 s. 6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66165: 2 Hallituksen esitys 96/2014 s. 12.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_66166: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66167: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66168: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66170: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66172: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66175: · Tavoitteiden määrittelyssä otetaan huomioon myös terveet ja varovaiset liikeperiaatteet. Erityi- sesti vakuutettujen ja vakuutuksenottajien oikeudet ja edut otetaan huomioon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66176: · Toimintaperiaatteet ja tavoitteet saatetaan koko henkilöstön tietoon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66177: · Hallitus voi tehokkaasti ja riippumattomasti valvoa toimitusjohtajaa ja muuta toimivaa johtoa sekä muuta organisaatiota.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66178: · Hallitus laatii toimintaansa varten kirjallisen työjärjestyksen, jossa on määritelty hallituksen keskeiset tehtävät ja toimintaperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66179: 6.1 Hallintoneuvoston valvontatehtävä (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66180: OHJE (kohdat 12-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66181: (12) Finanssivalvonnan tulkinnan mukaan TVYL 9 d §:n 1 momentissa tarkoitettuun hallintoneuvoston valvontatehtävään sisältyy myös sen valvominen, että hallitus ja toimitusjohtaja hoitavat tehtävi- ään sääntelyn mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66182: (13) Finanssivalvonta suosittaa, että hallintoneuvoston toteuttama valvonta on jatkuvaa, valvonnan toteutustapa vastaa kaikissa olosuhteissa yhtiön tilannetta ja että hallintoneuvosto kiinnittää val- vonnassa huomiota etenkin yhtiön toiminnan kannalta keskeisiin asioihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66183: (14) Finanssivalvonta suosittaa, että hallintoneuvosto varmistuu riittavästi ainakin siitä,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66184: · että hallitus ja toimitusjohtaja johtavat yhtiötä sääntelyn ja hyväa hallintoa koskevien periaattei- den mukaisesti työeläkevakuutusyhtiön toiminnan tarkoituksen kanssa yhteensopivalla tavalla ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66185: · että yhtiön sisäiset valvonta-, riskienhallinta- ja raportointitoiminnot on järjestetty asianmukai- sesti ja niilla on riittava kyky tunnistaa yhtion toimintaan liittyvat riskit ja reagoida niihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66186: (15) Finanssivalvonta suosittaa, että valvontatehtavaa varten hallintoneuvostolle toimitetaan muun sen tarpeelliseksi katsoman materiaalin lisäksi TVYL 12 b §:ssä tarkoitetut kirjalliset toimintaperi- aatteet yhtiön sisäisestä valvonnasta, riskienhallintajärjestelmästä, sisäisen tarkastuksen järjestä- misestä ja palkitsemisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_66187: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66188: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66189: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66191: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66194: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66197: 7 Sisäinen valvonta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66198: 7.1 Sisäisen valvonnan merkitys ja vastuu sen järjestämisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66199: (1) TVYL 12 d §:ssä säädetään työeläkevakuutusyhtioiden sisäisestä valvonnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66200: (2) TVYL 12 b §:n 1 momentin mukaan työeläkevakuutusyhtiöllä on oltava hallituksen hyväksymät kirjalliset toimintaperiaatteet yhtion sisaisesta valvonnasta. TVYL 12 b §:n 2 momentin mukaan yhtiön hallituksen on säännöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66201: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämisestä pe- rustuu TVYL 12 j §:ään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66202: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66203: (4) Finanssivalvonnan tulkinnan mukaan TVYL 12 d §:n mukaisen sisaisen valvonnan tarkoituksena on varmistaa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66204: · toiminnan taloudellisuus, tehokkuus ja tuloksellisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66205: · asetettujen päämäärien ja tavoitteiden saavuttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66206: · lakien, määräysten, toimintaperiaatteiden, hallintoelinten päätösten, sisäisten suunnitelmien, sääntöjen ja menettelytapojen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66207: · toimintaan liittyvien riskien hallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66208: · raportoinnin sekä muun johtamisinformaation luotettavuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66209: MÄÄRÄYS (kohdat 5-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66210: (5) Työeläkevakuutusyhtiön hallitus vastaa sisäisen valvonnan järjestämisestä ja organisoinnista kai- kille organisaatio- ja toimintotasoille. Hallituksen tulee määrittää sisältö sisäiselle valvonnalle. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66211: (6) Konsernin emoyrityksenä toimivan työeläkevakuutusyhtiön hallituksen tulee hyväksyä konsernin sisäisen valvonnan toimintaperiaatteet. Emoyrityksen hallituksen vastuu ei poista tytäryhtiöiden hallitusten vastuuta. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66212: (7) Työeläkevakuutusyhtiön hallitus vastaa siitä, että sisäisen valvonnan toimintaperiaatteita nouda- tetaan yhtiössä ja ulkoistettujen palvelujen osalta ja että 6 kohdassa tarkoitettuja toimintaperiaat- teita noudatetaan vastaavasti konsernissa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66213: (8) Työeläkevakuutusyhtiön hallituksen on vuosittain arvioitava, onko sisäinen valvonta asianmukai- sesti järjestetty, mukaan lukien henkilöstön ja muiden resurssien riittävyys, ja tarvittaessa ryhdyt- tava korjaaviin toimenpiteisiin. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_66214: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66215: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66216: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66218: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66220: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66224: 7.2 Sisäisen valvonnan järjestäminen ja toimivuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66225: MÄÄRÄYS (kohdat 9-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66226: (9) Työeläkevakuutusyhtiön organisaatiossa tehtävät, päätösvalta ja vastuut tulee jakaa asianmukai- sesti ja raportointisuhteet määritellä selkeästi. Organisaatiorakenteen tulee tukea tehokkaan si- säisen valvonnan järjestämistä. Yhtiön koko henkilöstön tulee tuntea oma tehtävänsä sisäisen valvonnan toteuttamisessa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66227: (10) Työnjaot ja tehtävänkuvat tulee organisaatiossa määritellä siten, ettei kukaan yksin ilman asian- mukaista valvontaa hoida vaikutukseltaan merkittäväa toimenpidettä läpi koko käsittelyketjun. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66228: (11) Työeläkevakuutusyhtiön kaikissa toiminnoissa ja kaikilla organisaatiotasoilla on oltava toimiva ja tehokas sisäinen valvonta. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66229: (12) Sisäisen valvonnan järjestämisessä on otettava huomioon yhtiön toiminnan laatu ja laajuus sekä organisaatiorakenne, ja sisäinen valvonta tulee järjestää riittäväksi suhteessa kunkin toiminnon riskeihin. Laatua ja laajuutta arvioitaessa tulee ottaa huomioon työeläkevakuutustoiminnan sosi- aaliturva- ja työeläkevarojen yhteiskunnallinen luonne, toiminnan riippumattomuus ja itsenäisyys sekä vakavaraisuuteen ja varojenkäytön valvontaan liittyvät vaatimukset. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66230: (13) Sisäisestä valvonnasta vastaavien henkilöiden tehtävät tulee perustaa sopivalle organisaatiota- solle, joka mahdollistaa henkilöille asianmukaisen toimivallan ja painoarvon tehtäviensä hoitami- seen. Henkilöillä on oltava tehtävien vaatima yhtiön toiminnan ja riskien ja yhtiötä koskevan sään- telyn tuntemus ja ammatillinen kokemus tehtäviinsä kuuluvien asioiden tuloksellisesta hoitami- sesta. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66231: (14) Sisäiseen valvontaan tulee olla käytettävissä riittävä määrä pätevää henkilöstöä. Sisäistä valvon- taa hoitavilla henkilöilla tulee olla käytettävissä asianmukaiset tietojärjestelmät ja muut resurssit sekä pääsy tehtävissa tarvittaviin sisäisiin ja ulkoisiin tietoihin. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66232: OHJE (kohta 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66233: (15) Finanssivalvonta suosittaa, että sisäisen valvonnan valvontatoimenpiteisiin kuuluvat esimerkiksi johdolle tehtävät selonteot ja raportit, tulos- ja poikkeamaraportit mukaan lukien riskirajojen nou- dattamisen valvonta, fyysiset valvontatoimenpiteet, omaisuuden inventoinnit, hyväksymis- ja val- tuutusjärjestelmä, varmistukset ja täsmäytykset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66234: MÄÄRÄYS (kohdat 16-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66235: (16) Sisäisen valvonnan valvontatoimenpiteiden ja niiden perusteella laadittujen raporttien tulee olla osa valvottavan jatkuvaa toimintakulttuuria. Sisaisen valvonnan toimivuutta on seurattava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66236: (17) Sisäisen valvonnan asianmukaiseksi järjestämiseksi ja toimivuuden seuraamiseksi sisäisen val- vonnan valvontatoimenpiteet on dokumentoitava riittävällä tavalla. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_66237: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66238: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66239: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66241: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66243: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66247: (18) Toiminnan jatkuvuuden varmistamisen ja varojen turvaamisen näkökulmasta työeläkevakuutus- yhtion tulee kiinnittää erityistä huomiota tieto- ja muuta turvallisuutta koskevien valvontatoimien riittävyyteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66248: 7.3 Raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66249: MÄÄRÄYS (kohdat 19-23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66250: (19) Sisäisen valvonnan raportoinnin on oltava selkeää, luotettavaa, oikea-aikaista ja tulevaisuuden huomioonottavaa. Tulosta ja olennaisia riskejä koskevan raportoinnin tulee olla riippumaton ra- portoitavasta toiminnosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66251: (20) Raportointi on järjestettävä siten, että hallintoelimet saavat tiedon olennaisista sisäisen valvonnan havainnoista sekä tilintarkastajien ja viranomaisten työeläkevakuutusyhtiölle toimittamista tarkas- tushavainnoista. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66252: (21) Sisäisen valvonnan kirjallisen raportoinnin on oltava säännöllistä. Raportit on säilytettävä luotetta- valla tavalla. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66253: (22) Sisäisen valvonnan toimintojen on voitava raportoida havainnoistaan hallintoelimille riittavän ai- kaisin siten, että hallintoelimet voivat ilman turhaa viivästystä ryhtya toimiin mahdollisten havaittu- jen epäkohtien poistamiseksi. Säännönmukaisen raportoinnin lisäksi sisäisen valvonnan toiminto- jen on voitava raportoida havainnoistaan tarvittaessa suoraan hallitukselle. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66254: (23) Sisäisen valvonnan toimintojen on järjestettävä niille suoritettava raportointi siten, että se tukee sisäisen valvonnan toimivaa ja tehokasta järjestämistä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_66255: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66256: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66257: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66259: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66266: 8 Compliance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66267: (1) TVYL 12 d §:n 2 momentin mukaan sisäiseen valvontaan kuuluu säännösten noudattamista val- vova toiminto (compliance-toiminto). Toiminnon on myös arvioitava säännösten noudattamisessa mahdollisesti esiintyneiden puutteiden estämiseksi ja korjaamiseksi yhtiössä tehtyjen toimenpitei- den riittävyyttä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66268: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä sisäisen valvonnan järjestämisestä pe- rustuu TVYL 12 j §:ään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66269: 8.1 Toiminnon järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66270: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66271: (3) Finanssivalvonnan tulkinnan mukaan OYL 6 luvun 2 §:n 1 momentissa säädetty hallituksen vel- vollisuus huolehtia yhtiön hallinnon ja sen toiminnan asianmukaisesta järjestämisestä tarkoittaa, että hallituksella on velvollisuus luoda yhtiön toiminnan kannalta tarpeellinen organisaatio ja var- mistaa sen toiminta sekä ryhty tarvittaviin korjaaviin toimenpiteisiin, jos säännösten vastaista tai muutoin virheellista toimintaa on havaittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66272: (4) Hallituksen esityksen 96/2014 mukaan3 työeläkevakuutusyhtiö voi järjestää compliance-toimin- non toimintansa laatuun ja laajuuteen nähden soveltuvalla tavalla. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66273: (5) Hallituksen esityksen 96/2014 mukaan compliance-toiminnon tehtävät on mahdollista yhdistää muihin toimintoihin tai tehtävät voidaan tarvittaessa ulkoistaa. Toimintoa ei kuitenkaan voida yh- distää sisäisen tarkastuksen toimintoon, koska sisäinen tarkastus arvioi sisäisen valvonnan riittä- vyyttä ja asianmukaisuutta. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66274: MÄÄRÄYS (kohdat 6-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66275: (6) Compliance-toiminnon yhdistäminen muihin toimintoihin tai ulkoistaminen ei saa vaarantaa comp- liance-toiminnan riippumattomuutta ja tehokkuutta. Yhdistämisessä ja ulkoistamisessa on kiinni- tettävä erityistä huomiota compliance-toiminnon itsenäiseen asemaan ja suoraan yhteyteen toimi- vaan johtoon. Toiminnon valitun järjestämistavan riskit tulee tunnistaa ja ottaa huomioon työelä- kevakuutusyhtiön toiminnan valvonnassa. Yhdistämisen ja ulkoistamisen perustelut on dokumen- toitava. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66276: (7) Compliance-toiminnon organisoinnin, ohjeiden ja menettelyjen on oltava riittävät riippumattoman compliance-toiminnan varmistamiseksi yhtiön toiminnassa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66277: (8) Compliance-toiminnon tulee toimia säännöllisessä yhteistyössä hallintoelinten, toimivan johdon, lakiasioiden, muun raportoinnin, liiketoiminnan sekä sisäisen ja ulkoisen tarkastuksen kanssa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66278: 3 Hallituksen esitys 96/2014 s. 14.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_66279: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66280: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66281: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66283: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66285: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66288: 8.2 Toiminnon tarkoitus ja tehtävia
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66289: OHJE (kohdat 9-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66290: (9) Compliance-toiminnon tarkoituksena on valvoa yhtion toiminnan lainmukaisuutta ja toimintaan liittyvien muiden ulkoisten ja sisäisten sääntöjen noudattamista. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66291: (10) Compliance-toiminto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66292: · ennaltaehkäisee oikeudellisten riskien ja ei-toivottujen liiketoimintamallien toteutumista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66293: · tukee hallitusta luotettavan hallinnon järjestämisessä, toimii hallituksen tietokanavana yhtiön menettelytavoista, ja auttaa hallitusta tarvittaessa puuttumaan oikeudellisiin riskeihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66294: · toimii kilpailutekijana ja liiketoiminnan tukena vähentämälla sääntöjen rikkomisesta aiheutuvia riskeja ja edistämälla yhtion arvojen noudattamista ja yhtiön toiminnan tehokkuutta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66295: (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66296: MÄÄRÄYS (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66297: (11) Tehokkuuden ja tuloksellisuuden varmistamiseksi compliance-toiminnan on oltava riskiperus- teista. Compliance-toiminnon toimenpiteet tulee kohdentaa ensi sijassa työeläkevakuutusyhtiön toimintaa koskevan riskiarvion perusteella. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66298: (12) Compliance-toiminnon on laadittava toimintaansa varten toimintaperiaatteet ja -suunnitelma. Toi- mintaperiaatteissa tulee määritellä toiminnon vastuut, pätevyysvaatimukset ja raportointivelvolli- suudet. Raportointivelvollisuuksien tulee sisältää toiminnon oma raportointi ja toiminnolle suoritet- tava raportointi. Toimintasuunnitelmasta tulee käydä ilmi yhtiön toiminnan eri osa-alueille riskipe- rusteisesti suunnitellut toimenpiteet. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66299: OHJE (kohdat 13-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66300: (13) Finanssivalvonta suosittaa, että compliance-toiminnolle kuuluu ainakin seuraavia neuvonta- ja valvontatehtäviä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66301: · Toiminto kouluttaa ja neuvoo yhtiön henkilöstöä parhaisiin menettelytapoihin, mukaan lukien compliance-toimintaa koskevat menettelytavat, sekä laatii säännösten noudattamiseen liitty- vää yhtiötasoista ohjeistusta. Toiminto ylläpitää tai on mukana ylläpitämässä ainakin eettisiä ohjeita, eturistiriitatilanteita koskevia ohjeita ja lahjonnan vastaisia ohjeita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66302: · Toiminto arvioi säännöllisesti, onko yhtiön henkilöstö riittävän tietoinen ohjeista ja menettelyta- voista sekä säännösten noudattamiseen liittyvistä vastuista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66303: · Toiminto varmistaa osaltaan, että yhtiön eri toiminnoissa seurataan säännösmuutoksia, tiedo- tetaan niista ja ohjeistetaan muutoksista aiheutuvista toiminnan muutostarpeista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66304: · Toiminto on osaltaan mukana uusien tuotteiden ja toimintatapojen hyväksymisessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66305: · Toiminto arvioi, onko yhtiön organisaatio lain ja muiden sääntöjen noudattamisen kannalta toi- miva ja tarkoituksenmukainen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66306: · Toiminto tunnistaa ja arvioi ennakkoon saannosten noudattamattomuuteen liittyvia haitallisia seuraamuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_66307: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66308: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66309: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66311: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66313: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66316: · Toiminto avustaa hallitusta aktiivisesti. Hyväna kaytantona toiminto esimerkiksi ennen hallituk- sen kokousta saattaa hallituksen sihteerin tietoon kokouksessa käsiteltäviin asioihin liittyvät havaintonsa, joilla saattaa olla merkitystä hallituksen päätöksenteossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66317: (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66318: (14) Finanssivalvonta suosittaa, että compliance-toiminto käyttää niin ennakoivissa kuin jälkikateisissä valvontatoimissaan tarkoituksenmukaisia valvontavälineitä. Näitä voivat olla ainakin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66319: · erilaiset riski-indikaattorit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66320: · sellaisten raporttien laatiminen, joilla varmistetaan johdon huomio ja joissa dokumentoidaan odotusten ja toteutuneiden tapahtumien väliset poikkeamat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66321: · vakuutus-, korvaus- ja sijoitustoiminnan seka muiden yhtion kannalta merkittävien toimintojen tarkkailu, asiakirjojen läpikaynti, haastattelut ja tarkastukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66322: (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66323: 8.3 Raportointi (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66324: MÄÄRÄYS (kohdat 15-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66326: Compliance-toiminnon on raportoitava ainakin yhtiön hallitukselle ja toimitusjohtajalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66328: Raportoinnin tulee kattaa yhtiön toiminta. Raportointiin tulee sisällyttää ainakin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66329: · arvio säännösten ja ohjeiden noudattamisen nykytilasta ja tehokkuudesta toiminnoittain
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66330: · yhtiön toiminnan kannalta merkittävät havainnot ja riskit sekä niihin liittyvät compliance-suosi- tukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66331: · havaittujen riskien ja puutteiden perusteella laaditut korjaavat toimenpide-ehdotukset sekä eh- dotuksia koskeva aikataulu asioiden saattamiseksi säännösten ja ohjeiden mukaisiksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66332: · sääntelyssä tapahtuneet ja tulevat merkittävät muutokset sekä toimenpiteet, joita on toteutettu tai toteutetaan muutosten noudattamisen varmistamiseksi, ellei näitä asioita raportoida muu- ten esimerkiksi yhtiön lakiasioiden toimesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66333: · seuranta yhtiössä tehdyistä ja yhä tekemättömistä korjaavista toimenpiteistä ja niiden riittävyy- destä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_66334: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66335: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66336: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66338: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66340: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66343: 9 Sisäinen tarkastus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66344: (1) TVYL 12 e §:ssä säädetään työeläkevakuutusyhtiön sisäisestä tarkastuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66345: (2) TVYL 12 b §:n 1 momentin mukaan työeläkevakuutusyhtiöllä on oltava hallituksen hyväksymät kirjalliset toimintaperiaatteet sisaisen tarkastuksen järjestämisestä. TVYL 12 b §:n 2 momentin mukaan yhtiön hallituksen on säännöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66346: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksia sisaisen valvonnan järjestämisestä pe- rustuu TVYL 12 j §:ään. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66347: OHJE (kohdat 4-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66348: (4) Finanssivalvonnan tulkinnan mukaan OYL 6 luvun 2 §:n 1 momentissa saadetty hallituksen vel- vollisuus huolehtia yhtiön hallinnon ja sen toiminnan asianmukaisesta järjestämisestä tarkoittaa seuraavaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66349: · Hallituksen tulee hyväksyä sisäisen tarkastuksen vuosittainen tarkastussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66350: · Hallituksen on järjestettävä sisäisen tarkastuksen organisaatioasema ja toimivalta selkeiksi sekä varmistettava yhtiön toimintojen riippumaton ja objektiivinen tarkastus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66351: · Sisäisen tarkastuksen johtoa ja valvontaa ei saa ulkoistaa. Muita sisäisen tarkastuksen palve- luja voidaan ostaa ulkopuolisilta palveluntuottajilta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66352: (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66353: (5) Finanssivalvonnan tulkinnan mukaan TVYL 12 e §:n 2 momentissa tarkoitettu sisaisen tarkastuk- sen riippumattomuus yhtiön operatiivisesta toiminnasta tarkoittaa, että sisäisen tarkastuksen on oltava riippumaton tarkastettavista toiminnoista ja tilintarkastuksesta. (Annettu 22.11.2023, voi- maan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66354: MÄÄRÄYS (kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66355: (6) Sisäisen tarkastuksen tarkastussuunnitelma on laadittava sisäisen tarkastuksen valvontatavoittei- den perusteella ja riskiperusteista lähestymistapaa noudattaen. Suunnitelmasta tulee käydä ilmi yhtiön toiminnan eri osa-alueille suunnitellut toimenpiteet. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_66356: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66357: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66358: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66360: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66362: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66365: 10 Riskienhallinta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66366: 10.1 Sisältö, organisointi ja huomioon otettavat riskit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66367: (1) TVYL 12 c §:ssä säädetään työeläkevakuutusyhtiön riskienhallinnasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66368: (2) TVYL 12 b §:n 1 momentin mukaan työeläkevakuutusyhtiöllä on oltava hallituksen hyväksymät kirjalliset toimintaperiaatteet yhtiön riskienhallintajärjestelmästä. TVYL 12 b §:n 2 momentin mu- kaan yhtiön hallituksen on saannöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66369: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksiä riskienhallinnan järjestāmisestā perustuu TVYL 12 j §:ään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66370: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66371: (4) Finanssivalvonnan tulkinnan mukaan TVYL 12 c §:ssä mainittu riskienhallinta tarkoittaa strategi- oita, prosesseja ja raportointimenettelyja, joilla yhtiöön kohdistuvia, sen liiketoiminnasta aiheutu- via ja liiketoimintaan oleellisesti liittyvia riskejä tunnistetaan, valvotaan, mitataan, seurataan ja hallitaan. Riskienhallintaan kuuluvat Finanssivalvonnan tulkinnan mukaan myös ne ehkäisevät toimenpiteet, jotka riskien tunnistamisen, raportoinnin ja arvioinnin johdosta on kulloinkin päätetty.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66372: MÄÄRÄYS (kohdat 5-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66373: (5) Riskienhallinnassa on otettava huomioon kaikki olennaiset yhtiön toimintaan vaikuttavat sisäiset ja ulkoiset sekä ulkoistettujen toimintojen riskit. Riskienhallinnassa tulee tarkastella yksittäisiä ris- keja ja yksittäisten riskien yhteisvaikutuksia yhtiön toiminnassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66374: (6) Hallitus vastaa siitä, että yhtiön riskienhallinta on riittävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66375: (7) Riskienhallinta on sisällytettävä toimivaksi osaksi yhtiön organisaatiorakennetta ja päätöksenteko- prosesseja. Yhtiön organisaatiorakenteen ja päätöksentekoprosessien on tuettava tehokasta ris- kienhallintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66376: (8) Hallituksen tulee hyväksyä kaikki merkittävät riskienhallintaa koskevat periaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66377: (9) Yhtiön riskienhallintatoiminnon on seurattava, että riskit tulevat yhtiössä asianmukaisesti ja anne- tun ohjeistuksen mukaisesti tunnistetuiksi, valvotuiksi, mitatuiksi, seuratuiksi, raportoiduiksi ja hal- lituiksi. Tarvittaessa sen tulee myös ylläpitää, kehittää ja valmistella riskienhallinnan periaatteita hallituksen vahvistettaviksi sekä laatia menetelmiä käytettäväksi riskien arvioimisessa ja mittaa- misessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66378: (10) Riskienhallintatoiminnon on oltava toiminnallisesti riippumaton riskiä ottavista toiminnoista ja ra- kenteeltaan sellainen, että se helpottaa riskienhallinnan täytäntöönpanoa. Yhtiö voi muuten va- paasti päättää riskienhallintaorganisaation käytännön toteutuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66379: (11) Yhtiöllä tulee olla riskienhallintaan tarvittavat menetelmät. Määrällisten mittausmenetelmien li- säksi myös laadullisia riskejä varten on oltava tarvittavat arviointimenetelmät.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66380: (12) Menetelmien avulla yhtiön on jatkuvasti tunnistettava riittavän kattavasti kaikki riskienhallinnassa huomioon otettavat riskit. Yhtiön on voitava kohtuudella varmistua siitä, että kaikki asetettujen tavoitteiden saavuttamiseen olennaisesti vaikuttavat riskit on tunnistettu ja saatettu hallituksen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_66381: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66382: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66383: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66385: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66387: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66390: käsiteltäviksi. Riskien vaikutusten merkittävyys ja toteutumisen todennäköisyys on arvioitava, ja niiden hallitsemiseksi on kehitettävä asianmukaiset menettelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66391: OHJE (kohdat 13-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66392: (13) TVYL 12 c §:n 2 momentin 4 kohdassa tarkoitetulla keskittymäriskilla tarkoitetaan hallituksen esi- tyksen 96/2014 mukaan4 erityisesti riskiä, joka syntyy useista eri tekijöistä, jotka eivät yksinään aiheuta riskia mutta kohdistuessaan samaan kohteeseen muodostavat keskittymäriskin, tai joka syntyy, jos yhtiön yksittäinen riski muodostaa huomattavan osan vastaavanlaisten riskien yhteis- määrästä, jolloin yhtiölla on normaalia suurempi riski tästä yksittäisestä kohteesta. Tallaisia voivat olla esimerkiksi luotto- ja sijoitusriskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66393: (14) Laissa tarkoitetut operatiiviset riskit liittyvät hallituksen esityksen 96/2014 mukaan yhtiön sisäisiin prosesseihin, henkilöstöön, eri järjestelmiin sekä yhtiötä koskettaviin ulkoisiin tapahtumiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66394: (15) Työeläkevakuutusyhtiöihin sovellettavassa VYL 6 luvun 13 §:ssä säädetään asiakkaiden tuntemi- sesta ja siihen liittyvistä riskienhallintajärjestelmistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66395: 10.2 Riskienhallintajärjestelmän toimintaperiaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66396: MÄÄRÄYS (kohdat 16-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66397: (16) Hallituksen on vuosittain hyväksyttävä yhtiön koko toiminnan kattavat kirjalliset toimintaperiaatteet riskienhallintajärjestelmästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66398: (17) Riskienhallintajärjestelmän toimintaperiaatteissa tulee määritellä yhtiön merkittävimmät riskit, mit- tarit, riskinoton rajat, riskienhallinnan tavoitteet, riskinhallintatoimenpiteet, vastuut ja valvontaperi- aatteet. Lisäksi riskienhallinta tulee sisällyttää tarkoituksenmukaisesti yhtiön toimintojen suunnit- teluun laatimalla esimerkiksi keskeisille toiminnoille tai prosesseille erilliset riskienhallinnan toi- mintaperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66399: (18) Riskienhallintajärjestelmän toimintaperiaatteissa riskinoton rajoja määritettäessä tulee ottaa huo- mioon yhtiön riskinotto- ja riskinkantokyky. Lisäksi on määriteltävä, kuka vastaa riskinotosta, mi- ten riskiä mitataan ja seurataan sekä miten riskin pysymista hyväksyttävissä rajoissa valvotaan. Riskienhallintajärjestelmän toimintaperiaatteissa on otettava huomioon myös ulkoistetut toimin- not.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66400: (19) Riskienhallintajärjestelmän toimintaperiaatteista on käytävä ilmi, miten riskeistä raportoidaan. Ris- kienhallintajärjestelmän toimintaperiaatteiden mukaisesta riskienhallinnan kokonaistilanteesta tu- lee raportoida vähintään vuosittain yhtiön hallitukselle. Toimintaperiaatteiden mukaisten riskira- porttien tulee olla osa kunkin liiketoiminnan prosesseja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66401: 4 Hallituksen esitys 96/2014 s. 13.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_66402: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66403: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66404: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66406: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66408: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66411: 11 Toiminnan häirioistä ja virheistä ilmoittaminen (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66412: (1) TVYL 12 c §:n 2 momentin mukaan työeläkevakuutusyhtiön riskienhallinnan on katettava operatii- visten riskien hallinta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66413: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksia riskienhallintaa koskevien tietojen sään- nöllisesta toimittamisesta ja toimittamistavasta perustuu FivaL 18 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66414: 11.1 Ilmoitus toiminnan hairioista ja virheista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66415: OHJE (kohdat 3-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66416: (3) Finanssivalvonta suosittaa, että työeläkevakuutusyhtio ilmoittaa Finanssivalvonnalle asiakkaille tarjotuissa palveluissa seka maksu- ja tietojärjestelmissā esiintyneistā merkittāvista hairioistä ja virheista viipymättä niiden ilmaannuttua. Merkittäväna hairionā tulisi pitää pitkäaikaista palvelukat- koa (esimerkiksi vakuutusten tai eläkkeiden hoidossa tai eläkkeiden maksussa) tai useisiin asiak- kaisiin vaikuttavaa merkittävää hairiötä. Finanssivalvonnalle tulisi ilmoittaa viipymättä myös sellai- set hairiöt ja virheet, jotka haittaavat tai vaarantavat yhtiön kykya jatkaa toimintaansa tai vastata velvoitteistaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66417: (4) Finanssivalvonta suosittaa, että ilmoitus tehdään ainakin seuraaviin ryhmiin kuuluvista hairiöistä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66418: · murtautuminen tietojärjestelmään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66419: · haittaohjelman levittäminen tietojärjestelmään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66420: · tietojen paljastuminen asiattomille
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66421: · tietoturvaloukkaus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66422: (5) Finanssivalvonta suosittaa, että ilmoitus tehdään myös seuraavista hairioista, jos ne vaikuttavat merkittävästi asiakkaiden palveluiden saatavuuteen tai käytettävyyteen:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66423: · palvelunestohyökkäys
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66424: · ohjelmistovirhe
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66425: · tietoliikennehäiriö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66426: · käyttökatkos
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66427: · laiterikko.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66428: (6) Finanssivalvonta suosittaa, että asiakastietojen paljastumisesta ulkopuoliselle ilmoitetaan Finans- sivalvonnalle vain, jos asiasta ilmoitetaan myös tietosuojavaltuutetulle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66429: (7) Finanssivalvonta suosittaa, että työeläkevakuutusyhtio tekee Finanssivalvonnalle täydentävän ilmoituksen häiriön tarkemmista yksityiskohdista mahdollisimman pian ensimmäisen ilmoituksen tekemisen jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66430: (8) Finanssivalvonta suosittaa, että edella tässä luvussa tarkoitetut ilmoitukset tehdään Finanssival- vonnan verkkosivuilla saatavilla olevalla lomakkeella verkkosivuilla olevan ohjeen mukaisesti. Kohdassa 6 tarkoitetun ilmoituksen työeläkevakuutusyhtiö voi kuitenkin halutessaan tehdä ohjetta noudattaen samalla ilmoituksella, jonka yhtio lähettäa tietosuojavaltuutetulle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_66431: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66432: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66433: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66435: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66437: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66440: 11.2 Vuosi-ilmoitus operatiivisen riskin aiheuttamista tappioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66441: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66442: (9) Finanssivalvonnalle toimitettava vuosi-ilmoitus operatiivisesta riskistä aiheutuneista tappioista tehdään työeläkevakuutusyhtiön sisäisen tappiotietoja koskevan raportoinnin pohjalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66443: MÄÄRÄYS (kohdat 10-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66444: (10) Työeläkevakuutusyhtiön tulee tehdä Finanssivalvonnalle edellisenä kalenterivuonna havaituista operatiivisen riskin aiheuttamista tappioista vuosi-ilmoitus, joka tulee toimittaa Finanssivalvon- nalle 28.2. mennessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66445: (11) Vuosi-ilmoitus tulee tehdä kalenterivuoden aikana ilmenneistä euromäärältään viidestä suurim- masta operatiivisen riskin vahinkotapahtumasta. Ilmoitusta ei kuitenkaan tarvitse tehdä alle kym- menentuhannen (10 000) euron vahingoista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66446: (12) Vuosi-ilmoituksen tulee sisältää ainakin seuraavat tiedot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66447: · kuvaus tapahtumasta ja vahingon tyyppi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66448: · selvitys toimenpiteistä, joihin tapahtuman johdosta on ryhdytty,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66449: · selvitys arvioidusta tappion määrästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66450: (13) Vuosi-ilmoitus tehdään Finanssivalvonnan verkkosivuilla saatavilla olevalla lomakkeella verkkosi- vuilla olevan ohjeen mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_66451: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66452: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66453: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66455: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66457: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66460: 12 Palkitseminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66461: (1) TVYL 12 f §:ssä säädetään työeläkevakuutusyhtiön palkitsemisjärjestelmästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66462: (2) TVYL 12 b §:n 1 momentin mukaan työeläkevakuutusyhtiöllä on oltava hallituksen hyväksymät kirjalliset toimintaperiaatteet palkitsemisesta. TVYL 12 b §:n 2 momentin mukaan yhtiön hallituk- sen on säännöllisesti arvioitava kirjallisia toimintaperiaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66463: (3) Tässä luvussa palkkiopolitiikalla tarkoitetaan kaikkia yhtiössä noudatettavia palkka- ja palkkiojär- jestelmia mukaan lukien työ- ja johtajasopimuksen päättämiseen liittyvät korvausperiaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66464: 12.1 Hallintoneuvoston ja hallituksen vastuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66465: OHJE (kohdat 4-5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66466: (4) Finanssivalvonta suosittaa, että yhtiölla on hallituksen jäsenista koostuva palkitsemisvaliokunta, joka keskittyy palkitsemisen toimintaperiaatteiden ja niiden osana palkkiopolitiikan valmisteluun ja toimivuuden varmistamiseen. Valiokunnan tulisi mahdollisia riippumattomia asiantuntijoita kuultu- aan laatia palkitsemisen toimintaperiaatteet, palkkiopolitiikka sekä tarvittavat muutosesitykset nii- den rakenteeseen ja vastata siitä, että ne vastaavat yhtiössä ja sääntelyssä tapahtuneita muutok- sia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66467: (5) Finanssivalvonta suosittaa, että hallitus vahvistaa yhtiön palkkiopolitiikan osana palkitsemisen kirjallisia toimintaperiaatteita seka seuraa ja valvoo niiden taytantoonpanoa. Hallintoneuvoston tulisi seurata ja valvoa TVYL 9 d §:n 1 momentin nojalla vahvistamiensa hallituksen jäsenten palkkioiden kehitystä. Hallituksen tulisi arvioida palkkiopolitiikan toimivuutta ja rakennetta aika- ajoin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66468: 12.2 Muuttuvan (tulospohjaisen) palkitsemisen periaatteet OHJE (kohdat 6-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66469: (6) Yhtiön palkkaus voi koostua kiinteästä ja muuttuvasta palkitsemisesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66470: (7) Kun kyseessä on muuttuva palkitseminen, Finanssivalvonta suosittaa, että muuttuva palkanosa perustuu arvioon henkilön ja toiminnon suoriutumisesta sekä yhtiön kokonaistuloksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66471: (8) Finanssivalvonta suosittaa, että suorituksen arviointi perustuu pidemmän aikavälin (so. useam- man vuoden) tuloksiin, jotta voidaan varmistua tulospohjaisen palkitsemisen ottavan huomioon yhtiön strategiset tavoitteet ja myös sellaiset palkitsemisen lakimääräiset edellytykset kuin toimin- nan tarkoitus sosiaaliturvaan kuuluvan lakisääteisen eläkevakuutusliikkeen harjoittajana. Eläke- vakuutusliikkeen toimeenpanoon olennaisesti kuuluvan asiakaspalvelusuorituksen laadun mittaa- misessa saattaa usean vuoden tulosta lyhempi ajanjakso olla kuitenkin perustellumpi palvelun tasalaatuisuuden ja siten yhtiön, vakuutuksenottajien ja vakuutettujen edun varmistamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66472: (9) Finanssivalvonta suosittaa, että suorituksen arviointi lisäksi perustuu sekä tuloksen mittaamishet- ken että arvioitujen tulevien riskien toteutumiseen. Siksi huomattavaksi katsottavan muuttuvan palkitsemisosan maksua olisi suositeltavaa lykata. Mikäli osoittautuu, että tulostavoite on saavu- tettu ottamalla sellaista riskia, joka realisoituu ennen muuttuvan palkitsemisen maksua, yhtiöllä pitäisi olla mahdollisuus pidättäytya maksusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_66473: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66474: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66475: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66477: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66479: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66481: (10) Finanssivalvonta suosittaa, että yhtio määrittelee etukäteen, miten myöhemmät muutokset palkit- tavan henkilön työ- tai toimitusjohtajasuhteessa vaikuttavat lykättyyn palkintaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66482: 12.3 Julkisuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66483: OHJE (kohdat 11-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66484: (11) Finanssivalvonta suosittaa, että henkilöstö voi tutustua palkitsemisen toimintaperiaatteisiin ja palkkiopolitiikan yleisiin periaatteisiin. Jokaiselle tulisi ennakolta selvittää hänen palkkansa ja palkkioidensa määräytymisperusteet ja niiden arviointiprosessi. Arviointiprosessi ja sen tulos tulisi dokumentoida asianmukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66485: (12) Finanssivalvonta suosittaa, että palkitsemisen toimintaperiaatteita ja palkkiopolitiikkaa koskevat tiedot julkistetaan selkeällä ja helposti ymmärrettävälla tavalla ottaen kuitenkin huomioon luotta- muksellisuuteen ja tietosuojaan liittyvät säännökset. Tiedot voitaisiin julkistaa itsenäisenä palkit- semisen toimintaperiaatteita ja palkkiopolitiikkaa koskevana selvityksenä tai esimerkiksi tilinpää- töksen ja toimintakertomuksen yhteydessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66486: (13) Finanssivalvonta suosittaa, että yhtio julkistaa ainakin seuraavat tiedot:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66487: · palkitsemisen toimintaperiaatteiden ja palkkiopolitiikan määrittelyn päätöksentekoprosessi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66488: · palkkiopolitiikan ja tuloksen välinen riippuvuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66489: · tuloksen mittaamisen ja riskipainotuksen perusteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66490: · periaatteet, joita sovelletaan palkkiopolitiikan muuttuvia osia maksettaessa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66491: · tulospohjaiseen palkkiopolitiikkaan sovellettavat muut keskeiset periaatteet.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66492: 12.4 Luettelot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66493: OHJE (kohta 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66494: (14) Finanssivalvonta suosittaa, että yhtio pitää ajantasaista luetteloa palkkiopolitiikkojen piiriin kuulu- vista henkilöistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_66495: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66496: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66497: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66499: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66501: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66504: 13 Hyvän vakuutustavan noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66505: (1) TVYL 31 §:n 1 momentin mukaan Finanssivalvonta valvoo, että työeläkevakuutusyhtiöt noudatta- vat vakuutustoimintaa koskevaa lainsaadantoa ja hyvää vakuutustapaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66506: (2) Laki tai sopimuksen ehdot eivät aina anna suoraa vastausta siihen, miten jokin asia tulisi rat- kaista tai miten asiassa tulisi muuten menetella. Hyvä tapa voi talloin taydentaa muuta sääntelyä ratkaisuperusteena. Finanssitoiminnassa tunnetaan useita tällaisia hyvia käytänteitä. Niitä ovat ainakin hyvä vakuutus-, pankki-, arvopaperimarkkina- ja vakuutusmeklaritapa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66507: (3) Hyvä vakuutustapa tarkoittaa vakuutusalan vakiintuneita hyvia tapoja ja käytänteitä, jotka ohjaa- vat vakuutuksenantajan toimintaa. Hyvän vakuutustavan perusajatuksen mukaan vakuutuk- senantajan toiminnan on oltava paitsi lain sanamuodon mukaista myös lain tarkoituksen mu- kaista, eettisesti kestavaa, kohtuullista ja oikeudenmukaista. Hyvää vakuutustapaa voi luonnehtia myös toteamalla, että kaikki se, mikä ei ole erikseen kiellettyä, ei välttämättä ole sallittua. (An- nettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66508: (4) Vakuutussopimussuhteessa hyvä vakuutustapa sisältää vakuutuksenantajalle vaatimuksen yh- teistoiminnasta sopimusosapuolen kanssa ja tämän etujen huomioon ottamisesta. Tältä osin hy- vän vakuutustavan merkitys on saman tyyppinen kuin sopimusoikeudellisen lojaliteettiperiaat- teen. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66509: (5) Hyvä vakuutustapa ei kuitenkaan rajoitu vain sopimussuhteisiin, vaan se määrittää yleisemminkin sitä, miten vakuutuksenantajan on järjestettävä toimintaansa ja toimittava suhteissaan muihin ta- hoihin. Tallaisia muita tahoja ovat ainakin vakuutetut ja korvauksensaajat. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66510: (6) Hyvän vakuutustavan sisältö ei ole tarkasti määriteltävissä, ja se myös muuttuu ajan ja arvostus- ten mukana. Hyvän vakuutustavan sisältö konkretisoituu usein yksittäisten tapausten kautta. (An- nettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66511: (7) Työeläkevakuutusyhtiöt ovat yhtiömuodoltaan yksityisoikeudellisia, mutta toimintansa tarkoituk- sen ja luonteen puolesta ne ovat osa välillistä julkista hallintoa. Vakuutussopimusten ja etuuksien sisältö on yksityiskohtaisesti säädetty laissa, ja yhtiöiden toimintaan sovelletaan hallintolakia (434/2003) silloin, kun ne hoitavat julkista hallintotehtävää. Tästä huolimatta hyvälla vakuutusta- valla on merkitystä myös työeläkevakuutusyhtiöiden toiminnassa varsinkin, koska hyvä vakuutus- tapa koskee vakuutussopimusten ja korvausasioiden lisäksi laajemminkin yhtioiden toimintaa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66512: OHJE (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66513: (8) Finanssivalvonnan tulkinnan mukaan TVYL 31 §:n 1 momentin mukainen työeläkevakuutusyhtiöi- den velvollisuus noudattaa hyvää vakuutustapaa tarkoittaa seuraavaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66514: · Työeläkevakuutusyhtiön tulee noudattaa liiketoimissaan ja sopimussuhteissaan hyvän vakuu- tustavan mukaisia periaatteita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66515: · Työeläkevakuutusyhtiön tulee kohdella kaikkia oikeudenmukaisesti ja tasapuolisesti eivätkä sen liiketoimet saa tuottaa epäoikeutettua etua esimerkiksi yksittäiselle vakuutuksenottajalle. Kaikki työeläkevakuutusyhtiön ja vakuutuksenottajan väliset liiketoimet, esimerkiksi lainat ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_66516: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66517: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66518: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66520: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66523: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66526: muu vakuutuksenottajan toiminnan rahoittaminen, kiinteistö- ja muut kaupat sekä vuokrasopi- mukset, tulee tehdä hyvän tavan mukaisesti markkinaehdoin. Vakuutuksenottajilta ostettavat palvelut tulee ostaa markkinaehtoisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66527: · Työeläkevakuutusyhtiön toiminnan yhteiskunnallinen tarkoitus ja itsenäisyys edellyttävät, että yhtio ei suhteissaan vakuutuksenottajiin tai muissa liiketoimissaan käytä yhtiön toimintaan kuulumattomia järjestelyjā. Järjestelya voidaan pitaa sopimattomana esimerkiksi, jos työeläke- vakuutukseen tai sijoitustoimintaan liittyviin liiketoimiin sidotaan työeläkevakuutusyhtiön kanssa samaan ryhmittymään kuuluvien vakuutusyhtiöiden vakuutusten tai muiden palvelujen hankkiminen tai käyttö.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66528: · Työeläkevakuutusyhtiöillä tulee olla hallituksen hyväksymät kirjalliset ohjeet yhtiön ja vakuu- tuksenottajien välisissä liiketoimissa ja sopimussuhteissa noudatettavista periaatteista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_66529: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66530: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66531: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66533: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66536: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66539: 14 Sijoitustoiminnan järjestäminen ja sijoitussuunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66540: (1) TVYL 26 §:n 2 momentin mukaan työeläkevakuutusyhtiölle kuuluvat rahavarat ja muut varat on pidettävä erillään työeläkevakuutusyhtiön kanssa samaan konserniin kuuluvan yhtiön tai muun yhteisön tai säätiön varoista. TVYL 26 §:n 3 momentin mukaan työeläkevakuutusyhtiön varainhal- linta ja maksuliikenne on järjestettävä siten, että varoja ei käytetā työeläkevakuutusyhtiön kanssa samaan konserniin kuuluvan yhtiön tai muun yhteisön tai säätiön varainhallintaan tai maksuliiken- teeseen. TVYL 26 §:n 4 momentin mukaan yhtiö voi erityisestä syystä vähäisessä määrin poiketa siitä, mitä TVYL 26 §:n 3 momentissa saadetaan maksuliikenteesta, siten kuin Finanssivalvonta tarkemmin päättää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66541: (2) TVYL 27 §:n 1 momentin mukaan tyoeläkevakuutusyhtion sijoitustoiminnan on oltava itsenäistä. Yhtiolla on oltava sijoitustoimintaa varten riittava oma henkilosto. TVYL 27 §:n 4 momentin mu- kaan työelakevakuutusyhtio voi kuitenkin ostaa tiettyjā lainkohdassa mainittuja sijoitustoimintaan liittyviä palveluja yhtiön ulkopuolelta edellyttäen, ettei näin vaaranneta työeläkevakuutusyhtiön sijoitustoiminnan itsenäisyyttä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66542: (3) TVYL 28 §:n 1 momentin mukaan työeläkevakuutusyhtiön hallituksen on laadittava yhtiölle sijoi- tussuunnitelma.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66543: (4) Finanssivalvonta antaa TVYL 27 §:n 5 momentin mukaan tarkemmat määräykset TVYL 27 §:n 4 momentissa tarkoitetuista työeläkevakuutusyhtiön omaa sijoitustoimintaa täydentävistä varojen- hoitopalveluista, sijoitustoiminnan asiatuntijapalveluista, aputoiminnoista tai näihin rinnastetta- vista muista palveluista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66544: (5) Finanssivalvonta antaa TVYL 28 §:n 3 momentin mukaan tarkemmat maaraykset TVYL 28 §:ssä tarkoitetusta sijoitussuunnitelmasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66545: 14.1 Työeläkevakuutusyhtiön sijoitustoiminnan järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66546: 14.1.1 Varainhallinnan ja maksuliikenteen järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66547: OHJE (kohdat 6-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66548: (6) Finanssivalvonnan tulkinnan mukaan TVYL 26 §:n 3 momentti edellyttää, että työeläkevakuutus- yhtiöllä on maksuliikennettään varten omat, muista yhteisöistä erilliset kassa- ja pankkitilit. Työ- eläkevakuutusyhtiö ei esimerkiksi voi käyttää yhteistä konsernitiliä muun yhteisön tai säätiön kanssa. Konsernitililla tarkoitetaan pankkitilia, jossa maksuliikenne on hajautettu yksikkökohtai- sesti, mutta varojen hallinta hoidetaan keskitetysti. Sellainen on esimerkiksi pankkitili, jossa eri yhteisöjen pankkitilien varat kootaan yhdeksi kokonaisuudeksi, ja jonka alatileihin kullakin yhtei- söllä on oma käyttöoikeutensa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66549: (7) TVYL 26 §:n 4 momentin mukainen poikkeus on mahdollinen esimerkiksi selvittelytilejä käytettä- essä. Työeläkevakuutusyhtiön ja muun yhteisön tai säätiön välillä on mahdollista käyttää erilaisia selvittelytilejā, joille kirjataan palvelujen ostoa ja myyntia tai naitā vastaavia tapahtumia tai työelä- kevakuutusyhtiön ja asunto- ja kiinteistöyhteisöjen välistä vähäistä maksuliikennettä, ei kuiten- kaan vakuutusmaksuliikennettä. Tilia ei myöskään saa käyttää työeläkevakuutusyhtiön ja muun edellä mainitun yhteisön tai säätiön yhteisten tai yhteisöjen välisten omaisuuden saantoja tai luo- vutuksia koskevien tilitapahtumien kirjaamiseen. Tilin saldon tulee jatkuvasti olla euromäärältään
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_66550: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66551: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66552: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66554: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66556: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66560: vähäinen. Tilin tapahtumat selvitetään kuukausittain, kuitenkin viimeistään tilitapahtumakuukautta seuraavan kuukauden aikana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66561: 14.1.2 Sijoitustoiminnan itsenäisyyden järjestäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66562: OHJE (kohdat 8-9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66563: (8) Finanssivalvonnan tulkinnan mukaan TVYL 27 §:n 1 momentissa tarkoitettu työeläkevakuutusyh- tiön sijoitustoiminnan itsenäisyys varmistetaan siten, että sijoitustoiminnan päätöksenteon valmis- telusta ja päätöksenteosta vastaa työeläkevakuutusyhtiön oma sijoitustoiminnan organisaatio ja henkilöstö, joka on riippumaton muista tahoista. Finanssivalvonnan tulkinnan mukaan TVYL 27 §:n 1 momentti edellyttää, että yhtiön omalla henkilökunnalla on riittävässa maarin sellaista sijoi- tustoiminnan osaamista ja ammattitaitoa, ettei laitoksen tarvitse turvautua sijoitustoiminnassaan muihin kuin sijoitustoimintaa täydentäviin varojenhoitopalveluihin, aputoimintoihin ja näihin rinnas- tettaviin muihin palveluihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66564: (9) Finanssivalvonnan tulkinnan mukaan sijoituspäätösten valmistelua ja tekemistä palveleva tietojen tuottaminen ja kerääminen sijoitusmarkkinoilta on sellaista TVYL 27 §:n 4 momentissa tarkoitet- tua palvelua, jota voidaan hankkia yhtion ulkopuolelta. Tallaisia toimintoja voivat olla muun mu- assa erilaiset markkina-analyysit, yritystutkimukset, luottotietojen hankkiminen sekä sijoitustoimin- taan liittyvät koti- ja ulkomaiset asiantuntijapalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66565: MÄÄRÄYS (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66566: (10) Työeläkevakuutusyhtiön ulkopuolelta ostettavien aputoimintojen tulee tuottaa yhtiön käyttöön sel- laisia tietoja, jotka ovat tarpeen sijoitustoiminnan päätösten valmistelussa ja seurannassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66567: OHJE (kohdat 11-12)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66568: (11) Edellä kohdassa 10 mainittuja aputoimintoja voivat olla esimerkiksi sijoitustoiminnan tietojenkäsit- telyyn, juridiikkaan ja laskentatoimeen liittyvät palvelut. Aputoimintoja voivat olla myös jo tehtyjen sijoituspäätösten toteuttamiseen ja sijoitusten hoitoon liittyvät toiminnot, esimerkiksi kiinteistöjen huoltopalvelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66569: (12) Työeläkevakuutusyhtio voi tehdä sijoitustoimintaa täydentäviä omaisuudenhoitosopimuksia esi- merkiksi luottolaitoksen, sijoituspalvelulaissa (747/2012) tarkoitetun sijoituspalveluyrityksen tai siihen rinnastettavan yrityksen sekä muussa valtiossa toimiluvan saaneen, julkisen valvonnan alaisen sijoituspalveluyrityksen kanssa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66570: MÄÄRÄYS (kohdat 13-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66571: (13) Työeläkevakuutusyhtiön hallituksen tulee hyväksyä sopimukset ulkopuolisten omaisuudenhoita- jien kanssa. Erityisesti päätöksentekovaltuuksia annettaessa tulee varmistaa, että työeläkevakuu- tusyhtiön itsenäinen päätöksenteko sijoitusasioissa ei vaarannu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66572: (14) Sijoitusvarojen hoitoa koskevasta omaisuudenhoitosopimuksesta tulee ilmetä ainakin seuraavat seikat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66573: · toimeksiannon laajuus ja valtuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_66574: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66575: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66576: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66578: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66580: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66583: · sijoitustoiminnan periaatteet ja rajoitukset (mm. tavoitteet, riskit, omaisuuden allokointi)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66584: · säännöllinen raportointi (mm. tuotto/tavoitteet, allokaatio ja riskitaso)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66585: · hoitopalkkio
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66586: · sopimuksen irtisanomismenettely.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66587: (15) Toimeksianto saa koskea vain tiettyä, rajattua osuutta työeläkevakuutusyhtiön sijoituksista, ja näi- den toimeksiantojen yhteismäärä ei saa olla merkittävä. Toimeksiannon osuus omaisuudenhoito- yhteisön hallinnassa olevista kokonaisvaroista ei myöskään saa olla merkittävä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66588: 14.2 Hallituksen vastuut sijoitustoiminnassa ja sijoitustoiminnan riskienhallinnassa / sijoitus- suunnitelma
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66589: OHJE (kohta 16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66590: (16) Finanssivalvonnan tulkinnan mukaan TVYL 28 §:n 1 momentti tarkoittaa, että hallitus vastaa yh- tiön varojen sijoittamisesta, sijoitusvaltuuksien asianmukaisuudesta sekä sijoittamisen riskeistä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66591: MÄÄRÄYS (kohdat 17-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66592: (17) Hallitus vastaa sijoitussuunnitelman pitämisestä ajan tasalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66593: (18) Ainakin seuraavat asiakokonaisuudet tulee käsitella sijoitussuunnitelman yhteydessä sen lisäksi, mitä TVYL 28 §:n 2 momentissa säädetään:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66594: · Toimintaympäristön ja yhtiön toiminnan sijoitustoiminnalle asettamat vaatimukset lyhyellä ja pitkällä aikavälillä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66595: - Arvio toimintaympäristön tilasta ja kehitysnäkymistä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66596: - Arvio yhtiön vakavaraisuuden kehittymisestä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66597: - Vastuullisen vakuutusmatemaatikon sijoitusriskienhallintaa ja sijoitustoimintaa varten laa- tima selvitys vastuuvelan luonteen ja tuottovaateen sekä vakavaraisuuden ja maksuval- miuden ylläpidon asettamista vaatimuksista sekä yhtiön vakuutusteknisten riskien hallin- nan asianmukaisuudesta ottaen huomioon yhtiön toiminnan laatu ja laajuus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66598: - Arvio sijoitusten keskeisistä riskeistä mm. arvonmuutosten ja odotettujen tuottojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66599: · Sijoitustoiminnan yleiset periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66600: - Yhtion sijoitustoiminnan strategiset tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66601: - Riskienhallinnalliset tavoitteet ja rajoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66602: - Sijoituksiin liittyvät merkittavimmat riskit, kuten valuutta-, luotto-, korko-, markkina- ja likvi- diteettiriski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66603: - Johdannaisten käytön periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_66604: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66605: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66606: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66608: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66611: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66612: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66615: Johdannaisten käytön periaatteissa tulee tarvittaessa ottaa kantaa periaatteiden ja toimin- nan eroavuuksiin pitkälla ja lyhyella aikavälillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66616: · Varojen sijoittaminen vuonna X
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66617: - Perusallokaatio (sijoitettavien varojen jakautuminen omaisuuslajeihin) ja sallitut vaihteluvä- lit eli limiitit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66618: - Tuottotavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66619: - Riskienhallinnalliset tavoitteet ja rajoitteet (limiitit) sekä mahdolliset vertailuindeksit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66620: - Varavaraisuusluokittelun perusteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66621: · Ohjausjärjestelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66622: - Hallitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66623: - Toimitusjohtaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66624: - Sijoitusorganisaation päätösvaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66625: - Ulkopuolisten palveluiden käyttö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66626: - Riskienhallinnan ja sisäisen valvonnan organisointi tai viittaus hallituksen niistä mahdolli- sesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66627: - Sijoitustoiminnan jatkuvuuden varmistaminen normaaliolojen hairiotilanteissa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66628: · Raportointijärjestelmien kuvaus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66629: - Sijoitusriskienhallintatoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66630: - Sijoitustoiminnon raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66631: - Tilanteet, joissa hallitukselle raportoidaan erikseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66632: · Muut keskeiset linjauspäätökset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66633: - Omistajaohjauksen periaatteet tai viittaus hallituksen asiasta mahdollisesti tekemään erilli- seen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66634: - Vastuullisen sijoittamisen periaatteet tai viittaus hallituksen asiasta mahdollisesti tekemään erilliseen päätökseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66635: · Sijoitussuunnitelman päivittämisen periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_66636: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_66637: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_66638: Antopäivä: 10.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_66640: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_66648: (19) Finanssivalvonnalle on toimitettava hallituksen hyväksymä sijoitussuunnitelma ja ne hallituksen tekemät muut päätökset, joihin sijoitussuunnitelmassa edella 18 kohdassa sanotun mukaisesti mahdollisesti viitataan. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_66649: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66650: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66651: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66653: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66660: 15 Luotonotto, siitä ilmoittaminen ja luottohairioriskisopimukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66661: (1) Finanssivalvonnalle lainan ottamisesta tehtavista ilmoituksista saadetaan VYL15 luvun 1 §:n 2 momentissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66662: (2) Finanssivalvonta antaa VYL 15 luvun 1 §:n 2 momentin mukaan tarkemmat määräykset lainan ottamista koskevan ilmoituksen antamisesta ja sen sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66663: (3) Finanssivalvonnan oikeus antaa velvoittavia määräyksia sellaisesta luottohairioriskinvaihtosopi- muksesta, joka voidaan rinnastaa VYL 15 luvun 3 §:n 2 momentin 1 kohdassa tarkoitettuun luot- tohairioriskinvaihtosopimukseen, perustuu VYL 15 luvun 3 §:n 2 momentin 2 kohtaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66664: MÄÄRÄYS (kohdat 4-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66665: (4) Työeläkevakuutusyhtiön ja VYL 15 luvun 1 §:n 3 momentissa tarkoitetun tytäryhteisön on viimeis- tään kahden viikon kuluessa luoton ottamisesta ilmoitettava Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66666: · välttämättömän maksuvalmiuden hoitamiseksi ottamastaan luotosta,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66667: · pääomalainan ottamisesta ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66668: · oman henkilökuntansa omistamalta henkilöstörahastolta ottamastaan luotosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66669: (5) Ennen vuositilintarkastusta on Finanssivalvonnalle laadittava lisäksi erillinen ilmoitus, jossa edella kohdassa 4 todettujen luottojen osalta ilmoitetaan kaikki:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66670: · työeläkevakuutusyhtiöllä voimassa olevat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66671: · työeläkevakuutusyhtiön edellisen kalenterivuoden aikana nostamat luotot,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66672: · työeläkevakuutusyhtiön tytäryhteisöjen voimassa olevat luotot ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66673: · työeläkevakuutusyhtiön tytäryhteisöjen edellisen kalenterivuoden aikana nostamat luotot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66674: (6) Liiketoimintaan liittyvat tavanomaiset tililuotot ja muut niihin rinnastettavat luotot on ilmoitettava vain, mikäli Finanssivalvonta sitä erikseen pyytää.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66675: (7) Luottohäirioriskinvaihtosopimukset katsotaan vakioiduiksi sopimuksiksi eika niitä tulkita vakuuden antamiseksi, jos sopimukset on laadittu International Swaps and Derivatives Associationin (ISDA) laatimien tai muiden vastaavien standardoitujen mallidokumentaatioiden mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_66676: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66677: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66678: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66680: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66682: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66685: 16 Työeläkelaitosten välisiin vastuunsiirtoihin kytketyt omaisuus- järjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66686: (1) Työnantajakohtaisen vakuutuskannan luovuttamisesta eläkesäätiölle tai eläkekassalle säädetään TVYL 10 a luvussa. TVYL 29 c §:n 1 momentin mukaan työeläkevakuutusyhtiön ja vastaanotta- van eläkelaitoksen on haettava työnantajakohtaisen vakuutuskannan luovutukselle Finanssival- vonnan suostumus. TVYL 29 c §:n 3 momentin mukaan Finanssivalvonnan on annettava suostu- muksensa työnantajakohtaisen vakuutuskannan luovuttamiseen, jollei toimenpide loukkaa vakuu- tettuja etuja ja jollei sen katsota vaarantavan vakuutustoiminnan tervettä kehitystä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66687: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksia työnantajakohtaisen vakuutuskannan luovuttamista koskevasta hakemuksesta ja hakemuksessa tarvittavista selvityksistä perustuu TVYL 29 c §:n 5 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66688: (3) Työeläkevakuutusyhtiöiden vakuutuskannan ja sen osan luovuttamisesta toiselle työeläkevakuu- tusyhtiölle säädetään TVYL 10 luvussa. TVYL 29 §:n 1 momentin mukaan Finanssivalvonnan on annettava suostumuksensa vakuutuskannan tai sen osan luovuttamiseen, jollei toimenpide louk- kaa vakuutettuja etuja, jollei sen katsota vaarantavan vakuutustoiminnan tervettā kehitystā ja jos Finanssivalvonta katsoo vakuutuskannan luovuttamisen olevan työeläkejärjestelmän toimeenpa- non kannalta perusteltua. Finanssivalvonnalla on oikeus liittää suostumukseensa ehdot, joita se pitää tarpeellisina vakuutettujen etujen tai vakuutustoiminnan terveen kehityksen turvaamiseksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66689: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66690: (4) Finanssivalvonnan tulkinnan mukaan TVYL 29 c §:n 3 momentti ja TVYL 29 §:n 1 momentti edel- lyttävät, että vastuunsiirtoihin ei kytketa eika niiden ohella tehda vastuunsiirtoihin kuulumattomia siirtyvän omaisuuden arvoon nähden merkityksellisiä kiinteistökauppoja tai muita omaisuusjärjes- telyja joko työnantajan tai sellaisen tahon kanssa, jossa työnantaja omistuksen perusteella tai muuten voi käyttää tosiasiallisesti määräysvaltaa vastuunsiirrossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66691: MÄÄRÄYS (kohta 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66692: (5) Suostumuksen antamiselle asetettujen edellytysten täyttymisen arviointia varten hakijoiden tulee TVYL 10 a luvun mukaista vastuunsiirtoa koskevan hakemuksen yhteydessä ilmoittaa Finanssi- valvonnalle tässä kohdassa sanotut seuraavien tahojen väliset omaisuusjärjestelyt: vastaanot- tava työeläkelaitos, luovuttava työeläkelaitos, luovuttavan/vastaanottavan työeläkelaitoksen vas- tuunsiirtoon liittyvä työnantaja ja työnantajan edellä kohdassa 4 sanottu määräysvaltayhteisö:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66693: · kaikki vastuunsiirtoon liittyvät, vastuunsiirron yhteydessä toteutettavat ja kahden vuoden kulu- essa vastuunsiirron jälkeen toteutettavaksi sovitut omaisuusjärjestelyt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66694: · kaikki kaksi vuotta ennen vastuunsiirtoa toteutetut omaisuusjärjestelyt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66695: OHJE (kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66696: (6) Finanssivalvonta suosittaa, että Finanssivalvonnalle ilmoitetaan myös TVYL 10 luvun mukaisten vastuunsiirtojen osalta edella kohdassa 5 mainitut tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_66697: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66698: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66699: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66701: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66704: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66707: 17 Hakemus työnantajakohtaisen vakuutuskannan luovuttamiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66708: (1) TVYL 29 c §:n 1 momentin mukaan työeläkevakuutusyhtiön ja vastaanottavan eläkelaitoksen on haettava työnantajakohtaisen vakuutuskannan luovutukselle Finanssivalvonnan suostumus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66709: (2) Finanssivalvonnan oikeus antaa velvoittavia määräyksia työnantajakohtaisen vakuutuskannan luovuttamista koskevasta hakemuksesta ja hakemuksessa tarvittavista selvityksistä perustuu TVYL 29 c §:n 5 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66710: MÄÄRÄYS (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66711: (3) Haettaessa Finanssivalvonnan suostumusta työnantajakohtaisen vakuutuskannan luovutukselle on hakemuksen liitteena toimitettava seuraavat asiakirjat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66712: · Työnantajakohtaisen vakuutuskannan luovuttamista koskeva sopimus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66713: · Vakuutuskannan luovuttavan työeläkevakuutusyhtiön ja vastaanottavan eläkelaitoksen pää- tökset asiasta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66714: · Työeläkevakuutusyhtiön vakuutusmatemaatikon selvitys luovutuksessa siirtyvän vastuuvelan määrästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66715: · Selvitys sekä luovuttavan että vastaanottavan eläkelaitoksen vakavaraisuuspääoman mää- rästä ja vakavaraisuusrajasta seka siirtyvan vakavaraisuuspääoman määrästä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66716: . Jos siirtyvan vakavaraisuuspääoman maara on pienempi kuin TVYL 29 e §:n 2 momentissa tarkoitetussa sosiaali- ja terveysministeriön asetuksessa säädetään, selvitys siirtyvän vakava- raisuuspääoman vaikutuksesta vastaanottavan eläkelaitoksen vakavaraisuuden ja vakuutus- maksun kehitykseen sekä mainitun vaikutuksen vuoksi luovutuksen yhteydessä tai myöhem- min toteutettavista toimenpiteistä. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66717: · Selvitys siirtyvän omaisuuden määrästä, omaisuuslajeista, arvostusperusteista ja mahdolli- sesta työnantajasidonnaisesta omaisuudesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66718: · Selvitys siirtyvästä vakuutuskannasta, työnantajasta, vakuutuksen numerosta ja vakuutettujen piiristä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66719: · Selvitys siitä, onko samaa vakuutuskantaa tai osaa siitä luovutettu aikaisemmin. Mikali vakuu- tuskantaa tai osaa siita on luovutettu aikaisemmin, selvitys siitä, etta aiemman ja suunnitellun uuden luovutushetken välillä on kulunut vähintään viisi vuotta, tai, jos luovutukseen tulisi so- veltaa TVYL 29 a §:n 5 momenttia, selvitys siitä, että aiemman ja suunnitellun uuden luovutus- hetken välillä on kulunut vähintään kolme vuotta ja että säännöksen soveltamisedellytykset täyttyvät. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66720: · Selvitys siitä, mitä siirrosta aiheutuvista kohtuullisista hallinnollisista kustannuksista on sovittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_66721: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66722: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66723: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66725: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66727: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66731: 18 Varautuminen poikkeusoloihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66732: (1) Tässä luvussa poikkeusoloilla tarkoitetaan valmiuslain mukaisia poikkeusoloja ja puolustustilalain mukaista puolustustilaa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66733: (2) Poikkeusoloihin liittyvia keskeisiä työeläkevakuutusyhtiön tehtävia ovat etenkin kansalaisten toi- meentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat tehtävät. Tällaisiin tehtäviin liittyviä, yh- tiötä ja sitä kautta kansalaisia koskevia poikkeusoloriskejä ovat muun muassa eläkkeiden maksun vaarantuminen, eläkkeiden rahoituksen ja likviditeetin hallinnan vaarantuminen, erilaisten yhtiön omien tai yhteiskunnan järjestelmien ja infrastruktuurin toiminnan vaarantuminen, yhtiön omalla vastuulla olevien verkostojen toimimattomuus ja palvelutoiminnan pysähtyminen sekä erilaiset informaatio- ja vastapuoliriskit. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66734: (3) VYL 31 luvun 13 §:n 1 momentin mukaan vakuutusyhtiön tulee varmistaa tehtäviensä mahdolli- simman häiriötön hoitaminen myös poikkeusoloissa osallistumalla vakuutusalan valmiussuunnit- teluun ja valmistelemalla etukäteen poikkeusoloissa tapahtuvaa toimintaa sekä muin toimenpi- tein.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66735: 18.1 Poikkeusolojen toimintakyky
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66736: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66737: (4) Finanssivalvonta suosittaa, että työelakevakuutusyhtio sailyttää toimintakykynsä vähintään 12 kuukautta kestävien poikkeusolojen ajan. Yhtiön toimintakyky tulisi mitoittaa siten, että sen vas- tuulla olevat, etenkin kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat tehtävät eivät poikkeusoloissa vaarannu. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66738: 18.2 Varautuminen poikkeusolojen toimintakyvyn ylläpitämiseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66739: OHJE (kohdat 5-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66740: (5) Finanssivalvonta suosittaa, että yhtio jo normaalioloissa ryhtyy poikkeusoloja koskevan toiminta- kykyvelvoitteen turvaamiseksi ennakollisiin varautumistoimiin. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66741: (6) Finanssivalvonta suosittaa, että yhtio laatii hallituksen hyväksyman valmiussuunnitelman osana riskienhallintaansa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66742: (7) Finanssivalvonta suosittaa, että valmiussuunnitelma turvaa poikkeusoloissa sellaiset kansalaisten toimeentuloturvaan ja eläkevarojen pysyvyyteen vaikuttavat seikat, joihin yhtiö voi vaikuttaa omilla toimillaan. Näitä olisivat ainakin elakkeiden ratkaisu- ja maksatustoiminnan, varojenhoidon, asiakastietojen, tietojärjestelmien, niiden tarvitseman tietojenkäsittelyinfrastruktuurin sekä palve- luverkostojen toimivuuden ja käytettävyyden turvaaminen sekä häiriötön hoito. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66743: (8) Finanssivalvonta suosittaa, että valmiussuunnitelmassa kuvataan poikkeusolojen toimintaperiaat- teet, toiminnot, palvelut sekä tarvittava yhteistyö sidosryhmien kanssa. Suunnitelman tulisi sisäl- tää myös toimivuusvaatimukset poikkeusoloissa, palveluiden hallitun supistamisen vaiheet sekä toimenpiteet normaalioloihin palaamiseksi. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_66744: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66745: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66746: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66748: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66750: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66753: (9) Finanssivalvonta suosittaa, että toimitusjohtaja tai hallituksen tehtävään erikseen määräama hen- kilö vastaa valmiussuunnitelman ajantasaisuudesta, valmiussuunnitelman mukaisiin toimenpitei- siin ryhtymisestä, poikkeusoloihin varautumisesta, toiminnan johtamisesta, päätöksentekojärjes- telmän ylläpitämisestä sekä viestinnästä kaikissa oloissa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66754: (10) Finanssivalvonta suosittaa, että valmiussuunnitelman toimintakelpoisuus varmistetaan normaa- lioloissa testaamalla. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66755: 18.3 Varautuminen tietojen hallinnan ja tietojärjestelmien osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66756: OHJE (kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66757: (11) Finanssivalvonta suosittaa tietojen hallintaan ja tietojärjestelmiin liittyen seuraavaa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66758: · Yhtiö turvaa tietojen säilymisen ja riittävän tapahtumien kirjaamisen poikkeusoloissa. Mikäli tietojärjestelmät eivät ole kaytossa, tietoliikenne ei toimi tai muut infrastruktuurin palvelut ovat rajoitetusti käytettävissa, tulisi tietojen säilyminen ja riittävä tapahtumien kirjaaminen varautua suorittamaan muulla tavoin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66759: · Yhtiö varmistaa tietojenkäsittelyn infrastruktuurissa poikkeusolojen varmuuskopioinnin toipu- misjärjestelmineen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66760: · Yhtiö järjestää toiminnan jatkuvuuden kannalta riittävän tietojen ja ohjelmien varmistuksen toi- pumisjärjestelmineen riittavän etäälle sijaitseviin turvatiloihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66761: · Yhtiö varmistaa kansalaisten toimeentuloturvan ja eläkevarojen pysyvyyden varmistamiseksi poikkeusoloissa riittavän määrän tietojenkäsittelykapasiteettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66762: · Yhtiöllä on toiminnan jatkuvuuden varmistamiseksi kyky käynnistää tietojenkäsittelytoiminta uudessa ympäristössä tai varakonekeskuksessa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66763: · Yhtiö varmistaa valmiiksi suunnitellut ja toimivat yhteydet tarpeellisiin yhteistyökumppaneihin sekä yhteisiin tai keskitettyihin tietovarastoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66764: · Yhtiö suunnittelee varmistusten käytön siten, että niiden tietojen ja käytettävissä olevien ohjel- mistojen pohjalta kyetään käynnistämään liiketoiminta uudelleen siinäkin tilanteessa, että var- sinainen tietojenkäsittelykeskus ja sen lähialueet ovat pysyvästi tuhoutuneet. Tämä edellyttäisi varmistusten käyttövalmiuden varmistamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66765: 18.4 Varautuminen ulkoistettujen toimintojen osalta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66766: OHJE (kohdat 12-13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66767: (12) Finanssivalvonta suosittaa, että poikkeusoloihin varautuminen ulotetaan ulkoistettuihin toimintoi- hin siina laajuudessa kuin yhtiön tehtävien turvaaminen edellyttää. Vaatimus tulisi ottaa huomi- oon jo ulkoistamissopimuksissa. (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66768: (13) Finanssivalvonta suosittaa, että ulkoistettujen palvelujen toimivuus ja käytettävyys varmistetaan valvonnalla ja sopimusjärjestelyillä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_66769: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66770: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66771: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66773: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66776: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66779: 18.5 Ohjeen noudattaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66780: OHJE (kohta 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66781: (14) Finanssivalvonta suosittaa, että työeläkevakuutusyhtio, joka ei noudata tätä ohjetta, ilmoittaa Fi- nanssivalvonnalle ohjeesta poikkeaminen syyt, sen miten ohjeesta poiketaan, poikkeamiseen liit- tyvät perustelut sekä selvityksen siitä, miten VYL 31 luvun 13 §:n 1 momentin mukainen varautu- misvelvollisuus täytettäisiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_66782: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66783: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66784: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66787: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66790: 19 Osallistuminen asuntokauppalain mukaiseen rakennuttamistoi- mintaan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66791: (1) TVYL 2 §:n mukaan työelakevakuutusyhtiön tehtävänä on harjoittaa sosiaaliturvaan kuuluvaa la- kisääteistä eläkevakuutusliikettä hoitamalla lakisääteisen eläketurvan toimeenpanoa ja yhtiölle tätä varten kertyvia varoja vakuutusten käsittämät edut turvaavalla tavalla. Työeläkevakuutusyhtio ei TVYL 3 §:n mukaan saa harjoittaa muuta vakuutusliiketta kuin TyEL:n tai YEL:n mukaista toi- mintaa ja siihen suoranaisesti liittyvää jälleenvakuutusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66792: OHJE (kohdat 2-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66793: (2) Finanssivalvonnan tulkinnan mukaan TVYL 2 ja 3 §:n tarkoituksena on estää yhtiöitä laajenta- masta toimintaansa sellaisiin muun liiketoiminnan muotoihin, jotka saattaisivat vaarantaa vakuu- tetut edut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66794: (3) Asuntokauppalaki koskee asunto-osakkeiden ja muiden asuinhuoneiston hallintaan oikeuttavien yhteisöosuuksien kauppaa, ostajan oikeudellisen ja taloudellisen aseman suojaamista rakenta- misvaiheessa sekä eräitä muita asuntojen ja asuntoyhteisön muiden tilojen tuotantoon ja myyntiin liittyvia oikeussuhteita. Perustajaosakkaalla tarkoitetaan lain 1 luvun 4 §:n 1 momentin mukaan luonnollista henkilöä taikka oikeushenkilöä, joka merkitsee tai muuten omistaa asunto-osakkeen tai muun asuinhuoneiston hallintaan oikeuttavan yhteisöosuuden rakentamisvaiheen aikana. La- kia koskevan hallituksen esityksen 14/1994 mukaan5 asunto-osakeyhtiömuotoisessa asuntotuo- tannossa käytetään kahta organisaatio- ja rahoitusjärjestelmäā: perustajaurakointia ja perustaja- rakennuttamista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66795: (4) Perustajaurakoinnissa asunto-osakeyhtiön perustajaosakkaana on hallituksen esityksen 14/1994 perustelujen mukaan rakennusliikkeen omistaja tai siinä määräävässa asemassa oleva osakas taikka rakennusliikkeen lukuun toimiva henkilö. Perustajarakennuttamisessa asunto-osakeyhtiön perustajaosakkaana ei ole rakennusliikkeen omistaja tai edustaja vaan muu taho, esimerkiksi yleishyödyllinen rakennuttajayhteisö taikka muu yritys tai sen edustaja. Rakennushankkeen to- teuttamiseksi käytetään yleensä perustajaosakkaaseen nähden ulkopuolista rakennusurakoitsi- jaa. Tällöin rakennuttajana toimiva asunto-osakeyhtiö ja urakoitsijana toimiva rakennusliike eivät ole rakentamisvaiheen aikana saman tahon määräysvallassa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66796: (5) Asuntokauppalain mukaisessa perustajaurakoinnissa urakoitsija ottaa laajasti kantaakseen ra- kennustoimintaan liittyvia riskejä. Finanssivalvonnan tulkinnan mukaan nama riskit eivät kuulu TVYL 2 ja 3 §:n mukaiseen työeläkevakuutustoimintaan eivätkä myöskään työeläkevakuutusyhti- öiden sijoitustoimintaan. Edella mainitun vuoksi työeläkevakuutusyhtiöt eivät Finanssivalvonnan tulkinnan mukaan voi toimia asuntokauppalain mukaisena perustajaurakoitsijana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66797: (6) Työeläkevakuutusyhtiöt voisivat sen sijaan osallistua asuntokauppalain mukaisiin rakennushank- keisiin perustajarakennuttajana ja perustajaosakkaana.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66798: (7) Finanssivalvonta suosittaa, että työeläkevakuutusyhtiöt kuitenkin ennen sijoituspäätösten teke- mista arvioivat huolellisesti hankkeisiin liittyvät asuntokauppalain velvoitteista aiheutuvat riskit ja vastuut, jotta vakuutetut edut eivät vaarantuisi. Finanssivalvonta suosittaa myös, että arvioides- saan osallistumistaan asuntokauppalain mukaisiin rakennushankkeisiin työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66799: 5 Hallituksen esitys 14/1994 s. 4 ja 5.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66800: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_66802: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66804: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66805: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66807: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66811: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66814: samoin kiinnittävät huomiota siihen, että näiden sijoitusten osuus säilyy kohtuullisessa suhteessa yhtiön sijoitusomaisuuden määrään ja riskinkantokykyyn.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_66815: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66816: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66817: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66819: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66821: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66824: 20 Yhtiökohtaisten maksunosien markkinointi (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66825: (1) TVYL 31 §:n 2 momentin mukaan Finanssivalvonta valvoo työeläkevakuutusyhtiöiden markki- nointia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66826: (2) TVYL 33 b §:ssä säädetään työelakevakuutusyhtiön markkinoinnista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66827: (3) SopMenL 2 §:ssä säädetään elinkeinotoiminnassa käytettävista ilmaisuista ja 2 a §:ssä vertaile- vasta markkinoinnista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66828: OHJE (kohdat 4-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66829: (4) Finanssivalvonnan tulkinnan mukaan TVYL 33 b § tarkoittaa, että vakuutusmaksun yhtiökohtaista maksunosaa koskevassa arviossa on esitettävä selkeasti ja ymmärrettävästi ne asiakkaan kan- nalta merkitykselliset oletukset ja muut maksunosan määrään vaikuttavat seikat, joihin arvio pe- rustuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66830: (5) Finanssivalvonta suosittaa, että työeläkevakuutusyhtiöön mahdollisesti siirtyvälle asiakkaalle esi- tettävästä asiakashyvitysarviosta, joka sisältää tietoja jälkihyvityksista, käy ilmi sekä jälkihyvitys- ten vaikutus että asiakashyvitysten taso ainakin kahtena seuraavana vuotena jälkihyvitysten päättymisen jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66831: (6) Finanssivalvonta suosittaa, että vakuutusmaksun yhtiokohtaisen maksunosan vertailevassa markkinoinnissa kiinnitetään erityistä huomiota käytettävien tietojen ja ilmaisujen vertailukelpoi- suuteen, havainnollisuuteen ja olennaisuuteen asiakkaalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66832: (7) Finanssivalvonnan tulkinnan mukaan on SopMenL 2 a §:ssa tarkoitettua harhaanjohtavaa mark- kinointia verrata yksittäisen asiakkaan tiedoilla laskettua vakuutusmaksun yhtiökohtaista maksu- nosaa toisen työeläkevakuutusyhtiön keskimääräiseen vastaavaan maksunosaan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_66833: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66834: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66835: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66837: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66844: 21 Raportointi Finanssivalvonnalle (Annettu 22.11.2023, voimaan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66845: Näissä määräyksissa ja ohjeissa on seuraavassa kohdassa annettu määräys tietojen säännölli- sestä toimittamisesta Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66846: · luku 11.2, kohta 10.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_66847: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66848: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66849: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66852: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66854: 22 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66855: Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvonnan mää- räykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66856: · Määräys- ja ohjekokoelma vakuutusyhtiöille, työeläkevakuutusyhtiöille, vakuutusyhdistyksille, vakuutusomistusyhteisöille, kolmannen maan vakuutusyhtiöiden sivuliikkeille ja lailla peruste- tuille eläkelaitoksille 11.10.2016. Dnro FIVA 16/01.00/2016: alaluvun 4.1C Työeläkevakuutus- yhtiön ja työeläkevakuutusyhtiön omistusyhteisön johdon kelpoisuus, alaluvun 10.1 Sijoitus- suunnitelma kohdan 2, alaluvun 10.8 Työeläkevakuutusyhtiön sijoitustoiminnan järjestäminen kohdat 1-3 ja alaluvun 15.5 Työeläkevakuutusyhtiöitä koskevat lisämääräykset. Alalukuja 10.1 Sijoitussuunnitelma ja 10.8 Työeläkevakuutusyhtiön sijoitustoiminnan järjestäminen ei sovel- leta työeläkevakuutusyhtiöihin näiden määräysten ja ohjeiden voimaantulon jälkeen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66857: · Finanssivalvonnan kannanoton dnro 1/401/2005 Työeläkevakuutusyhtiön ja vakuutuksenotta- jan välisissä liiketoimissa ja sopimussuhteissa noudatettavat periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66858: · Finanssivalvonnan kannanoton 1/2012 Työeläkevakuutusyhtioiden luotettava hallinto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66859: · Finanssivalvonnan kannanottoja 3/2010 Työeläkelaitosten välisiin vastuunsiirtoihin kytketyt omaisuusjärjestelyt, 1/2010 Palkitsemiseen liittyvä kannanotto, 1/2011 Palkitsemisjärjestelmiä koskevan kannanoton päivitys ja 5/2011 Vakuutuslaitosten osallistuminen asuntokauppalain mukaiseen rakennuttamistoimintaan ei sovelleta työeläkevakuutusyhtiöihin näiden määräysten ja ohjeiden voimaantulon jälkeen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66860: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_66863: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66865: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66866: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66869: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66871: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66874: 23 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66875: Näitä määräyksia ja ohjeita on muutettu niiden voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66876: Annettu 22.11.2023, voimaan 1.4.2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66877: · muutettu ja täydennetty 6-9 ja 13 lukuja, minkä johdosta osassa lukuja myös kohtien nume- rointi on muuttunut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66878: · lisätty 11, 20, 21, 23 ja 24 luvut
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66879: · tehty teknisluonteisia muutoksia useisiin muihin lukuihin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66880: Muutokset liittyvät hyvää hallintoa ja sisäistä valvontaa koskevien määräysten ja ohjeiden täyden- tämiseen sekä vakuutusmaksun yhtiökohtaisten maksunosien markkinointia koskevien ja operatii- visen toiminnan häiriöistä ilmoittamista koskevien määräysten ja ohjeiden lisäämiseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_66881: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66882: Määräykset ja ohjeet 2/2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66883: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66885: 1.4.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66888: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66891: 24 Siirtymä- ja voimaantulomääräykset (Annettu 22.11.2023, voi- maan 1.4.2024)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66892: (1) Luvun 11 kohdassa 10 tarkoitettu vuosi-ilmoitus tehdään vuotta 2024 koskien ajalta 1.4.2024- 31.12.2024.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:46]
+PARAGRAPH_66893: FIN-FSA FINANSSIVALVONTA
+

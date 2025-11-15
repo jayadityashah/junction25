@@ -1,0 +1,344 @@
+METADATA: {"document_id": 29, "filename": "2016_01.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 10, "paragraph_count": 168}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41138: Määräykset ja ohjeet 1/2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41139: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41140: Dnro FIVA 16/01.00/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41141: Antopäivä 29.2.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41142: Voimaantulopäivä 1.3.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41143: FINANSSIVALVONTA puh. 010 831 51 faksi 010 831 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41144: Lisätietoja Instituutiovalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_41145: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41146: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41149: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41150: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41152: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41153: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41154: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjā, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41155: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41157: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41158: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41159: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41160: Finanssivalvonta.fi > Saantely > Maarays- ja ohjekokoelma > Määräyskokoelman rakenne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_41161: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41162: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41165: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41166: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41168: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41173: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41176: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41178: Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41181: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41184: Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41186: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41188: Ohje työkyvyttömyysriskin hallintaan tähtäävistä toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41194: Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41197: Päätöksenteko ja dokumentointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41202: Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41204: Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_41206: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41208: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41211: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41212: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41214: 1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41215: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41216: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetun lain (878/2008) 4 §:ssä tarkoitettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41217: · työeläkevakuutusyhtiöt.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_41218: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41219: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41222: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41223: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41225: 2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41226: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41227: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41228: · laki työeläkevakuutusyhtiöistä (354/1997)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41229: · työntekijän eläkelaki (395/2006)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41230: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41231: Finanssivalvonnan oikeus antaa määräyksiä tietojen säännöllisesta toimittamisesta Finanssivalvonnalle perustuu Finanssivalvonnasta annetun lain 18 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_41232: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41233: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41236: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41237: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41239: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41240: (1) Suomen lainsäädäntö tai Euroopan unionin asetukset tai direktiivit eivät tunne työkyvyttömyysriskin hallintaa koskevaa toimintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41241: (2) Tähän ohjeeseen on koottu Finanssivalvonnan suositukset työeläkevakuutusyhtiöiden työkyvyttömyysriskin hallintaan tähtäävän toiminnan periaatteista. Ohjeen tarkoituksena on parantaa työeläkevakuutusyhtiöiden toiminnan, kilpailun ja varojen käytön valvottavuutta sekä edistää toiminnan kilpailuneutraliteettia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41242: (3) Ohje on tarkoitettu tulkittavaksi työeläkevakuutusyhtiöitä koskevassa lainsäädännössä säädettyjen työeläkevakuutusyhtiön toiminnan tarkoitusta ja vastuullista varojen käyttöä koskevien periaatteiden valossa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41243: Jos: · olosuhteelle, toimenpiteelle tai sopimukselle on työkyvyttömyysriskin hallitsemiseksi tarkoitetussa toiminnassa annettu sellainen tarkoitus ja muoto, joka ei vastaa asian ja työeläkejärjestelmän toimeenpanon varsinaista luonnetta tai tarkoitusta; tai
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41244: · toimenpiteeseen on ryhdytty tarkoituksena saada kilpailumielessä perusteetonta etua muihin työeläkevakuutusyhtiöihin nähden tekemällä toiminnan tarkoitusta tai varojen käyttöä koskevasta säännöstöstä tai tästä ohjeesta kilpailijoita vapaampi tulkinta, eikä yhtiö voi asiassa muuta näyttää;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41245: Finanssivalvonta arvioi olosuhteen, toimen tai sopimuksen sen tosiasiallisen tarkoituksen mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_41246: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41248: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41249: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41252: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41253: 4 Ohje työkyvyttömyysriskin hallintaan tähtäävistä toimista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41254: 4.1 Rahoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41255: OHJE (kohdat 1-3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41256: (1) Finanssivalvonnan tulkinnan mukaan työntekijän eläkelain 169 § edellyttää, että työkyvyttömyysriskin hallitsemiseksi tehdyt palvelusopimukset ja kolmannelta osapuolelta ostettavat työkyvyttömyysriskin hallintaa tukevat palvelut tulee rahoittaa vain työkyvyttömyysriskin hallintaosasta kerättävällä maksulla. Työeläkevakuutusyhtiöön työsuhteessa olevan oman henkilöstön työkyvyttömyysriskin hallintaan liittyvät henkilöstökulut voidaan rahoittaa joko työkyvyttömyysriskin hallinta- tai hoitokustannusosasta kerätyllä maksulla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41257: (2) Vuositasolla seurattavaa kumulatiivista alijaamaa tulisi toiminnasta syntya vain ajoittain, jolloin vältetään jatkuva työkyvyttömyysriskin hallintaosasta saatavan maksutulon ylittäminen. 1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41258: (3) Kumulatiivisessa seurannassa tulisi ottaa huomioon 1.1.2016 jälkeen vuosittain saatu maksutulo seka maksetut kulut. Eri vuosien eria ei korkoutettaisi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41259: 4.2 Riskiperusteisuus, korvattavat hankkeet ja vaikuttavuuden seuranta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41260: OHJE (kohdat 4-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41261: (4) Riskienhallinnan yleisten periaatteiden mukaisesti työkyvyttömyysriskin hallitsemiseksi tarkoitetun toiminnan lähtökohtana tarjousten tekemisestä hankkeiden toteutukseen tulee olla riskiperusteisuus. Finanssivalvonnan tulkinnan mukaan riskiperusteisuudella tarkoitetaan esimerkiksi arviointia siitä, milla toimin työeläkevakuutusyhtiön vastuulla olevaa työkyvyttömyysriskia voidaan mahdollisimman tehokkaasti alentaa. Työeläkevakuutusyhtiöllä tulisi olla kirjalliset toimintaperiaatteet, joita noudattamalla riskiperusteisuus toteutuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41262: Varojen käytön näkökulmasta oleellista on toiminnan kohdentuminen todennettavissa oleviin työkyvyttömyysriskeihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41263: 1 Kumulatiivista alajäämää syntyy, kun työkyvyttömyysriskin hallintaan tarkoitetuista toimista syntyneet vuosien yli yhteenlasketut kulut ylittävät samalta ajanjaksolta työkyvyttömyysriskin hallintaosasta saadun maksutulon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_41264: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41265: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41267: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41268: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41270: (5) Työeläkevakuutusyhtiön työkyvyttömyysriskin hallitsemiseksi tarkoitetun toiminnan ja siihen liittyvien kustannusten tulisi kohdistua ensisijaisesti johtamisen, työn, työprosessien tai työyhteisön toimivuuden kehittämiseen ja tähän liittyviin työkyvyn ylläpitohankkeisiin. Näin ollen hyväksyttäviä hankkeita olisivat esimerkiksi erilaiset kollektiiviset koulutukset. Korvattaviin hankkeisiin eivät kuuluisi esimerkiksi asiakasyrityksissa työskentelevien palkkakulut, asiakkaiden tietojärjestelmät tai laitehankinnat kuten kuntosalilaitteet ja työpöydät, palkitsemisluonteinen toiminta tai työsuhde-edut kuten liikunta- ja kulttuurisetelit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41271: Työturvallisuuden edistämiseen liittyvät kulut eivät ole työkyvyttömyysriskin hallintaa, vaan työsuojeluun liittyviä kustannuksia. Esimerkkeinä tällaisista kustannuksista ovat turvallisuushankinnat, työturvallisuuskoulutukset yms. Kuntoutusprosesseihin kohdistuvat kustannukset ovat aina kuntoutukseen liittyvia kustannuksia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41272: (6) Työeläkevakuutusyhtiön tulisi kehittää toimintaansa sopivat seurantamenetelmät varmistaakseen työkyvyttömyysriskin hallitsemiseksi tarkoitettujen toimiensa vaikuttavuus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41273: 4.3 Päätöksenteko ja dokumentointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41274: OHJE (kohdat 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41275: (7) Finanssivalvonta suosittaa, että työeläkevakuutusyhtiön päätöksentekomalli heijastaa vakuutusriskin hallintaa tukevaa riippumatonta riskiperusteista menettelyä. Vakuutusriskin hallintaa tukevalla riskiperusteisuuden riippumattomalla arviointimenettelyllä tarkoitetaan menettelya, jossa työkyvyttömyysriskin hallitsemiseksi tarkoitetut toimet tulevat jossakin työeläkevakuutusyhtiön prosessin vaiheessa asiakashankinnasta riippumattoman toiminnon arvioitavaksi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41276: (8) Finanssivalvonta suosittaa, että tehdyt tarjoukset, annetut lupaukset ja niiden riskiperusteisuus sekä tapa, jolla riskiperusteisuus on selvitetty, dokumentoidaan selkeästi ja riittävän yksilöidysti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41277: 4.4 Omavastuu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41278: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41279: (9) Finanssivalvonta suosittaa, että työeläkevakuutusyhtiön työkyvyttömyysriskin hallitsemiseksi tekemän rahallisen panostuksen lisäksi edellytetään aina myös asiakasyrityksen omaa rahallista panostusta. Asiakasyrityksen rahallinen panostuksen hankkeeseen tulisi olla vähintään yhtä suuri kuin työeläkevakuutusyhtiön työkyvyttömyysriskin hallitsemista koskevassa palvelusopimuksessa sovittu tai muuten sen asiakkaalleen lupaama rahallinen panostus. Asiakasyrityksen rahallisella panostuksella ei tarkoiteta esimerkiksi asiakasyrityksen hankkeeseen ohjaamaa oman henkilöstön työpanosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_41280: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41281: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41284: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41285: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41287: 5 Raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41288: (1) Finanssivalvonnan oikeus antaa määräyksia tietojen säännöllisesta toimittamisesta Finanssivalvonnalle perustuu Finanssivalvonnasta annetun lain 18 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41289: (2) Finanssivalvonnan tulkinnan mukaan työkyvyttömyysriskin hallitsemiseksi annettavat, näiden määräysten ja ohjeiden luvun 4 mukaisesti toteutetut palvelut eivät ole työeläkevakuutusyhtiöistä annetun lain 11 luvun 30 §:ssä tarkoitettuja poikkeuksellisia liiketoimia, vaan työeläkejärjestelmän menojen alentamiseksi tehtyä työkyvyttömyysriskin hallintaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41290: MÄÄRÄYS(kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41291: (3) Työkyvyttömyysriskin hallitsemiseksi tehdyistä toimista tulee raportoida Finanssivalvonnalle:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41292: · määräysten ja ohjeiden 1/2011 mukaisesti kalenterivuoden aikana tehtyjen uusien työkyvyttömyysriskin hallitsemiseksi tehdyissä palvelusopimuksissa luvattujen rahallisten panostusten ja kolmannelta osapuolelta ostettavien palveluiden kokonaiseuromäärä, työkyvyttömyysriskin hallitsemiseksi tehdyistä sopimuksista aiheutuneiden kulujen kokonaiseuromäärä sekä työkyvyttömyysriskin hallintaosasta saatu maksutulo, ja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41293: · määräysten ja ohjeiden 4/2015 mukaisesti asiakaskohtaisissa työkyvyttömyysriskin hallitsemiseksi tehdyissä palvelusopimuksissa luvattujen rahallisten panostusten ja kolmannelta osapuolelta ostettavien palveluiden euromäärät, jos ne ovat yhteensä vähintään 2000 euroa sekä näiden sopimusten kohteena olevien asiakkaiden vuosipalkkasummat, tai mikäli ne eivät ole tiedossa, niiden ennakkoarviot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_41294: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41295: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41298: 1.3.2016 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41299: Työkyvyttömyysriskin hallinta: Työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41301: 6 Siirtymä- ja voimaantulomääräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41302: (1) Näitä määräyksiä ja ohjeita ei sovelleta työkyvyttömyysriskin hallintaa koskeviin sellaisiin palvelusopimuksiin, jotka on solmittu ennen näiden määräysten ja ohjeiden voimaantuloa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41303: (2) Vallitsevan käytännön mukaisesti ohjeen 4.1 luvun (3) kohdan mukaisessa omassa kumulatiivisessa seurannassaan yhtioiden tulee kuitenkin ottaa huomioon koko palvelusopimuskannasta muodostuneet työkyvyttömyysriskin hallintaosalla katetut kulut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41304: (3) Luvun 5 raportointimääräystä Finanssivalvonnalle sovelletaan kaikkiin palvelusopimuksiin, jotta Finanssivalvonta pystyy jatkuvassa valvonnassaan seuraamaan toiminnan volyymia ja palvelusopimuskannan kokonaiskehitystä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_41305: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

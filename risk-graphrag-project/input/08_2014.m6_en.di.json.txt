@@ -1,0 +1,2150 @@
+METADATA: {"document_id": 5, "filename": "08_2014.m6_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 41, "paragraph_count": 956}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25536: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25537: Management of operational risk in supervised entities of the financial sector
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25538: J. No FIVA 8/01.00/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25539: Issued 4.11.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25540: Valid from 1.2.2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25541: Further information from Digitalisation and Analysis / Digitalisation and Banking Services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25542: FINANCIAL SUPERVISORY AUTHORITY tel. +358 9 183 51 firstname.surname@fiva.fi fin-fsa.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25543: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_25545: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25546: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25547: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25549: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25550: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25554: Legal nature of regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25555: Regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25556: Financial Supervisory Authority (FIN-FSA) regulations are presented under the heading 'Regulation' in the FIN-FSA's regulations and guidelines. FIN-FSA regulations are binding legal requirements that must be complied with.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25557: The FIN-FSA issues regulations only by virtue of and within the limits of legal provisions that entitle it to do so.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25558: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25559: FIN-FSA interpretations of the contents of laws and other binding provisions are presented under the heading 'Guideline' in the FIN-FSA's regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25560: Also recommendations and other operating guidelines that are not binding are presented under this heading, as are the FIN-FSA's recommendations on compliance with international guidelines and recommendations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25561: The formulation of the guideline shows when it constitutes an interpretation and when it constitutes a recommendation or other operating guideline. A more detailed description of the formulation of guidelines and the legal nature of regulations and guidelines is provided on the FIN-FSA website.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25562: fin-fsa.fi > Regulation > Legal framework of FIN-FSA regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_25563: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25564: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25567: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25568: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25570: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25571: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25576: Scope of application and definitions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25579: Risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25582: Contingency planning
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25585: Principle of proportionality
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25588: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25590: 2 Legal framework and international recommendations 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25591: 2.1 Legislation 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25593: EU regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25596: EU directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25599: FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25602: International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25604: 3 Objectives 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25605: 4 General principles of operational risk management 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25607: Operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25610: Establishment and maintenance of operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25612: 4.3 Identification and assessment of operational risk 15
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25614: Monitoring and damage reporting for operational risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25617: Key components of operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25619: 5.1 Processes 19
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [RISK:LEGAL_RISK]
+PARAGRAPH_25620: 5.2 Legal risk 19
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25621: 5.3 Staff 20
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_25622: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25623: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25626: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25627: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25629: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25636: IT systems and information security 22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25638: IT systems. 22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25640: Information security 23
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25642: Definition and basic requirements of information security 23
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25644: Management of information security risks and handling of information security events 24
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25646: Information security rules and training 24
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25648: Ensuring information security in online services. 25
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25650: Development of services with comprehensive information security 25
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25651: Payment systems and money transmission 27
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25652: Continuity and emergency planning 29
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25654: Legal framework 29
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25656: Continuity planning 30
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25658: Contingency planning 31
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25660: Emergency plan 32
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25661: Reporting to FIN-FSA 33
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25663: Reporting of disruptions and faults in operations 33
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25665: Annual report on losses from operational risk 34
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25667: Annual assessment of operational and security risks of payment services (Issued on 29 January 2018, valid from 1 March 2018) 35
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25669: Reporting of fraud data related to payment services (Issued on 23 September 2019, valid from 1 January 2020). 35
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25671: Applying for an exemption from maintaining a contingency mechanism for a PSD2 dedicated interface (Issued on 23 September 2019, valid from 1 January 2020) 36
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25672: 10 Repealed regulations and guidelines 38 5 (41)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_25673: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25674: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25677: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25678: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25684: 11 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_25686: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25687: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25688: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25690: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25692: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25695: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25696: 1.1 Risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25697: Chapters 4-7, 8.2, 9.1 and 9.2 of these regulations and guidelines apply to the following supervised entities as referred to in the Act on the Financial Supervisory Authority: (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25698: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25699: · Finnish branches of third country credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25700: · investment firms governed by chapters 9, 10 and 11 of the Credit Institutions Act in accordance with chapter 6, section 2 of the Investment Services Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25701: · fund management companies engaged in activities referred to in section 5, subsection 2 of the Mutual Funds Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25702: · alternative investment fund managers (AIF managers) providing investment services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25703: · holding companies of credit institutions and investment firms as well as holding companies of conglomerates as referred to in the Act on the Supervision of Financial and Insurance Conglomerates
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25704: · central bodies of amalgamations of deposit banks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25705: · payment institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25706: Chapters 4-6, 8.2 and 9.1(2) of these regulations and guidelines apply to the following supervised entity:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25707: · the stock exchange.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25708: In addition, the Financial Supervisory Authority (FIN-FSA) recommends that Finnish branches of third country investment firms comply with chapters 4-7, 8.2, 9.1 and 9.2 of these regulations and guidelines. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25709: Chapter 7 on payment systems only applies to supervised entities providing money transmission services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25710: Chapters 7 and 9.1 apply to persons providing payment services without authorisation, including account information service providers, applying the parts specified in more detail in the said chapters. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25711: Section 9.3 (annual assessment of operational and security risks of payment services) and 9.4 (reporting of fraud data related to payment instruments) applies to supervised entities providing payment services, persons providing payment services without authorization and also to domestic credit institutions and Finnish branches of foreign credit institutions providing payment services in Finland. (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25712: Chapter 9.5 (Applying for an exemption from maintaining a contingency mechanism for a PSD2 dedicated interface) applies to account servicing credit institutions and payment institutions. (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_25713: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25714: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25715: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25717: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25720: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25721: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25724: 1.2 Contingency planning
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25725: Section 8.3 of these regulations and guidelines applies to the following supervised entities and foreign supervised entities, which are obliged to prepare for contingencies as referred to in the Emergency Powers Act (1552/2011):
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25726: · credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25727: · payment institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25728: · investment firms providing custody of financial instruments as an ancillary service (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25729: · fund management companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25730: · alternative investment fund managers providing investment services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25731: · Finnish branches of foreign credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25732: · Finnish branches of foreign payment institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25733: · Finnish branches of foreign investment firms
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25734: · Finnish Central Securities Depository (APK).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25735: In addition, FIN-FSA recommends that the stock exchange comply with the guidelines in section 8.3 on contingency planning. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25736: 1.3 Principle of proportionality
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25737: These regulations and guidelines apply to different supervised entities and different governance models. In its application of these regulations and guidelines a supervised entity may take into account the nature, scope, complexity and risks of its operations as well as other possible corresponding factors affecting the assessment, when it considers how to implement the regulations and guidelines in an appropriate and effective manner.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25738: 1.4 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25739: Supervised entity means all supervised entities and foreign supervised entities referred to in the Act on the Financial Supervisory Authority and presented above in section 1.1 on the scope of application of the regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25740: Operational risk means the risk of loss associated with
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25741: · inadequate or failed internal processes
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25744: · external events.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [RISK:OPERATIONAL_RISK] [RISK:LEGAL_RISK] [RISK:BUSINESS_RISK]
+PARAGRAPH_25745: Operational risk also includes legal risk, whereas strategic risk is here excluded from operational risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_25746: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25747: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25748: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25750: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25752: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25755: Controls mean procedures for ensuring that operational goals are reached. Controls include all measures taken to prevent, detect and mitigate disruptions, shortcomings, faults and misuse.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25756: Typically, controls comprise reconciliations, the four eyes principle, and comparison of counterparties' confirmations with the supervised entity's own contract documentation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25757: Executive management means the supervised entity's CEO and all persons who report directly to the CEO or hold the top managerial posts in the supervised entity or effectively direct the operations of the entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_25758: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25759: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25760: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25762: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25767: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25770: 2 Legal framework and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25771: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25772: These regulations and guidelines relate to the following statutes: (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25773: · the Credit Institutions Act (610/2014, below also the CIA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25774: · the Investment Services Act (747/2012, below also the ISA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25775: · the Mutual Funds Act, (48/1999, below also the MFA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25776: · the Act on Alternative Investment Fund Managers (162/2014, below also the AIFMA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25777: · the Act on the Amalgamation of Deposit Banks (599/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25778: · the Payment Institutions Act (297/2010, below also the PIA)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25779: · the Act on Supervision of Financial and Insurance Conglomerates (699/2004)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25780: · the Act on Trading in Financial Instruments (1070/2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25781: · the Act on the Book-Entry System and Settlement Systems (348/2017)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25782: · the Payment Services Act (290/2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25783: · the Emergency Powers Act (1552/2011)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25784: · the Government Decree on Objectives of Maintenance Readiness (857/2013).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25785: 2.2 EU regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25786: These regulations and guidelines relate to the following EU regulations: (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25787: · Commission Delegated Regulation (EU) No 231/2013 (32013L0231) of 19 December 2012 supplementing Directive 2011/61/EU of the European Parliament and of the Council with regard to exemptions, general operating conditions, depositaries, leverage, transparency and supervision; OJ L 83, 22.3.2013, p. 1-95 (below the delegated regulation)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25788: · Regulation of the European Central Bank (EU) No 795/2014 of 3 July 2014 on oversight requirements for systematically important payment systems (ECB/2014/28); OJ L 217, 23.7.2014, p. 16-30.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25789: · Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25790: · Commission Delegated Regulation (EU) 2018/389 of 27 November 2017 supplementing Directive (EU) 2015/2366 of the European Parliament and of the Council with regard to
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_25791: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25792: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25795: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25796: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25803: regulatory technical standards for strong customer authentication and common and secure open standards of communication (hereinafter SCA delegated regulation)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25804: 2.3 EU directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25805: These regulations and guidelines relate to the following EU directives: (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25806: · Directive 2013/36/EU (32013L0036) of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EU and repealing Directives 2006/48/EU and 2006/49/EU; OJ L 176, 27.6.2013, p. 338
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25807: · Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU; OJ L 173, 12.6.2014, p. 349.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25808: · Directive 2015/2366/EU of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC; OJ L 337, 23.12.2015.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25809: · Directive 2002/87/EC (32002L0087) of the European parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council; OJ L 35, 11.2.2003, p. 1-27
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25810: · Commission Directive 2006/73/EC (32006L0073) of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive; OJ L 241, 2.9.2006, p. 26-58
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25811: · Directive 2009/65/EC (32009L0065) of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS); OJ L 302, 17.11.2009, p. 32-96
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25812: · Directive 2011/61/EU (32011L0061) of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010; OJ L 174, 1.7.2011, p. 1-73.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25813: · Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25814: 2.4 FIN-FSA's regulatory powers
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25815: The FIN-FSA's powers to issue regulations are based on the following provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_25816: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25817: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25818: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25820: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25822: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25825: · section 18, subsection 2 of the Act on the Financial Supervisory Authority (878/2008), according to which FIN-FSA may issue regulations on the regular submission to FIN-FSA of information on a supervised entity's internal control and risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25826: · chapter 9, section 24 of the CIA, according to which the FIN-FSA may issue detailed regulations on operational risk as referred to in chapter 9, section 16
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25827: · section 19, subsection 6 of the Act on the Amalgamation of Deposit Banks, according to which FIN-FSA may issue detailed regulations on the risk management of member companies of the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25828: · chapter 6, section 2, subsection 1 of the ISA and section 6, subsection 5 of the MFA, which provide that the regulations issued by the FIN-FSA by virtue of chapter 9, section 24 of the CIA also apply to investment firms and fund management companies as referred to in the above- mentioned legal provisions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25829: . According to chapter 6, section 2, subsection 6 of the AIFMA, an alternative investment fund manager providing the services referred to in chapter 3, section 2, subsection 2 and chapter 3, section 3 of the AIFMA must always meet the requirements prescribed in chapter 6, section 2 subsection 1 of the ISA. It follows from chapter 6, section 2 subsection 1 of the ISA that regulations issued by the FIN-FSA under chapter 9, section 24 of the CIA also apply to alternative investment fund managers, as referred to in the above-mentioned legal provisions. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25830: · section 30 a, subsection 3 of the MFA, by virtue of which the FIN-FSA may issue detailed regulations on the requirements pertaining to fund management companies' risk management systems and other internal control
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25831: · section 19, subsection 3 of the PIA, by virtue of which the FIN-FSA may issue detailed regulations on the organisation of operations so as to implement the Payment Services Directive (PSD) as well as sections 19 a and 19 b of the PIA, by virtue of which the FIN- FSA may issue detailed regulations on the management of operational and security risks and on the reporting of anomalies and fraud. Regulations issued by the FIN-FSA by virtue of sections 19 a and 19 b of the PIA also apply to persons providing payment services without authorisation as well as to credit institutions providing payment services on the basis of chapter 9 section 16 of the CIA. (Issued 29.1.2018, valid from 1.3.2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25832: . section 16, subsection 3 of the Act on the Supervision of Financial and Insurance Conglomerates, by virtue of which the FIN-FSA may issue detailed regulations on the arrangement of internal control and risk management for the parent company and holding company of a conglomerate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25833: · chapter 3, section 36, subsection 1, paragraph 1 of the Act on Trading in Financial Instruments, by virtue of which the FIN-FSA may issue detailed regulations on the organisation of operations of the stock exchange, as referred to in chapter 3, section 1 of the said Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_25834: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25835: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25836: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25838: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25840: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25841: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25844: 2.5 International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25845: The following international recommendations have been taken into account in preparing these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25846: · Basel Committee on Banking Supervision (Basel Committee) recommendation Revisions to the Principles for the Sound Management of Operational Risk (Bank for International Settlements, BIS, March 2021) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25847: · European Banking Authority (EBA) Guidelines on the Management of Operational Risks in Market-related Activities (Committee of European Banking Supervisors, CEBS, October 2010)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25848: · EBA Guidelines on Internal Governance (EBA/GL/2021/05) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25849: · Basel Committee recommendation High level principles for business continuity (BIS, August 2006)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25850: · Basel Committee recommendation Risk Management Principles for Electronic Banking (BIS, July 2003)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25851: · European Securities and Markets Authority Guidelines on systems and controls in an automated trading environment for trading platforms, investment firms and competent authorities (ESMA February 2012)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25852: · Principles for financial market infrastructures (BIS/IOSCO, April 2012), issued by the Basel Committee on Payment and Settlement Systems (CPSS) and the Technical Committee of the International Organization of Securities Commissions (IOSCO)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25853: . EBA Guidelines on ICT Risk Assessment under the Supervisory Review and Evaluation Process (SREP) (EBA/GL/2017/05) (Issued on 6 November 2017, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25854: · EBA Revised Guidelines on Major Incident Reporting under PSD2 (EBA/GL/2021/03) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25855: · EBA Guidelines on ICT and security risk management (EBA/GL/2019/04) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25856: · Joint Committee of the three European Supervisory Authorities (ESAs) Joint Position on Manufacturers' Product Oversight and Governance Processes (November 2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25857: · EBA Guidelines on fraud reporting under the Payment Services Directive 2 (PSD2) (EBA/GL/2018/05) (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25858: . EBA Guidelines on the conditions to benefit from an exemption from the contingency mechanism under Article 33(6) of Regulation (EU) 2018/389 (RTS on SCA & CSC)) (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_25859: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25860: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25861: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25863: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25865: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25868: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [RISK:OPERATIONAL_RISK] [RISK:LEGAL_RISK]
+PARAGRAPH_25869: (1) These regulations and guidelines concern the principles and organisation of operational risk management. Subjects such as process management, staff, information and payment systems, information security, continuity planning and legal risk are covered in greater detail.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25870: (2) Technological advances, product and service developments, new risk management procedures, outsourcing arrangements, corporate restructuring and the internationalisation of activities have added to the complexity of the operating environment and increased the operational risk in the production of financial services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25871: (3) Smoothly running payment and clearing systems are important, since most of the transferring and clearing of payments in our economy is done through these systems. Downtime and disruptions make it difficult for customers to handle their payments, which may cause far- reaching financial problems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25872: (4) The objective of these regulations and guidelines is to ensure that the following steps are taken:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25873: · The supervised entity organises its operational risk management so as to fulfil the requirements determined by the scope and character of its operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25874: · If necessary, the risk management tasks may be outsourced in compliance with FIN- FSA's regulations and guidelines 1/2012 on outsourcing.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25875: · The supervised entity ensures an appropriate level of information management, information security and continuity of operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25876: · The FIN-FSA is informed of significant disruptions and faults in the entity's operations and other impairments as well as losses due to realisations of operational risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_25877: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25878: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25879: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25881: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25882: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25886: 4 General principles of operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25887: 4.1 Operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25888: (1) Losses resulting from an operational risk event cannot always be measured. The risk may materialise after a time lag or indirectly for example through damage caused to the reputation or goodwill of the supervised entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25889: (2) In operational risk management, an important role is played by measures taken to correct observed shortcomings and faults in processes and risk management and by other risk-limiting measures, such as staff-related and IT backup arrangements and acquisition of insurance cover.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK] [RISK:MODEL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25890: (3) The Credit Institutions Act contains detailed provisions on operational risk management. In accordance with chapter 9, section 16, subsection 1 of the CIA, a credit institution shall have procedures for identification, assessment and management of operational risk. It shall prepare for modelling risk and for rarely materialising severe risk events. A credit institution must clearly describe what it considers to be operational risks. It shall have written policies and procedures for operational risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25891: 4.2 Establishment and maintenance of operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25892: (4) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25893: Regulation (paragraphs 5-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25894: (5) The Board of the supervised entity shall confirm the principles for operational risk management, which cover the procedures and processes for identification, assessment, control and mitigation of risk. The principles shall regularly be reviewed, taking into account any changes in the operating environment and in the supervised entity's own business.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25895: (6) The supervised entity shall define operational risk on the basis of its own business activities, considering the typical characteristics of its business.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25896: Guideline (paragraphs 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25897: (7) The FIN-FSA recommends that the supervised entity's executive management ensure practical compliance with the principles adopted for operational risk management in all operations of the entity and companies in the group. It should also ensure that the employees identify the operational risks inherent in their own activities and are familiar with the procedures involved in managing these risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25898: (8) The FIN-FSA recommends that the Board of the supervised entity ensure that the entity's internal audit regularly assesses the efficiency and coverage of the operational risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_25899: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25900: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25901: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25903: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25905: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25908: 4.3 Identification and assessment of operational risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25909: (9) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25910: (10) More detailed provisions on investment firms' product governance procedures are provided in chapter 7, section 7 and 18 of the Act on Investment Firms. (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25911: Regulation (paragraphs 11-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25912: (11) The supervised entity must identify all the operational risks attached to its major products, services, functions, processes and systems that may have significant effects on the achievement of objectives set for the operations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25913: (12) The supervised entity shall assess the risks of a new product and service prior to their introduction. Such assessment shall also be performed at the introduction of a new service package, when products and services are combined in a new way, if the supervised entity does not consider that the assessments performed cover the risks related to the introduction of the new service package.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25914: (13) In the ongoing risk assessment, the probability of risk realisation and the effects of a damage shall be considered. In planning its risk management, the supervised entity shall confirm the necessary risk mitigation methods and other necessary corrective measures.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25915: (14) As regards key activities, the supervised entity shall decide on an acceptable risk-taking level and set limits and other restrictions for the risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25916: (15) The supervised entity shall create alternative scenarios in order to take into account at least the malfunctioning of key processes and systems, incapacity of staff as well as the effects of external factors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25917: Guideline (paragraphs 16-22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25918: (16) As to identified, material operational risks, the FIN-FSA recommends that the supervised entity decide how it will control the risks or whether it will bear the risks as they are or limit them or withdraw from the business activity causing them.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25919: (17) The FIN-FSA recommends that risk assessment include analyses of adverse internal and external factors. A supervised entity's legal structure, changes in organisation, complexity of products and services, quality of human resources and turnover of employees, and the state of its IT systems are typical internal factors and technological advances and internationalisation of activities are typical external factors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25920: (18) The FIN-FSA recommends that the supervised entity aim to put in place proactive procedures and indicators for recognising operational risks. Applicable procedures may be standard self- analyses of the bank organisation, compilation of statistics on risk-related damages, use of critical variables describing operations, and the review of damages suffered by the supervised entity and its peer group.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_25921: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25922: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25923: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25925: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25927: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25930: (19) The FIN-FSA recommends that the supervised entity acquire insurance against economic effects due to operational risk. The executive management should ensure that the adequacy and costs of the insurance cover are regularly assessed, bearing in mind changes in the supervised entity's business activities. In addition, the counterparty risks inherent in the insurance contracts should be assessed as well as the capital adequacy of the contract company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25931: (20) The FIN-FSA recommends that the supervised entity prepare instructions on the procedure for approval of new products or services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25932: (21) The FIN-FSA recommends that the procedure for approval of new products or services comprise, for example, the following:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25933: · description of products or services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25934: · assessment of the compliance of products or services with the operational strategy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25935: · geographical market area and target group
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25936: · risk surveys (assessments of risks related to the product or service)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25937: · description of organisation of internal control and risk management as regards a new product or service
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25938: · review of the processes related to products or services (marketing, customer identification, sale, production, clearing and payments)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25939: · legal issues and capacity to enter into contracts
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25940: · description of IT systems, information security and service continuity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25941: · external and internal accounting requirements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25942: · description of pricing, possible valuations, and use of pricing models
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25943: · assessment of impact on profitability and capital adequacy
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25944: · assessment of impact on taxation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25945: · description of required training and instructions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25946: (22) The FIN-FSA recommends that the supervised entity inform The FIN-FSA of any significant new product or service well before its introduction.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25947: 4.4 Monitoring and damage reporting for operational risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25948: (23) Chapter 9 provides guidance on reporting to the FIN-FSA of disruptions and faults in operations and annual reporting of significant operational risk loss events.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25949: (24) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_25950: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25951: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25954: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25955: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25957: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25960: Regulation (paragraphs 25-26)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25961: (25) The supervised entity shall regularly assess the nature of recognised operational risks and the probability of risk realisations and monitor realised losses and loss amounts. The supervised entity shall examine the factors and cause-and-effect relations behind the realisation of damage events.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25962: (26) The Board and the executive management of the supervised entity shall obtain information on the most significant operational risks of the different business areas. As part of the establishment and maintenance of internal control, the Board shall regularly receive reports on the supervised entity's most significant risks and damage events.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25963: Guideline (paragraphs 27-30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25964: (27) The FIN-FSA recommends that the information to be reported include, for example, descriptions of events, reasons for events, estimates of direct and indirect costs, and measures for damage prevention. It is also recommended that the measures taken in response to the damage and the contact persons and schedule for the corrective actions be reported.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25965: (28) The FIN-FSA recommends that the executive management of the supervised entity regularly assess the up-to-dateness, precision and appropriateness of the risk management procedures and reporting systems. The contents and level of detail of reports as well as their dissemination and reporting frequency should also be assessed on a regular basis.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25966: (29) Bearing in mind the significance of monitoring and reporting, the FIN-FSA recommends the setting of a threshold amount, above which the events should be reported. Even small damages and close calls should be reported, if they are fundamentally important to the functioning of the risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_25967: (30) The FIN-FSA recommends that the monitoring of losses due to operational risk be carried out according to the below table.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25970: Internal irregularities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25971: embezzlement, fraud, bribe-taking, securities markets offence or violation, malicious damage, absence of (or acting beyond) powers, misuse of customer information, intentional misreporting of positions, breach of business confidentiality, extortion
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25972: External malicious damage
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25973: theft, robbery, fraud (eg in use of payment means), forgery, money laundering, intrusion into IT systems, spreading of malicious software, denial-of-service attacks on IT systems, bomb threats, threats to staff, extortion
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25974: Working conditions, occupational safety
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25975: violations of the Contracts of Employment Act (working hours, occupational safety), discrimination claims, disputes over wages, compensation or dismissal, labour market disputes
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_25976: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25977: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25980: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25981: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25987: Losses due to questionable business practices
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_25988: unlawful and objectionable or misleading marketing and provision of services; misuse of confidential customer information (eg in marketing); neglect of obligation to disclose information to customers, of secrecy requirements or of duty to investigate; improper execution of assignments or handling of customer assets; securities markets offence or violation; money laundering
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25989: Damage to physical assets
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25990: fire, water damage, floods
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25991: Damage from IT system disruptions and outages
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25992: software failure, data communication failure, computer downtime, hardware failure, power failure, disruption caused by external service provider
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25993: Process-related problems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25994: misreporting, faulty customer information, data entry errors, pricing errors, contract invalidity, incomplete legal documentation, document disappearance, collateral management failures, unsuccessful execution of customer assignment, disruption in outsourced service, dispute with external service provider, accounting error
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_25995: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_25996: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_25997: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_25999: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26000: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26002: ****************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26005: 5 Key components of operational risk management
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26006: 5.1 Processes
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26007: (1) In this chapter a process refers to the sum of activities and resources required to create a service or product. Process management comprises the aspects of customer satisfaction, efficiency, profitability and reliability and quality of operations. A survey of the operational risk related to the different phases of the processes will help the supervised entity to identify and mitigate operational risk.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26008: (2) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26009: Regulation (paragraph 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26010: (3) Supervised entities must identify the key processes of their business. Controls shall be built into the different phases of the processes. The adequacy of the controls shall be assessed especially whenever the scope or contents of the business or processes change.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26011: Guideline (paragraphs 4-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26012: (4) The FIN-FSA recommends that the supervised entity pay special attention to the interfaces between different organisational units and companies in the processes, to possible points of discontinuity in the processes, cross-border operations and payment transactions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26013: (5) The FIN-FSA recommends that the key processes for the conduct of business should be documented in writing as uniformly as possible, including descriptions of the tasks involved in the process, the different phases of the process and their interdependencies and vulnerabilities. The documentation should also cover flows of information and materials, reporting, and interested parties and IT systems of the process. In particular, the supervised entity should see to it that instructions are in place for the handling of large transaction volumes and that they are well- documented. The process descriptions should be updated on a regular basis.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26014: (6) The FIN-FSA recommends that the principles applied in the implementation of different projects should be as uniform as possible. Risk assessments of major projects should be made in advance.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:LEGAL_RISK]
+PARAGRAPH_26015: 5.2 Legal risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:LEGAL_RISK]
+PARAGRAPH_26016: (7) Legal risk may be caused by external factors, such as changes in the operating environment, and effects of the supervised entity's own activities. All business activities can be exposed to legal risk. The interpretation, scope and validity of the legal framework governing the supervised entity's operations entail uncertainties that may give rise to significant losses and have a bearing on the entity's legal responsibility and possible liability for indemnification.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26017: (8) Disputes concerning the validity and contents of contracts may have an adverse effect on supervised entities' business activities. Disengagement from disadvantageous contracts and entry into compensating contracts may involve risk of loss. This applies to the use of standardised contracts in particular. Documents issued by supervised entities, such as prospectuses and
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_26018: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26019: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26020: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26022: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26024: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26027: advertisements, may also give rise to indemnification liability or risk of damaged reputation or reduced goodwill.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26028: (9) By virtue of its regulatory powers as referred to in section 2.4, the FIN-FSA issues the following regulation on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26029: Regulation (paragraph 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26030: (10) The Board of the supervised entity must identify the key legal risks in the entity's business activities and ensure that the legal risks are appropriately managed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26031: Guideline (paragraphs 11-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:LEGAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26032: (11) The FIN-FSA recommends that the executive management organise the legal risk management and ensure that adequate resources are allocated so that legal risks can be identified, monitored and mitigated in different business areas.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26033: (12) The FIN-FSA recommends that the supervised entity ensure adequate expertise for managing legal risks for the purpose of entering into contracts and other legal commitments. The supervised entity should ensure that representatives of contract parties are entitled to sign the contract.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26034: (13) The FIN-FSA recommends that the supervised entity keep files of contract-related documentation in an appropriate manner and that validity of contracts and possible differences of interpretation and disputes be monitored.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26035: (14) The FIN-FSA recommends that the supervised entity keep track of changes in both legislation and international regulations so as to be well prepared in advance for new legal and regulatory requirements. The supervised entity should know the legal praxis of its own business area.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26036: (15) The FIN-FSA recommends that the parent company of financial and insurance conglomerates see to it that all companies included in the conglomerate have adequate knowledge of the provisions and regulations of both business sectors. Supervised entities that operate across borders must take into account that key legal principles and practices may vary significantly from one country to another.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26038: (16) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26039: Regulation (paragraphs 17-20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26040: (17) The supervised entity shall ensure that the professional skills of the entity's employees and new recruits are adequate for the tasks involved, the size of the entity and the scope and nature of its activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26041: (18) The supervised entity shall have procedures in place to ensure that the requirements on staff skills, such as formal qualification and sufficient education and experience, are met at all times. When recruiting new members of staff, special attention shall be paid to their reputation and background.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_26042: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_26043: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_26044: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_26046: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_26048: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26051: (19) The executive management shall ensure that there are sufficient human resources to handle all the tasks involved. In order to ensure business continuity, particularly employees performing key duties shall have deputies who can act in their stead in case of sudden termination or interruption of employment.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26052: (20) The supervised entity shall use all necessary procedures to ensure that employees do not reveal financial or private details, or business or professional secrets, concerning customers or other parties associated with the entity. Such information may only be divulged if the conditions stated in law are fulfilled.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_26053: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26054: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26055: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26057: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26059: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26061: 6 IT systems and information security
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26062: 6.1 IT systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26063: (1) In accordance with chapter 9, section 16, subsection 2 of the CIA, a credit institution shall have adequate, secure and reliable payment, security and other IT systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26064: (2) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on the establishment and maintenance of risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26065: Regulation (paragraphs 3-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26066: (3) The Board of the supervised entity shall ensure that the entity has IT systems in place that are adequate and appropriate vis-à-vis the nature and scope of its business. The adequacy and appropriateness of the IT systems shall be assessed in relation to the supervised entity's business activities, the requirements of the Board and the fact that the systems must support business activities according to policies set by the Board.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26067: (4) The supervised entity shall have the expertise, organisation and internal control required to record, transfer, process and file information. If these functions are outsourced, the supervised entity shall ensure that the company providing IT services comply with the principles laid down in this chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26068: (5) The Board shall adopt an IT strategy in accordance with the entity's current and projected future needs and review it regularly. In addition, the Board shall monitor the IT costs.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26069: (6) There must also be standard procedures in place for launching systems, managing changes and testing. The systems must be thoroughly tested before introduction. If necessary, load and capacity tests of the systems must be performed.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26070: Guideline (paragraphs 7-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26071: (7) The FIN-FSA recommends that the supervised entity put in place policies to ensure cooperation between business units and IT service units. However, supervised entities should separate systems development and production from each other.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26072: (8) The FIN-FSA recommends that the supervised entity introduce methods for system development and quality control, in order to ensure that the systems function as planned. In addition, there should be documentation on the systems to ensure that they can be used and developed despite, for example, turnover of key persons.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26073: (9) The FIN-FSA recommends that the supervised entity describe the procedures applied, when key software and hardware are purchased or contracts entered into with service providers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26074: The supervised entity should ensure that procurements and contracts meet the entity's needs and the quality levels set for the operations, and that they guarantee continuity of service.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26075: (10) The FIN-FSA recommends that the supervised entity take into account in the management of their IT system risks the EBA Guidelines on ICT Risk Assessment under the Supervisory Review and Evaluation Process (SREP). (Issued on 6 November 2017, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_26076: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26077: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26078: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26080: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26082: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26083: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26086: 6.2 Information security
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26087: 6.2.1 Definition and basic requirements of information security
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26088: (11) Information security refers to administrative, technical and other measures by which a company's data, services, systems and data communications are protected and secured under normal as well as emergency conditions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26089: (12) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on the establishment and maintenance of information security.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26090: Regulation (paragraphs 13-17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26091: (13) The supervised entity's general information security level and the basic safety levels of the different data systems shall be adequate vis-à-vis the nature and scope of the entity's activities, the severity of threats to the information systems, and the general level of technological development.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26092: (14) The Board of the supervised entity is responsible for adequate information security within the entity. The general information security level shall be defined and approved by the Board. The supervised entity shall allocate necessary resources and delegate responsibilities for maintaining an adequate level of information security. The supervised entity shall regularly review the information security level. Detected insufficiencies in security must be addressed promptly.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26093: (15) Supervised entities shall specify the owners of the data that they store and process, and the owners of the systems that they use. The owners are responsible for utilisation policies, access rights and security relating to information and systems. The supervised entities shall categorise all stored and processed data by their security requirements, and draw up handling rules for the different security categories.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26094: (16) Supervised entities shall grant authorisations to access data, programs and systems and ensure that systems are used according to uniform principles adopted by the management. Authorisations shall be granted on the basis of staff duties. Technical authentication methods shall be used to restrict access to data, programs and systems to authorised users only. Access violations shall be investigated and reported to the organisational entity responsible for the systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26095: (17) Access to the information systems shall be monitored. Non-repudiation of electronic events and identification and authentication of intercommunicating parties must be handled appropriately. The information systems must also provide a full audit trail of all events.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26096: Guideline (paragraphs 18-19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26097: (18) The FIN-FSA recommends that supervised entities, as applicable, follow the instructions of the Government Information Security Management Board.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26098: 1 Instructions on Implementing the Decree on Information Security in Central Government, VAHTI 2/2010.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_26099: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26100: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26103: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26104: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26106: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26109: (19) The FIN-FSA recommends the keeping of an appropriate log of events pertaining to the development of services. In addition, the monitoring of access to services and the identification and authentication of users should be taken into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26110: 6.2.2 Management of information security risks and handling of information security events
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26111: (20) An information security incident is an event or act of non-compliance with the information security principles (for example a virus attack), an IT system intrusion, or a data leakage.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26112: (21) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation on the establishment and maintenance of information security risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26113: Regulation (paragraphs 22-24)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26114: (22) Information security risk assessment shall be built into the supervised entity's risk management to ensure that the Board and executive management comprehend the total impact of all major risks associated with the business activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26115: (23) The assessment of a supervised entity's information security level shall be based on regular assessment of information security risks. In the risk assessments, the supervised entity's key activities and resources and the threats thereto, the vulnerability of the entity's activities and resources to these threats, and the threats1 potential impacts on the entity's activities shall be noted. Built-in controls for managing recognised risks shall be established. The risks of launching new systems, technology and services shall also be assessed prior to introduction.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26116: (24) Information security incidents shall be identified, analysed, filed and reported to designated persons within the organisation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26117: 6.2.3 Information security rules and training
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26118: (25) Information security rules are, for example, rules on access control management, prevention of malicious software, and use of Internet and email.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26119: (26) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26120: Regulation (paragraphs 27-28)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26121: (27) The supervised entity shall have up-to-date information security principles adopted by the Board and information security rules supporting those principles. The rules shall be communicated to the staff.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26122: (28) Supervised entities shall clearly define the information security duties for each staff member and supply regular information security training to all staff. Information security development shall be an ongoing process, and the related managerial responsibilities shall be clearly defined.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_26123: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26124: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26125: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26127: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26129: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26132: 6.2.4 Ensuring information security in online services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26133: (29) Information security of online services comprises, among other things, the security of policies and applications used and of technical systems and data communications.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26134: (30) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26135: Regulation (paragraphs 31-32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26136: (31) Supervised entities shall assess the online suitability of services before existing services are made available online or new online services are launched. The major risks involved in such services and the risk management methods shall be documented, and the necessary controls for managing risks shall be built into the system. Internal control and risk management of online operations, IT systems and internal processes shall be designed and set up taking into account the nature and scope of the supervised entity's activities and the potential threats thereto.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26137: (32) Supervised entities shall, on an ongoing basis, assess and upgrade their IT systems and the information security of them, and adequately protect themselves against the different kinds of disruptions and possible misuse.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26138: 6.2.5 Development of services with comprehensive information security
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26139: (33) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26140: Regulation (paragraph 34)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26141: (34) In its development of new services, the supervised entity shall analyse the information security risks. On the basis of the risk analysis, the necessary measures must be taken to manage the risks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26142: Guideline (paragraph 35)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26143: (35) The FIN-FSA recommends that the supervised entity check at least the following items to ensure adequate information security before launching and offering a service:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26144: · System-based information security tests and reviews have been made and ongoing monitoring and reporting of security levels and possible disruptions of systems have been carried out. A system review means a systematic examination of the security level of a system, service or activity to ensure that the targeted security level is achieved.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26145: . In order to ensure the availability and continuity of a service, standby facilities have been described in advance and recovery plans have been prepared for the systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26146: · Systems have been equipped with necessary anti-virus programs and other mechanisms to avert malicious software.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26147: · Systems and their necessary data connections have been protected against, for example, denial-of-service attacks. Systems have been equipped with access control mechanisms,
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_26148: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26149: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26152: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26153: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26155: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26158: and the supervised entity has ensured that appropriate management of authorisations is in place.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26159: · The external network has been separated from the supervised entity's internal network by means of security features.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26160: · Systems are tested on a regular basis and particularly after system changes. Detected security shortcomings are remedied immediately.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26161: · Before roll-out, online services are subject to information security audits, which shall also be conducted on a regular basis during the ongoing provision of online services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26162: · Supervised entities have ensured that, in online services, data communications and data processing in service provider systems fulfil confidentiality, integrity and non-repudiation requirements. The procedures for identification and authentication of communicating parties should also be reliable.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26163: · Supervised entities have equipped their IT systems with verification mechanisms and audit trails, which ensure the accuracy and integrity of input and output data. It should be possible to follow an end-to-end audit trail of all events processed in the systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26164: · Systems have been equipped with built-in controls allowing reconciliation of transactions processed in different subsystems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26165: · Services have been developed with cognisance of standby facilities to prepare for disruptions and outages in activities and systems by setting up alternative modes of operation or systems. Standby facilities typically involve the use of duplex components in data processing and data communications as well as backup copying.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26166: · Any customer-specific passwords have been encrypted within the system and for transfers between systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26167: · Special care has been taken and hazardous combinations of duties avoided in creating, handling and delivering customer-specific ID data (user IDs and passwords).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26168: · The systems have created logs on logins, login attempts and service usage. Logs and log reports are checked regularly.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26169: . Customers are provided with sufficient information on the service provider, services offered, division of responsibilities between service provider and user, and secure use of the services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_26170: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26171: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26172: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26174: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26176: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26179: 7 Payment systems and money transmission
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26180: (1) In accordance with chapter 9, section 16, subsection 2 of the CIA, a credit institution shall have adequate, secure and reliable payment, security and other IT systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26181: (2) Based on section 19 a and 19 b of the PIA, supervised entities providing payment services and persons providing payment services without authorisation must have adequate risk management procedures for managing the operational and security risks of payment services and for monitoring and reporting anomalies and fraud. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26182: (3) Payment systems are generally characterised by the following features:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26183: · use of agreed means of payments
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26184: · participants include credit institutions, payment institutions and clearing corporations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26185: · participants agree on certain money transmission and risk management practices
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26186: · mediation of fund transfers between payer and payee
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26187: (4) Clearing systems provide intermediation of transactions in interbank fund transfers and may also provide transaction settlement services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26188: (5) Means of payment comprise payment cards, other tailor-made instruments or procedures, or combinations thereof, which may be used for execution of payment orders as agreed between the user and provider of payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26189: (6) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26190: Regulation (paragraphs 7-11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26191: (7) The supervised entity's Board shall approve the money transmission principles for the payment and clearing systems that the entity participates in and for the payment services that the entity provides to its customers. The principles shall apply to present activities but expected developments over the next few years shall also be taken into account. The Board shall set objectives for the activity to ensure and monitor efficient, high-quality and reliable money transmission. The clearing systems used by the supervised entity shall also be in line with the objectives.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26192: (8) The executive management is responsible for ensuring that the supervised entity has the necessary expertise, resources and internal control for the maintenance of efficient and secure money transmission. Supervised entities shall survey the risks related to the money transmission systems and payment services they use and regularly update these risk surveys.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26193: (9) Supervised entities' money transmission systems shall be reliable and secure. The entities shall ensure that disruptions and delays in the money transmission are kept to a minimum. There shall be adequate standby facilities for handling the interbank transactions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_26194: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26195: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26196: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26198: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26200: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26203: (10) Supervised entities providing payment services and persons providing payment services without authorisation shall have adequate risk management procedures to manage the operational and security risks related to payment services. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26204: (11) Supervised entities providing payment services and persons providing payment services without authorisation shall prepare an assessment of the operational and security risks of payment services, including an assessment of the adequacy of risk management and control mechanisms. The assessment shall be submitted to the FIN- FSA annually in accordance with chapter 9.3. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26205: Guideline (paragraphs 12-16)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26206: (12) The FIN-FSA recommends that supervised entities submit risk assessments of new payment services, systems and techniques to FIN-FSA before their introduction. Risk assessments should also be submitted to the FIN-FSA before the introduction of significant changes in payments and clearing systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26207: (13) The FIN-FSA recommends that supervised entities inform the FIN-FSA of new payment services and significant changes in existing services well in advance and prior to their introduction.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26208: (14) The FIN-FSA recommends that supervised entities take account of EBA's Guidelines on the Management of the ICT and security risks (EBA/GL/2019/04) (30 June 2020) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26209: (15) The FIN-FSA recommends that supervised entities providing payment services and persons providing payment services without authorisation adhere to the EBA's Guidelines on the Management of the ICT and security risks (EBA/GL/2019/04) (30 June 2020) (Issued on 16 February 2022, valid from 1 March 2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26210: (16) The FIN-FSA recommends that supervised entities participating in the activities of a systematically important payment and clearing system comply, as applicable, with the ECB regulation ECB/2014/28, by which the CPSS and IOSCO recommendation Principles for financial market infrastructures is implemented.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_26211: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26212: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26213: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26215: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26217: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26218: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26220: 8 Continuity and emergency planning
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26221: 8.1 Legal framework
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26222: (1) In accordance with chapter 9, section 16, subsection 3 of the CIA, credit institutions shall have contingency and continuity plans to prepare for serious disruptions, ensure continued operations and mitigate damages due to disruptions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26223: (2) In accordance with chapter 5, section 16 of the CIA, credit institutions shall as far as possible ensure undisrupted operations regardless of contingencies by participating in financial market emergency planning, preparing in advance for operations in emergency conditions, and by taking other measures.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26224: (3) In accordance with chapter 18, section 5 of the CIA, the provisions in chapter 5, section 17 on contingency planning correspondingly also apply to branches of foreign credit institutions. They do not apply to branches of foreign European Economic Area (EEA) credit institutions in so far as a branch, by virtue of the credit institution's home state legislation, has ensured its operations in emergency conditions in a way corresponding to chapter 18, section 5 of the CIA and has submitted an appropriate report thereon to FIN- FSA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26225: (4) In accordance with section 41 a of the PIA, payment institutions shall as far as possible ensure undisrupted operations regardless of contingencies by participating in financial market emergency planning, preparing in advance for operations in emergency conditions, and by taking other measures. A corresponding contingency planning obligation is required of branches of foreign payment institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26226: (5) In accordance with chapter 7, section 8 of the ISA, investment firms providing custody of financial instruments as an ancillary service shall as far as possible to ensure undisrupted operations regardless of contingencies by participating in financial market emergency planning, preparing in advance for operations in emergency conditions, and by taking other measures. In accordance with chapter 1, section 4, subsection 2 of the ISA, the provisions on emergency planning apply to AIF managers providing investment services. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26227: (6) In accordance with chapter 7, section 15 of the ISA, the provisions in section 8 on continuity planning also apply to branches of foreign EEA investment firms. In accordance with chapter 1, section 7 of the ISA, the provisions in chapter 7, section 15 of the ISA apply in respect of these services to third country companies providing investment services or pursuing investment activities in Finland via a branch. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26228: (7) In accordance with section 4 a of the MFA, mutual funds shall as far as possible to ensure undisrupted operations regardless of contingencies by participating in financial market emergency planning, preparing in advance for operations in emergency conditions, and by taking other measures. In accordance with chapter 1, section 6, subsection 2 of the AIFMA, the contingency planning obligation referred to in chapter 7, section 8 of the ISA applies to AIF managers providing investment services as referred to in chapter 3, section 2 of the AIFMA. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26229: (8) In accordance with chapter 2, section 12 of the Act on the Book-Entry System and Settlement Systems, the Finnish Central Securities Depository (APK) shall as far as possible ensure
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_26230: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26231: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26234: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26235: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26237: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26240: undisrupted storage of the data in the book-entry system regardless of contingencies by using data systems available in Finland or other appropriate facilities providing undisrupted operations as well as by participating in financial market emergency planning, preparing in advance for operations in emergency conditions, and by taking other corresponding measures. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26241: 8.2 Continuity planning
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26243: Continuity planning refers to preparations that enable supervised entities to carry on their operations despite disruptions in business activities and to mitigate losses from different events that disturb business activities. Disturbing events may be caused by damages or intentional acts affecting, for example, the supervised entity's staff, business premises, IT systems or data communications, or by water damage, fire or power failure, or breakdowns in heating or water supply. As part of their continuity planning, supervised entities shall draw up separate plans for each key business area in order to enable continued business despite disruptions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26244: (10) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on continuity planning.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26245: Regulation (paragraphs 11-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26246: (11) The Board of the supervised entity is responsible for ensuring that the entity's key business areas are covered by continuity plans that are up-to-date and adequate. The executive management shall allocate the responsibilities for the supervised entity's continuity planning. The supervised entity shall have a clear model for preparing, maintaining and testing its continuity plans, and for monitoring continuity planning.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26247: (12) The supervised entity shall map and prioritise its key business processes. Minimum recovery times, i.e. maximum acceptable disruptions, that would not disturb business activities, shall be defined for the processes. Alternative modes of operation and recovery procedures shall be set up for prioritised processes in case of disruptions. Special attention shall be paid to the restoration of information that is crucial for the resumption of business activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26248: (13) IT systems and programs shall be ranked according to how quickly they must be recovered after different types of disruptions. There must be recovery plans for IT systems describing how each IT system can be reactivated in the event of a serious disruption or catastrophe.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26249: (14) Backup copies and possible standby computer facilities shall be located so far from the ordinary IT centre that data and backup copies cannot be destroyed at the same time.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26250: (15) Supervised entities' continuity plans must be based on threat and vulnerability analyses of the entity's business activities, i.e. on analyses of threats, vulnerabilities and risks affecting data, systems, activities and services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26251: (16) In business continuity plans, attention shall be paid to various threat scenarios and vulnerabilities in different functions. Continuity plans shall be gauged according to the nature, scope and complexity of the supervised entity's activities. The continuity plans shall guide the supervised entity's activities and information in case of any kind of disruption.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26252: (17) Supervised entities shall prepare for disruptions in the activities of external service providers. The continuity plans shall describe the manner of preventing external service provider activity
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_26253: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26254: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26255: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26257: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26259: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26260: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26263: disruptions from affecting the supervised entity's business activities and the entity's monitoring of external service providers' continuity planning. Contracts with external service providers must require that the providers analyse, update and test their own systems against disruptions of activities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26264: (18) Continuity plans shall be updated on a regular basis and adjusted to changes in the supervised entity's business activities, services and strategies. Continuity plans shall be tested and the planned measures practised on a regular basis. Responsibilities for seeing that continuity plans are up-to-date and tested shall be specifically assigned.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26265: 8.3 Contingency planning
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26266: (19) The requirements to plan for contingencies is based on the Emergency Powers Act and contingency planning guidelines issued by the authorities. Contingencies are situations as defined in section 3 of the Emergency Powers Act. Normal continuity arrangements form the basis for contingency planning for emergency conditions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26267: (20) As a rule, disruptions last longer in emergency conditions than those accounted for in normal continuity plans. In addition, the risks associated with emergency conditions are generally more serious than those prepared for in continuity plans.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26268: (21) The guidelines for contingency planning included here may also be applied to severe disruptions and crises other than the emergency conditions referred to in the Emergency Powers Act. Serious disruptions and crises may, for example, be caused by serious threats to functioning of staff or destruction of a supervised entity's premises or IT environment.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26269: (22) In its decision of 5 December 2013, the Government set general objectives for maintenance readiness. The guidelines for contingency planning issued by the Financial Maintenance Pool in 2009 provide more specific contingency planning objectives and more detailed guidelines for contingency planning.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26270: Guideline (paragraphs 23-30)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26271: (23) The FIN-FSA recommends that supervised entities, based on a risk analysis, consider whether central and significant production systems used for creating services and the know-how for guiding, maintaining, handling and technically supporting them should be exclusively or substantially maintained in Finland or whether it is sufficient that they can be returned to Finland according to pre-planned arrangements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26272: (24) The FIN-FSA recommends that supervised entities provide standby facilities for ensuring interbank payments, clearing, settlement and custody of securities, and payment of pensions and other regular transactions also in situations where critical systems for these functions are not available in or outside of Finland. In addition, supervised entities should ensure the card payment infrastructure and the functioning of card certification in Finland.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26273: (25) The FIN-FSA recommends that supervised entities ensure that the paralysis or damage of a single function in the IT and data communication systems required for creating central services do not paralyse the whole system. Supervised entities should prepare for disruptions in international and national data communications by establishing standby facilities.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_26274: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26275: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26276: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26278: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26280: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26283: (26) The FIN-FSA recommends that IT systems and data warehouses required for creating central services be geographically separated into at least two places with different risk profiles. Key data and central functions may be moved within the EU area provided that their lawfulness, security and availability for achieving the service objectives defined in this guideline are ensured.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26284: (27) The FIN-FSA recommends that supervised entities secure the key data required for creating services so that the data essential to the continuity of operations can be recovered, if the actual data processing centres or data therein are destroyed. This type of key data includes at least basic data on customers and customer contracts, for example personal data, and data on customers' asset and liability positions. Recovery of data from separate security backup to generally readable electronic format should be tested.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26285: (28) The FIN-FSA recommends that supervised entities' contingency planning also cover outsourced activities in as far as core functions and services must be maintained during emergency conditions. Contingency planning requirements should be taken into account already when outsourcing contracts are drawn up. Supervised entities subject to contingency planning requirements should evaluate contingency plans drawn up by external suppliers and ensure that they meet prevailing requirements. A supervised entity subject to contingency planning requirements should, for example, test an external supplier's contingency plan in joint trial runs with the supplier.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26286: (29) The FIN-FSA recommends that supervised entities subject to contingency planning requirements ensure that they have adequate resources and capacity to maintain their activities in emergency situations and during severe disruptions. Plans for accessing substitute staff and premises should also be made in advance. Availability of substitute resources should be ensured in advance for situations in which a large part of the supervised entity's staff is absent or part of the entity's main premises, hardware and software have been destroyed, or is not otherwise available, or the entity is prevented from carrying out business over a large geographic area.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26287: (30) The FIN-FSA recommends that supervised entities subject to contingency planning requirements should continue their reporting to the authorities also in emergency conditions.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26288: 8.4 Emergency plan
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26289: (31) An emergency plan is a description of measures, drawn up in advance, by means of which a supervised entity subject to contingency planning requirements ensures that it can continue its operations during severe disruptions in normal conditions as well as in emergency conditions. The emergency plan may be part of the continuity plan, provided that it adequately covers emergency requirements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26290: Guideline (paragraphs 32-33)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26291: (32) The FIN-FSA recommends that supervised entities maintain an up-to-date emergency plan. Supervised entities subject to contingency planning requirements should regularly test and practice the functioning of the emergency plan. This should be done both separately and together with the other market participants.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26292: (33) The FIN-FSA recommends that supervised entities subject to contingency planning requirements should appoint one or several persons to be responsible for updating and disseminating information on the emergency plan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_26293: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26294: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26295: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26297: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26299: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26300: ****************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26303: 9 Reporting to FIN-FSA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26304: 9.1 Reporting of disruptions and faults in operations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26305: (1) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulations on regular submission to the FIN-FSA of information on internal control, risk management and disruptions. (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26306: Regulation (paragraphs 2-7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26307: (2) Supervised entities shall without delay submit an initial report to the FIN-FSA of any substantial faults or disruptions in services provided to customers and in payment and IT systems. Substantial disruptions in money transmission and card payments may be, for example, disruptions and delays affecting a large number of customers. Substantial disruptions also include disruptions and deviations related to network and information security or disruptions where customer information has come into the possession of external parties. Disruptions and faults damaging or jeopardising the supervised entity's capacity to continue its business activities or fulfil its obligations shall also be reported to the FIN-FSA without delay. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26308: (3) The report must be identified by "information security" if it concerns an information security deviation and "data protection" if it involves a violation of data protection (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26309: (4) Soon after the first report, the supervised entity shall submit a supplementary report to the FIN- FSA with more detailed information on the disruption, and a final report once the root cause of the disruption has been identified. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26310: (5) A report shall be submitted at least for the following disruption types: (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26311: . IT system intrusions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26312: · exposure of information to unauthorized parties
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26313: · information security breach
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26314: · spreading of malicious software to IT systems
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26315: · denial-of-service attacks.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26316: A report shall be submitted only on such occasions of exposure of information to unauthorized parties, which also shall be reported to the Data Ombudsman. The supervised entity may, if so decides, to use the same report for both authorities. For denial-of-service attacks only those shall be reported which affect the availability or reachability of the services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26317: (6) The following disruptions shall also be reported, if they affect the quality of the services provided to the customers:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26318: · software failures
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26319: · disruptions in telecommunication
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_26320: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26321: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26322: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26324: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26325: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26329: · system downtime
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26330: · hardware failures
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26331: · delays in money transmission.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26332: (7) Supervised entities providing payment services and persons providing payment services without authorisation shall report major operational and security disruptions concerning payment services to the FIN-FSA, adhering to EBA Guidelines on major incident reporting.3 Reporting shall cover the information referred to in the Guidelines, and major incident classifications and reporting deadlines according to the Guidelines shall be adhered to in reporting. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26333: Guideline (paragraphs 8-10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26334: (8) The report, supplementary report and final report shall be made with the form template available on the FIN-FSA's website and submitted according to the operating guidelines available on the FIN-FSA's website. (Issued on 1 December 2022, valid from 1 January 2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26335: (9) Significant operational and security disruptions concerning payment services shall be reported in accordance with EBA Guidelines. A report, supplementary report and final report shall be made with the form template available on the FIN-FSA's website and submitted according to the operating guidelines available on the FIN-FSA's website. A FIN-FSA disruption report form, as referred to in paragraph (8), need not be sent separately for these disruptions. (Issued on 1 December 2022, valid from 1 January 2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26336: (10) The report submitted to the FIN-FSA does not remove the obligation of the supervised entity to report the exposure of information to unauthorized parties also in accordance with the reporting obligations of the General Data Protection regulation. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26337: 9.2 Annual report on losses from operational risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26338: (11) The report on losses from operational risk that is to be submitted to the FIN-FSA should be prepared on the basis of the supervised entity's internal loss reporting. Guidelines on the reporting of damages due to operational risk are provided in section 4.4.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26339: (12) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation on regular submission to FIN-FSA of information on internal control and risk management. (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26340: Regulation (paragraphs 13-16 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26341: (13) Supervised entities shall, by 28 February, submit an annual report to the FIN-FSA on losses from operational risk detected in the previous year.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26342: 3 EBA Revised Guidelines on Major Incident Reporting under PSD2 (EBA/GL/2021/03)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_26343: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26344: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26345: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26347: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26349: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [RISK:OPERATIONAL_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26352: (14) The annual report shall be prepared on the five largest loss events in euro amounts due to operational risk during the course of the calendar year. However, no report need be prepared on damages of less than EUR 10,000.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26353: (15) The report shall include at least the following information:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26354: · event description and damage type according to the classifications defined in section 4.4
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26355: · information on measures taken in response to the event
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26356: · information on loss amount as well as on insurance indemnity or other compensations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26357: (16) The annual report shall be made with the form template available on the FIN-FSA's website and submitted according to the operating guidelines available on the FIN-FSA's website. (Issued on 1 December 2022, valid from 1 January 2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26358: Guideline (paragraphs 17-18)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26359: (17) The FIN-FSA recommends that the central body of the amalgamation of deposit banks submit the report on losses from supervised entities within the amalgamation, and that the Local Cooperative Bank Association submit the report on losses from cooperative banks within the association, to the FIN-FSA.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26360: (18) The FIN-FSA recommends that an annual report be also submitted in case there have been no losses. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26361: 9.3 Annual assessment of operational and security risks of payment services (Issued on 29 January 2018, valid from 1 March 2018)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26362: (19) By virtue of its regulatory powers referred to in section 2.4, the FIN-FSA issues the following regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26363: Regulation (paragraph 20)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26364: (20) Supervised entities providing payment services and persons providing payment services without authorisation shall submit annually to the FIN-FSA their assessment of operational and security risks as well as risk management measures. A free-form risk assessment shall be submitted by 28 February according to the operating guidelines available on the FIN-FSA's website. (Issued on 1 December 2022, valid from 1 January 2023)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26365: 9.4 Reporting of fraud data related to payment services (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26366: (21) In accordance with chapter 3, section 19b (4) of the Act on Payment Institutions, payment institutions and persons providing payment services without an authorisation shall provide statistical data on fraud relating to different means of payment to the Financial Supervisory Authority. By virtue of chapter 3, section 19b (4) of the Act on Payment Institutions, the Financial Supervisory Authority may issue further regulations on this reporting obligation. The provision
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_26367: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26368: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26369: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26371: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26374: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26375: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26378: also applies, in accordance with chapter 9, section 16(4) of the Credit Institutions Act, to credit institutions providing payment services.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26379: (22) By virtue of Article 16 of Regulation EU) N:o 1093/2010 of the European Parliament and of the Council, the European Banking Authority issued "Guidelines on fraud reporting under Article 96(6) PSD2". (EBA/GL/2018/05) Fraud information shall be reported according to these Guidelines for the year 2021 for the last time. Fraud information for the year 2022 shall be reported to the Bank of Finland according to the guidelines given by the European Central Bank.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26380: Regulation (paragraphs 23-26 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26381: (23) Supervised entities providing payment services and persons providing payment services without authorisation as well as domestic credit institutions providing payment services and foreign credit institutions' branches providing payment services in Finland must report data on fraud related to payment instruments on an MF form available at the FIN-FSA's Jakelu distribution service. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26382: (24) Payment institutions and credit institutions providing payment services must submit the data to the FIN-FSA semi-annually by 28 February and 31 August. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26383: (25) Persons providing payment service without authorisation must report the data annually by 28 February. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26384: (26) Foreign payment or credit institutions' branch operating in Finland must submit the data to the FIN-FSA semi-annually by 28 February and 31 August. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26385: Guideline (paragraph 27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26386: (27) The FIN-FSA recommends that to the extent there are no binding regulations above in this chapter 9.4 on the EBA Guidelines referred to above in paragraph (20), parties falling within the scope of application of this chapter comply with said Guidelines. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26387: 9.5 Applying for an exemption from maintaining a contingency mechanism for a PSD2 dedicated interface (Issued on 23 September 2019, valid from 1 January 2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26388: (28) By virtue of Article 16 of Regulation (EU) No 1093/2016 of the European Parliament and of the Council, the European Banking Authority (EBA) has issued "Guidelines of the European Banking Authority on the conditions to benefit from an exemption from the contingency mechanism under Article 33(6) of Regulation (EU) 2018/389" (regulatory technical standard on strong customer authentication and common and secure open standards of communication) (EBA/GL/2018/07).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_26389: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26390: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26393: Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26394: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26396: S FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26399: Guideline (paragraph 29)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26400: (29) The FIN-FSA recommends that entities and persons falling within the scope of application of these guidelines comply with the ESA Guideline referred in paragraph (26), which is available at finanssivalvonta.fi. (Issued on 23 September 2019, valid from 1 January 2020).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_26401: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26402: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26403: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26405: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26407: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26410: 10 Repealed regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26411: Upon their entry into force, these new regulations and guidelines repeal the following FIN- FSA standards:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26412: . The FIN-FSA standard 4.4b on management of operational risk
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26413: · The FIN-FSA standard RA4.2 on reporting of operational risk events
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26414: · Section 9.7 on operational risk management in the FIN-FSA standard 6.1 on the operations of payment institutions and persons providing payment services without authorisation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26415: · Section 4.3.4 on reporting of operational risk events in the FIN-FSA standard RA 6.1 on the operations of payment institutions and persons providing payment services without authorisation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_26416: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26417: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26418: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26420: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26422: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26425: 11 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26426: Since their introduction, these regulations and guidelines have been revised as follows: Issued on 21 April 2015, valid from 1 July 2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26427: . the reference to the European Central Bank's Recommendations for the security of internet payments in sections 2.5 and 7 has been replaced by a reference to the Guidelines on the Security of Internet Payments, issued by the European Banking Authority (EBA) on 19 December 2014.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26428: Issued on 6 November 2017, valid from 1 March 2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26429: . a reference to the Guidelines on ICT Risk Assessment under the Supervisory Review and Evaluation Process (SREP), issued by the EBA on 11 May 2017, has been added to section 6.1, thereby changing the numbering of chapter 6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26430: Issued on 29 January 2018, valid from 1 March 2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26431: · sections 1.1 and 8.1 have been revised to correspond with provisions of the new Act on the Book-Entry System and Settlement Systems.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26432: · sections 2.1, 2.3, 2.4 and 8.1 have been revised to correspond with the provisions of the new Act on Trading in Financial Instruments.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26433: · section 8.1 has been revised to correspond with the provisions of the amended Investment Services Act (ISA).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26434: · the reference to chapter 7, section 23, subsection 1, paragraph 3 of the ISA has been deleted from section 2.4, because the regulatory power of FIN-FSA included in chapter 7, section 23, subsection 1, paragraph 3 of the ISA has been repealed in connection with the national implementation of the Markets in Financial Instruments Directive ((EU) 65/2014, MiFID II).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26435: · sections 7 and 9.1 have been revised to correspond with the provisions of the revised Payment Institutions Act, thereby changing the numbering of the sections.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26436: · references have been added to the EBA's Guidelines on Major Incident Reporting under PSD2 and Guidelines on the Security Measures for Operational and Security Risks of Payment Services under PSD2, thereby changing the numbering of the sections and adding a new section 9.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26437: Issued on 23 September 2019, valid from 1 January 2020
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26438: · chapter 1.1 has been revised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26439: · chapters 2.1, 2.3, 2.4 and 9.1 have been revised to correspond with the Network and Information Security Directive ((EU) 2016/1148) and national Acts related to its implementation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26440: · chapter 2.2 has been revised to correspond with the Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_26441: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26442: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26443: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26445: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26447: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26450: · chapter 2.5 has been revised by including a reference to European Banking Authority Guideline ((EBA/GL/2018/05) on fraud reporting under Article 96(6) of the PSD2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26451: · chapter 4.3 has been revised by including a reference to the provisions of chapter 7, section 7 of the Act on Investment Firms on product governance procedures
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26452: · chapter 6.2 has been revised by including a guideline on information security audits for online services in paragraph (35)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26453: · numbering in sections 8.3 and 8.4 has been corrected
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26454: · chapter 9.1 has been revised concerning the reporting to the FIN-FSA in terms of reporting obligations under the GDPR and guidelines concerning the reporting of disruptions clarified
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26455: · chapter 9.2 has been clarified regarding the reporting of losses caused by operational risks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26456: · chapter 9.4 on the reporting of fraud data related to payment instruments has been added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26457: o regulations related to the collection of fraud data and reporting deadlines have been added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26458: o reference to Guidelines issued by the European Banking Authority on 18 July 2018 on the reporting of data on fraud related to payment instruments has been added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26459: · chapter 9.5 on applying for an exemption from maintaining a contingency mechanism for a PSD2 dedicated interface has been added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26460: o reference to Guidelines issued by the European Banking Authority on 4 December 2018 on the conditions to benefit from an exemption from the contingency mechanism has been added
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26461: Issued on 16 February 2022, valid from 1 March 2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_26462: · Chapter 2.5 updated by reference to the revised Basel Committee on Banking Supervision (Basel Committee) recommendation Revisions to the Principles for the Sound Management of Operational Risk (BIS, March 2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26463: . Reference to the EBA's Guidelines on Internal Governance has been revised to refer to the revised guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26464: · Reference to the deleted Recommendations for the security of internet payments has been removed from the chapter 2.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26465: · Reference to the EBA's Guidelines on Major Incident Reporting in chapter 2.5 has been revised to refer to the Revised Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26466: · Reference to the deleted EBA Guidelines to the Security Measures for Operational and Security Risks of Payment Services has been removed from the chapter 2.5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26467: . Chapter 2.5 has been updated by adding a reference to the EBA Guidelines on ICT and security risk management (EBA/GL/2019/04)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_26468: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26469: Regulations and guidelines 8/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26470: Issued Valid from
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26472: 1.2.2015 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26474: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26477: . A reference to the EBA Guidelines on ICT and security risk management (EBA/GL/2019/04) has been updated to chapter 7, guideline (14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26478: . A reference to the EBA Guidelines on ICT and security risk management (EBA/GL/2019/04) has been updated to chapter 7, guideline (15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26479: · Reference to the EBA Revised Guidelines on Major Incident Reporting has been updated in chapter 9, regulation (7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26480: · Guidelines for fraud reporting has been updated in the chapter 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26481: Issued on 1 December 2022, valid from 1 January 2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26482: · Chapter 9.1, guideline (8) concerning the submission of an disruption report to the FIN-FSA has been updated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26483: · Chapter 9.1, guideline (9) concerning the submission of an disruption report related to payment services to the FIN-FSA has been updated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41] [REQ_TYPE:MANDATORY]
+PARAGRAPH_26484: · Chapter 9.2, guideline (16) concerning the submission of an annual report to the FIN-FSA has been updated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26485: · Chapter 9.2, regulation (20) concerning the submission of an annual assessment to the FIN-FSA has been updated
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_26486: FIN-FSA FINANCIAL SUPERVISORY AUTHORITY
+

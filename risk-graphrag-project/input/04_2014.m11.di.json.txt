@@ -1,0 +1,959 @@
+METADATA: {"document_id": 34, "filename": "04_2014.m11.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 19, "paragraph_count": 429}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44325: FIN FIN FIN FIN FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44329: Määräykset ja ohjeet 4/2014 Vaihtoehtorahastojen hoitajat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44330: Dnro FIVA/2025/376
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44331: Antopäivä 1.7.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44332: Voimaantulopäivä 22.7.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44333: Lisätietoja Pääomamarkkinoiden valvonta/Sijoi- tuspalvelut ja -tuotteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44334: FINANSSIVALVONTA puh. 09 183 51 etunimi.sukunimi@finanssivalvonta.fi finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44335: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44336: S S FIN IF S
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_44337: FIN FIN FIN EIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44339: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44340: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44343: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44345: FIN FIN FIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44349: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44350: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44351: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetaan Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöja, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44352: Finanssivalvonta antaa määräyksia ainoastaan maarayksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44354: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetaan Finanssivalvonnan tulkintoja lainsäädannön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44355: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Oh- jeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44356: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toiminta- ohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44357: Finanssivalvonta.fi > Sääntely > Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_44358: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44359: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44360: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44363: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44366: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44367: 1 Soveltamisala ja maaritelmät 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44368: 1.1 Soveltamisala 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44369: 1.2 Määritelmät 5
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44370: 2 Säädöstausta ja kansainväliset suositukset 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44371: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44373: 2.2 Euroopan Unionin asetukset 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44374: 2.3 Euroopan Unionin direktiivi. 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44375: 2.4 Finanssivalvonnan maarayksenantovaltuudet 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44376: 2.5 Kansainväliset suositukset (Annettu 18.8.2020, voimaan 24.8.2020) 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44377: 3 Tavoitteet 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44378: 4 Vaihtoehtorahaston määritelmä 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44379: 4.1 Soveltamisala 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44380: 4.2 Vaihtoehtorahaston maaritelmä 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44381: 5 Palkitsemisjärjestelmät 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44382: 5.1 Soveltamisala 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44383: 5.2 Palkitsemisjärjestelmät 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44384: 6 AIFMD-raportointi Finanssivalvonnalle 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44385: 6.1 Soveltamisala ja maaritelmät 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44386: 6.2 AIFMD-raportointia koskeva saantely 11
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44387: 6.3 Raportoinnin sisalto 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44388: 6.3.1 Toimilupavelvollinen vaihtoehtorahastojen hoitaja 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44389: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_44391: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44394: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44395: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44396: 1.7.2014 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44400: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44403: 6.3.2 Rekisteröitymisvelvollinen vaihtoehtorahastojen hoitaja 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44404: 6.3.3 Kolmannen maan vaihtoehtorahastojen hoitaja 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44405: 6.4 Raportointitiheys ja raportointijakso 12
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44406: 6.5 Raportoinnin alkamisajankohta 13
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44408: Raportointiaika ja raportointitietojen toimittaminen Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44410: 7 Tilinpäätosasiakirjojen toimittaminen Finanssivalvonnalle 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44412: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44414: 7.2 Säädöstausta 14
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44416: Tilinpäätösasiakirjojen toimittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44419: Eri rahastotyyppejä koskevaa sääntelyä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44422: Rahamarkkinarahastot (Annettu 18.8.2020, voimaan 24.8.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44425: Ohje stressitestiskenaarioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44428: Ohje rahamarkkinarahastoraportoinnista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44431: Riskienhallinta (Annettu 18.8.2020, voimaan 16.9.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44433: 9.1 Likviditeettistressitestit 16
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44434: 10 Vaihtoehtorahastotoiminnassa noudatettavat menettelytavat (Annettu 1.12.2020, voimaan 5.1.2021) 17
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44435: 10.1 Tuottopalkkiot 17
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44436: 10.2 Rahastojen rajat ylittavaa markkinointia koskevan asetuksen mukainen mainonta (Annettu 20.8.2021, voimaan 2.2.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44437: 11 Muutoshistoria 18
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_44438: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44439: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44440: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44442: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44444: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44447: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44448: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44449: Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetussa laissa tarkoi- tettuihin valvottaviin ja muihin f inanssimarkkinoilla toimiviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44450: · toimilupavelvolliset vaihtoehtorahastojen hoitajat
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44451: · rekisteröitymisvelvolliset vaihtoehtorahastojen hoitajat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44452: Näitä määräyksia ja ohjeita sovelletaan myös kolmanteen maahan sijoittautuneisiin vaihtoehto- rahastojen hoitajiin, jotka markkinoivat hoitamansa vaihtoehtorahaston osuuksia Suomessa vaihtoehtorahastojen hoitajista annetun lain 20 luvun 3 §:n nojalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44453: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44454: Näissä määräyksissä ja ohjeissa käytetään jäljempanā seuraavia määritelmia:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44455: (1) Toimilupavelvollisella vaihtoehtorahastojen hoitajalla tarkoitetaan sellaista vaihtoehtorahastojen hoitajaa, jolle Finanssivalvonta on myöntänyt vaihtoehtorahastojen hoitajista annetun lain 4 lu- vun mukaisen toimiluvan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44456: (2) Rekisteröitymisvelvollisella vaihtoehtorahastojen hoitajalla tarkoitetaan sellaista vaihtoehtora- hastojen hoitajaa, joka on rekisteröitynyt vaihtoehtorahastojen hoitajista annetun lain 5 luvun 2 §:n 1 momentin 1 kohdan mukaiseen Finanssivalvonnan ylläpitämään rekisteriin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44457: (3) Kolmannen maan vaihtoehtorahastojen hoitajalla tarkoitetaan kolmanteen maahan sijoittautu- nutta vaihtoehtorahastojen hoitajaa, joka markkinoi hoitamansa ETA-valtioon sijoittautuneen vaihtoehtorahaston tai kolmanteen maahan sijoittautuneen vaihtoehtorahaston osuuksia Suo- messa vaihtoehtorahastojen hoitajista annetun lain 20 luvun 3 §:n nojalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_44458: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44459: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44460: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44462: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44464: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44467: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44468: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44469: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavatsäädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44470: · laki vaihtoehtorahastojen hoitajista (162/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44471: · laki Finanssivalonnasta (878/2008)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44472: · Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajien toiminnasta (226/2014)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44473: · Valtiovarainministeriön asetus vaihtoehtorahastojen hoitajien palkitsemisjärjestelmistä (229/2014).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44474: 2.2 Euroopan Unionin asetukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44475: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat suoraan sovellettavat Euroopan unio- nin asetukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44476: · Komission delegoitu asetus (EU) N:o 231/2013, annettu 19 päivänä joulukuuta 2012, Eu- roopan parlamentin ja neuvoston direktiivin 2011/61/EU täydentämisestä poikkeuksien, yleisten toimintaedellytysten, säilytysyhteisöjen, vivutuksen, avoimuuden ja valvonnan osalta; EUVL L 83, 22.3.2013, s. 1-95 (jäljempänä komission asetus).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44477: · Euroopan parlamentin ja neuvoston asetus (EU) 2019/1156, annettu 20 päivänä kesākuuta 2019, yhteistä sijoitustoimintaa harjoittavien yritysten rajatylittävän markkinoinnin helpottamisesta ja asetusten (EU) N:o 345/2013, (EU) N:o 346/2013 ja (EU) N:o 1286/2014 muuttamisesta (Annettu 20.8.2021, voimaan 2.2.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44478: 2.3 Euroopan Unionin direktiivi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44479: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan unionin direktiivit:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44480: · Euroopan parlamentin ja neuvoston direktiivi 2011/61/EU, annettu 8 päivänä kesākuuta 2011, vaihtoehtoisten sijoitusrahastojen hoitajista ja direktiivin 2003/41/EY ja 2009/65/EY sekä asetuksen (EY) N:o 1060/2009 ja (EU) N:o 1095/2010 muuttamisesta; EUVL L 174, 1.7.2011, s. 1-73 (jäljempänä AIFM-direktiivi).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44481: 2.4 Finanssivalvonnan maarayksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44482: Finanssivalvonnan oikeus antaa sitovia määräyksia perustuu seuraaviin lain säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44483: · vaihtoehtorahastojen hoitajista annetun lain 5 luvun 6 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44484: · vaihtoehtorahastojen hoitajista annetun lain 7 luvun 13 §
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44485: · Finanssivalvonnasta annetun lain 18 §:n 2 momentti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44486: 2.5 Kansainväliset suositukset (Annettu 18.8.2020, voimaan 24.8.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44487: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat Euroopan arvopaperimarkkinaviran- omaisen (ESMA) antamat ohjeet ja suositukset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_44488: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44489: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44490: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44492: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44494: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44497: · ESMA:n ohjeet AIFM-direktiivin mukaisesta hyvästä palkka-ja palkkiopolitiikasta (ESMA/2013/232)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44498: · ESMA:n ohjeet AIFM-direktiivin keskeisistä käsitteistä (ESMA/2013/611)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44499: · ESMA:n ohjeet AIFM-direktiivin artiklojen 3(3)(d) sekä 24(1), (2) ja (4) mukaisesta raportoin- tivelvollisuudesta (ESMA/2013/1339).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44500: · Euroopan arvopaperiviranomaisen AIFM-direktiivin mukaista moitteetonta palkka- ja palk- kiopolitiikkaa koskevat ohjeet (ESMA/2016/579)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44501: · ESMA on antanut ohjeen rahamarkkinarahastoja koskevan asetuksen (Euroopan parlamen- tin ja neuvoston asetus (EU) N:o 2017/1131) 28 artiklan mukaisista stressitestiskenaa- rioista. ESMA päivittää tätä ohjetta vuosittain. (24.4.2025 lukien voimassa olevan ohjeen numero: ESMA50-43599798-12301) (Annettu 16.4.2025, voimaan 24.4.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44502: · Euroopan arvopaperimarkkinaviranomaisen ohjeet tietojen antamisesta toimivaltaisille vi- ranomaisille rahamarkkinarahastoasetuksen 37 artiklan mukaisesti (ESMA34-49-173 FI).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44503: · Euroopan arvopaperimarkkinaviranomaisen ohjeet maksuvalmiuden stressitestauksesta sijoitusrahastoissa (UCITS) ja vaihtoehtorahastoissa (AIF)(ESMA34-39-897).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44504: · Euroopan arvopaperimarkkinaviranomaisen ohjeet tulosperusteisista palkkioista UCITS- rahastoissa ja tietyntyyppisissä vaihtoehtoisissa sijoitusrahastoissa (AIF) (ESMA34-39-992 FI). (Annettu 1.12.2020, voimaan 5.1.2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44505: · Euroopan arvopaperimarkkinaviranomaisen ohjeet rahastojen rajat ylittävää markkinointia koskevan asetuksen mukaisesta mainonnasta (ESMA34-45-1272 FI). (Annettu 20.8.2021, voimaan 2.2.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44506: ESMA:n ohjeet ja suositukset ja raportointivelvollisuuteen liittyvä tekninen ohjeistus ovat saata- villa osoitteesta Finanssivalvonta.fi sekä ESMA:n internetsivuilta osoitteesta www.esma.eu- ropa.eu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44507: Osoitteesta www.esma.europa.eu on saatavilla myös ESMA:n julkaisemia sääntelyn tulkintoja (Q&A) sekä lausuntoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_44508: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44509: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44510: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44512: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44514: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44517: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44518: (1) Näiden määräysten ja ohjeiden tavoitteena on koota yhteen eritasoinen vaihtoehtorahastojen hoitajien raportointivelvollisuudesta annettu sääntely ja ohjeistus sekä antaa Finanssivalvonnan määräykset raportoinnin käytännön toteutuksesta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44519: (2) Näiden määräysten ja ohjeiden tarkoituksena on lisäksi saattaa vaihtoehtorahastojen hoitajien tietoon ESMA:n antamia ohjeita ja suosituksia, joita niiden tulisi toiminnassaan ottaa huomioon.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44520: (3) Näillä määräyksilla ja ohjeilla aseteaan lisaksi velvoitteita toimiluvalliselle vaihtoehtorahastojen hoitajalle toimittaa taloudellista asemaa koskevia tietoja säännöllisesti Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_44521: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44522: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44523: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44525: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44527: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44530: 4 Vaihtoehtorahaston määritelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44531: 4.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44532: (1) Tätä lukua sovelletaan toimilupavelvollisiin vaihtoehtorahastojen hoitajiin ja rekisteröitymisvel- vollisiin vaihtoehtorahastojen hoitajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44533: 4.2 Vaihtoehtorahaston maaritelmä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44534: (2) Vaihtoehtorahastolla tarkoitetaan vaihtoehtorahastojen hoitajista annetun lain 2 luvun 1 §:n mu- kaan yhteisöa tai muuta yhteista sijoittamista, jossa varoja hankitaan useilta sijoittajilta ja sijoite- taan määritellyn sijoituspolitiikan mukaisesti sijoittajien eduksi ja jolta ei edellytetä sijoitusrahas- todirektiivin 5 artiklassa tarkoitettua lupaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44535: (3) ESMA on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artik- lan nojalla ohjeen: "Ohjeet AIFM-direktiivin keskeisistä käsitteistä" (ESMA/2013/611).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44536: OHJE ( kohta 4 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44537: (4) Finanssivalvonta suosittaa, että edella kohdassa (1) tarkoitetut yhteisöt noudattavat kohdassa (3) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_44538: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44539: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44540: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44542: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44549: 5 Palkitsemisjärjestelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44550: 5.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44551: (1) Tätä lukua sovelletaan toimilupavelvollisiin vaihtoehtorahastojen hoitajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44552: 5.2 Palkitsemisjärjestelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44553: (2) Toimilupavelvollisen vaihtoehtorahaston hoitajan palkitsemisjärjestelmistä säädetään vaihtoeh- torahastojen hoitajista annetun lain 7 luvun 7 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44554: (3) Vaihtoehtorahaston hoitajan palkitsemisjärjestelmistä säädetään lisäksi valtiovarainministeriön asetuksessa vaihtoehtorahastojen hoitajien palkitsemisjärjestelmistä (229/2014).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44555: (4) ESMA on lisäksi antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla ohjeen: "AIFM-direktiivin mukaista hyväa palkka- ja palkkiopolitiikkaa koskevat ohjeet" (ESMA/2013/232).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44556: (5) ESMA on lisäksi antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla ohjeen: "AIFM-direktiivin mukaista hyvaa palkka- ja palkkiopolitiikkaa koskevat ohjeet" (ESMA/2016/579).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44557: OHJE ( kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44558: (6) Finanssivalvonta suosittaa, että kohdassa (1) tarkoitetut yhteisöt noudattavat kohdassa (4) ja (5) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_44559: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44560: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44561: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44563: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44565: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44568: 6 AIFMD-raportointi Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44569: 6.1 Soveltamisala ja maaritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44570: (1) Tätä lukua sovelletaan toimilupavelvollisiin vaihtoehtorahastojen hoitajiin, rekisteröitymisvelvolli- siin vaihtoehtorahastojen hoitajiin ja kolmannen maan vaihtoehtorahastojen hoitajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44571: (2) AIFMD-raportoinnilla tarkoitetaan AIFM-direktiivin artikloihin 3(3)(d) sekä 24(1), (2) ja (4) perus- tuvaa säännöllista raportointia Finanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44572: 6.2 AIFMD-raportointia koskeva sääntely
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44573: (3) Toimilupavelvollisen vaihtoehtorahastojen hoitajan raportointivelvollisuudesta säädetään vaihto- ehtorahastojen hoitajista annetun lain 7 luvun 3 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44574: (4) Rekisteröitymisvelvollisen vaihtoehtorahastojen hoitajan raportointivelvollisuudesta säädetään vaihtoehtorahastojen hoitajista annetun lain 5 luvun 4 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44575: (5) Kolmannen maan vaihtoehtorahastojen hoitajan raportointivelvollisuudesta säädetään vaihtoeh- torahastojen hoitajista annetun lain 20 luvun 3 §:ssä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44576: (6) Sellaisen toimilupavelvollisen vaihtoehtorahastojen hoitajan, joka hoitaa yhtä tai useampaa vaihtoehtorahastoa, jossa käytetään komission asetuksen 111 artiklan mukaisesti vivutusta merkittävissä määrin, on lisäksi raportoitava kyseisen rahaston osalta vaihtoehtorahastojen hoi- tajista annetun lain 17 luvun 3 §:n mukaiset tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44577: (7) Valtiovarainministeriön asetuksessa vaihtoehtorahastojen hoitajien toiminnasta (226/2014) (jäl- jempänä VMA) säädetään tarkemmin vaihtoehtorahastojen hoitajista annetun lain 7 luvun 3 §:ssä tarkoitetusta raportoinnista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44578: (8) Komission asetuksen artiklassa 110 ja asetuksen liitteessä IV säädetään tarkemmin raportoin- nista toimivaltaisille viranomaisille.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44579: (9) Euroopan arvopaperimarkkinaviranomainen on lisäksi antanut Euroopan parlamentin ja neu- voston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla ohjeen: "Ohjeet AIFM-direktiivin artik- lojen 3(3)(d) sekä 24(1), (2) ja (4) mukaisesta raportointivelvollisuudesta" (ESMA/2013/1339) (jäljempanā ESMA:n raportointiohje) sekā muuta teknistā ohjeistusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44580: (10) Finanssivalvonnan antamat määräykset ja ohjeet vaihtoehtorahastojen hoitajan raportoinnista sisältyvät lukuihin 6.3 - 6.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44581: OHJE ( kohta 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44582: (11) Finanssivalvonta suosittaa, että kohdassa (1) tarkoitetut yhteisöt noudattavat kohdassa (9) tar- koitettua ESMA:n raportointiohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_44583: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44584: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44585: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44587: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44589: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44592: 6.3 Raportoinnin sisalto
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44593: (12) Raportointivelvollisen on säännöllisesti raportoitava Finanssivalvonnalle tietoja sekä itsestään, että kustakin hoitamastaan vaihtoehtorahastosta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44594: 6.3.1 Toimilupavelvollinen vaihtoehtorahastojen hoitaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44595: (13) Toimilupavelvollisen vaihtoehtorahastojen hoitajan on raportoitava säännöllisesti vaihtoehtora- hastojen hoitajista annetun lain 7 luvun 3 §:ssä, VMA:ssa sekä komission asetuksen 110 artik- lan 1 ja 2 kohdissa tarkoitetut tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44596: (14) Sellaisen toimilupavelvollisen vaihtoehtorahastojen hoitajan, joka hoitaa yhtä tai useampaa vaihtoehtorahastoa, jossa käytetään komission asetuksen 111 artiklan mukaisesti vivutusta merkittävissä määrin, on lisäksi raportoitava kyseisen rahaston osalta vaihtoehtorahastojen hoi- tajista annetun lain 17 luvun 3 §:n mukaiset tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44597: 6.3.2 Rekisteröitymisvelvollinen vaihtoehtorahastojen hoitaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44598: (15) Rekisteröitymisvelvollisen vaihtoehtorahastojen hoitajan on raportoitava säännöllisesti vaihtoeh- torahastojen hoitajista annetun lain 5 luvun 4 §:ssä ja komission asetuksen 110 artiklan 1 koh- dassa tarkoitetut tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44599: 6.3.3 Kolmannen maan vaihtoehtorahastojen hoitaja
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44600: (16) Kolmannen maan vaihtoehtorahastojen hoitajan on raportoitava säännöllisesti vaihtoehtorahas- tojen hoitajista annetun lain 7 luvun 3 §:ssä, VMA:ssa sekä komission asetuksen 110 artiklan 1 ja 2 kohdissa tarkoitetut tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44601: (17) Sellaisen kolmannen maan vaihtoehtorahastojen hoitaja, joka käyttää komission asetuksen 111 artiklan mukaisesti vivutusta merkittävissa määrin, on lisäksi raportoitava kyseisen rahaston osalta vaihtoehtorahastojen hoitajista annetun lain 17 luvun 3 §:n mukaiset tiedot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44602: 6.4 Raportointitiheys jaraportointijakso
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44603: (18) Raportointivelvollisen on raportoitava luvussa 6.3. tarkoitetut tiedot Finanssivalvonnalle komis- sion asetuksen 110 artiklan 3 kohdan mukaisesti neljännesvuosittain, puolivuosittain tai vuosit- tain vaihtoehtorahastojen hoitajan ja kunkin vaihtoehtorahaston toiminnan luonteesta ja laajuu- desta riippuen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44604: OHJE ( kohta 19)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44605: (19) Raportointitiheyttä on ohjeistettu tarkemmin ESMA:n raportointiohjeen luvuissa V ja IX.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_44606: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44607: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44608: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44610: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44612: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44615: 6.5 Raportoinnin alkamisajankohta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44616: OHJE ( kohdat 20-21 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44617: (20) ESMA:n raportointiohjeistuksen mukaan raportointivelvollisen on raportoitava ensimmäisen ker- ran tietoja Finanssivalvonnalle alkaen sen seuraavan vuosineljänneksen ensimmäisestä päi- västä lähtien, jota edeltävänä neljänneksena ne ovat rekisteröityneet, saaneet toimiluvan tai aloittaneet hoitamansa rahaston markkinoinnin Suomessa. Vastaavasti rahaston osalta ensim- mäiset tiedot on toimitettava rahaston perustamista seuraavan vuosineljänneksen ensimmäi- sestä päivästä lukien.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44618: (21) Raportoinnin alkamisajankohtaa on ohjeistettu tarkemmin ESMA:n raportointiohjeen luvussa VII.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44619: 6.6 Raportointiaika ja raportointitietojen toimittaminen Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44620: (22) Vaihtoehtorahastojen hoitajista annetun lain 7 luvun 13 §:n nojalla Finanssivalvonta voi antaa tarkempia määräyksiä 7 luvun 3 §:ssä tarkoitetusta toimilupavelvollisen vaihtoehtorahaston hoi- tajan raportoinnista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44621: (23) Vaihtoehtorahastojen hoitajista annetun lain 20 luvun 3 §:n mukaisen kolmannen maan vaihto- ehtorahastojen hoitajan on raportoinnissa noudatettava, mitä vaihtoehtorahastojen hoitajista annetun lain 7 luvun 3 §:ssä saadetään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44622: (24) Vaihtoehtorahastojen hoitajista annetun lain 5 luvun 6 §:n nojalla Finanssivalvonta voi antaa tarkempia määräyksiä 5 luvun 4 §:ssä tarkoitetusta rekisteröitymisvelvollisen vaihtoehtorahas- ton hoitajan raportoinnista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44623: MÄÄRÄYS (kohdat25-27 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44624: (25) Raportointivelvollisen on toimitettava raportoitavat tiedot Finanssivalvonnalle komission asetuk- sen 110 artiklan 1 kohdassa säädetyssä ajassa kuukauden kuluessa raportointijak son päättymi- sestä. Jos raportointivelvollinen hoitaa rahasto-osuusrahastoa, se voi pidentää tätä jaksoa 15 päivällä sekä itseään koskevien tietojen että kyseistä rahasto-osuusrahastoa koskevien tietojen toimittamisen osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44625: (26) Raportointivelvollisen on toimitettava raportoitavat tiedot Finanssivalvonnalle kulloinkin voi- massa olevien AIFMD-raportoinnin konekielisen tietojenvälityksen kuvauksen mukaisesti, joka ovat saatavilla Finanssivalvonnan internetsivuilla näiden määräysten ja ohjeiden yhteydessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44626: (27) Raportointivelvollisen on seurattava toiminnassaan tapahtuvia muutoksia, jotka voivat heijastua sen raportointivelvollisuuden sisältöön ja/tai raportointitiheyteen sekä ilmoitettava tapahtuneista muutoksista Finanssivalvonnalle viipymättä kulloinkin voimassa olevan konekielisen tietojenväli- tyksen kuvauksen mukaisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_44627: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44628: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44629: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44631: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44633: S FIN S FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44634: ***************
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44637: 7 Tilinpäätösasiakirjojen toimittaminen Finanssivalvonnalle
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44638: 7.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44639: (1) Tätä lukua sovelletaan toimilupavelvollisiin vaihtoehtorahastojen hoitajiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44640: 7.2 Säädöstausta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44641: (2) Finanssivalvonnasta annetun lain 18 §:n 2 momentin mukaan Finanssivalvonta voi antaa mää- räyksiä valvottavan taloudellista asemaa koskevien tietojen säännöllisestä toimittamisesta Fi- nanssivalvonnalle.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44642: 7.3 Tilinpäätösasiakirjojen toimittaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44643: MÄÄRÄYS(kohta3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44644: (3) Toimilupavelvollisen vaihtoehtorahastojen hoitajan on toimitettava Finanssivalvonnalle vuosit- tain kahden viikon kuluessa siitä, kun valvottavan tilinpäätös on vahvistettu, seuraavat asiakir- jat:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44645: · jäljennös tilinpäätöksestä ja konsernitilinpäätöksestä sekä toimintakertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44646: · jäljennös tilintarkastuskertomuksesta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_44647: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44648: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44649: Antopäivä: 1.7.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44651: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44653: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44656: 8 Eri rahastotyyppejä koskevaa sääntelyä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44657: 8.1 Rahamarkkinarahastot (Annettu 18.8.2020, voimaan 24.8.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44658: 8.1.1 Ohje stressitestiskenaarioista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44659: (1) ESMA on antanut ohjeen rahamarkkinarahastoja koskevan asetuksen (Euroopan parlamentin ja neuvoston asetus (EU) N:o 2017/1131) 28 artiklan mukaisista stressitestiskenaarioista. ESMA päivittää tätä ohjetta vuosittain. (24.4.2025 lukien voimassa olevan ohjeen numero: ESMA50- 43599798-12301). (Annettu 16.4.2025, voimassa 24.4.2025)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44660: OHJE (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44661: (2) Finanssivalvonta suosittaa, että näiden ohjeiden soveltamisalaan kuuluvat yhteisöt noudattavat kulloinkin voimassa olevaa kohdassa 1) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoit- teesta https://www.finanssivalvonta.fi/saantely/maarays-ja-ohjekokoelma/valvottavan-toiminnan- jarjestaminen/04_2014/.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44662: 8.1.2 Ohje rahamarkkinarahastoraportoinnista
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44663: (3) ESMA on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artik- lan nojalla ohjeen: "Tietojen antaminen toimivaltaisille viranomaisille rahamarkkinarahastoase- tuksen 37 artiklan mukaisesti" (ESMA34-49-173 FI).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44664: OHJE ( kohta 4 )
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44665: (4) Finanssivalvonta suosittaa, että näiden ohjeiden soveltamisalaan kuuluvat yhteisöt noudattavat kohdassa (3) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_44666: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44667: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44668: Antopäivä: 1.7.2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44670: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44673: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44676: 9 Riskienhallinta (Annettu 18.8.2020, voimaan 16.9.2020)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44677: 9.1 Likviditeettistressitestit
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44678: (1) ESMA on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artik- lan nojalla ohjeen: Euroopan arvopaperimarkkinaviranomaisen ohjeet maksuvalmiuden stressi- testauksesta sijoitusrahastoissa (UCITS) ja vaihtoehtorahastoissa (AIF) (ESMA34-39-897).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44679: OHJE ( kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44680: (2) Finanssivalvonta suosittaa, että näiden ohjeiden soveltamisalaan kuuluvat yhteisöt noudattavat kohdassa (1) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_44681: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44682: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44683: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44685: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44688: FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44692: 10 Vaihtoehtorahastotoiminnassa noudatettavat menettelyta- vat (Annettu 1.12.2020, voimaan 5.1.2021)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44693: 10.1 Tuottopalkkiot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44694: (1) ESMA on antanut Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artik- lan nojalla ohjeen: "Ohjeet tulosperusteisista palkkioista UCITS-rahastoissa ja tietyntyyppisissä vaihtoehtoisissa sijoitusrahastoissa (AIF)" (ESMA34-39-992 FI).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44695: OHJE ( kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44696: (2) Finanssivalvonta suosittaa, että naiden ohjeiden soveltamisalaan kuuluvat yhteisöt noudattavat kohdassa (1) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44697: 10.2 Rahastojen rajat ylittävää markkinointia koskevan asetuksen mukainen mainonta (Annettu 20.8.2021, voimaan 2.2.2022)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44698: (3) ESMA on antanut Euroopan parlamentin ja neuvoston asetuksen (Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1095/2010 16 artiklan nojalla ohjeen: "Ohjeet rahastojen rajat ylittävää markkinointia koskevan asetuksen mukaisesta mainonnasta" (ESMA34-45-1272 FI).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44699: OHJE ( kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44700: (4) Finanssivalvonta suosittaa, että naiden ohjeiden soveltamisalaan kuuluvat yhteisöt noudattavat kohdassa (3) tarkoitettua ESMA:n ohjetta, joka on saatavilla osoitteesta Finanssivalvonta.fi.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_44701: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44702: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44703: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44706: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44708: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44712: 11 Muutoshistoria
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44713: Näitä määräyksia ja ohjeita on muutettu niiden voimaantulon jälkeen seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44714: Annettu 1.12.2016, voimaan 1.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44715: · päivitetty lukua 5.2, viittauksella ESMA:n päivitettyyn ohjeeseen (ESMA/2016/579) Annettu 15.5.2018, voimaan 21.7.2018
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44716: · lisätty luku 8
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44717: · lisätty luvussa 8.1 oleva viittaus ESMA:n uuteen ohjeeseen (ESMA 34-49-115/2018) Annettu 2.7.2019, voimaan 1.10.2019
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44718: · täsmennetty luvussa 8 viittausta rahamarkkinarahastoja koskevaan asetukseen, poistettu viittaus ESMAn ohjeeseen 2018/34-49-115, lisätty viittaus uuteen ohjeeseen 34-49-131 ja täsmennetty viittausta voimassa olevaan ohjeeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44719: Annettu 18.8.2020, voimaan 24.8.2020
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44720: · täydennetty lukua 2.5 viittauksilla ESMA:n ohjeisiin
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44721: · muutettu luvun 8 otsikoita ja numerointia
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44722: · päivitetty luvussa 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44723: · lisätty luku 8.1.2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44724: · korjattu luvun 8.1.1 asettelu
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44725: Annettu 18.8.2020, voimaan 16.9.2020
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44726: · lisätty luku 9
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44727: Annettu 1.12.2020, voimaan 5.1.2021
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44728: · täydennetty lukua 2.5 viittauksella ESMA:n ohjeeseen ESMA34-39-992 FI
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44729: · lisätty luku 10
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44730: Annettu 20.8.2021, voimaan 29.8.2021
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44731: · päivitetty luvuissa 2.2 ja 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44732: Annettu 20.8.2021, voimaan 2.2.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44733: · täydennetty lukua 2.2 viittauksella Euroopan parlamentin ja neuvoston asetukseen (EU) 2019/1156
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44734: . täydennetty lukua 2.5 viittauksella ESMA:n ohjeeseen ESMA34-45-1272 FI
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44735: · lisätty luku 10.2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44736: Annettu 7.7.2022, voimaan 7.7.2022
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44737: · päivitetty luvuissa 2.5 ja 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_44738: FIN-FSA FINANSSIVALVONTA
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44739: Määräykset ja ohjeet 4/2014
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44740: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44742: 22.7.2014 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44747: FIN FIN FIN CIN
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44749: Annettu 21.3.2023, voimaan 27.3.2023
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44750: · päivitetty luvuissa 2.5 ja 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen Annettu 6.3.2024, voimaan 6.5.2024
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44751: · päivitetty luvuissa 2.5 ja 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen Annettu 16.4.2025, voimaan 24.4.2025
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44752: · päivitetty luvuissa 2.5 ja 8.1.1 viittaus ESMA:n uusimpaan ohjeeseen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_44753: FIN-FSA FINANSSIVALVONTA
+

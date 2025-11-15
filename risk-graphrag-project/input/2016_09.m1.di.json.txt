@@ -1,0 +1,890 @@
+METADATA: {"document_id": 43, "filename": "2016_09.m1.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 22, "paragraph_count": 367}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57361: Määräykset ja ohjeet 9/2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57362: Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57363: Dnro FIVA 12/01.00/2015
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57364: Antopäivä 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57365: Voimaantulopäivä 1.1.2017
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57366: FINANSSIVALVONTA puh. 010 831 51 faksi 010 831 5328 etunimi.sukunimi@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57367: Lisätietoja Instituutiovalvonta/Työeläkelaitokset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_57368: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57369: Määräykset ja ohjeet 9/2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57370: Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_57371: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57372: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57373: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57375: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57376: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57378: Määräysten ja ohjeiden oikeudellinen luonne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57379: Määräykset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57380: Finanssivalvonnan määräys- ja ohjekokoelmassa "Määräys"-otsikon alla esitetään Finanssivalvonnan antamat määräykset. Määräykset ovat velvoittavia oikeussääntöjā, joita on noudatettava.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57381: Finanssivalvonta antaa määräyksiä ainoastaan määräyksenantoon valtuuttavan lain säännöksen nojalla ja sen asettamissa rajoissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57383: Finanssivalvonnan määräys- ja ohjekokoelmassa "Ohje"-otsikon alla esitetään Finanssivalvonnan tulkintoja lainsäädännön tai muun velvoittavan sääntelyn sisällöstä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57384: "Ohje"-otsikon alla on lisaksi suosituksia ja muita toimintaohjeita, jotka eivät ole velvoittavia. Ohjeissa on myös kansainvälisten ohjeiden ja suositusten noudattamista koskevat Finanssivalvonnan suositukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57385: Ohjeen kirjoitustavasta ilmenee, milloin kyseessä on tulkinta ja milloin suositus tai muu toimintaohje. Ohjeiden kirjoitustapaa sekä määräysten ja ohjeiden oikeudellista luonnetta on selvitetty tarkemmin Finanssivalvonnan verkkopalvelussa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57386: Finanssivalvonta.fi > Saantely > Maarays- ja ohjekokoelma > Määräyskokoelman rakenne
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_57387: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57388: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57389: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57391: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57392: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 4 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57393: Sisällysluettelo
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57395: Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57398: Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57401: Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57404: Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57407: Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57410: Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57413: Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57416: Vakuuden rajamäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57419: Vakuuden rajamäärän laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57422: Muihin kehittyneisiin ja kehittyviin valtioihin kuuluvat valtiot ja välillisten sijoitusten keskimääräisen luottoluokituksen laskenta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57425: Muihin kehittyneisiin ja kehittyviin valtioihin kuuluvat valtiot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57428: Välillisten sijoitusten keskimääräisen luottoluokituksen laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57431: Valuuttariski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57434: Valuuttariskin laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57437: Hyödykeriski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57440: Hyödykeriskille altistuneiden sijoitusten lyhyiden positioiden käsittely vakavaraisuuslaskennassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57443: Välilliset sijoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57446: Välillisten sijoitusten riskien huomioon ottaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57449: Johdannaissopimuksen huomioon ottaminen riskiluokan odotetun tuoton ja riskiarvon laskennassa, deltavasta-arvoon perustuva laskentamenetelmä ja Finanssivalvonnalle tehtävä ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57452: Johdannaissopimuksen huomioon ottaminen riskiluokan odotetun tuoton ja riskiarvon laskennassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57455: Deltavasta-arvoon perustuvan laskentamenetelmän käyttäminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57458: Finanssivalvonnalle tehtävä ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_57460: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57461: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57462: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57464: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57465: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 5 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57466: 10 Muut olennaiset sijoituksiin kohdistuvat riskit ja niihin liittyva raportointi 19
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57467: 10.1 Muiden olennaisten sijoituksiin kohdistuvien riskien laskentamenetelmään liittyvät periaatteet 19
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57468: 10.2 Muiden olennaisten sijoituksiin kohdistuvien riskien laskentamenetelmään liittyvä raportointi 20
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57470: Hallituksessa vahvistettavat perusteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57472: 11.1 Hallituksessa vahvistettavien perusteiden laatiminen 21
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57473: 12 Kumotut määräykset ja ohjeet 22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_57474: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57475: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57476: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57478: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57479: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 6 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57480: 1 Soveltamisala ja määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57481: 1.1 Soveltamisala
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57482: (1) Näitä määräyksia ja ohjeita sovelletaan seuraaviin Finanssivalvonnasta annetussa laissa tarkoitettuihin valvottaviin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57483: · työeläkevakuutusyhtiöt
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57484: · lakisääteistä eläkevakuutusta harjoittavat eläkekassat ja AB-eläkekassojen B- osastot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57485: · lakisääteistä eläkevakuutusta harjoittavat eläkesäätiöt ja AB-eläkesäätioiden B- osastot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57486: · Merimieseläkekassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57487: · Maatalousyrittäjien eläkelaitos
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57488: (2) Näitä määräyksiä ja ohjeita sovelletaan kaikkiin yllä lueteltuihin valvottaviin. Jos määräystä tai ohjetta sovelletaan vain tiettyyn eläkelaitokseen, on siitä erikseen maininta kyseisen määräyksen tai ohjeen kohdalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57489: (3) Näitä määräyksia ja ohjeita sovelletaan Maatalousyrittājien eläkelaitokseen vain 4 luvussa olevien vakuuden rajamäärän laskemista koskevien määräysten ja ohjeiden osalta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57490: 1.2 Määritelmät
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57491: (4) Valvottavalla tarkoitetaan kaikkia edellä luvussa 1.1 esitettyyn määräysten ja ohjeiden soveltamisalaan kuuluvia Finanssivalvonnasta annetun lain mukaisia valvottavia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57492: (5) Eläkelaitoksella tarkoitetaan työeläkevakuutusyhtiöitä, Merimieseläkekassaa, lakisääteistä eläkevakuutusta harjoittavia eläkekassoja ja eläkesäätiöitä sekä AB-eläkekassojen ja AB- eläkesäätiöiden B-osastoja.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57493: (6) Riskiluokilla tarkoitetaan eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain (315/2015) 11 §:n 1 momentin mukaisia riskiluokkia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_57494: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57495: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57496: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57498: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57499: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 7 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57500: 2 Säädöstausta ja kansainväliset suositukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57501: 2.1 Lainsäädäntö
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57502: Näiden määräysten ja ohjeiden aihepiiriin liittyvät seuraavat säädökset:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57503: · laki eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta (315/2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57504: · Valtioneuvoston asetus eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista (447/2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57505: · Sosiaali- ja terveysministeriön asetus eläkelaitoksen vakavaraisuuslaskennassa käytettävista välillisten sijoituksien sijoitustyyleistä (452/2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57506: · Sosiaali- ja terveysministeriön asetus eläkelaitoksen vakavaraisuuslaskennassa käytettävistä luottoluokituksista (453/2015)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57507: 2.2 Finanssivalvonnan määräyksenantovaltuudet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57508: Finanssivalvonnan oikeus antaa velvoittavia määräyksiä perustuu seuraaviin säännöksiin:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57509: · laki eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta 6 §, 11 §, 15 §, 16 §, 18 §, 19 §, 21 § ja 24 §.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_57510: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57511: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57512: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57514: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57515: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 8 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57516: 3 Tavoitteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57517: (1) Näiden määräysten ja ohjeiden tavoitteena on varmistaa, että valvottavat soveltavat vakavaraisuusrajan laskennasta ja sijoitusten hajauttamisesta annettuja säännöksiä yhtenäisesti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_57518: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57519: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57520: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57522: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57523: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 9 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57524: 4 Vakuuden rajamäärä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57525: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset vakuuden rajamäärän laskemisesta perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 6 §:n 4 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57526: 4.1 Vakuuden rajamäärän laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57527: MÄÄRÄYS (kohdat 2 - 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57528: (2) Valvottavan on laskettava vakuuden rajamäärä kohdistamalla vakuutena olevaan omaisuuteen samat tappio-olettamat kuin vakavaraisuusrajan laskennassa sijoituksillekin on kohdistettava. Mikäli vakuutena on yksittäinen sijoitus, sijoitukseen kohdistuvan tappio- olettaman on oltava 1,5-kertainen riskiluokan tappio-olettamaan verrattuna.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57529: (3) Valvottavan on asetettava vakuuden rajamääräksi arvo, joka saadaan vähentämällä vakuuden arvosta tappio-olettaman tuloksena saatu vakuutena olevan omaisuuden pääomavaatimus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57530: (4) Jos vakuutena olevaan omaisuuteen kohdistuu takaus, valvottavan on käytettävä tappio- olettamassa duraationa takauksen voimassaoloaikaa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_57531: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57532: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57533: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57535: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57536: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57538: 5 Muihin kehittyneisiin ja kehittyviin valtioihin kuuluvat valtiot ja välillisten sijoitusten keskimääräisen luottoluokituksen laskenta
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57539: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset muihin kehittyneisiin ja kehittyviin valtioihin kuuluvista valtioista sekä välillisten sijoitusten keskimääräisen luottoluokituksen laskennasta perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:n 2 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57540: 5.1 Muihin kehittyneisiin ja kehittyviin valtioihin kuuluvat valtiot
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57541: MÄÄRÄYS (kohdat 2 - 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57542: (2) Muita kehittyneitä valtioita ovat International Monetary Fundin (IMF) kehittyneiksi valtioiksi luokittelemat valtiot pois lukien eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:n 1 momentin 1) ja 2) kohdissa tarkoitetut valtiot.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57543: (3) Kehittyvia valtioita ovat kaikki ne valtiot, jotka eivät sisälly edella kohdassa (2) määriteltyihin valtioihin eivätkä eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:n 1 momentin 1) ja 2) kohdissa mainittuihin valtioihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57544: 5.2 Välillisten sijoitusten keskimääräisen luottoluokituksen laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57545: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57546: (4) Välillinen sijoitus tarkoittaisi sijoitusta, jossa eläkelaitos ei sijoita suoraan tosiasialliseen sijoituskohteeseen vaan esimerkiksi sijoituskohdetta hallitsevan yhteisön osakkeisiin tai osuuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57547: MÄÄRÄYS (kohdat 5 - 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57548: (5) Mikäli välilliseen sijoitukseen sisaltyvien sijoitusten luottoluokitukset ja tiedot sijoitusten herkkyydestä luottomarginaaliriskille ovat luotettavasti saatavissa riskiluokittain, eläkelaitoksen ei tarvitse laskea välillisen sijoituksen keskimääräistä luottoluokitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_57549: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57550: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57551: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57553: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57554: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57556: (6) Eläkelaitos voi laskea välillisen sijoituksen keskimääräisen luottoluokituksen seuraavilla vaihtoehtoisilla tavoilla: 1) Laskemalla välilliseen sijoitukseen sisältyvien sijoitusten luottoluokitusten ilmoittamista konkurssitodennäköisyyksistä painotettu keskiarvo, jonka perusteella valitaan sopivin konkurssitodennäköisyyttä vastaava luottoluokka. Eläkelaitoksen on käytettävä konkurssitodennäköisyyksistä laskettavan painotetun keskiarvon laskennassa painoina sijoitusten laskentahetken markkina-arvoja. Eläkelaitoksen on käytettävä konkurssitodennäköisyyksinä tunnettujen luottoluokituslaitosten julkaisemia pitkän aikavälin aineistoihin perustuvia konkurssitodennäköisyyksia. Eläkelaitos voi käyttää konkurssitodennäköisyyksien laskennassa myös välillisen sijoituksen omia aineistoja, mikäli se voi osoittaa aineistojen vastaavan luotettavuudeltaan tunnettujen luottoluokituslaitosten julkaisemia aineistoja. 2) Eläkelaitos voi laskea välillisen sijoituksen keskimääräisen luottoluokituksen myös käyttämällä välillisen sijoituksen keskimääräisen luottoluokituksen laskemisessa luottoluokkien järjestysnumeroihin perustuvaa lineaarista menetelmää. Edellä mainittujen menettelyjen 1) ja 2) käyttäminen on mahdollista, mikäli ne antavat välillisen sijoituksen luottoriskistä perustellusti luotettavan kuvan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57557: OHJE (kohta 7)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57558: (7) Edellä kohdassa (6) mainittua menetelmää käyttämällä eläkelaitoksen olisi mahdollista laskea keskimääräinen luottoluokitus sellaisille korkorahastoille, joiden sisältämien sijoitusten luottoluokitukset ja duraatiot ovat keskenään riittävän samanlaisia. Tällaisia korkorahastoja olisivat esimerkiksi lyhyen tai pitkän koron rahastot, jotka sijoittavat ainoastaan joko luottoluokitukseltaan investointiluokan (Investment grade) ylittäviin tai alittaviin yrityslainoihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57559: MÄÄRÄYS (kohta 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57560: (8) Mikäli kumpaakaan edellä kohdissa (5) ja (6) mainituista menetelmistä ei ole mahdollista käyttää, eläkelaitoksen on asetettava välillisen sijoituksen keskimääräiseksi luottoluokitukseksi alin luottoluokka, joka välillisen sijoituksen on mahdollista saada.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_57561: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57562: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57563: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57565: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57566: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 12 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57567: 6 Valuuttariski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57568: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset valuuttariskin laskemisen yksityiskohdista perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 15 §:n 4 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57569: 6.1 Valuuttariskin laskeminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57570: MÄÄRÄYS (kohdat 2 - 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57571: (2) Eläkelaitoksen on muutettava lineaariset valuuttapositiot, joissa kumpikaan valuutoista ei ole euro, kahdeksi valuuttapositioksi, joissa toinen valuutta on euro.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57572: (3) Mikäli eläkelaitoksella on epälineaarisia valuuttapositioita, eläkelaitoksen on laskettava niihin sisältyvien valuuttojen valuuttariski käyttäen seuraavaa menettelyä: Kullekin valuutalle lasketaan euromääräinen riskiarvo sekä valuutan heikentymisen että vahvistumisen tapauksissa käyttämälla tappio-olettamana valtioneuvoston eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista antamassa asetuksessa (447/2015) määrättyä riskiluokan 13 tappio-olettamaa ja olettamalla, että valuutan arvo muuttuu suhteellisesti saman verran kaikkia muita valuuttoja vastaan. Lopuksi eläkelaitoksen on valittava valuutan riskiarvoksi suurempi valuutan heikentymisen ja vahvistumisen tapauksessa saaduista riskiarvoista, mutta vähintään nolla (0).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57573: OHJE (kohta 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57574: (4) Oletetaan, että valuuttapositioissa olisi valuuttaoptiolla toteutettu dollari-jen-positio ja suora jen-positio. Jenin riskiarvo laskettaisiin olettaen jenin arvon muuttuminen samanaikaisesti seka dollaria että euroa vastaan. Jenin arvon muuttuessa laskettaisiin valuuttaoption markkina-arvon muutos euroissa ja suoran jen-position markkina-arvon muutos euroissa. Näin saadut markkina-arvojen muutokset laskettaisiin yhteen sekä jenin heikentymisen että vahvistumisen tapauksissa. Lopuksi valittaisiin saaduista tappioista jenin riskiarvoksi suurempi, mutta kuitenkin vähintään nolla (0). Dollarin riskiarvo laskettaisiin olettaen dollarin arvon muuttuminen samanaikaisesti seka jenia etta euroa vastaan. Dollarin arvon muuttuessa laskettaisiin valuuttaoption markkina-arvon muutos euroissa sekä dollarin heikentymisen että vahvistumisen tapauksissa. Tämän jälkeen valittaisiin saaduista tappioista dollarin riskiarvoksi suurempi, mutta kuitenkin vähintään nolla (0).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_57575: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57576: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57577: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57579: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57580: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 13 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57581: 7 Hyödykeriski
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57582: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset hyödykeriskille altistuneiden sijoitusten lyhyiden positioiden käsittelystä vakavaraisuuslaskennassa perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 16 §:ään.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57583: 7.1 Hyödykeriskille altistuneiden sijoitusten lyhyiden positioiden käsittely vakavaraisuuslaskennassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57584: MÄÄRÄYS (kohdat 2 - 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57585: (2) Eläkelaitoksen on jaettava hyödykeriskiluokka lyhyiden positioiden ja johdannaispositioiden osalta kolmeen alaluokkaan: Energia (Energy), Muu kuin energia (Non-energy) ja Jalometallit (Precious metals).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57586: (3) Eläkelaitoksen on jaettava hedge-rahaston altistumat hyödykeriskille edellä kohdassa (2) mainittujen alaluokkien kesken seuraavasti: Energia 1/2, Muu kuin energia 1/4 ja Jalometallit 1/4.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57587: (4) Lyhyiden ja pitkien positioiden netottaminen alaluokkien välillä ei ole sallittu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57588: (5) Mikäli hyödykeriskiluokka sisältää lyhyitä positioita, eläkelaitoksen on laskettava hyödykeriskin pääomavaatimus kaksisuuntaisen tappio-olettaman avulla siten, että hyödykkeeseen on kohdistettava sekä hyödykkeen arvon heikkenemistä että hyödykkeen arvon vahvistumista kuvaavat tappio-olettamat. Kummankin tappio-olettaman tulos on muutettava euroiksi käyttämällä laskentahetken kurssia. Eläkelaitoksen on asetettava hyödykeriskin pääomavaatimukseksi alaluokille tehtyjen tappio-olettamien tuloksista se, jonka mukaan tappio on suurin. Lopuksi alaluokkakohtaiset pääomavaatimukset on laskettava yhteen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57589: (6) Kunkin alaluokan pääomavaatimuksen on aina oltava vähintään nolla (0).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_57590: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57591: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57592: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57594: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57595: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 14 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57596: 8 Välilliset sijoitukset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57597: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset välillisten sijoitusten riskien huomioon ottamisesta perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 18 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57598: 8.1 Välillisten sijoitusten riskien huomioon ottaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57599: MÄÄRÄYS (kohta 2)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57600: (2) Eläkelaitoksen on otettava kaikkien välillisten sijoitusten riskit huomioon käyttämällä menettelyä, jossa selvitetään välillisen sijoituksen sisältämät yksittäiset sijoitukset ja niihin kohdistuvat riskit tai, mikäli on perustellusti selvää, että välillinen sijoitus on jaettavissa riskiluokkien mukaisiin osakokonaisuuksiin, eläkelaitos voi jakaa välillisen sijoituksen yhteen tai useampaan osakokonaisuuteen ja kohdistaa kuhunkin osakokonaisuuteen riskiluokkien 1 -18 mukaiset riskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57601: OHJE (kohta 3)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57602: (3) Edellä kohdassa (2) jälkimmäisenä mainitun menettelyn noudattaminen olisi mahdollista esimerkiksi silloin, kun kyseessä on euroalueella säännellyllä markkinalla kaupankäynnin kohteena oleviin osakkeisiin sijoittava osakerahasto.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57603: MÄÄRÄYS (kohdat 4 - 8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57604: (4) Välillisen sijoituksen riskien selvittämisessä eläkelaitoksen on mahdollista käyttää apunaan sijoitusrahastojen sääntöjā ja muuta välillisistā sijoituksista saatavissa olevaa riittävän yksityiskohtaista, ajantasaista ja luotettavaa tietoa. Riittävän yksityiskohtaiset tiedot tarkoittavat, että välillisestä sijoituksesta on saatavissa ainakin sijoituskohteiden tyypit, maantieteellinen jakauma ja muut sijoituskohteiden keskeiset ominaisuudet kuten luottoluokitukset, korot ja maturiteetit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57605: (5) Mikäli edellä kohdassa (2) mainittuja menettelyjä ei ole kohtuullisin toimenpitein mahdollista noudattaa, eläkelaitos voi ottaa välillisen sijoituksen riskit huomioon sijoitustyylin perusteella siinä tapauksessa, että kyseessä on hedge-rahasto. Muihin välillisiin sijoituksiin eläkelaitoksen on aina kohdistettava riskiluokkien 1 - 18 mukaiset riskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57606: (6) Sosiaali- ja terveysministeriön antaman asetuksen (452/2015) mukaisiin välillisten sijoitusten sijoitustyyleihin sisältyvät sijoitusstrategiat ovat seuraavat: Event Driven -sijoitustyyliin sisältyvät Distressed- ja Restructuring -strategiat ja Event-monistrategiat; Macro- sijoitustyyliin sisältyvät Managed Futures/CTA- ja Macro-monistrategiat ja Relative value - sijoitustyyliin sisältyvät Convertible Arbitrage- ja Monistrategiat -strategiat.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_57607: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57608: Antopäivä: Voimassa:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57609: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57610: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57611: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57613: (7) Luokitellessaan hedge-rahastoja sijoitustyylien mukaan eläkelaitoksen on käytettävä hedge- rahastoindeksitoimittajan sijoitustyyliluokitusta aina, kun hedge-rahasto kuuluu hedge- rahastoindeksitoimittajan sijoitustyyliluokitukseen.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57614: (8) Käyttäessään hedge-rahastoindeksitoimittajan sijoitustyyliluokitusta eläkelaitoksen on noudatettava sijoitustyylien valinnassa johdonmukaista menettelyä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57615: OHJE (kohta 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57616: (9) Mikäli hedge-rahasto kuuluisi useampaan rahastoindeksiin, eläkelaitoksen olisi käytettävä ensisijaisesti Hedge Fund Researchin laskemaa hedge-rahastoindeksin sijoitustyyliluokitusta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57617: MÄÄRÄYS (kohdat 10 - 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57618: (10) Mikäli edella kohdassa (7) mainitun menettelyn noudattaminen ei ole mahdollista, eläkelaitos voi käyttää hedge-rahastojen sijoitustyylien mukaisessa luokittelussa myös muuta dokumentaatiota, mikäli sijoitustyylit ovat siitä selkeästi todettavissa. Dokumentaation on oltava luotettavaa ja ajantasaista.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57619: (11) Käyttäessään edellä kohdassa (10) mainittua dokumentaatiota eläkelaitoksen on dokumentoitava käyttämänsä menettelyt. Dokumentoinnista on käytävä ilmi sijoitustyylien valinnassa käytetty aineisto, valinnan perustelut ja valinnan kannalta oleelliset seikat. Dokumentointi on pidettävä ajan tasalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57620: (12) Eläkelaitos voi luokitella hedge-rahaston usean sijoitustyylin mukaan, mikäli hedge-rahasto sääntöjensä mukaan noudattaa useaa sosiaali- ja terveysministeriön antaman asetuksen (452/2015) mukaista sijoitustyyliä. Edellytyksenä menettelyn käyttämiselle on, että hedge- rahaston sijoitustyylien jakautumisesta on saatavissa riittävän yksityiskohtaista, ajantasaista ja luotettavaa tietoa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57621: (13) Mikäli eläkelaitoksella ei ole käytettävissään luotettavia ja ajantasaisia tietoja hedge- rahaston sijoitustyylistä tai, mikäli hedge-rahaston noudattama sijoitustyyli ei vastaa mitään sosiaali- ja terveysministeriön antaman asetuksen (452/2015) sijoitustyyliä, eläkelaitoksen on asetettava hedge-rahaston sijoitustyyliksi se sijoitustyyli, jonka käyttämisestä hedge- rahaston riskien huomioon ottamisessa aiheutuu eläkelaitoksen vakavaraisuuspääomavaatimuksen laskennassa perustellusti arvioiden korkein vakavaraisuuspääomavaatimus.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57622: (14) Mikäli eläkelaitos kohdistaa välilliseen sijoitukseen eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:n 1 momentissa mainitun riskiluokan 18 mukaisia riskejā, eläkelaitoksen on noudatettava jäljempānā 10 luvun kohdissa (2) - (9) määrättyjā periaatteita ja menettelyjä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57623: (15) Eläkelaitoksen on selkeästi dokumentoitava ja perusteltava välillisten sijoitusten riskien huomioon ottamisessa käyttämänsä menettelyt. Dokumentoinnista on käytävä ilmi, mitä periaatteita noudattaen eläkelaitos käsittelee välillistä sijoitusta riskiarvon ja odotetun tuoton laskennassa edellä kohdissa (2) ja (5) määrätyn mukaisesti, ja se, miten eläkelaitos arvioi menettelyn antavan sijoitukseen liittyvistä riskeistä oikean kuvan. Dokumentoinnista on käytävä ilmi myös, mitä periaatteita noudattaen eläkelaitos ottaa hedge-rahastojen riskit huomioon sijoitustyylien mukaan. Dokumentointi on pidettävä ajan tasalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_57624: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57625: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57626: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57628: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57629: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57631: 9 Johdannaissopimuksen huomioon ottaminen riskiluokan odotetun tuoton ja riskiarvon laskennassa, deltavasta- arvoon perustuva laskentamenetelmä ja Finanssivalvonnalle tehtävä ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57632: (1) Finanssivalvonnan oikeus antaa määräykset johdannaissopimuksen huomioon ottamisesta riskiluokan odotetun tuoton laskennassa sekä tarkemmat määräykset johdannaissopimuksen huomioon ottamisesta riskiarvon laskennassa ja deltavasta-arvoon perustuvaan laskentamenetelmään liittyvista periaatteista sekä Finanssivalvonnalle tehtävästä ilmoituksesta perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 19 §:n 4 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57633: 9.1 Johdannaissopimuksen huomioon ottaminen riskiluokan odotetun tuoton ja riskiarvon laskennassa
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57634: MÄÄRÄYS (kohdat 2 - 5)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57635: (2) Eläkelaitoksen on, huolimatta siitä, käyttääkö se johdannaissopimuksen huomioon ottamisessa riskiluokan riskiarvon laskennassa full valuation -menetelmää vai deltavasta- arvoon perustuvaa laskentamenetelmää, otettava huomioon kaikki olennaiset yksittäiseen johdannaissopimukseen kohdistuvat riskit.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57636: (3) Eläkelaitoksen on noudatettava johdannaissopimusten huomioon ottamisessa riskiluokan odotetun tuoton ja riskiarvon laskennassa johdonmukaista menettelyä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57637: (4) Riskiluokkien (pois lukien korkoriskiluokka) johdannaissopimuksen odotettu tuotto koostuu kahdesta osasta: riskittömästä tuotosta į1 ja riskipreemiosta µ2 seuraavasti:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57638: μ1=IMVi 12 = [E(Ri,kät)-r] Ai,johd Ai,johd missä
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57639: r = luottoriskitön yliyön korko (%), ja se lasketaan kaavalla m6*(1/365)^y, missä m6 ja y ovat eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista annetun valtioneuvoston asetuksen (447/2015) mukaisia vakioita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_57640: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57641: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57642: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57644: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57645: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 17 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57646: E(Ri,kät ) = johdannaisposition i kohde-etuutena olevan instrumentin odotettu tuotto (%) MVi = johdannaisposition i markkina-arvo Ai,johd = johdannaisposition i delta Ai,johd = johdannaisposition i kohde-etuuden markkina-arvo.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57647: (5) Eläkelaitoksen on kohdistettava edella kohdassa (4) esitetyssä kaavassa riskittömän tuoton osuus korkoriskiluokkaan ja riskipreemion osuus erikseen jokaiseen sellaiseen eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:n 1 momentissa mainittuun riskiluokkaan, jonka mukaiselle riskille johdannainen altistuu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57648: OHJE (kohta 6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57649: (6) Siinä tapauksessa, että riskiluokalle eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvoista annetussa valtioneuvoston asetuksessa (447/2015) määrätty tuoton odotusarvo kuvaisi riskittömän tuoton ylittävää tuottoa (koskisi riskiluokkia 7 - 10 ja 13), eläkelaitoksen ei tulisi vähentää tuoton odotusarvosta luottoriskitöntä yliyön korkoa laskiessaan edellä kohdassa (4) määriteltyä riskipreemiota µ2.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57650: MÄÄRÄYS (kohdat 7 - 11)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57651: (7) Eläkelaitoksen on otettava riskiluokan j riskiarvon laskennassa johdannaissopimukset huomioon vähentämällä riskiluokan j riskiarvosta johdannaissopimusten arvon muutos, joka lasketaan kaavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57652: ΣiEljonaj DCi.johd
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57653: missä DCi,johd on johdannaisen i E ljohd,j arvon muutos tappio-olettamassa, ja se lasketaan kaavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57654: DCi,johd =V(1/min(T,1)){Ci,T[min(T,1),(1-v(min(T,1))Z;)So]-Ci,T(0,So)},
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57655: missä Ci,T(t,S) on johdannaisen arvo hetkellä t, ja S on kohde-etuuden hinta. T on johdannaisen juoksuaika laskentahetkellä. Riskiluokan tappio-olettama tarkoittaa kohde- etuuden arvon laskua Zj-prosenttia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57656: (8) Kohde-etuuden tappio-olettaman muodosta (kuten esimerkiksi osakkeen arvon muutoksesta, koron muutoksesta ja valuutan arvon muutoksesta) riippumatta periaatteena on oltava, että yhtä (1) vuotta lyhemmän johdannaisen ollessa kyseessä tappio-olettama on skaalattava johdannaisen juoksuajan neliojuurella. Lisäksi, eläkelaitoksen on laskettava tappio-olettaman jälkeinen hinta yhtä (1) vuotta lyhemmille johdannaisille ajankohtana, joka on niiden juoksuajan T päättymisajankohta ja muille johdannaiselle ajankohtana, joka on yksi (1) vuosi (t = 1). Eläkelaitoksen on skaalattava näin saatu arvon muutos vuosittaiseksi käyttämällä edellä kohdassa (7) esitetyn kaavan ensimmäistä neliöjuuritermiä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57657: (9) Mikäli yhteen johdannaissopimukseen kohdistuu useamman kuin yhden riskiluokan tappio- olettama, eläkelaitoksen on tehtävä edella kohdassa (8) määrätty aikaskaalaus vain yhdessä riskiluokassa. Pääsääntöisesti tämän on oltava se riskiluokka, johon johdannaisen kohde- etuus kuuluu. Mikäli johdannaisella on useita kohde-etuuksia tai, jos kohde-etuuteen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_57658: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57659: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57660: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57662: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57663: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 18 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57664: kohdistuu useiden riskiluokkien tappio-olettamia, eläkelaitoksen on tehtävä aikaskaalaus siinā riskiluokassa, joka johtaa kokonaisvakavaraisuusvaatimuksen kannalta perustellusti arvioiden turvaavimpaan vaihtoehtoon. Muissa riskiluokissa elakelaitoksen on kaytettävä välitöntä hintashokkia, joka lasketaan kaavalla
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57665: DCi,johainstant =Ci,T(0,(1 - Zj)So) - Ci,T(0,So).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57666: (10) Eläkelaitoksen on kohdistettava euribor- ja libor-sidonnaisten koronvaihtosopimusten kohde- etuudet luottomarginaaliriskin riskiarvon ja odotetun tuoton laskennassa riskiluokkaan 7.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57667: (11) Mikäli eläkelaitoksen sijoitukset sisältävät vähintään yhden (1) korkojohdannaissopimuksen, eläkelaitoksen on käytettävä riskiluokan 6 odotettujen tuottojen laskennassa keskimääräistä eläkelaitoksen korkoriskiä sisältävien sijoitusten modifioitua duraatiota ja laskettava korkoriskiä sisältävien sijoitusten yhteenlasketulle markkina-arvolle eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 14 §:n 1 momentin mukainen odotettu tuotto. Näin laskettava odotettu tuotto sisältää korkoriskia sisältävien johdannaisten osalta edella kohdassa (4) määritellyn riskittömän tuoton µ1.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57668: 9.2 Deltavasta-arvoon perustuvan laskentamenetelmän käyttäminen MÄÄRÄYS (kohdat 12 - 13)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57669: (12) Eläkelaitos voi käyttää riskiluokan riskiarvon laskennassa deltavasta-arvoon perustuvaa laskentamenetelmää, mikäli eläkelaitoksen riskiluokkaan sisältyvät epälineaariset johdannaiset sisältävät ainoastaan ostettuja osto-optioita tai ostettuja myyntioptioita tai molempia.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57670: (13) Eläkelaitoksen on dokumentoitava periaatteet, joiden perusteella se käyttää riskiarvon laskennassa deltavasta-arvoon perustuvaa laskentamenetelmää ja myös kaikki ne seikat, joiden perusteella se arvioi eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 19 §:n 3 momentissa esitettyjen vaatimusten toteutuvan deltavasta-arvoon perustuvaa laskentamenetelmää käytettäessä. Periaatteiden on oltava johdonmukaiset, ja niitä on käytettävä johdonmukaisesti. Dokumentoinnista on käytävä selkeästi ilmi se, missä tapauksissa eläkelaitos käyttää deltavasta-arvoon perustuvaa laskentamenetelmää ja missä tapauksissa full valuation -menetelmää. Dokumentointi on pidettävä ajan tasalla.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57671: 9.3 Finanssivalvonnalle tehtava ilmoitus
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57672: MÄÄRÄYS (kohta 14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57673: (14) Eläkelaitoksen on toimitettava Finanssivalvonnalle ilmoitus deltavasta-arvoon perustuvan laskentamenetelmän käyttämisestä silloin, kun eläkelaitos ensimmäisen kerran ottaa käyttöön deltavasta-arvoon perustuvan laskentamenetelmän yhden tai useamman riskiluokan riskiarvon laskennassa ja aina, kun laskentamenetelmän käyttämisessä tapahtuu oleellisia muutoksia. Eläkelaitoksen on ilmoituksessa annettava selvitys siitä, miksi deltavasta-arvoon perustuvan laskentamenetelmän käyttö ei kokonaisuus huomioon ottaen aliarvioi johdannaissopimuksiin sisaltyvia riskeja. Elakelaitoksen on ilmoituksessa annettava selvitys myös siitä, mitkä ovat laskentamenetelmän käyttämisessä tapahtuneet oleelliset muutokset edelliseen ilmoitukseen verrattuina.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_57674: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57675: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57676: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57678: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57679: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 19 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57680: 10 Muut olennaiset sijoituksiin kohdistuvat riskit ja niihin liittyvä raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57681: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset muiden olennaisten sijoituksiin kohdistuvien riskien laskentamenetelmään liittyvistä periaatteista ja siihen liittyvästä raportoinnista perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 21 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57682: 10.1 Muiden olennaisten sijoituksiin kohdistuvien riskien laskentamenetelmään liittyvät periaatteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57683: MÄÄRÄYS (kohdat 2 - 9)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57684: (2) Eläkelaitos ei voi sisällyttää riskiluokkien 1 - 17 mukaisia riskejā riskiluokan 18 riskeihin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57685: (3) Pääomavaatimuksen laskennassa eläkelaitoksen on kohdistettava kuhunkin riskitekijään epäedullisesti vaikuttava tappio-olettama samalla turvaavuustasolla, kuin mitä on käytetty valtioneuvoston asetuksen (447/2015) eläkelaitoksen vakavaraisuusrajan laskennassa käytettävien vakioiden arvojen määrittämisessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57686: (4) Tappio-olettaman on perustuttava asianmukaisiin ja soveltuviin tilastomenetelmiin sekä luotettaviin nykyhetken tietoihin ja realistisiin ja turvaaviin oletuksiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57687: (5) Elakelaitoksen on käytettävä tappio-olettaman maarittämisessa asianmukaisia tietoja. Tietojen on sisällettävä riittavästi menneitā kausia, jotta eläkelaitos voi arvioida riskin luonnetta ja tunnistaa riskin kehityssuunta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57688: (6) Edella kohdissa (3) - (5) kuvatulla menettelylla tulokseksi saatu tappio-olettaman ilmoittama arvostustappio on muiden olennaisten sijoituksiin kohdistuvien riskien pääomavaatimus. Eläkelaitoksen on toistettava tappio-olettama kaikille riskitekijöille ja lopuksi laskettava itseisarvoina yhteen kaikkien riskitekijöiden pääomavaatimukset.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57689: (7) Eläkelaitoksen on estimoitava vakavaraisuuslaskennassa käytettävälle riskiluokalle 18 korrelaatiokerroin, joka tarkoittaa riskiluokan 18 korrelaatiokerrointa kaikkien muiden riskiluokkien 1 - 17 kanssa yhdessä.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57690: (8) Riskiluokan 18 korrelaatiokertoimen estimoinnissa eläkelaitoksen on otettava huomioon kaikki hajautusvaikutuksen kannalta oleelliset tekijät mukaan lukien eläkelaitoksen sijoitusten riskiluokkien mukaiset osuudet. Hajautusvaikutusten mittaamiseksi käyttämässään järjestelmässä eläkelaitoksen on otettava huomioon kaikki oleelliset ei-lineaariset
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_57691: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57692: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57693: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57695: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57696: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 20 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57697: riippuvuudet ja myös hajautushyödyn väheneminen poikkeuksellisissa markkinaolosuhteissa.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57698: (9) Elakelaitoksen on estimoitava riskiluokan 18 korrelaatiokerroin siten, että korrelaatiomatriisi on aina positiivisesti semidefiniitti.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57699: 10.2 Muiden olennaisten sijoituksiin kohdistuvien riskien laskentamenetelmään liittyvä raportointi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57700: MÄÄRÄYS (kohta 10)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57701: (10) Edellä kohdissa (2) - (9) määrätyn menettelyn käyttämisestä eläkelaitoksen on toimitettava Finanssivalvonnalle selvitys silloin, kun eläkelaitos ensimmäisen kerran kohdistaa sijoituksiinsa riskiluokan 18 mukaisia riskejā ja aina, kun menettelyssa tapahtuu oleellisia muutoksia. Selvityksestä on käytävä ilmi menettelyssä käytetyt periaatteet ja niiden yksityiskohtaiset perustelut sekä se, mitkä ovat menettelyssä tapahtuneet oleelliset muutokset edelliseen selvitykseen verrattuina.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_57702: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57703: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57704: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57706: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57707: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 21 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57708: 11 Hallituksessa vahvistettavat perusteet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57709: (1) Finanssivalvonnan oikeus antaa tarkemmat määräykset elakelaitoksen hallituksessa vahvistettavien perusteiden laatimisesta perustuu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 24 §:n 3 momenttiin.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57710: 11.1 Hallituksessa vahvistettavien perusteiden laatiminen
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57711: MÄÄRÄYS (kohdat 2 - 4)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57712: (2) Eläkelaitoksen on laadittava selkeät ja yksityiskohtaiset dokumentit kaikista eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 24 §:n 1 momentissa tarkoitetuista perusteista. Dokumenteista on käytävä selvästi ilmi, millä tavoin ja missä tilanteissa eläkelaitos käyttää kutakin perustetta.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57713: (3) Eläkelaitoksen hallituksen on tehtävä eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 24 §:ssä tarkoitetuista perusteista kirjallinen päätös. Päätöksestä on käytävä ilmi kaikki oleelliset perusteita koskevat seikat ja niiden yksityiskohtaiset perustelut.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57714: (4) Hallituksen vahvistamia perusteita on noudatettava otettaessa huomioon sijoituksiin kohdistuvia riskeja ja laskettaessa korko- ja luottomarginaaliriskille altistuneiden sijoitusten duraatioita.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_57715: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57716: Antopäivä:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57717: 11.10.2016
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57719: 1.1.2017 lukien toistaiseksi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57720: 9/2016 Lakisääteistä eläkevakuutusta harjoittavien eläkelaitosten vakavaraisuusrajan laskeminen ja sijoitusten hajauttaminen 22 (22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57721: 12 Kumotut määräykset ja ohjeet
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57722: (1) Nämä määräykset ja ohjeet kumoavat voimaan tullessaan seuraavat Finanssivalvonnan määräykset ja ohjeet:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57723: · Työeläkelaitoksille 1.1.2013 annettujen Vakavaraisuutta ja vastuuvelan sekä eläkevastuun katetta koskevien määräysten ja ohjeiden 13/2012 luvut 4 Sijoitusten luokittelu, 8 Johdannaissopimusten käsittely vakavaraisuuslaskennassa sekä 9 Vastuuvelan ja eläkevastuun kate
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57724: · Vakuutusyhtiöille, työeläkevakuutusyhtiöille, vakuutusyhdistyksille, vakuutusomistusyhteisöille, kolmannen maan vakuutusyhtiöiden sivuliikkeille ja lailla perustetuille eläkelaitoksille 15.12.2014 päivitetyn määräys- ja ohjekokoelman (Dnro 9/101/2011) luvun 10.1 (7) kohdan kappaleen "Hallituksen paatos VakVarL 5 ja 8 §:ssa tarkoitetuista perusteista" ja kohdan 10.5.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57725: · Eläkekassoille 1.11.2014 päivitetyn määräys- ja ohjekokoelman (Dnro 7/101/2011) kohdan 2A.1.5.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57726: · Eläkesäätiöille 1.11.2014 päivitetyn määräys- ja ohjekokoelman (Dnro 8/101/2011) kohdan 2A.1.5.1
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_57727: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

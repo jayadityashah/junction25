@@ -1,0 +1,1884 @@
+METADATA: {"document_id": 76, "filename": "Final Report on Guidelines on recovery plan indicators.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "EBA", "jurisdiction": "FINNISH", "page_count": 45, "paragraph_count": 755}
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_100357: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_100358: EBA/GL/2021/11
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_100359: 09/11/2021
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100360: Final Report
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_100361: Guidelines on recovery plan indicators under Article 9 of Directive 2014/59/EU
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100362: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100364: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100366: Executive summary
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100368: Next steps
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100370: Background and rationale
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100372: Changes to the minimum list of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100374: Additional guidance on the calibration of recovery plan indicator thresholds
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100376: Additional guidance on breaching and monitoring of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100378: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100380: 1. Compliance and reporting obligations
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100382: 2. Subject matter, scope and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100384: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100386: Addressees
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100388: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100390: 3. Implementation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100392: Date of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100396: 4. Setting the framework of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100398: Categories of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100400: Requirements for the calibration of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100402: Actions and notifications upon breaching an indicator
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100404: Arrangements for monitoring recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100406: 5. Recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100408: Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100410: Profitability indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100412: Asset quality indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100414: Market-based indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100416: Macroeconomic indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100418: 6. Accompanying documents
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100420: 6.1 1 Cost-benefit analysis / impact assessment
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_100422: 6.2 Feedback on the public consultation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100425: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100427: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100428: Executive summary
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100429: Directive 2014/59/EU (BRRD) establishes recovery plans as an important component of the European recovery and resolution framework and essential to ensuring proper crisis preparedness. The role of recovery plans is to ensure that credit institutions and investment firms consider in advance which corrective actions they could effectively take in situations of stress to restore their financial and business viability.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100430: In accordance with Article 9(1) of the BRRD, a recovery plan should include a framework of indicators established by each institution with the aim of identifying the points at which the escalation process should be activated and to assess what appropriate actions referred to in the recovery plan may be taken. Recovery plan indicators are a core element of recovery plans. Their main objective is to identify a stressed or crisis situation at an early stage in order to prevent undue delays in the implementation of recovery measures and enable institutions to undertake efficient, timely and effective actions to address it.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100431: Under the mandate of Article 9(2) of the BRRD, in 2015 the EBA issued guidelines to specify the minimum list of quantitative and qualitative indicators for the purposes of recovery planning (EBA- GL-2015-02). They have established a common EU standard for developing the framework of recovery plan indicators, while leaving some constrained flexibility to tailor a set of recovery plan indicators depending on institutions' specificities.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100432: The guidelines recognise that each institution should include both qualitative and quantitative indicators which are the most relevant when developing its recovery plan. Moving from this premise, the guidelines provide the requirements that institutions should meet when developing the framework for recovery plan indicators, and specify the minimum list of categories that should be included in all recovery plans.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100433: For each category of recovery plan indicators, the guidelines spell out specific indicators that should be included unless the institution justifies to the competent authorities that they are not relevant to its legal structure, risk profile, size and/or complexity (i.e. a rebuttable presumption). Finally, the guidelines recognise that institutions should not limit their set of indicators to the minimum list.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100434: Since the development of the guidelines in 2015, significant practical experience in developing and assessing recovery plans has been acquired. Moreover, in 2020 the EBA conducted a survey among competent authorities on the performance of recovery plan indicators in the context of the Covid- 19 outbreak and previous idiosyncratic crises. Against this background, the EBA has concluded that, while only limited amendments to its existing guidelines are needed, it is necessary to introduce additional guidance on certain parts of the recovery plan indicator framework. This approach has the advantage of maintaining overall stability in the recovery plan indicator framework while focusing on the areas in which practical experience showed a need for additional clarification and guidance.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_100435: Most of the provisions of the existing guidelines remain unaltered apart from replacing or adding a few metrics to the minimum list of recovery plan indicators and updating the format of the existing
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100437: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100438: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100439: text to the current legal template for EBA guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100440: In the proposed revision, the existing guidelines have been expanded in the following areas:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100441: i. Calibration of recovery plan indicators - additional guidance is provided to institutions on the general principles to follow in setting the thresholds of recovery plan indicators, focusing also on the treatment of recovery plan indicators in a crisis, in particular in the case of the application of supervisory relief measures. On the latter point, the guidelines clarify that, in the case of a systemic crisis, there should not be automatic recalibration of recovery plan indicators due to supervisory relief measures unless in duly justified cases and agreed with the competent authority; and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100442: ii. Actions and notifications upon a recovery plan indicator breach and monitoring of recovery plan indicators - the guidelines recognise the importance of timely notification of recovery plan indicator breaches and of frequent monitoring of indicators in a situation of crisis for the institution and the competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100443: Next steps
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_100444: The guidelines on recovery plan indicators will apply from 14.02.2022. The 2015 guidelines on recovery plan indicators will be repealed at the same time.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100446: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100448: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100449: Background and rationale
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100450: 1. The BRRD requires credit institutions and investment firms to plan to strengthen their ability to restore financial and economic viability when they fall into situations of stress. Through recovery planning, institutions are preparing in advance to address a wide range of crises that could emerge. Recovery plan indicators are a key component of recovery plans and their main objective is to help the institution to monitor and respond to the emergence and evolution of a stress situation. In order for this signalling mechanism to work, it needs to be set properly. The risk of a weak indicator framework is that the effectiveness of the institution's recovery options could be compromised by their implementation at the wrong time.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100451: 2. These guidelines have been developed on the basis of the legal mandate included in Article 9(2) of the BRRD in order to provide to institutions and competent authorities in a single set of guidelines the essential elements to be followed when developing the recovery plan indicator framework.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [RISK:LIQUIDITY_RISK]
+PARAGRAPH_100452: 3. The guidelines specify the minimum list of categories of recovery plan indicators that should be covered (capital, liquidity, profitability and asset quality indicators) plus two other categories (market-based and macroeconomic indicators) to be included unless the institution justifies to the competent authorities that they are not relevant to its legal structure, risk profile, size and/or complexity (i.e. a rebuttable presumption).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100453: 4. For each category, the guidelines provide a list of specific recovery plan indicators to be included unless the institution can justify to the competent authorities why they are not relevant to its legal structure, risk profile, size and/or complexity (i.e. a rebuttable presumption). This rule is applicable without prejudice to the application of simplified obligations for recovery planning. The guidelines also encourage institutions to include additional recovery plan indicators (not included in the minimum list) depending on their business and risk profile. For this reason, the guidelines include an exemplary list with additional recovery plan indicators broken down by categories.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100454: Changes to the minimum list of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100455: 5. The minimum list of indicators established in EBA-GL-2015-02 has been reviewed, taking into account relevant policy developments and practical experience in their application since 2015. On this basis, limited amendments have been introduced by adding three recovery plan indicators and removing one indicator from the minimum list.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100456: · Indicators added to the minimum list:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_100457: i. MREL (i.e. the minimum requirement for own funds and eligible liabilities set for institutions pursuant to the BRRD) and TLAC (i.e. the Total Loss Absorbing Capacity) - MREL and TLAC are important regulatory requirements and fundamental to ensuring
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100459: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100460: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100461: resolvability of institutions. Since the issuance of the guidelines in 2015, binding MREL intermediate and final targets have been set for all institutions to which they apply. G- SIIs must comply with TLAC targets.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100462: ii. Available central-bank eligible unencumbered assets - recent experience with crisis situations has highlighted the usefulness of asset encumbrance as a liquidity indicator. This indicator plays an important role in assessing the institution's ability to withstand funding stress using eligible and available collateral to access standard central bank facilities.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100463: iii. Liquidity position - institutions may have other liquidity sources available beyond HQLA (e.g. other tradable assets, committed lines and others) that do not have central bank eligibility but are available as support in stress situations. Monitoring the liquidity position and therefore counterbalancing capacity (CBC) offers a comprehensive view of any potential deterioration in the liquidity profile of the institution above eligible HQLA or unencumbered assets.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100464: · Indicator removed from the minimum list:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100465: iv. Cost of wholesale funding - practical experience has demonstrated some limitations with the inclusion of this indicator in the mandatory list of minimum recovery plan indicators. It was often not applicable to institutions that do not have access to wholesale funding due to several reasons (e.g. size, market) or have a diversified funding profile. However, considering that this indicator can be relevant to showing stress in the funding profile in certain cases, it was added to the non-exhaustive list of additional indicators for consideration.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100466: Additional guidance on the calibration of recovery plan indicator thresholds
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100467: 6. Recovery plans should explain how the recovery plan indicators have been calibrated and demonstrate that the thresholds have been set at a level allowing sufficient time to act effectively in a crisis situation. The fundamental principle of the calibration of recovery plan indicators is that it should enable detection early enough to alert the institution to stress in a timely manner and allow recovery options to be implemented.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100468: 7. Practical experience has revealed that often recovery plan indicators were triggered too late and/or did not include any forward-looking elements. This might represent an obstacle to the usability of recovery plans because the inappropriate timing could impact the credibility of recovery options or materially reduce their benefits.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_100469: 8. In order to take into account the fact that sometimes breaches of recovery plan indicators might not represent a real deterioration in an institution's situation, the principle of non-automaticity is embedded into the recovery plan indicator framework. Hence, the recovery plan indicator breach does not move an institution into the recovery phase in a purely automatic way. The
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100471: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100472: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100473: triggering of an indicator works as an alarm prompting the institution to consider its situation and whether it is appropriate to take any actions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100474: 9. To guide institutions in appropriate calibration of the thresholds for recovery plan indicators, while recognising the need to tailor calibration to the specific business and financial profile of each institution, the guidelines establish a set of general qualitative requirements (overall recovery capacity, complexity of recovery options, stage of the crisis, pace of deterioration, risk management and appetite framework) that institutions should take into account when calibrating indicator thresholds. Such requirements should be aligned with the institutions' overall risk management framework in order to attain the goals of the recovery plan indicator framework, as specified in Article 9 of the BRRD, and consequently result in timely activation of recovery plans if needed.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100475: 10.Another important aspect where practical experience has shown that more clarification is needed is related to the circumstances that would allow an update of the calibration of recovery plan indicator thresholds - in particular, whether temporary supervisory relief measures applied in relation to regulatory requirements during a systemic crisis should be automatically reflected or not in the calibration of the corresponding regulatory recovery plan indicators, considering their implicit link to regulatory requirements. In this context, a systemic crisis should be understood in accordance with its meaning specified in Article 2(30) of the BRRD.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100476: 11.According to Article 5(2) of the BRRD the recovery plan, and therefore also its indicators, should be updated at least annually or more frequently due to a change in the business or financial situation of the institution. The guidelines clarify that the granting of temporary supervisory relief measures in a systemic crisis, like the Covid-19 pandemic, should not result in the automatic recalibration of regulatory recovery plan indicators except in duly justified cases and pending the competent authority's approval. This approach takes into consideration the importance from a risk management perspective of not diminishing the timely reaction of an institution to breaches of recovery plan indicators, which becomes even more crucial in times of crisis. It also reflects the fact that the supervisory relief measures are temporary in nature and might be linked to the specific objective of allowing banks to support lending and the real economy. It also reflects the fact that the indicator breach does not result in any automatic activation of the plan. While the supervisory relief measures themselves should not automatically change the threshold level for the indicator breach, it is recognised that those measures could impact the capital level targeted by the institution, which could ultimately result in an update of the recovery plan indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_100477: 12.Regarding the calibration of regulatory capital and liquidity indicators, experience has shown that often institutions set their recovery plan indicator thresholds too close to regulatory requirements, which weakens the alert function of the indicators. The guidelines now specify that the thresholds should be generally established sufficiently above regulatory requirements, while allowing flexibility to deviate from this in justified cases. Such a calibration would enable the indicators to perform their alert function early enough, thus allowing independent action by
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100479: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100480: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100481: the management of the institution before potential supervisory intervention and deteriorating market confidence, which could negatively impact the effectiveness of the recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100482: 13.When considering the link between recovery plan indicators and regulatory buffers, it is important to acknowledge that thresholds for recovery plan indicators do not constitute regulatory requirements but only points at which institutions are asked to start an internal escalation process and reflect on whether recovery action should be implemented or not. In this respect, a recovery plan indicator threshold set above capital buffers should not create a disincentive for the institution to use the buffer - it will simply prompt the institution to reflect on whether that usage of the capital buffer is justified by the situation and whether it requires any action from the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100483: 14.It should be underlined that there is no automaticity in the activation of recovery options upon breaching recovery plan indicators and there is full discretion for the institution in deciding whether to act or not in the case of a breach. Particularly in stressed conditions, it is crucial to have this decision point at an early enough stage to be able to implement action if needed.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100484: Additional guidance on breaching and monitoring of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100485: 15.In entering a crisis, the indicator framework should start signalling various breaches. In order for the breaches to effectively fulfil their warning potential, they need to (i) quickly activate a proper escalation process internally in the institution to make sure that their breach is considered and acted on if considered appropriate and (ii) be promptly communicated to the supervisor so that a constructive dialogue can start. With timing being crucial in crisis situations, institutions should ensure that both the processes above take place quickly, i.e. with the escalation process being completed within one business day after the breach of a recovery plan indicator and the notification to the competent authority happening at the latest within an additional business day following this internal escalation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100486: 16.Following the notification, the institution should maintain an active dialogue with the competent authority, providing them with the rationale of the decisions taken in relation to the breaches in a timely manner. It is important that the institution understands that the breaches are simply signalling a potential problem that might need to be addressed. Whether the institution decides to take action or not, the competent authority should be provided with a clear and reasoned explanation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_100487: 17.While the final decision on the potential activation of the plan remains with the institution, the engagement of the competent authority in this phase will not only be for the purpose of monitoring that the process is followed correctly but importantly will also contribute through constructive dialogue with the institution to the most effective management of the potential crisis.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_100489: GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_100491: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_100492: 18.The status and evolution of recovery plan indicators and the potential actions taken by the institution are key information for the competent authority in its assessment of the institution's ability to independently recover. Therefore, even more crucially in a crisis, the institution and the competent authority should pay particular attention to the monitoring of the recovery plan indicator framework to make sure that it is properly set and reacts in a timely manner to the situation. In the case of a crisis situation or when one or more recovery plan indicators are breached, the competent authority has the discretion to request the institution to submit on a regular basis (e.g. monthly) their full set of indicators. This requirement should not represent an additional burden on the institution, considering that this list would already be available and internally verified by the institution using its recovery plan as a governance tool.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100494: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_100495: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_100496: EBA/GL/2021/11
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_100497: 09/11/2021
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_100498: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_100499: on recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100501: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100502: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100503: 1. Compliance and reporting obligations
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100504: Status of these guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100505: 1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/20101. In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100506: 2. Guidelines set the EBA view of appropriate supervisory practices within the European System of Financial Supervision or of how Union law should be applied in a particular area. Competent authorities as defined in Article 4(2) of Regulation (EU) No 1093/2010 to whom guidelines apply should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including where guidelines are directed primarily at institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100507: Reporting requirements
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100508: 3. According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by 14.02.2022. In the absence of any notification by this deadline, competent authorities will be considered by the EBA to be non-compliant. Notifications should be sent by submitting the form available on the EBA website with the reference 'EBA/GL/2021/11'. Notifications should be submitted by persons with appropriate authority to report compliance on behalf of their competent authorities. Any change in the status of compliance must also be reported to the EBA.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100509: 4. Notifications will be published on the EBA website, in line with Article 16(3).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_100510: 1 Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC, (OJ L 331, 15.12.2010, p.12).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100512: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100513: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100514: 2. Subject matter, scope and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100515: Subject matter
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100516: 5. These guidelines specify, in accordance with Article 9(2) of Directive 2014/59/EU2, the minimum list of quantitative and qualitative recovery plan indicators, to be included in the recovery plans developed and assessed in accordance with Articles 5 to 9 of that Directive as further specified in Articles 3 to 21 of Commission Delegated Regulation (EU) 2016/10753, the appropriate arrangements for the regular monitoring of such indicators, the points at which actions referred to in the recovery plans may be taken, the action to be taken in relation to these indicators and any condition necessary for the application of Article 9(1) of Directive 2014/59/EU with regard to these indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100517: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100518: 6. These guidelines apply to institutions as defined in point 23 of Article 2(1) of Directive 2014/59/EU subject to the obligations set out in Articles 5 to 9 of that Directive as further specified in Articles 3 to 21 of Commission Delegated Regulation (EU) 2016/1075.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100519: 7. For institutions that are not part of a group subject to consolidated supervision pursuant to Articles 111 and 112 of Directive 2013/36/EU, these guidelines apply at the individual level.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100520: 8. For institutions that are part of a group subject to consolidated supervision pursuant to Articles 111 and 112 of Directive 2013/36/EU, these guidelines apply at the level of the Union parent undertaking and at the level of its subsidiaries.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100521: 9. Competent authorities may specify how to apply all or part of these guidelines to institutions which are subject to simplified obligations with regard to their recovery plans as set out in Article 4 of Directive 2014/59/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100522: 10. Competent authorities may waive the application of certain indicators or conditions set out in paragraphs 21 to 23 to institutions that are investment firms, where their application would not be appropriate for the recovery planning of the investment firm or the investment firm group, having regard to its business model but also to its legal structure, risk profile, size or complexity.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100523: Addressees
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_100524: 2 Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100525: 3 Commission Delegated Regulation (EU) 2016/1075 of 23 March 2016 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the content of recovery plans, resolution plans and group resolution plans, the minimum criteria that the competent authority is to assess as regards recovery plans and group recovery plans, the conditions for group financial support, the requirements for independent valuers, the contractual recognition of write-down and conversion powers, the procedures and contents of notification requirements and of notice of suspension and the operational functioning of the resolution colleges (OJ L 184, 8.7.2016, p. 1).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100527: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100528: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100529: 11. These guidelines are addressed to competent authorities as defined in points (2)(i) and (2)(viii) of Article 4 of Regulation (EU) No 1093/2010 and to financial institutions as defined in point (1) of Article 4 of Regulation (EU) No 1093/2010 where these financial institutions fall within the scope of these guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100530: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100531: 12. Unless otherwise specified, terms used and defined in Directive 2014/59/EU, Directive 2013/36/EU and Directive (EU) 2019/2034 have the same meaning in the guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100532: 13. For the purpose of these guidelines, the following definitions apply:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100533: 'competent authority'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100534: means the competent authority as defined in point 21 of Article 2(1) of Directive 2014/59/EU and the consolidating supervisor as defined in point 37 thereof as well as the competent authority as defined in point 5 of Article 3 of Directive (EU) 2019/2034 and the group supervisor as defined in point 15 thereof
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100535: 'institution'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100536: means the institution as defined in point 23 of Article 2(1) of Directive 2014/59/EU and the Union parent undertaking as set out in point 26 thereof
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100537: 'overall recovery capacity'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100538: means the capability of restoring the financial position of an institution or of a group in their entirety following a significant deterioration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100539: 'recovery plan'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100540: means the recovery plan set out in Articles 5 and 6 of Directive 2014/59/EU and the group recovery plan set out in Articles 7 and 8 of that Directive
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100541: ‘recovery plan indicators'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100542: refer to qualitative and quantitative indicators established by each institution on the basis of the framework laid down in these guidelines to identify the points at which appropriate actions referred to in the recovery plan may be taken as set out in Article 9(1) of Directive 2014/59/EU
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100543: 3. Implementation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100544: Date of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_100545: 14. These guidelines apply from 14.02.2022.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100548: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100549: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100550: 15. Guidelines on the minimum list of qualitative and quantitative recovery plan indicators (EBA-GL-2015- 02) of 6 May 20154 are repealed and replaced with effect from [two months after the publication in all EU languages].
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100551: 4. Setting the framework of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100552: 16. The framework of recovery plan indicators should be established by institutions and assessed by the competent authority taking into consideration the criteria laid down in these guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100553: 17. The recovery plan should contain detailed information on the decision-making process with regard to the activation of the recovery plan as an essential element of the governance structure, based on an escalation process using the indicators set out in the relevant framework and in accordance with Article 9(1) of Directive 2014/59/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100554: 18. In defining this framework, institutions should consider that indicator breaches do not automatically activate a specific recovery option but indicate that an escalation process should be started to decide whether to take action or not.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100555: 19. Institutions should include recovery plan indicators of both a quantitative and qualitative nature.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100556: 20. While setting the quantitative recovery plan indicator thresholds, consistently with its overall general risk management framework in accordance with Article 5(4) of Commission Delegated Regulation (EU) 2016/1075, the institution should use progressive metrics ('traffic light approach') in order to inform the institution's management body that such indicator thresholds could potentially be reached.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100557: Categories of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100558: 21. Institutions should include in the recovery plan at least the following mandatory categories of recovery plan indicators as further specified in these guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100559: a. capital indicators;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100560: b. liquidity indicators;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100561: c. profitability indicators;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100562: d. asset quality indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100563: 22. Institutions should include in the recovery plan the two following categories of recovery plan indicators as further specified in these guidelines, unless they provide satisfactory justifications to the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_100564: 4 https://eba.europa.eu/sites/default/documents/files/documents/10180/1064487/4bf18728-e836-408f-a583- b22ebaf59181/EBA-GL-2015-02%20GL%20on%20recovery%20plan%20indicators.pdf
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100566: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100567: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100568: competent authorities as to why such categories are not relevant to the legal structure, risk profile, size and/or complexity of the institution (i.e. a rebuttable presumption):
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100569: a. market-based indicators;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100570: b. macroeconomic indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100571: 23. Institutions should include specific recovery plan indicators included in the list per category provided in Annex II to these guidelines, unless they provide satisfactory justifications to the competent authorities as to why such specific indicators are not relevant to the legal structure, risk profile, size and/or complexity of the institution or they cannot be applied due to characteristics of the market in which the institution operates (i.e. a rebuttable presumption).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100572: 24. When an institution is rebutting the presumption as set out in paragraph 23 for any of the indicators specified in Annex II, where possible it should replace it with another indicator from the same category which is more relevant for this institution. Where replacement is not possible for each indicator from Annex II, institutions should include in their recovery plans at least one indicator from each of the categories set out in paragraph 21.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100573: 25. Institutions should not limit their set of indicators to the minimum list set out in Annex II, and should give consideration to the inclusion of other indicators following the principles and in line with the description of the categories laid down in these guidelines. With this aim, Annex III includes a non- exhaustive list with examples of additional recovery plan indicators broken down by categories.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100574: 26. The framework of recovery plan indicators should:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100575: a. be adapted to the business model and strategy of an institution and be adequate to its risk profile. It should identify the key vulnerabilities most likely to impact the institution's financial situation;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100576: b. be adequate to the legal structure, size and complexity of each institution. In particular, the number of indicators should be sufficient to alert the institution of deteriorating conditions in a variety of areas. At the same time, this number of indicators should be adequately targeted and manageable by institutions;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100577: c. be aligned with the overall risk management framework and with the existing liquidity or capital contingency plan indicators, and business continuity plan indicators;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100578: d. allow for regular monitoring and be integrated into the institution's governance and within the escalation and decision-making procedures; and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100579: e. include forward-looking indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100580: Requirements for the calibration of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100581: 27. For the calibration of the indicator framework the institution should take into account the following:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_100582: a. The overall recovery capacity of available options: institutions with a more limited overall recovery capacity should consider an earlier breach of recovery plan indicators to maximise chances of successful implementation of their more limited recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100584: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100585: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100586: b. The timeframe and complexity of the implementation of recovery options, considering governance arrangements, regulatory approvals required in all relevant jurisdictions and potential operational impediments to execution. Institutions which rely on options that are more complex to execute and are likely to take more time to implement should have indicators calibrated accordingly in a more conservative way, to allow sufficient advance warning.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100587: c. At which stage of the crisis the recovery option can realistically be used effectively. In considering this aspect, the institution should take account of the fact that for some types of options the full benefits could be difficult to reach later in the stress situation as opposed to early implementation. For example, in the case of the recovery option of 'raising capital in the market' an institution should consider if and when this can realistically be achieved. Institutions should acknowledge that it might become more difficult to raise external capital the closer the institution comes to breaching its capital requirements.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100588: d. The pace of deterioration in a crisis. Institutions should acknowledge that, while the pace of deterioration will ultimately depend on the specific circumstances of the crisis, specific institutions' profiles, including but not limited to institutions with a less diversified business model as well as other individual circumstances, may result in swifter deterioration of the institution's financial position and in a shorter timeframe being available for the implementation of recovery options. In this respect, institutions should also consider using indicators showing deterioration over time to detect situations in which a rapid and substantial deterioration of an institution's financial position (e.g. capital) occurs. Moreover, monitoring the change in a metric should be considered where it is difficult to define a single point in time where escalation is needed.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100589: e. The institution's risk management framework (including the ICAAP) and risk appetite framework. An institution should ensure that the calibration of recovery plan indicators is consistent with its risk management and risk appetite framework (e.g. early warning framework, contingency and business continuity plans).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100590: 28. An institution should be able to provide the competent authority with an explanation of how the calibrations of the recovery plan indicators have been determined and to demonstrate that the thresholds would be breached early enough to be effective.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100591: 29. The appropriateness of the calibrations of the recovery plan indicators should be regularly monitored and, pursuant to Article 5(2) of Directive 2014/59/EU, updated at least annually or more frequently where the update, as proposed by the institution, is needed due to a change in the financial and business situation of the institution. Any update in the calibration of recovery plan indicators should be promptly and duly notified, explained and justified to the competent authority. Such an update should be agreed by the competent authorities when making their assessment of the recovery plan.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100592: 30. Competent and resolution authorities could decide to implement temporary relief measures in the case of a systemic crisis with the aim of alleviating the regulatory burdens that could adversely impact the institutions' ability to continue supporting the real economy. Considering the temporary nature and the specific objective of those supervisory and resolution relief measures, their granting should result in no automatic change to the calibration of recovery plan indicators by the institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_100593: 31. Competent authorities may agree to the update of the calibration of the recovery plan indicators in duly justified cases such as the following:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100594: a. The recalibrated indicators comply with the general requirements for the calibration of recovery plan indicators as outlined under paragraph 27.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100596: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100597: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100598: b. Those changes reflect changes to the institution's business and financial profile and are aligned with the internal risk management and risk appetite framework of the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100599: c. The recalibration does not go against the objectives of supervisory relief measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100600: d. The capital indicators are at all times calibrated at levels exceeding the relevant amount of own funds required pursuant to Parts Three, Four and Seven of Regulation (EU) No 575/2013, Chapter 2 of Regulation (EU) 2017/2402 and point (a) of Article 104(1) of Directive 2013/36/EU as relevant.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100601: Actions and notifications upon breaching an indicator
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100602: 32. For indicator breaches to effectively fulfil their warning potential, in line with internal procedures specified in their recovery plans pursuant to Article 5(3)(a) of Commission Delegated Regulation (EU) 2016/1075, institutions should promptly and in any event:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100603: a. within one business day of the breach of the recovery plan indicator, alert the institution's management body by activating the appropriate escalation process in order to ensure that any breach is considered and, where relevant, acted upon; and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100604: b. at the latest within one additional business day following the internal escalation referred to in (a) above, notify the recovery plan indicator breach to the relevant competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100605: 33. Where a recovery plan indicator has been breached, the management body of the institution should, also on the basis of Article 9(1) of Directive 2014/59/EU, assess the situation, decide whether recovery actions should be taken and notify its decision promptly to the competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100606: 34. The decision taken by the institution referred to in the previous paragraph should be based on a reasoned analysis of the circumstances surrounding the breach. Where that decision is for the institution to take action in accordance with the recovery plan, the competent authority should be provided with an action plan based on a list of potential credible and feasible recovery options for use in this stress situation and a time plan to remediate the breach. If no action has been decided, the explanation provided to the competent authority should clearly articulate the reasons why and, where appropriate, demonstrate how the restoration of specific types of indicators and their breaches is possible without the use of recovery measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100607: 35. Any action or option taken or considered by the institution following an indicator breach, even if previously not included in the recovery plan, should be deemed relevant for the communication with the competent authority. Indicatively, for that purpose, recovery options should include measures which are extraordinary in nature as well as measures that could also be taken in the course of normal business as referred to in Article 8 of Commission Delegated Regulation (EU) 2016/1075 (e.g. from contingency measures to the more extreme and radical recovery options).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_100608: 36. The final decision on the potential activation of the recovery plan remains with the institution and it is not automatically triggered by a breach. After the breach notification, the competent authority should actively engage with the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100609: 37. For the purposes of the previous paragraph, the competent authority should monitor (i) the proper and timely activation by the institution of escalation procedures and (ii) whether discussion on the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100611: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100612: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100613: activation of the plan happens at the right management level of the institution. The competent authority should assess whether the underlying reasoning provided by the institution for its decision to implement or not to implement recovery options is transparent and well reasoned.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100614: Arrangements for monitoring recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100615: 38. The monitoring of recovery plan indicators by the institution should be set at an adequate frequency and allow for the timely submission of the indicators to the competent authority upon request.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100616: 39. When requested by the competent authority, the institution should be able to provide it with values for its full set of recovery plan indicators (breached or not) at least on a monthly basis, even if the values for the indicators have not changed. The competent authority should consider requesting such information with an increased frequency, in particular in crisis situations or where one or more recovery plan indicators have been breached, having regard to the nature and speed of the crisis (fast or slow moving) and the type of indicator (e.g. liquidity indicators).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100617: 5. Recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100618: Capital indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100619: 40. Capital indicators should identify any significant actual and likely future deterioration in the quantity and quality of capital in a going concern, including increasing level of leverage.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100620: 41. When selecting capital indicators the institution should consider ways to address the issues stemming from the fact that the capacity of such indicators to allow for a timely reaction can be lower than for other types of indicators, and certain measures to restore an institution's capital position can be subject to longer execution periods or greater sensitivity to market and other conditions. In particular, this can be achieved by means of establishing forward-looking projections, which should consider material contractual maturities relating to capital instruments.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100621: 42. The capital indicators should also be integrated into the institution's Internal Capital Adequacy Assessment Process (ICAAP) pursuant to Article 73 of Directive 2013/36/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100622: 43. The thresholds for indicators based on regulatory capital requirements should be calibrated by the institution at adequate levels in order to ensure a sufficient distance from a breach of the capital requirements applicable to the institution (including minimum own funds requirements as specified in Article 92 of Regulation (EU) 575/2013 and additional own funds requirements applied pursuant to Article 104(1)(a) of Directive 2013/36/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100623: 44. In line with the objective of the recovery process and the flexibility given to the institution to act independently when breaching indicators, regulatory capital indicators should be set at a level higher than those that will allow supervisory intervention.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_100624: 45. Generally, capital indicators should be calibrated above the combined capital buffer requirement. Where an institution calibrates its capital indicators within the buffers, it should clearly demonstrate in its recovery plan that its recovery options can be implemented in a situation where the buffers have been totally or partially used.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100626: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100627: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100628: 46. The thresholds for indicators related to the requirements set out in Articles 45c and 45d of Directive 2014/59/EU (minimum requirement for own funds and eligible liabilities - MREL) and Article 92a or 92b of Regulation (EU) No 575/2013 (TLAC), expressed as percentages of the total risk exposure amount (TREA) and total exposure measure (TEM), should be aligned with the calibration of the regulatory capital recovery plan indicators and they should be set at a level above the one allowing the resolution authority's intervention in accordance with Article 16a of Directive 2014/59/EU [as introduced by Directive (EU) 2019/879] and Article 128 of Directive 2013/36/EU [as amended by Directive (EU) 2019/878]. The threshold should be generally calibrated by the institution above the combined buffer requirement when considered in addition to (i) the TLAC minimum requirement and (ii) the final MREL or the binding intermediate target levels of MREL (if different) expressed as percentages of TREA. The institution should also take into account any additional element considered relevant when determining those requirements, including a subordination requirement, as applicable. If an institution should decide to calibrate indicators related to MREL and TLAC within the buffers, it needs to clearly demonstrate in its recovery plan that its recovery options can be implemented in a situation where the buffers have been totally or partially used.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100629: 47. The indicator threshold should take into account the maturity profile of eligible liabilities and the institution's ability to roll them over. For groups with an MPE resolution strategy, where the prudential and resolution scopes might differ, the institution should calibrate the consolidated level MREL/TLAC indicators for each of the resolution entities/groups.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100630: 48. The threshold calibration for MREL should be agreed by the competent authority in consultation with the resolution authority when making their assessment of the recovery plan. Upon being notified by the institution of a breach of the MREL indicator, the competent authority should inform the resolution authority and cooperate with it considering the importance of MREL to the resolution objectives under Article 31 of Directive 2014/59/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100631: Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100632: 49. Liquidity indicators should be able to inform an institution of the potential for or an actual deterioration of the capacity of the institution to meet its current and foreseen liquidity and funding needs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100633: 50. The institution's liquidity indicators should refer to both the short-term and long-term liquidity and funding needs of the institution and capture the institution's dependence on wholesale markets and retail deposits, distinguishing among key currencies where relevant.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [RISK:LIQUIDITY_RISK]
+PARAGRAPH_100634: 51. The liquidity indicators should be integrated with the strategies, policies, processes and systems developed by each institution pursuant to Article 86 of Directive 2013/36/EU and its existing risk management framework.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100635: 52. The liquidity indicators should also cover other potential liquidity and funding needs, such as the intra-group funding exposures and those stemming from off-balance-sheet structures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_100636: 53. The thresholds for liquidity indicators should be calibrated by the institution at adequate levels in order to be able to inform the institution of potential and/or actual risks of not complying with those minimum requirements (including additional liquidity requirements pursuant to Article 105 of Directive 2013/36/EU, if applicable).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100638: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100639: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100640: 54. The thresholds for indicators based on regulatory liquidity requirements (LCR and NSFR indicators) should therefore be calibrated above the minimum requirements of 100%.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:LIQUIDITY_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100641: 55. To calibrate the thresholds of the liquidity position, the institution should consider liquidity metrics used for internal monitoring, reflecting its own assumptions on the liquidity that could realistically be derived from sources not taken into account in the regulatory requirements. For this, the institution could consider the amounts of the counterbalancing capacity (CBC), other liquidity sources (e.g. deposits with other credit institutions) and any other relevant adjustments. When establishing forward-looking indicators, the institution should assess which maturity to consider, according to the institution's risk profile, and then take into account the estimated inflows and outflows.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100642: Profitability indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100643: 56. Profitability indicators should capture any institution's income-related aspect that could lead to a rapid deterioration in the institution's financial position through lowered retained earnings (or losses) impacting on the own funds of the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [RISK:OPERATIONAL_RISK]
+PARAGRAPH_100644: 57. This category should include recovery plan indicators referring to operational risk-related losses which may have a significant impact on the profit and loss statement, including but not limited to conduct-related issues, external and internal fraud and/or other events.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100645: Asset quality indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100646: 58. Asset quality indicators should measure and monitor the asset quality evolution of the institution. More specifically, they should indicate when asset quality deterioration could lead to the point at which the institution should consider taking an action described in the recovery plan.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100647: 59. The asset quality indicators may include both a stock and a flow ratio of non-performing exposures in order to capture their level and dynamics.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100648: 60. The asset quality indicators should cover aspects such as off-balance-sheet exposures and the impact of non-performing loans on the asset quality.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100649: Market-based indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100650: 61. Market-based indicators aim to capture the expectations from market participants of a rapidly deteriorating financial condition of the institution that could potentially lead to disruptions in access to funding and capital markets. In accordance with this objective, the framework of qualitative and quantitative indicators should refer to the following types of indicators:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100651: a. equity-based indicators which capture variations in the share price of listed companies, or ratios that measure the relationship between the book and market value of equity;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100652: b. debt-based indicators, capturing expectations from wholesale funding providers such as credit default swaps or debt spreads;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_100653: c. portfolio-related indicators, capturing expectations in relation to specific asset classes relevant to each institution (e.g. real estate);
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100655: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100656: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100657: d. rating downgrades (long-term and/or short-term) as they reflect expectations of the rating agencies that can lead to rapid changes in the expectations of market participants regarding the institution's financial position.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100658: Macroeconomic indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100659: 62. Macroeconomic indicators aim to capture signals of deterioration in the economic conditions in which the institution operates, or of concentrations of exposures or funding.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100660: 63. The macroeconomic indicators should be based on metrics that influence the performance of the institution in specific geographical areas or business sectors that are relevant for the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100661: 64. The macroeconomic indicators should include the following typologies:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100662: a. geographical macroeconomic indicators, relating to various jurisdictions to which the institution is exposed, giving also consideration to risks stemming from potential legal barriers;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_100663: b. sectoral macroeconomic indicators, relating to major specific sectors of economic activity to which the institution is exposed (e.g. shipping, real estate).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100665: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100666: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100667: Annex I - Categories of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100668: Categories of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100669: (the first four categories are mandatory, while the last two categories may be excluded if an institution justifies that they are not relevant for it)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100670: Mandatory categories
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100671: 1. Capital indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100672: 2. Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100673: 3. Profitability indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100674: 4. Asset quality indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100675: Categories subject to rebuttable presumption
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100676: 5. Market-based indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_100677: 6. Macroeconomic indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100679: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100680: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100681: Annex II - Minimum list of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100682: Minimum list of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100683: (each indicator is subject to the possibility for an institution to justify that it is not relevant for it, but in such a case it should be replaced by another indicator which is more relevant to this institution)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100684: 1. Capital indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100685: a) Common Equity Tier 1 ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100686: b) Total Capital ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100687: c) Leverage ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100688: d) MREL and TLAC (where relevant)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100689: 2. Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100690: a) Liquidity Coverage Ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100691: b) Net Stable Funding Ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100692: c) Available central-bank eligible unencumbered assets
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100693: d) Liquidity position
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100694: 3. Profitability indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100695: a) (Return on assets) or (return on equity)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100696: b) Significant operational losses
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100697: 4. Asset quality indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100698: a) Growth rate of gross non-performing loans
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100699: b) Coverage ratio [provisions / (total non-performing loans)]
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100700: 5. Market-based indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100701: a) Rating under negative review or rating downgrade
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100702: b) CDS spread
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100703: c) Stock price variation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100704: 6. Macroeconomic indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100705: a) GDP variations
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_100706: b) CDS of sovereigns
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100708: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100710: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100711: Annex III - Illustrative list of additional recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100712: Additional recovery plan indicators (non-exhaustive list provided for illustration purposes only)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100713: 1. Capital indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100714: a) (Retained earnings and reserves) / total equity
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100715: b) Adverse information on the financial position of significant counterparties
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100716: 2. Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100717: a) Concentration of liquidity and funding sources
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100718: b) Cost of total funding (retail and wholesale funding)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100719: c) Average tenure of wholesale funding
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100720: d) Contractual maturity mismatch
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100721: e) Cost of wholesale funding
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100722: 3. Profitability indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100723: a) Cost-income ratio (operating costs / operating income)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100724: b) Net interest margin
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100725: 4. Asset quality indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100726: a) Net non-performing loans / equity
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100727: b) (Gross non-performing loans) / total loans
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100728: c) Growth rate of impairments on financial assets
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100729: d) Non-performing loans by significant geographic or sector concentration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100730: e) Forborne exposures5/ total exposures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100731: 5. Market-based indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100732: a) Price to book ratio
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100733: b) Reputational threat to the institution or significant reputational damage
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100734: 6. Macroeconomic indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100735: a) Rating under negative review or rating downgrade of sovereigns
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100736: b) Unemployment rate
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_100737: 5 'Forborne exposures' as defined in Articles 163-183 of Commission Implementing Regulation (EU) No 680/2014 of 16 April 2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to Regulation (EU) No 575/2013 of the European Parliament and of the Council.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100739: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100741: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100742: 6. Accompanying documents
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100743: 6.1 Cost-benefit analysis / impact assessment
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100744: A. Introduction
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100745: In accordance with Article 9(1) of the BRRD, each recovery plan must include a framework of indicators established by the institution and agreed with the competent authority, as well as the identification of points at which appropriate actions referred to in the plan may be taken. Moreover, institutions should put in place arrangements for the monitoring of indicators. The article referred to also specifies that a decision to take an action referred to in the recovery plan or a decision to refrain from taking such an action must be notified to the competent authority without delay. Furthermore, Article 5(3)(a) of Commission Delegated Regulation (EU) 2016/1075 specifies that the recovery plan should include 'the time limit for the decision on taking recovery options and when and how the relevant competent authorities will be informed of the fact that the indicators have been met'.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100746: Article 9(2) of the BRRD mandates the EBA to issue guidelines on recovery plan indicators. The EBA fulfilled this mandate in 2015 by issuing EBA-GL-2015-02.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100747: The experience gained in the application of the existing EBA guidelines, as well as the recent regulatory developments and market trends due to the Covid-19 outbreak raised the need to expand the guidelines in certain aspects. In particular, there is a need to introduce limited revisions to the minimum list of recovery plan indicators, and to introduce further guidance on the calibration of indicators, their monitoring and the timing for notifying breaches to the competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100748: B. Policy objectives
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100749: The previous version of the guidelines aimed at providing institutions with a set of indicators to identify circumstances which may lead to a significant deterioration in their financial position. Currently, observed practices and the outbreak of the Covid-19 crisis have raised other policy objectives in order to improve the effectiveness of recovery plans - in particular, providing additional guidance to institutions and competent authorities on the treatment of recovery plan indicators in crisis situations. The guidelines specify that, in situations when competent authorities grant temporary supervisory relief measures, in principle institutions should not automatically recalibrate their recovery plan indicators, though the guidelines nevertheless allow for the recalibration of indicators under certain conditions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_100750: Another objective of the guidelines is to underline that breaches of indicators do not lead to the automatic activation of the plan but rather prompt the institution's decision-makers to give their immediate attention to the need to take action or not. In this sense, the guidelines aim at normalising the use of recovery options and consider them as solutions to address different levels of criticalities,
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100752: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100754: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100755: which can range from ordinary measures to the more extreme recovery options. Lastly, the guidelines also aim at setting common timelines for escalation and notification to competent authorities of breaches of recovery plan indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100756: C. Baseline scenario
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100757: The first version of the guidelines harmonised the practices across the EU in the development of recovery plan indicator frameworks by setting the minimum list of indicators. This harmonisation succeeded in the implementation of a common framework to identify a significant deterioration in the financial position of institutions in various areas and it helped competent authorities in the process of assessment of recovery plans.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100758: The expansion of the guidelines will preserve and further enhance this harmonisation by introducing more guidance on the calibration of recovery plan indicators, their monitoring and notification of breaches to relevant competent authorities.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100759: D. Options considered
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100760: These guidelines include limited changes to the currently applicable guidelines on the minimum list of qualitative and quantitative recovery plan indicators (EBA-GL-2015-02), in order to update the text in line with the most recent regulatory developments and to clarify the calibration of recovery plan indicators, both in normal times and under supervisory relief measures granted during a crisis. Thus, the following policy options, which were considered in the first version of the guidelines, are still applicable to this version, in particular: (i) the inclusion of the list of categories of recovery plan indicators to be included in all recovery plans plus other categories subject to a rebuttable presumption, (ii) the minimum list of recovery plan indicators to be included subject to a rebuttable presumption and (iii) the inclusion of both qualitative and quantitative indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100761: The minimum list of recovery plan indicators has been slightly amended to reflect the entry into force of new regulatory requirements (i.e. MREL and TLAC requirements) and practical supervisory experience acquired during the first years of assessing recovery plans. On this basis, in addition to MREL and TLAC, two other recovery plan indicators have been added to the minimum list of recovery plan indicators: available central-bank eligible unencumbered assets and the liquidity position. Moreover, the indicator of cost of wholesale funding has been reclassified from Annex II (the minimum list of recovery plan indicators) to Annex III (the list of additional recovery plan indicators).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100762: These amendments aimed at providing additional guidance are the result of the assessment of policy options made by the EBA, with reference to the following aspects: (i) potential automatic recalibration of recovery plan indicators during crisis periods, (ii) calibration of recovery plan indicators and (iii) notification of breaches to the competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_100763: Automatic recalibration of indicators based on supervisory relief measures applied in crisis periods
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100765: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100767: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100768: Option 1: automatic recalibration of indicators due to supervisory relief measures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100769: This option will allow the automatic downward recalibration of capital indicators following capital and liquidity supervisory relief measures. The specific objective of supervisory relief measures is ensuring that banks can still execute the financial intermediation function during downturns. Regarding the relief for liquidity indicators, the main objective is avoiding liquidity shortages that in most cases are a prelude to solvency problems. Thus, the measures have a temporary nature and do not represent a permanent amendment to capital and liquidity requirements applicable in the CRR. The automatic recalibration of the recovery plan indicators could lead to a situation in which, once the supervisory measure is eliminated, banks could experience difficulties in the restoration of capital levels to previous levels.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100770: Option 2: no automatic recalibration of indicators due to supervisory relief measures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100771: According to Article 5(2) of the BRRD, recovery plans must be updated at least annually or after a change in either the legal or organisational structure of the institution, its business or its financial situation which could have a material effect on the recovery plan. In any case, any update of the calibration of recovery plan indicators must be explained and justified to the competent authority and agreed by the competent authority.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100772: Thus, as supervisory relief measures do not necessarily represent an immediate change in the risk appetite framework, business or financial situation of the institution, the recalibration of recovery plan indicators due to supervisory relief measures should not be automatic unless for specified duly justified cases.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100773: Instead, the recalibration of indicators is expected under the circumstances detailed in the amended guidelines: (i) compliance with the general principles for calibration, (ii) changes in the institution's business and financial profile, (iii) not to be against the objectives of supervisory relief measures and (iv) capital indicators calibrated above the minimum Pillar I and Pillar II requirements.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100774: Option 2 is the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100775: Calibration of capital and liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100776: Option 1: calibration of regulatory capital and liquidity indicators at or within the combined buffer requirement (capital) / at or below the minimum regulatory requirement of 100% (liquidity)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100777: Under this approach, capital indicators would be calibrated in order to ensure sufficient distance from minimum own funds requirements as specified in Article 92 of the CRR and additional own funds requirements applied pursuant to Article 104(1)(a) of the CRD (without taking into account any buffer requirements) and the liquidity indicator would be calibrated below the minimum requirement of 100%.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_100778: A breach of the combined buffer requirement triggers an automatic restriction of distribution of dividends, payments of AT1 instruments and variable remuneration under the MDA provisions (Article 141 of the CRD) and requires an institution to present a capital restoration plan for supervisory approval (Article 142 of the CRD). A calibration within the combined buffer requirement already requiring
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100780: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100782: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100783: supervisory intervention could reduce the institution's flexibility with regard to the potential available recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100784: Option 2: calibration of capital indicators above the buffer requirements (capital) / above the minimum regulatory requirement of 100% (liquidity)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100785: This option aims at ensuring that the calibration of the capital indicator is set at a level above the target level. Thus, the thresholds for the activation of recovery options are set above automatic supervisory intervention (i.e. MDA).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100786: Moreover, the recovery thresholds and buffer requirement have different objectives and functions. First, the recovery plan indicators help to detect crises for the institution on an earlier basis. Second, the buffers are applied to safeguard the capital position in a crisis situation without breaching the Pillar II requirement. The main difference is that the breach of recovery plan indicators still leaves the institution with flexibility in deciding whether to implement recovery options or not, while the breach of the buffer requirement immediately results in a necessary restoration of capital. For this reason, the calibrations of both capital and liquidity indicators should be generally above buffer requirements and above the 100% minimum requirement respectively in order to encourage institutions to consider implementation of recovery options at an earlier stage, which could increase their expected effectiveness.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100787: The institution can calibrate its regulatory capital indicators within the buffers, demonstrating that the usage of the combined buffer requirement would not impact the effectiveness of its recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100788: Option 2 is the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100789: Notification of a recovery plan indicator breach to the competent authority
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100790: Option 1: timely submission to the competent authority upon request
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100791: The original version of the guidelines had not provided any specific timeframe in terms of both the escalation to the senior management and the notification to the competent authority upon a recovery plan indicator breach. Within the guidelines, only paragraph 19 mentions that a 'timely submission' of the monitoring of indicators would be expected.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100792: This option will represent continuity with the previous version of the guidelines and will grant flexibility to both institutions and competent authorities. The risk, however, is that some institutions could wait too long before informing the competent authority of the breach and this could have negative consequence on the effectiveness of the recovery plan implementation. In addition, the absence in the text of a specific timeline will increase variability in the European single market.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100793: Option 2: specific timeline for the notification of the breach to the supervisor
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_100794: This option grants one business day for the escalation process and one additional business day for the notification to the competent authority. Article 5(3) of Commission Delegated Regulation (EU)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100796: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_100798: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_100799: 2016/1075 requires institutions to include in the recovery plan the time limit for the decision on taking recovery options (i.e. escalation process) and how and when the competent authorities will be informed of the fact that indicators have been met. The specification of the time limit in this version of the guidelines will harmonise the applicability of said Article 5(3) across institutions, and will ensure quick activation of the internal process within the institution and prompt communication to the supervisor.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_100800: Option 2 is the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100802: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100804: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100805: 6.2 Feedback on the public consultation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100806: The EBA publicly consulted on the draft guidelines on recovery plan indicators over a three-month period, ending on 18 June 2021. A public hearing was held on 15 April 2021. The EBA received nine responses, of which eight were published on the EBA website, and one was not published because the respondent did not wish for it to be made public.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100807: In many cases several industry bodies made similar comments or the same body repeated its comments in the response to different questions. In such cases, the comments and EBA analysis are included in the section of this paper where the EBA considers them most appropriate.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100808: Changes to the draft guidelines have been incorporated as a result of the responses received during the public consultation, where deemed justified.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100809: Main comments received during the public consultation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100810: In general the draft proposal contained in the consultation paper was well received although various respondents requested clarifications on some topics. Clarifications were therefore provided in the feedback table on (i) the circumstances under which the increased monitoring requirement will apply and (ii) the calibration of the liquidity position. Where appropriate, changes to some relevant paragraphs of the guidelines have been incorporated as a result of those requests for clarifications received during the public consultation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100811: A few respondents pointed out that the indicator calibration should reflect the changes in the regulatory requirements, including in the case of supervisory relief measures. The EBA highlighted that the approach proposed does not support automatic recalibration and this is justified in that it reflects the fact that the supervisory relief measures are temporary in nature and might be linked to the specific objective of allowing banks to support the real economy. However, the guidelines provide flexibility to institutions to make adjustments to the calibration of recovery plan indicators in duly justified cases under the competent authority's approval.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_100812: Some respondents argued that regulatory capital and liquidity indicators should not be calibrated above buffer requirements. The EBA remains convinced of the validity of its approach, considering that, in order for recovery plan indicators to fulfil their alert function in time, it is important that threshold levels for those indicators are set above those requiring potential supervisory intervention. In addition, regulatory buffers and indicators perform different functions and a recovery plan indicator threshold set above buffers should not create a disincentive for the institution to use the buffer but simply require the institution to reflect on whether the buffer usage requires any action. Lastly, the proposed approach embeds a degree of flexibility in allowing the institution to have thresholds within capital buffers when the institution is able to justify that this would not have implications for the implementation of its recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_100815: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100816: FINAL REPORT ON GUIDELINES ON RECOVERY PLAN INDICATORS
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100818: Summary of responses to the consultation and the EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100820: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100821: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100822: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100823: Question 1: Do you
+of these guidelines?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100824: have any comments on the general requirements
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100825: that should drive the calibration of recovery plan indicators as
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100826: proposed in paragraph 27
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100827: Consistency
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100829: Most respondents agreed that the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100830: No action required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100831: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100832: calibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100834: calibration of the recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100837: indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100839: should be consistent with the institution's
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100840: risk management and risk appetite
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100841: the institution's
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100842: framework.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100843: risk management
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100844: and risk appetite
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100846: Consistency
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100848: Two respondents asked to clarify that the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100849: In setting proper calibration of the recovery plan indicator thresholds,
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100850: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100851: calibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100853: alignment of the recovery plan indicator
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100854: these guidelines require alignment of the calibration of recovery plan
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100857: calibration with the institution's risk
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100858: indicators with the institution's general risk management and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100859: indicators
+the institution's
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100861: appetite framework would mean that the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100862: appetite framework (paragraph 27, point e). This is consistent with
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100863: risk management
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100864: maximum alert level of the recovery
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100865: the fact that the recovery plan indicator framework is an integral part
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100868: dashboard for any indicator would never
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100869: of the recovery plan and therefore it needs to be fully integrated into
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100871: be above or equal to the corresponding Risk Appetite Statement (RAS) limit. The same respondents asked for more clarity on the extent of integration of the recovery plan indicator and risk appetite frameworks. In particular they noted that all the recovery plan indicators cannot be integrated into the risk appetite
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_100872: the risk management and risk appetite frameworks as specified in Article 5 (1c) of Commission Delegated Regulation (EU) 2016/1075. Conscious of the fact that those frameworks pursue different objectives, these guidelines do not require that all the indicators and their levels across those frameworks are identical. It requires however that, in setting the indicator thresholds for recovery purposes, consideration is given to their levels in relation to those different frameworks and that indicator levels are aligned consistently across them in line with
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100875: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100876: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100877: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100878: framework as, in the case of the latter, indicators are more limited and selected by the board.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100879: their different and specific objectives. In this respect, in the crisis management continuum the thresholds of the recovery plan indicators would naturally follow the breaches of the institution's risk appetite in order to restore the situation of the institution in line with its own risk appetite.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100880: Systemically important institutions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100881: One respondent suggested that the calibration of indicators should consider that systemically important institutions are subject to a higher level of market scrutiny, increasing the risk of negative market reaction in stress situations and potentially making implementation of some of the proposed recovery options more difficult. In addition, systemically important institutions pose a heightened risk to financial stability and this should be taken into account by applying additional safety margins.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100882: In setting their recovery plan indicators, large and medium-sized institutions will need to take into account the fact that market scrutiny in combination with perceived stress could make the implementation of some recovery options more difficult. The systemic importance of the institution and the risk it poses to financial stability are an element that will need to be considered by the institution in line with the overall requirement of the guidelines that recovery plan indicators are tailored to the business and financial profile of the institution. Specifically paragraph 26 (b) explicitly states that the framework of recovery plan indicators should be adequate to the legal structure, size and complexity of each institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100883: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100884: Overall recovery capacity (ORC)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100885: Some respondents noted that the guidelines refer to the overall recovery capacity although this concept has never been defined in the regulation, which poses challenges regarding its integration in the context of recovery plan indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100886: The concept of overall recovery capacity is explicitly defined in Article 12(3) of the Commission Delegated Regulation (EU) 2016/1075 which describes 'the overall recovery capacity of the entity or entities covered by the recovery plan, being the extent to which the recovery options allow that entity or those entities to recover in a range of scenarios of severe macroeconomic and financial stress'. The concept of ORC is also referred to in point (1) of section A in the annex to the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_100887: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100890: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100891: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100892: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100893: BRRD and its definition is included in these guidelines in paragraph 13. The guidelines explain the relation between ORC and threshold calibration, highlighting the fact that institutions with overall limited recovery capacity should consider an earlier breach of recovery plan indicators to maximise the chances of successful implementation of their more limited recovery options.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100894: Question 2: Do you have any comments on the requirement that there should be no automatic recalibration of recovery plan indicators upon the application of temporary supervisory relief measures, however it could be allowed by competent authorities in those cases specified in paragraph 31 of these guidelines?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100895: Recalibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100897: Some respondents overall supported the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100898: No action required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100899: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100902: approach proposed, noting that the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100903: indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100905: exceptions set out in paragraph 31 leave
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100906: the application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100908: enough flexibility and discretion to
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100909: temporary supervisory relief measures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100910: institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100911: Recalibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100913: Two respondents disagreed with the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100914: The guidelines provide that the granting of temporary supervisory
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100915: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100918: approach proposed in the guidelines,
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100919: relief measures in a systemic crisis, like the Covid-19 crisis, in itself
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100920: indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100922: arguing that indicator calibration should
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100923: should not result in the automatic recalibration of regulatory
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100924: the application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100926: reflect the changes in the regulatory
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100927: recovery plan indicators except in duly justified cases and pending the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100929: requirements. They requested clarification
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100930: competent authority's approval. It should be clear that (i) relief
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100931: supervisory
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100933: on whether the need for supervisory
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100934: measures are driven by systemic events and apply across the board
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100936: approval always applies in case of calibration adjustment or whether it
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_100937: without considering bank-specific circumstances in order to ensure continued funding of the real economy and that (i) relief measures do
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100940: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100941: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100942: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100943: applies only to recalibration of indicators following supervisory relief measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100944: not imply a lower risk or stress level. In light of (i) and (ii), relief measures should not entail automatic recovery plan indicator adjustments, to ensure that indicators do not lose their capacity to capture existing/upcoming risks. In addition, considering the temporary nature and the specific objectives of the supervisory relief measures, an automatic recalibration may undermine the recovery plan indicators' capacity to promptly signal breaches. Moreover, in systemic crisis situations, the implementation of recovery options could be more difficult and lengthier in achieving its benefits. In paragraph 29 of these guidelines, it is clarified that recovery plan indicators should be reviewed and updated following changes to the business and financial situation of the institution. The guidelines specify that those changes need to be communicated and explained to the competent authority and in accordance to Article 9(1) of the BRRD the competent authority will agree them when making its assessment of the recovery plan.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100945: Recalibration of recovery plan indicators upon the application of temporary supervisory relief measures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100946: One respondent argued for less flexibility, particularly expressing concern on the possibility given in point d) of paragraph 31 which seems to imply that it would be acceptable to set recovery plan indicators at, or close to, the minimum level of regulatory capital in times of crisis.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100947: The guidelines recognise very limited discretion for institutions and competent authorities for recalibration only in those cases specified in paragraph 31. Point d) of paragraph 31 sets a minimum floor for allowing adjustments of the recovery plan indicators rather than allowing institutions to set indicators at levels close to minimum regulatory levels in times of crisis.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_100948: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100951: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100952: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100953: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100954: Recalibration of
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100955: One respondent asked to clarify whether
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100956: The guidelines set expectations that apply specifically to recovery
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100957: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100958: recovery plan
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100959: it can be possible to adjust early warning
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100960: plan indicators and their calibration. While the institution remains
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100961: indicators upon
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100962: levels based on relief measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100963: free to set its early warning level framework, it will need to make sure
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100964: the application of temporary
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100965: that its traffic light alert system remains coherent with its overall recovery plan indicator framework.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100966: supervisory relief
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100968: Question 3: Do you have any comments on guidance introduced in relation to actions and notifications upon breaching recovery plan indicators, including the proposed timelines for internal escalation and notification to the competent authorities?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100969: Actions notifications upon
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100970: and
+breaching
+plan
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100971: recovery
+indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100972: Two respondents formally welcomed the guidance.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100973: No action required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100974: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100975: Actions notifications
+breaching recovery
+indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100976: and
+upon
+plan
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_100977: Some respondents suggested that notification to supervisors should be according to the importance of the indicators, setting a difference between primary indicators dealing with capital and liquidity and secondary/tertiary indicators dealing with asset quality / profitability or market/macroeconomic aspects. In addition, macroeconomic indicator breaches should not trigger automatic
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [RISK:LIQUIDITY_RISK]
+PARAGRAPH_100978: The applicable legal framework does not set a hierarchy of No change. importance amongst different types of indicators and Article 5(3)(b) of Commission Delegated Regulation (EU) 2016/1075 specifies that indicators included in the recovery plan should reflect possible vulnerabilities, weaknesses or threats to, as a minimum, the capital position, liquidity situation, profitability and risk profile of the entity or entities covered in the recovery plan. The various types of indicators are all equally important in alerting the institution to stress, focusing on different aspects. The fact that the indicator is not under the direct influence of the institution, as in the case of market/macroeconomic indicators, does not exempt them from the need to be notified to the senior management and their implications
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100981: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100982: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100983: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100984: notification as the action of the bank on such indicators is limited.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100985: for the institution in assessing whether implementation of recovery options could be potentially required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100986: Actions and notifications upon breaching recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100987: According to two respondents, the guidelines should better differentiate between early warning signals, for which notification to authorities should not be required, and recovery plan indicator triggers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100988: The notification of the breach of recovery plan indicators is required under Article 9(1) of the BRRD. The processes to follow in the case of a breach of early warning indicators are expected to be set by the institution in line with its traffic light system approach.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100989: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100990: Actions and notifications upon breaching recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100991: One respondent suggested that the guidelines require processes and policies at the level of the competent authorities to monitor the remediation of the indicator breach and, where necessary, guide the use of supervisory measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37] [REQ_TYPE:MANDATORY]
+PARAGRAPH_100992: The guidelines articulate the role of the competent authority following the notification of a breach. This engagement in this phase will not only involve monitoring of the process but also includes a dialogue to assess whether the reasoning provided by the institution on its decision is clear and reasonable. The prompt process of notification of recovery plan indicator breaches required in the guidelines would ensure that the competent authority will promptly become aware of the breach and engage with the institution on the breach while respecting the fact that the final decision on the potential activation of the plan remains with the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100993: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100994: Question 4: Do you have any comments on introducing a possibility for competent authorities to request institutions to provide a full set of recovery plan indicators (breached or not)?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100995: Provision of full set of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100996: According to some respondents, the submission frequency should take into consideration:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100997: - indicator types (e.g. liquidity indicators should be produced at
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100998: In line with Article 9(1) of the BRRD, recovery plan indicators should be subject to regular monitoring without distinction between indicator types. Indicators should detect stress and inform the appropriate management level whenever the stress occurs and regardless of reporting frequency. The guidelines give to competent
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_100999: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101002: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101003: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101004: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101005: a higher frequency than asset quality indicators) and whether changes have occurred - the frequency of the regulatory reporting on which the indicator is based (e.g. FinRep)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101006: authorities the discretion to require institutions' submission of their full set of indicators at least monthly. The submission required in the guidelines is for the full set of indicators, breached or not, as full submission could provide helpful information to the competent authority on the evolution of the overall indicator framework. The guidelines allow flexibility on the frequency of reporting to be adapted depending on the type of crisis and type of indicators affected. It would be expected that a situation of liquidity crisis justifies a higher submission frequency as the liquidity indicators would change more rapidly.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101007: Provision of full set of recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101008: To some respondents, the guidelines were not clear on the context in which the provision on the reporting of the full set on recovery plan indicators applies (e.g. only after an indicator breach or in the context of a crisis). One respondent fully supported the approach of the guidelines and believes that the reporting frequency should be adjusted according to the context (e.g. more frequent reporting in times of stress) to allow for authorities' proper engagement and assessment.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101009: In paragraph 39, the guidelines specify that the competent authorities' discretion on requiring submission of the full set of recovery plan indicators would apply when one or more recovery plan indicators are breached, as this could indicate that the institution is entering a stress situation. As in a crisis situation it is expected that recovery plan indicators will start to be breached, it is expected that this requirement will be exercised by competent authorities more frequently in times of crisis.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:38]
+PARAGRAPH_101010: Clarifications included in paragraph 39 of the guidelines and paragraph 18 of the 'Background and rationale' section.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101013: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101014: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101015: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101016: Question 5: Do you have any comments on the proposed threshold calibration of regulatory capital indicators at levels above those requiring supervisory intervention and therefore to be generally calibrated above the combined capital buffer requirement while still allowing calibration within buffers only under certain conditions?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101017: Capital indicator threshold calibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101018: One respondent agreed with the proposal
+that recovery triggers should be calibrated above regulatory maximum levels including buffer requirements.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101019: No action required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101020: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101021: Capital indicator threshold calibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101022: Various respondents argued that regulatory capital indicators should not be calibrated above buffer requirements. The arguments brought forward were the following: - Buffers are meant to be used in times of stress without notification to supervisors and therefore indicators should be readjusted accordingly to reflect their utilisation. - The traffic light approach would be sufficient to prompt management's engagement and provide time to act, without setting the maximum alert threshold above regulatory requirements.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39] [REQ_TYPE:MANDATORY]
+PARAGRAPH_101023: The guidelines set a floor with regards to the calibration of regulatory
+capital indicators at levels above buffer requirements. Such a calibration would enable the indicators to perform their alert function early enough, including allowing independent action by the management of the institution before potential supervisory intervention and deteriorating market confidence, which could negatively impact the effectiveness of the recovery options. Setting indicator thresholds below buffer requirements would undermine recovery plan indicators' purpose to detect a particular stress situation. The guidelines recognise that buffers and recovery plan indicators serve two fundamentally different purposes. While the buffers provide a cushion against capital depletion, the recovery plan indicators act as a warning call to the institution that it is operating in an adverse situation and therefore needs to think about a potential necessity to implement countermeasures. Banks that operate within their buffers are, in principle, at higher risk and therefore need to be even more vigilant, thus it is expected that their recovery plan indicators will be breached.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:39]
+PARAGRAPH_101024: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101027: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101028: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101029: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101030: Calibrating indicators above the - buffer requirement levels would blur the lines between ICAAP and recovery frameworks.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101031: It is important to note that a recovery plan indicator threshold set above buffers should not create a disincentive for the institution to use the buffer but simply require the institution to reflect on whether the buffer usage requires any action from the institution. However, some flexibility is embedded in the guidelines allowing for both institutions and competent authorities to set thresholds within the capital buffer requirements, provided that the institution can demonstrate in its recovery plan that its recovery options will not lose their effectiveness when the buffer is used.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101032: Question 6: Do you have any comments on the proposed calibration of the recovery threshold for MREL?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101033: CBR and
+calibration
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101035: Some respondents argued that the MREL threshold for recovery planning should be determined without taking into account the combined buffer requirement (CBR), as it is the case with MREL calibration in general according to the BRRD 2. In addition, any additional need for MREL is already reflected in the market confidence charge (Article 45c of the BRRD 2).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101036: The guidelines state that MREL should be calibrated above the CBR in alignment with the approach with regards to capital indicators. The CBR can be computed in the MREL requirement in order to address market confidence issues as per Article 45c(3) of the BRRD. According to Article 16a of the BRRD, institutions have to inform the resolution authority if they breach the combined buffer requirement on top of the MREL requirement, and the resolution authority has the power to prohibit an entity from distributing more than the Maximum Distributable Amount related to MREL ('M-MDA'). The calibration approach is therefore consistent with that of regulatory capital indicators requiring a calibration above potential (but not automatic and mandatory) resolution authority intervention.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101037: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101038: Interplay resolution
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101040: One respondent agreed with the approach proposed in the guidelines with regards to MREL calibration, highlighting the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101041: The guidelines indicate the link between threshold levels of MREL and resolution strategy in paragraph 47 where it is indicated that for groups with an MPE resolution strategy, where the prudential and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:40]
+PARAGRAPH_101042: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101045: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101046: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101047: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101048: importance of calibrating it in accordance with the institution's resolution strategy. The same respondent concurred that resolution authorities should be consulted in the process of calibrating threshold values and promptly informed of any breach of MREL-related recovery plan indicators. It suggests in this respect that this process could be simplified if institutions are permitted to notify the competent and resolution authorities concurrently in the event of such a breach.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101049: resolution scopes might differ, the institution should calibrate the consolidated-level MREL/TLAC indicators for each of the resolution entities/groups. The BRRD requires that the breach of recovery plan indicators is notified to the competent authority. Therefore, it is not possible to impose the same requirement on the institution with regards to the resolution authority. However, the guidelines recognise the importance of quick cooperation and coordination, when breaching MREL, between competent authorities and resolution authorities and that is why they require competent authorities to inform resolution authorities and cooperate on this important aspect.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101050: Subordination requirement
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101051: Some respondents asked for clarification regarding the reference to the subordination requirement as it seems to relate only to MREL and its objective does not seem to pertain to recovery.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101052: The guidelines refer to the subordination requirement in paragraph 46 dealing with the calibration of the MREL/TLAC recovery plan indicator. A breach of the subordination requirement could lead to the involvement of the resolution authority in the remediation of the breach and it could signal difficulties from the institution in fulfilling this requirement. The guidelines allow flexibility to institutions to specify this indicator, but require them to take into account this important aspect when setting their MREL indicators.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101053: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:41]
+PARAGRAPH_101054: Question 7: Do you have any comments on the proposed threshold calibration of regulatory liquidity indicators (LCR and NSFR) above their minimum regulatory requirements, i.e. 100%?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101057: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101058: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101059: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101060: LCR/NSFR calibration above 100%
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101061: Various respondents supported the calibration above 100% on the basis that this would be the right level to alert senior management and authorities of the risk of the buffers being depleted.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101062: No action required.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101063: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101064: LCR/NSFR calibration above 100%
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101065: Some respondents objected to the calibration of the liquidity indicators above 100% for the following reasons: - According to the regulation and policies, liquidity buffers are meant to be used in times of stress and the LCR can fall below 100% in times of stress. - Calibrating LCR-based indicators above 100% contributes to limiting the use of the liquidity buffer and de facto increases the liquidity buffer. - Liquidity requirements already provide for time to act since they are stressed and anticipate the stress before it occurs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101066: The guidelines require calibration of the LCR and NSFR recovery plan indicators above regulatory requirements (i.e. 100%) and supervisory intervention. Article 4(4) of Commission Delegated Regulation (EU) 2015/61 and Article 414 of the CRR envisage the obligation to communicate to supervisors as well as to develop a restoration plan in the event that the LCR falls below 100% but also in the event that the LCR can be reasonably expected to fall below 100%. In alignment with regulatory capital indicators and as indicated in the 'Background and rationale' section, a recovery plan indicator threshold set above 100% should not create a disincentive for the bank to use the liquidity buffer, nor will it create a new regulatory requirement - it will simply require the bank to reflect on whether that usage of the liquidity buffer is justified by the situation and whether it requires any additional action. Yet, operating within its liquidity buffer does not cancel the stress and the liquidity indicator should be breached to properly reflect this reality.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101067: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101068: Interaction with the liquidity contingency plan
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101069: Three respondents interplay between liquidity contingency plan and recovery plan and that the liquidity indicator calibration should
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42] [REQ_TYPE:MANDATORY]
+PARAGRAPH_101070: In line with the general requirements for the calibration of recovery
+plan indicators, the guidelines maintain that the calibration of the recovery plan should be consistent and aligned with the risk
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:42]
+PARAGRAPH_101071: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101074: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101075: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101076: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101077: consider the continuum between liquidity contingency plan and recovery plan.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101078: management framework and liquidity contingency plan of the institution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101079: Question 8: Do you have any comments on the proposed threshold calibration for the indicator of liquidity position?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101080: Liquidity indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43] [RISK:LIQUIDITY_RISK]
+PARAGRAPH_101081: Although supportive of the introduction of additional liquidity indicators, a few respondents believed that the reference to counterbalancing capacity (CBC) in paragraph 55 should be removed as CBC is incomplete in informing on the degree of risks without monitoring the risk drivers it corresponds to (e.g. net cash outflows). Additionally, it was mentioned that an alignment with the risk management framework is needed and that the liquidity position could be used only as an early warning signal.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43] [RISK:LIQUIDITY_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_101082: Although the liquidity position is not specifically defined in the regulation, the guidelines include this metric as a recovery plan indicator to ensure that institutions go beyond the monitoring of regulatory requirements, including establishing in the recovery plan their own assumptions for the internal monitoring of the liquidity position. This is in line with the important general principle that the framework of recovery plan indicators should be fully aligned with the institution's overall risk management framework and with the existing liquidity or capital contingency plan indicators, and business continuity plan indicators. On the basis of the responses received, the EBA agrees that the guidelines could allow more flexibility in the calibration of the liquidity position to ensure full alignment with the overall risk management framework.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101083: Paragraph 55
+guidelines has amended.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101084: of the
+been
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101085: Question 9: Do you have any comments on the proposed changes to the minimum list of recovery plan indicators?
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101086: Asset encumbrance indicator and liquidity position
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101087: On the introduction in the minimum list of indicators of the asset encumbrance indicator, some respondents argued that:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101088: The asset encumbrance indicator provides information about the secured funding capacity, which supports the assessment of liquidity stress. It is an important indicator whose variations could indicate potential liquidity stress as the bank pledges more assets with the central bank to offset liquidity stress. As with all the indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:43]
+PARAGRAPH_101089: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101092: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101093: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101094: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101095: - This ratio could only provide information about the recovery capacity and not about a stress situation faced by the institution. - Depending on the institution's business model, unencumbered central-bank-eligible assets may not capture the full picture of the liquidity position and central bank eligibility criteria change in times of crisis, making the indicator less relevant.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44] [REQ_TYPE:MANDATORY]
+PARAGRAPH_101096: included in the minimum list, institutions benefit from the rebuttable presumption in the event that the indicator is deemed inadequate and it should be replaced by another indicator. The guidelines introduce the liquidity position and the asset encumbrance indicators to complement the LCR and NSFR in order to encompass resources that are not already computed in the other indicators and allow institutions to properly monitor their liquidity profile.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101097: One respondent also noted that the additional liquidity indicators of the guidelines (liquidity position and available central-bank eligible unencumbered assets ) are not as appropriate as the LCR and NSFR due to the overlap between the liquidity position and unencumbered central-bank-eligible assets as the latter are included in the former.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101099: Some respondents argue that MREL/TLAC are not suitable as recovery plan indicators
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44] [REQ_TYPE:MANDATORY]
+PARAGRAPH_101100: MREL and TLAC are important regulatory requirements that
+institutions need to comply with in going concern to allow
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:44]
+PARAGRAPH_101101: No change.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101104: Summary of the responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101105: The EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101106: Amendments to the proposals
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101107: as they do not signal a recovery situation or particular stress with those indicators, becoming meaningful only when
+approaching resolution.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101108: resolvability in the case of resolution. With MREL and TLAC having now been fully set by authorities, their deterioration could signal that
+the bank has difficulties in their replenishment. As with all indicators,
+the non-automaticity in the activation of the recovery plan following a breach allows the institution to distinguish and justify situations where this is not representative of a real stress, as for example in the case of a generalised market disruption.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:45]
+PARAGRAPH_101109: Question 10: Do you have any comments on the impact assessment?
+

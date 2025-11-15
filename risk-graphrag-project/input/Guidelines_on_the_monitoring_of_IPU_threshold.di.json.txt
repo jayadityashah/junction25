@@ -1,0 +1,872 @@
+METADATA: {"document_id": 60, "filename": "Guidelines on the monitoring of IPU threshold.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "EBA", "jurisdiction": "EU", "page_count": 28, "paragraph_count": 378}
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_74062: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_74063: EBA/GL/2021/08
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_74064: 28 July 2021
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74065: Final Report
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_74066: Guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_74067: on the monitoring of the threshold and other procedural aspects on the establishment of intermediate EU parent undertakings under Article 21b of Directive 2013/36/EU
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74068: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74070: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74072: 1. Executive summary 3
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74073: 2. Background and rationale 4
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74074: 3. Guidelines 9
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74075: 5. Accompanying documents
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74077: Cost-benefit analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_74079: 5.1 . Feedback on the public consultation 23
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74081: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74083: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74084: 1. Executive summary
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74085: Article 21b of Directive 2013/36/EU introduced a requirement for institutions belonging to third- country groups to have an intermediate EU parent undertaking (IPU) established in the Union, where the total value of assets in the Union of the third-country group is equal to or greater than EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74086: The EBA considers that a common methodology for calculating the total value of assets in the Union as well as consistent supervisory expectations are essential for ensuring consistent application of the IPU requirement. Therefore, in accordance with Article 16 of Regulation (EU) No 1093/2010, the EBA decided to provide this necessary guidance to the institutions that are part of third-country groups operating in the Union and to the competent authorities responsible for supervision over the institutions and branches belonging to the third-country groups.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74087: Following the suggestion of the European Commission expressed in its letter to the EBA, the guidelines clarify the relevant dates for the calculation of the total value of the assets in the Union, taking into account the fluctuation in the value of assets. In particular, the guidelines specify that for the purpose of the application of the IPU requirement, the total value of assets in the Union of the third-country group should be calculated as an average over the last four quarters. This value should be monitored on a quarterly basis and communicated to relevant competent authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74088: In order to meet the IPU requirement in a timely manner it is necessary that institutions belonging to third-country groups apply a forward-looking approach. It is therefore specified that they should assess at least annually whether the threshold is expected to be reached within the three-year horizon, based on the strategic planning of the third-country group and the forecast of assets. For the purpose of both the quarterly assessments and the annual forward-looking monitoring, institutions and branches belonging to a third-country group should exchange between each other all necessary information.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_74089: In addition, these guidelines specify certain procedural aspects related to the monitoring of the threshold by competent authorities and the establishment of the IPU where necessary. In particular, clarification is provided on the notifications required by Article 21b(6) of Directive 2013/36/EU, namely that these are to be provided to the EBA on an annual basis. In addition, certain exceptional situations are specified where competent authorities may identify appropriate timelines for the establishment of an IPU, no longer than up to two years from reaching the threshold. Relevant competent authorities should coordinate and take necessary measures to ensure adequate implementation of the IPU requirement.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74091: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74092: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74093: 2. Background and rationale
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74094: 2.1 Introduction
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74095: 1. The Directive (EU) 2019/878 (CRD V) introduced in the prudential framework a requirement for certain third-country groups to have an intermediate EU parent undertaking (IPU), with a view to ensuring the consolidated supervision of the EU activities of such groups and facilitating the resolution of those activities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74096: 2. Article 21b of Directive 2013/36/EU requires that two or more institutions in the Union which are part of the same third-country group as defined in Article 3(1), point (64) of Directive 2013/36/EU, in the sense that these institutions are all subsidiaries of a parent undertaking established in a third country, have a single IPU that is established in the Union, where the combined total value of assets of the group in the Union is equal to or greater than EUR 40 billion (IPU threshold). The total value of assets in the Union includes the assets of any institutions belonging to the third-country group as well as any branches authorised to operate in the Union1. Under certain circumstances, in particular in the case of mandatory requirements for separation of activities imposed in some third countries, and subject to approval by competent authorities, it is allowed to set up two IPUs for a third-country group operating in the EU. Such possibility is granted under Article 21b(2) of Directive 2013/36/EU. However, regardless of whether a third-country group is subject to any requirements on separation of activities or not, the calculation of the IPU threshold remains the same and requires aggregation of financial information on all institutions and branches authorised in the Union and belonging to the same third-country group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74097: 3. The terms "institution", "EU parent institution" and "parent undertaking" should be understood as in Article 3(3) of Directive 2013/36/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74098: 4. As clarified in Article 21b(3) of Directive 2013/36/EU, the IPU may take the form of an authorised credit institution, or a financial holding company or a mixed financial holding company that has been granted approval in accordance with Article 21a of Directive 2013/36/EU. Where none of the institutions operating in the Union which are part of a third-country group is a credit institution, the IPU may take the form of an authorised investment firm. In addition, where a second IPU must be set up in connection with investment activities to comply with a mandatory requirement as referred to under Article 21b(2), point (a) of Directive 2013/36/EU, the second IPU may be an authorised investment firm.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74099: 1 The composition of the total value of assets in the Union is given in Art 21b(5): " ... the total value of assets in the Union of the third-country group shall be the sum of the following:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74100: (a) the total value of assets of each institution in the Union of the third-country group, as resulting from its consolidated balance sheet or as resulting from their individual balance sheet, where an institution's balance sheet is not consolidated; and
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_74101: (b) the total value of assets of each branch of the third-country group authorised in the Union in accordance with this Directive, Directive 2014/65/EU or Regulation (EU) No 600/2014 of the European Parliament and of the Council."
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74103: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74104: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74105: 5. Finally, Article 21b(8) of Directive 2013/36/EU specifies a transitional period for implementing the requirement by clarifying that " ... third-country groups operating through more than one institution in the Union and with a total value of assets in the Union equal to or greater than EUR 40 billion on 27 June 2019 shall have an intermediate EU parent undertaking or, if paragraph 2 applies, two intermediate EU parent undertakings by 30 December 2023."
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74106: 2.2 Legal basis and scope of the guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74107: 6. The European Commission sent to the EBA a letter dated 3 June 2020 encouraging the EBA to provide guidance on certain technical aspects of the calculation of the IPU threshold, for instance:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74108: " how to determine the relevant cut-off date for the calculation of the total value of the assets in the EU; and
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74109: · how to take into account the fluctuation in the amount of EU assets when calculating the threshold.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74110: 7. The EBA considers that a common methodology for calculating the IPU threshold as well as consistent supervisory expectations are essential for ensuring consistent application of the IPU requirement. Therefore, the EBA decided to provide this necessary guidance both to the institutions that are part of third-country groups operating in the Union and to the competent authorities responsible for supervision over the institutions and branches belonging to the third- country groups.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74111: 8. Branches belonging to third-country groups as referred to in Article 21b(5), point (b) of Directive 2013/36/EU should be included within the scope of these guidelines and competent authorities authorising or supervising those branches should ensure that they comply with them.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74112: 9. Against this background, the EBA adopts these guidelines on its own initiative and in accordance with Article 16 of Regulation (EU) No 1093/2010, according to which the EBA "shall, with a view to establishing consistent, efficient and effective supervisory practices within the ESFS, and to ensuring the common, uniform and consistent application of Union law, issue guidelines addressed to all competent authorities or all financial institutions and issue recommendations to one or more competent authorities or to one or more financial institutions".
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74113: 2.3 Specifications on the calculation and monitoring of the threshold
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_74114: 10. There is a need to determine how the total value of assets in the Union of a third-country group should be calculated in accordance with Article 21b(5) of Directive 2013/36/EU. For that purpose, the guidelines specify that the calculation is made by adding the assets of the EU parent institutions of that group consolidated in accordance with Article 18 of Regulation (EU) No 575/2013 (prudential consolidation) at the highest level of consolidation in the Union to the individual assets of institutions that are not part of a group subject to consolidated supervision pursuant to Article 111 of Directive 2013/36/EU ("stand-alone institutions") and to the assets of the branches of that group referred to in Article 21b(5), point (b) of Directive 2013/36/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74116: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74117: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74118: 11.To ensure convergence of the calculation of the threshold across the Union, such calculation should be based on reliable data: where financial information provided for the purpose of supervisory reporting is available, that information should be used, while where such financial information is not available, interim financial information should be used.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74119: 12.To determine in a harmonised way where the threshold set out in Article 21b(4) of Directive 2013/36/EU has been reached having regard to the fluctuation in the value of assets, these guidelines clarify that the threshold is deemed as reached where the average of the total value of assets in the Union of a third-country group over the previous four quarters, equals or exceeds EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74120: 13.Equally there is a need to specify in a prudent but proportionate way, having also regard to the need for financial stability in the Union, when the threshold set out in Article 21b(4) of Directive 2013/36/EU is deemed as no longer exceeded and the relevant institutions of the third-country group are relieved from their obligation to have an IPU established in the Union. To that end, these guidelines specify that the threshold is deemed as no longer exceeded, where the total value of assets in the Union of a third-country group remains below EUR 40 billion for twelve consecutive quarters and there are no reasonable expectations it will increase again above EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74121: 14.Monitoring of the threshold by institutions that are part of a third-country group should be forward-looking, so that the institutions that are part of that group are able to perform their obligations under Article 21b of Directive 2013/36/EU when the threshold is exceeded. To that end, at least annually the threshold should be assessed against the strategic planning and the forecast of assets for the time horizon of at least three years for the group in its entirety ("forward-looking monitoring").
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74122: 15.These guidelines should also specify how institutions that are part of a third-country group should monitor the threshold set out in Article 21b(4) of Directive 2013/36/EU. It is therefore clarified that EU parent institutions and stand-alone institutions that are part of a third-country group should be the ones performing the relevant quarterly assessments and the annual forward-looking monitoring for the group as a whole. Upon their establishment the quarterly assessment should be performed by the IPUs only, and the forward-looking monitoring is no longer necessary.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_74123: 16.Having regard to the transitional provision set out in Article 21b(8) of Directive 2013/36/EU, it should be determined that the total value of assets in the Union of these third-country groups should be calculated on a point-in-time basis as at 27 June 2019 and not on the basis of any average. Where the value at that date is not available, the total value of assets as at 30 June 2019 should be used, as an approximation of the value as at 27 June 2019. Additionally, where Article 21b(8) of Directive 2013/36/EU applies, the threshold should be deemed as reached only where on 30 December 2023, the average of the total value of assets in the Union of the group over the previous four quarters equals or exceeds EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74125: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74126: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74127: 2.4 Information exchange between institutions and branches of a third-country group and submissions to competent authorities
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74128: 17.In order to be able to perform quarterly assessments and the forward-looking monitoring, these guidelines should specify that institutions and branches of a third-country group should exchange between each other all relevant information.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74129: 18.To enable institutions that are part of third-country groups but are not themselves EU parent institutions or stand-alone institutions performing the quarterly assessment to discharge their obligation under Article 21b Directive 2013/36/EU, these guidelines should specify that the EU parent undertakings make these assessments available to their subsidiaries.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74130: 19.Further to the information on the quarterly assessments that should be submitted to the competent authorities, there is a need to ensure that EU parent institutions and stand-alone institutions of a third-country group, where they expect that their third-country group will reach the threshold within the next three years based on the forward-looking monitoring, alert the competent authority that is to be determined as the consolidating supervisor in accordance with paragraphs (3) and (5) of Article 111 of Directive 2013/36/EU under the assumption that all institutions authorised in the Union were part of a group subject to consolidated supervision pursuant to that Article 111 having the same parent EU financial holding company ("consolidating supervisor"), or as appropriate, where none of the institutions of a third-country group is a credit institution, the competent authority that is to be determined as the group supervisor in accordance with Article 46 of Directive (EU) 2019/2034 ("group supervisor").
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74131: 2.5 Guidance for competent authorities
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74132: 20. These guidelines should set out that competent authorities should make every effort to ensure that institutions and branches comply with their obligations under Article 21b of Directive 2013/36/EU. It is also very important that competent authorities ensure that third-country branches properly report all assets corresponding to their activities in the Union, thereby fully complying with their obligation set out in Article 47(1a), point (a) of Directive 2013/36/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74133: 21. There is also a need to specify in a convergent way how competent authorities should notify to the EBA the information specified in Article 21b(6) of Directive 2013/36/EU: competent authorities should provide the information they have received from the institutions and branches to the EBA on an annual basis without undue delay and no later than 30 June of any given year, while the total value of assets of each supervised institution or branch should be notified as the average of the total value of assets over the four quarters of the previous calendar year.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_74134: 22.Where a competent authority determined as the consolidating or group supervisor has received the forward-looking notification, it should liaise with the notifying institution and with other relevant authorities. A number of issues should be determined at this early stage, such as whether the derogation referred to in Articles 21b(2) and 21b(3), second indent, of Directive 2013/36/EU should apply to this particular third-country group and the timeline for the establishment of the IPU should be set.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_74136: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74137: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74138: 23.To ensure financial stability in the Union, while determining the relevant timeline for the establishment of the IPU, competent authorities should, in principle, ensure that the IPU will be in operation at the moment the threshold has been reached.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_74139: 24.To ensure proportionality, it should be possible for competent authorities to provide the relevant institutions with a longer timeline, where this is deemed appropriate, in particular where reaching of the threshold was not foreseeable in the forward-looking monitoring of the threshold (for instance due to mergers and acquisitions not foreseeable in the strategic planning) or where there is a reasonable anticipation of the total value of that group's assets to permanently drop below the threshold within one year from reaching the threshold.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_74140: 25.To ensure convergence in providing longer timelines as per the previous paragraph, there is a need to set out a maximum timeline that can be set by the competent authorities, which in principle should not exceed one year from the date the threshold has been met. In exceptional cases, where justified by specific circumstances, competent authorities may set out a maximum timeline of up to two years after the date the threshold was reached.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74141: 26.There is a need to set out that where the threshold has been exceeded but an IPU has not been established, the competent authorities of the institutions of that third-country group should coordinate among themselves in order to take all the measures necessary to ensure that Article 21b of Directive 2013/36/EU is complied with.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_74142: 27.To ensure proportionality, the consolidating supervisor and, where applicable, the group supervisor and the competent authorities should be able to permit, following a request by the third-country group, the restructuring of that third-country group such that it no longer has the IPU before the end of the period of twelve quarters, where the total value of assets in the Union has dropped significantly and permanently below the threshold as a result of strategic changes in European operations of the third-country group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74144: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_74146: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_74147: 3. Guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74149: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_74151: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_74152: EBA/GL/2021/08
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_74153: 28 July 2021
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_74154: Guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_74155: on the monitoring of the threshold and other procedural aspects on the establishment of an intermediate EU parent undertaking under Article 21b of Directive 2013/36/EU
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74157: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74158: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74159: 1. Compliance and reporting obligations
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74160: Status of these guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74161: 1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/20102. In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and financial institutions must make every effort to comply with the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74162: 2. Guidelines set the EBA view of appropriate supervisory practices within the European System of Financial Supervision or of how Union law should be applied in a particular area. Competent authorities as defined in Article 4(2) of Regulation (EU) No 1093/2010 to whom guidelines apply should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including where guidelines are directed primarily at institutions.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74163: Reporting requirements
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74164: 3. According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by 14.11.2021. In the absence of any notification by this deadline, competent authorities will be considered by the EBA to be non-compliant. Notifications should be sent by submitting the form available on the EBA website with the reference "EBA/GL/2021/08". Notifications should be submitted by persons with appropriate authority to report compliance on behalf of their competent authorities. Any change in the status of compliance must also be reported to the EBA.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74165: 4. Notifications will be published on the EBA website, in line with Article 16(3).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_74166: 2 Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC, (OJ L 331, 15.12.2010, p.12).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74168: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74169: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74170: 2. Subject matter, scope and definitions
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74171: Subject matter
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74172: 5. These guidelines lay down how to calculate and monitor the threshold for the obligation to establish an intermediate EU parent undertaking according to Article 21b of Directive 2013/36/EU and specify certain procedural aspects on the establishment of intermediate EU parent undertakings
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74173: Scope of application
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74174: 6. These guidelines apply to credit institutions and investment firms authorised in the Union, which are subsidiaries of third-country groups ("institutions") as defined in Article 3(1), point (64) of Directive 2013/36/EU, and to the branches referred to in Article 21b(5), point (b) of Directive 2013/36/EU ("third-country branches").
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74175: Addressees
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74176: 7. These guidelines are addressed to competent authorities as defined in Article 4, points (2)(i) and (2)(viii) of Regulation (EU) No 1093/2010 and to financial institutions as defined in Article 4, point (1) of Regulation (EU) No 1093/2010 where these financial institutions fall within the scope of these guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74177: Definitions
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74178: 8. Unless otherwise specified, terms used and defined in Directive 2013/36/EU and Directive (EU) 2019/2034 have the same meaning in the guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74179: 3. Implementation
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74180: Date of application
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_74181: 9. These guidelines apply from 14.11.2021.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74183: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74184: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74185: 4. Guidelines
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74186: Specifications as to the calculation and monitoring of the threshold
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74187: 10. The total value of assets in the Union of a third-country group should be calculated in accordance with Article 21b(5) of Directive 2013/36/EU as the sum of the assets of the EU parent institutions of that group consolidated in accordance with Article 18 of Regulation (EU) No 575/2013 at the highest level of consolidation in the Union plus the individual assets of institutions that are not part of a group subject to consolidated supervision pursuant to Article 111 of Directive 2013/36/EU ("stand-alone institutions") plus the assets of the third-country branches of that group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74188: 11. For the calculation referred to in the previous paragraph, the following should apply:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74189: a. Where financial information is available on a quarterly basis in accordance with Part Seven A of Regulation (EU) No 575/2013 and the relevant delegated and implementing acts, that information should be used;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74190: b. Where financial information is not available on a quarterly basis in accordance with Part Seven A of Regulation (EU) No 575/2013 and the relevant delegated and implementing acts, interim financial information used for supervisory reporting should be used.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74191: 12. The threshold set out in Article 21b(4) of Directive 2013/36/EU should be deemed as reached, where the average of the total value of assets in the Union of a third-country group calculated in accordance with paragraphs 10 and 11 over the previous four quarters, equals or exceeds EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74192: 13. By way of derogation from the previous paragraph, for third-country groups operating through more than one institution in the Union as referred to in Article 21b(8) of Directive 2013/36/EU, the threshold should be deemed as reached and the obligation referred to in that Article should be deemed as applicable, where both conditions are met:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74193: a. The total value of assets in the Union of that group calculated in accordance with paragraphs 10 and 11 on a point-in-time basis as at 27 June 2019 equals or exceeds EUR 40 billion;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74194: b. On 30 December 2023, the average of the total value of assets in the Union of the group as set out in paragraph 12 equals or exceeds EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_74195: For the purpose of point (a), where the total value of assets in the Union as at 27 June 2019 is not available, this value should be approximated by taking the total value of assets as at 30 June 2019.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74197: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_74198: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_74199: 14. The threshold set out in Article 21b(4) of Directive 2013/36/EU should be deemed as no longer exceeded, where the total value of assets in the Union of a third-country group calculated in accordance with paragraphs 10 and 11 remains below EUR 40 billion for twelve consecutive quarters and there are no reasonable expectations it will increase again above EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74200: 15. EU parent institutions and stand-alone institutions that are part of a third-country group should calculate at least on a quarterly basis in accordance with paragraphs 10 and 11 the total value of assets in the Union of the group in its entirety, and assess whether the threshold has been reached, exceeded or not exceeded in accordance with paragraphs 12 to 14 ("quarterly assessments"). Upon their establishment only the intermediate EU parent undertakings should conduct these calculations and the quarterly assessments.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74201: 16. Until the establishment of the intermediate EU parent undertakings in line with Article 21b(1) or (2) of Directive 2013/36/EU, EU parent institutions and stand-alone institutions that are part of a third-country group should monitor on a forward-looking basis and at least annually the threshold assessed in accordance with these guidelines, against strategic planning and the forecast of assets for the time horizon of at least three years for the group in its entirety ("forward-looking monitoring").
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_74202: Information exchange between institutions and branches of a third- country group and submissions to competent authorities
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_74203: 17. For the quarterly assessments and the forward-looking monitoring to be performed, EU parent institutions, including the intermediate EU parent undertakings upon their establishment, stand-alone institutions and third-country branches of a third-country group should exchange between themselves in a timely manner all information required. In particular, third-country branches should submit in a timely manner to the EU parent institutions and to the stand-alone institutions of the relevant third-country group all information necessary for the calculation in accordance with paragraphs 10 and 11 of the total value of their assets. Upon the establishment of the intermediate EU parent undertakings in line with Article 21b(1) or (2) of Directive 2013/36/EU, third-country branches of that third-country group should provide that information to the intermediate EU parent undertakings, but no longer to the stand-alone institutions of the relevant third-country group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_74204: 18. EU parent institutions and stand-alone institutions of a third-country group should coordinate to alert, providing all relevant information and without undue delay, the competent authority that is to be determined as the consolidating supervisor in accordance with paragraphs (3) and (5) of Article 111 of Directive 2013/36/EU under the assumption that all institutions authorised in the Union, having the same parent EU financial holding company, were part of a group subject to consolidated supervision pursuant to that Article ("consolidating supervisor") or as appropriate, where none of the institutions of a third-country group is a credit institution, the competent authority that is to be determined as the group supervisor in accordance with Article 46 of Directive (EU) 2019/2034 ("group supervisor"), where they expect that their third-country
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74206: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74207: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74208: group will reach the threshold within the next three years based on the forward-looking monitoring.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74209: 19. EU parent institutions and stand-alone institutions of a third-country group should coordinate to submit in a timely manner to their respective competent authorities the quarterly assessments along with all accompanying financial information. Upon the establishment of the intermediate EU parent undertakings, the quarterly assessments along with all accompanying financial information should be provided only by the intermediate EU parent undertakings to the consolidating or the group supervisor as appropriate. Third-country branches should submit to their competent authorities the information referred to in paragraph 17.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74210: 20. EU parent institutions of a third-country group, including the intermediate EU parent undertakings upon their establishment, should provide in a timely manner and without undue delay to their subsidiaries their quarterly assessments and forward-looking monitoring along with all relevant accompanying information.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74211: 21. Where the forward-looking monitoring shows that a third-country group will reach the threshold, the EU parent institutions and the stand-alone institutions of that group should apply for all supervisory procedures sufficiently ahead in time and take all necessary steps in order to fulfil all necessary legal requirements for the intermediate EU parent undertaking to be immediately operational once the threshold is reached.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74212: Guidance for competent authorities
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74213: 22. Competent authorities should make every effort to ensure that institutions and third-country branches, or upon their establishment the intermediate EU parent undertakings and third- country branches, comply with their obligations under Article 21b of Directive 2013/36/EU as specified in these guidelines. In particular, competent authorities should ensure that they receive from institutions and third-country branches, or upon their establishment from the intermediate EU parent undertakings and third-country branches, all information set out in paragraph 19 and that third-country branches fully comply with their obligation to report all assets corresponding to their activities as set out in Article 47(1a), point (a) of Directive 2013/36/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74214: 23. For the purposes of the notification set out in Article 21b(6) of Directive 2013/36/EU, competent authorities should submit to the EBA on an annual basis, without undue delay and no later than 30 June of any given year, the information which they have received from institutions and third-country branches or upon their establishment from the intermediate EU parent undertakings and third-country branches, in accordance with paragraph 19 for the four quarters of the previous calendar year.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_74215: 24. Notwithstanding paragraph 23, in case of a material change of the total value of assets of an institution or of a third-country branch that are part of a third-country group, the competent authority should during the year notify the EBA about this change without undue delay. The
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74217: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74218: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74219: total value of assets of these institutions or third-country branches should be notified as the average of the total value of those assets calculated over the previous four quarters irrespective of the calendar year.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74220: 25. Where the consolidating or the group supervisor has received the notification referred to in paragraph 18, or where the quarterly assessment shows that the threshold has been reached and the intermediate EU parent undertaking has not been established yet, the consolidating supervisor or the group supervisor should liaise with the notifying institution and with other relevant authorities at least for the following to be determined without undue delay:
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74221: a. Whether the derogations referred to in Articles 21b(2) and 21b(3), second indent, of Directive 2013/36/EU should apply to this particular third-country group;
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74222: b. Having regard to paragraphs 26 and 27, the timeline for the establishment of the intermediate EU parent undertaking.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74223: 26. In determining the relevant timeline referred to in point (b) of paragraph 25, competent authorities should ensure that the intermediate EU parent undertaking will be in operation when the threshold will have been reached. Institutions should make every effort to comply with this requirement in a timely manner.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74224: 27. Notwithstanding paragraph 26 and for the purposes of application of point (b) of paragraph 25, competent authorities may provide for an adequate timeline for the establishment of an intermediate EU parent undertaking where reaching the threshold was not foreseeable within the forward looking-monitoring set out in paragraph 16 and as a result the timeline as specified in paragraph 26 cannot be met, in particular in cases such as mergers and acquisitions not foreseeable in the strategic planning of the group, or where there is reasonable anticipation of the total value of that group's assets in the Union to permanently drop below the threshold within a period not exceeding one year from the date the threshold was reached. The timeline should be as short as possible and should not exceed one year or, in exceptional justified cases, up to two years from the date the threshold was reached, unless the total value of assets in the Union of that group has dropped and remains below the threshold.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74225: 28. Where the conditions set out in Article 21b of Directive 2013/36/EU have been met and an intermediate EU parent undertaking has not been established within the timeline determined under point (b) of paragraph 25 and in accordance with paragraph 26 or 27, the competent authorities of the institutions of that third-country group should, without undue delay, coordinate in order to take all the measures necessary to ensure that Article 21b of Directive 2013/36/EU will be complied with.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_74226: 29. Where the total value of assets in the Union of a third-country group calculated in accordance with paragraphs 10 and 11 has dropped significantly and permanently below the threshold set out in Article 21b(4) of Directive 2013/36/EU as a result of strategic changes in European operations of that third-country group, the consolidating supervisor and, where applicable, the group supervisor and the competent authorities should, following a relevant group's request,
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74228: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_74229: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_74230: coordinate to determine whether the threshold should be deemed as no longer exceeded before the end of the period of twelve consecutive quarters referred to in paragraph 14.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74232: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74233: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74234: 5. Accompanying documents
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74235: Cost-benefit analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74236: A. Introduction
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74237: Article 21b of Directive 2013/36/EU was introduced in the new banking package to require third- country groups with total activities in the EU above a certain threshold to establish an intermediate EU parent undertaking (IPU). According to Article 21b(1) and (4) of Directive 2013/36/EU, the threshold is set at the level of EUR 40 billion3. Therefore, third-country groups that account with two or more institutions in the Union and reach the threshold shall have an IPU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74238: B. Policy objective
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74239: The guidelines aim at providing clarity on the practical application of the IPU requirement for the third-country groups as well as the competent authorities supervising their branches and subsidiaries in the EU. In particular, the guidelines provide a common methodology for the calculation of the total value of assets to be compared with the IPU threshold. Such common methodology is crucial for achieving consistent application of Union law and the application of consolidated supervision to institutions based on the same criteria.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74240: Moreover, the guidelines entail other transparency policy objectives, related to the publication on the EBA website of a list of all third-country groups operating in the Union and their IPU. This transparency would ensure that market participants have clarity of the direct ownership of those institutions.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74241: C. Baseline scenario
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_74242: Paragraph (6) of the newly introduced Article 21b of Directive 2013/36/EU requires that competent authorities notify the EBA about: (i) the names and the total value of assets of supervised institutions belonging to a third-country group; (ii) the names and the total value of assets corresponding to branches authorised in the Member State and the types of activities that they are authorised to carry out; and (iii) the name and the type of any IPU set up in that Member State and the name of the third-country group of which it is part.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74243: Regarding the timeline, both addressees of the guidelines should comply with their obligations set out in CRD V. Member States should implement the changes to Directive 2013/36/EU by 29
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74244: 3 The calculation of the total value of assets in the Union includes both subsidiaries and branches of the third-country group. According to Article 21b(2) of Directive 2013/36/EU, competent authorities may allow to establish two IPUs, if there are requirements from the third-country group of separation of activities or to reach a more efficient resolution strategy according to an assessment carried out by the resolution authority of the IPU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74246: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74247: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74248: December 2020 and third-country groups operating in the Union that meet the IPU threshold on 27 June 2019 shall have an IPU or two IPUs by 30 December 20234.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74249: The Commission encouraged the EBA to provide guidance on certain technical aspects of the calculation of the IPU threshold, for instance: (i) how to determine the relevant cut-off date for the calculation of the total value of the assets in the EU and (ii) how to take into account the fluctuation in the amount of EU assets when calculating the threshold.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74250: D. Options considered
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74251: The EBA considered the approach to calculating the threshold and the scope of the application, as well as the timing of establishing the IPU and the transitional arrangements. These two aspects (threshold and timing) are key to ensuring that both competent authorities and institutions belonging to third-country groups comply with the IPU requirement in a timely manner.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74252: Calculation of the threshold
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74253: Option 1: Based on monthly-average value of assets
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74254: Under this approach, the threshold is based on an average of the sum of total assets of the third- country group in the Union calculated over the twelve months of any calendar year. This approach is aligned with other existing provisions in the EU legislative framework (i.e. investment firms should be subject to the requirements of the Capital Requirements Regulation when a threshold of EUR 15 billion of the total value of consolidated assets is breached, calculated as the average of the previous 12 months5).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74255: This approach avoids window-dressing strategies and would provide the stable level of significance of each third-country group within the EU, avoiding the impact of one-off events. However, monthly information on assets may not be available for all institutions, including investment firms, and branches of third-country groups. Therefore, more granular reporting might be required.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74256: Option 2: Based on cut-off date
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74257: This approach was based on the year-end audited financial statements and the requirement to establish the IPU if the threshold was breached during three consecutive quarters. This approach would not be effective in avoiding window-dressing strategies and would be sensitive to cut-off events. Moreover, the frequency of three quarters would not be aligned with other provisions of Directive 2013/36/EU related to the reporting requirements of third-country branches operating in the Union to competent authorities (i.e. Article 47 of Directive 2013/36/EU states that they should report financial information annually).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74258: Option 3: Based on quarterly-average value of assets
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74259: This approach is more aligned with the normal frequency of reporting requirements in the EU established for institutions (i.e. on a quarterly basis). Therefore, the costs borne by institutions
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74260: 4 Article 21b(8) of Directive 2013/36/EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_74261: 5 Article 1(2) of Regulation (EU) 2019/2033 (Investment Firms Regulation).
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74263: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74264: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74265: would be lower than with the monthly averages. Moreover, the requirement for quarterly averages avoids window-dressing strategies and the impact of one-off events, similarly as in Option 1.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74266: Option 3 is the preferred option.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74267: Specification of consolidated assets
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74268: Option 1: Total value of assets as on the balance sheet
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74269: This option will ensure the alignment with the requirements of Directive 2013/36/EU, as according to Article 21b(5) of that directive the total value of assets of each institution in the Union of the third-country group should be based on its consolidated balance sheet, or individual balance sheet for cases where institutions' balance sheet is not consolidated. This option is also the simplest and the least burdensome for the institutions, as no additional corrections specifically for the purpose of the IPU requirement will be necessary.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74270: Option 2: The value of assets excluding third-country branches and subsidiaries
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74271: This option would focus strictly on the assets of the third-country groups in the Union. However, the exclusion of third-country branches and subsidiaries of the third-country undertaking established in the EU would misrepresent the current magnitude of the EU established group. The activities in third countries can have implications both related to supervisory activities and in the event of resolution. Moreover, it would not be aligned with the requirements applicable to EU institutions, which are based on a consolidated basis.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74272: Option 1 is the preferred option.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74273: First applicability of the threshold under Article 21b(8) of Directive 2013/36/EU
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74274: Option 1: Total assets considered as a specific point in time as at 27 June 2019
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74275: From the literal interpretation of Article 21b(8) of Directive 2013/36/EU, the threshold of EUR 40 billion shall be complied as at 27 June 2019. Thus, the total value of assets of the third-country group in the EU should be considered as a specific point in time and not as an average. On one hand, this would be the simplest and more straightforward interpretation. However, a short-term variation in assets due to market developments (or separation of assets) could entail that the obligation to establish an IPU is not justified.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74276: Option 2: Total assets considered as an average since 2018
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74277: Under this option, the total value of assets as at 27 June 2019 should be consistent with the way the threshold is monitored. Therefore, as specified in the previous assessment of options, the threshold could be calculated as an average over the last four quarters.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_74278: Option 1 is the preferred option.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74280: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74281: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74282: E. Cost-benefit analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74283: The implementation of the guidelines entails costs for both competent authorities and firms established in the EU.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74284: Regarding competent authorities, costs are expected to arise from the implementation of reporting standards to ensure that third-country groups provide them at least on a quarterly basis with all the information necessary for the purpose of notification in accordance with Article 21b(6) of Directive 2013/36/EU: (i) names and total value of assets of institutions belonging to a third-country group, (ii) names and assets of branches authorised in the Member State, (iii) name and type of the EU parent undertaking and the third-country group of which is part. This information should be notified to the EBA at least annually.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74285: Moreover, they have to put in place processes and resources to comply with the mandate established in Article 21b(7) of Directive 2013/36/EU, which specifies that they are responsible for ensuring that every institution that is part of a third-country group meets one of the following conditions: (i) it has or it is an intermediate EU parent undertaking, (ii) it is the only institution within the EU of the third-country group or (iii) it is part of a third-country group with a total value of assets in the EU of less than EUR 40 billion.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74286: The implementation also entails benefits for competent authorities, derived from the application of a consolidated supervisory approach of the EU activities of these institutions. Moreover, it facilitates an orderly resolution process where necessary.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74287: Regarding firms, there are one-off costs related to the establishment of the intermediate EU parent undertaking if the threshold is met, mainly through the authorisation process already envisaged in the EU prudential framework. Other costs are expected to arise from the application of processes to calculate quarterly averages of all assets in the EU of the third-country group and report them to competent authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74288: Among the benefits for firms are the increased clarity among market participants of the background of third-country branches and subsidiaries. This benefit comes from the fact that, under Article 21b(7) of Directive 2013/36/EU, the EBA shall disclose on the website the list of all third-country groups operating in the Union and their intermediate EU parent undertaking. Therefore, market participants could have access to the identity and the financial position of the intermediate EU parent undertaking.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74289: The benefits for the single market are related to the enhanced level playing field among financial institutions about the requirements to operate in the EU, the increased strength of the overall EU banking sector, the removal of impediments to resolvability (by avoiding transfers of funds from the parent entity) and the reduced probability of a banking crisis stemming from these entities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74290: F. Overall impact assessment
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_74291: In this section, total assets of the EU banking sector are classified into domestic and non-domestic. Within non-domestic, non-EU subsidiaries and branches are obtained in order to know the scope
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74293: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74294: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74295: of the requirement for calculating the quarterly average of assets and checking if that average is above EUR 40 billion. Thus, as can be observed in Table 1, non-EU subsidiaries and branches represent 9.8% of total EU banking sector assets as of December 2019. Therefore, in aggregate, the scope of the new requirement is limited and the impact for the overall system is limited.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74296: Table 1: Total assets of domestic banking groups, all foreign subsidiaries and branches and non-EU subsidiaries and branches, EUR billions.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74298: Domestic banks
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74299: All foreign subsidiaries and branches (EU & non- EU)
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74300: Of which: non-EU subsidiaries and branches
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74302: % non-EU branches and subs/Total
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74303: % non-EU branches and subs/All foreign
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_74339: Sources: ECB Statistical Data Warehouse and EBA calculations.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74341: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74342: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74343: 5.1 Feedback on the public consultation
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74344: The EBA publicly consulted on the draft proposal contained in this paper.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74345: The consultation period lasted for two months and ended on 15 March 2021. Five responses were received from three respondents, of which four were published on the EBA website.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74346: This paper presents a summary of the key points and other comments arising from the consultation, the analysis and discussion triggered by these comments and the actions taken to address them if deemed necessary.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74347: In many cases several industry bodies made similar comments or the same body repeated its comments in the response to different questions. In such cases, the comments and EBA analysis are included in the section of this paper where EBA considers them most appropriate.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74348: Changes to the draft guidelines have been incorporated as a result of the responses received during the public consultation.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74349: Summary of key issues and the EBA's response
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74350: Respondents in general agreed with the proposed draft guidelines but requested clarifications on several points, in particular on the scope and date of application of the requirement for the quarterly and forward-looking monitoring. Clarifications where therefore provided that while it is necessary that quarterly monitoring is performed at all times by all third-country groups operating in the Union, the forward-looking monitoring is no longer required after the IPU is set. For this purpose the date of application of these guidelines is relevant, although institutions may discuss specific application issues with their competent authorities on a case-by-case basis.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74351: Furthermore, respondents asked about the treatment of assets in the UK in the context of this country leaving the Union after the reference date for the application of the transitional period. It was therefore clarified in the feedback table that these assets should be included in the calculations performed as of 27 June 2019. However, after the date of Brexit the UK should be treated as any other third country.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_74352: Finally, respondents requested clarifications regarding the treatment of minority investments in the EU institutions and suggested that the scope of calculation of the total value of assets in the Union should be limited to the scope of consolidation of the parent company group. Such clarification was therefore reflected in the text of the guidelines by clarifying that those institutions should be taken into account which are subsidiaries of third-country groups.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74354: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74355: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74356: Summary of responses to the consultation and the EBA's analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74358: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74359: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74360: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74361: General comments
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74362: One respondent raised the question whether third-country branches will be also included in the framework of IPU and asked about the link of the IPU guidelines and an upcoming EBA report on third-country branches.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74363: In accordance with Article 21b(5) CRD, assets held by third- country branches are considered in the calculation of the total value of assets in the Union for the purpose of the IPU threshold. However, they are not expected to be included under the scope of an IPU. While third-country branches are not included within the IPU consolidated supervision, competent authorities supervising the branches and competent authorities supervising institutions belonging to the same third-country group are expected to cooperate closely based on Article 47 CRD. Based on Article 21b(10) CRD the EBA will publish a separate report on the treatment of third-country branches.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74365: Question 1: Do you agree with the proposed clarifications with regard to the scope of consolidation? If in your view institutions belonging to third- country groups operating in the Union can have significant assets in third countries, please provide examples and, if possible, relevant values of assets.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74366: One respondent agreed with the proposals.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74367: No action required.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74369: Some respondents asked for some clarifications regarding the consolidating rules, as well as the treatment of the assets of third-country branches.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74370: In accordance with Article 21b(5) CRD, the total value of assets in the Union of a third-country group shall be the sum of the total value of assets of each institution and each branch of the third-country group. For that purpose the third-country group should take into account the assets of
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_74371: Clarifications included in paragraphs 6 and 22.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74373: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74374: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74376: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74377: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74378: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74379: One respondent suggested that the scope should be limited to the consolidation of the parent company group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74380: each institution established in the EU that is a subsidiary of that group. With regard to third-country branches, although they are not included under the IPU structure once it is created, their assets must be included nevertheless in the calculation of the total value of assets of a third-country group in the Union, as required by Article 21b(5) CRD. For the purpose of calculating the total value of assets in the Union, the assets of the branches of third-country institutions should be computed as for the purpose of Article 47(1a), point (a) CRD, i.e. they should correspond to the activities of that third-country branch.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74381: Question 2: Do you agree with the proposed clarification with regard to the calculation of the total value of assets in the Union for the purpose of the IPU threshold?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74382: One respondent agreed with the proposals.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74383: No action required.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_74385: Several respondents asked for clarifications regarding the inclusion of UK assets regarding the threshold calculation as per Article 21b(8) CRD. It is also deemed unclear whether companies and assets in the UK should still be included in the calculation of the total value of assets of a group in the Union.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74386: In general, the UK should be considered as a third country when applying the IPU requirement and these guidelines. However, in accordance with Article 21b(8) CRD, the reference date to assess if a third-country group could benefit from the grandfathering clause is 27 June 2019. Given that at that date UK was part of the Union, the calculation should include UK assets. All third-country groups which on 27 June 2019 had in the Union (including the UK) at least two institutions and at least EUR 40 billion in terms of total assets (including the UK) can benefit from
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74389: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74390: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74392: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74393: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74394: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74395: the transitional period of the IPU requirement in accordance with Article 21(8) CRD. If the criteria continue to be fulfilled as of 30 December 2023, the third-country group will need to establish one or two IPUs by that date. Any calculation of the total value of assets in the Union after the date of Brexit should be performed without the UK assets, as since then the UK is no longer part of the Union.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74396: Respondents asked for more clarification on the need for quarterly monitoring and the applicability of the IPU requirement between 27 June 2019 and 30 December 2023, in case the IPU criteria are not fulfilled on 27 June 2019. One respondent suggested that quarterly monitoring within the transitional period may be disproportionate for groups unlikely to breach the threshold in 2023.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_74397: Quarterly monitoring should be performed by all third- country groups operating in the Union, regardless of whether or not they fulfil the IPU criteria, also within the transitional period. The results should be reported to competent authorities in order to allow coordinated and consistent supervision. The EBA is entitled to receive information about third-country groups operating in the Union as per Article 21b(6) CRD. This information will be published on the EBA website providing sufficient transparency for market participants. The transitional period should be regarded as an additional period of time for third-country groups meeting the criteria to make the necessary arrangements to set up an IPU. It should not be understood as a postponement of other requirements of the CRD or these guidelines, including the need for quarterly monitoring. Furthermore, the transitional period can be applied only to those third-country groups that meet the IPU criteria as of 27 June 2019, as specified in Article 21b(8) CRD. In the case of all other third-country groups operating in the Union, the
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74400: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74401: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74403: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74404: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74405: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74406: IPU requirement applies at the moment the criteria are met (i.e. the group operates through at least two institutions in the Union and the threshold is reached), including if this happens before 30 December 2023.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74407: Several respondents enquired about the guidelines' implementation timeline, notably on the expected timing of the first reporting.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74408: These guidelines become applicable at the date specified in paragraph 9 of the guidelines (i.e. two months after the final guidelines are translated into all EU languages). Any technical aspects of the reporting should be discussed with the relevant competent authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74410: Question 3: Do you agree with the proposed requirements for the exchange of information? Do you see any potential obstacles to exchanging the necessary information between the institutions and branches in the Union which are part of the same third-country group?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74411: One respondent agreed with the proposals.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74412: No action required.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74414: Concern was expressed on the feasibility of forward-looking monitoring assessment at entity level. Confirmation was requested whether such monitoring can be performed through the headquarters of the third- country group.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74415: The guidelines do not specify technical arrangements within the third-country group for performing the quarterly and forward-looking annual monitoring. To this end such monitoring may be performed at the level of headquarters, as long as the results of such monitoring together with all underlying information are provided to the relevant institutions which are subject to the IPU requirement and which are required to provide such information to their competent authorities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74417: One respondent proposed to include in the guidelines coordination processes between the home and host supervisors notably
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_74418: The guidelines aim at determining the relevant cut-off date and the appropriate methodology to evaluate the total
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74421: FINAL REPORT ON THE EBA GUIDELINES ON THE MONITORING OF THE IPU THRESHOLD
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74422: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74424: Summary of responses received
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74425: EBA analysis
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74426: Amendments to the proposals
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74427: related to the resolvability assessment of the third-country entities.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74428: value of assets in the EU. The cooperation between home and host supervisors is out of scope of these guidelines.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74429: One respondent suggested limiting
+reporting requirements for third-country groups that already have an IPU, even in cases where the group falls below the threshold if it is not the intention of the group to unwind the IPU. Another respondent asked for clarification on the forward-looking monitoring requirements once an IPU is set up.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74430: As also explained above, quarterly monitoring and
+reporting must be performed by all third-country groups to ensure an appropriate overview of the operations of these groups in the Union not only by the institutions belonging to these groups but also by their competent authorities as well as market participants. However, as specified in paragraph 16 of these guidelines, those groups which already set up an IPU and do not intend to unwind it are no longer required to perform forward-looking monitoring.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74432: One respondent asked for an adequate phase-in period to set up robust information exchanges between institutions and branches of a third-country group, due to the improvements that need to be performed at least in terms of data gathering and IT framework.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_74433: While these guidelines do not specify the necessary
+technical arrangements for reporting or information exchange, the date of application of the IPU requirement is specified in the CRD, and, as such, institutions subject to this requirement must ensure that it is met in a timely manner. Any specific circumstances may be discussed by the institutions with their competent authorities on a case- by-case basis.
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74435: Question 4: Do you agree with the clarifications regarding the timelines for establishing an intermediate EU parent undertaking? In your view, are there any other circumstances when establishing such undertaking may not be possible by the time the threshold of EUR 40 billion of the total value of assets is reached?
+
+[JURISDICTION:EU] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_74436: One respondent agreed with the proposals. No action required.
+

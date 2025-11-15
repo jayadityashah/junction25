@@ -1,0 +1,2286 @@
+METADATA: {"document_id": 15, "filename": "10_2012.m2_en.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "FIVA_MOK", "jurisdiction": "FINNISH", "page_count": 37, "paragraph_count": 902}
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31410: Regulations and guidelines 10/2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31411: Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31412: J. No. 4/101/2011
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31413: Issued on 19.9.2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31414: Valid from 1.4.2013
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31415: FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31416: tel: +358 10 831 51 fax +358 10 831 5328
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31417: firstname.lastname@finanssivalvonta.fi www.finanssivalvonta.fi
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31418: Further information Market Supervision/Investment Products Conduct of Business Supervision/Customer Protection
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_31419: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31420: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31421: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31422: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31423: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31424: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 2 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31425: Table of Contents
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31430: Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31433: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31436: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31438: Legislative background and international recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31441: Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31444: European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31447: FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31450: International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31452: Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31454: Disclosure obligation before conclusion of the agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31457: Information to be provided before conclusion of the agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31460: Illustration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31463: Illustrations for PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31466: Illustrations for pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31469: Presentation of illustrations for PS agreements and pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31472: Summary illustration for PS agreements and pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31475: Key information and illustrations for endowment insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31478: Key information and illustrations for capital redemption contracts
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31481: Expenses to be taken into account in the illustration, summary illustration and key information
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31483: Disclosure obligation during contractual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31486: Information to be provided during contractual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31489: PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31492: Pension insurance contracts concluded after entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31495: Pension insurance contracts concluded before entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31498: Endowment insurance contracts concluded after entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_31500: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31501: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31502: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31503: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31504: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31505: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31509: Endowment insurance contracts concluded before entry into
+these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31510: force of
+22
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31512: Capital redemption contracts
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31515: Calculation of returns and expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31517: Transitional provisions and entry into force
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31520: regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31528: Summary illustration models
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31531: PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31534: Unit-linked pension insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31537: Pension insurance policies with guaranteed return
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31540: Key Information model for illustration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31543: Unit-linked life insurance policies and capital redemption
+illustration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31544: contracts (if no
+29
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31546: Life insurance policies and capital redemption contracts with
+return (if no illustration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31547: guaranteed
+30
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31549: Unit-linked life insurance policies and capital redemption
+illustration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31550: contracts (if
+30
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31552: Methodology for calculation of the ongoing charges figure in
+Investor Information Document
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31553: the Key
+31
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_31554: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31555: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31556: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31557: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 4 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31558: 1 Scope of application and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31559: 1.1 Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31560: These regulations and guidelines apply to the following supervised entities as referred to in section 4 of the Act on the Financial Supervisory Authority, to other financial market partic- ipants as referred to section 5 of said Act, and to entities as referred to in sections 4 and 18 k of the Mutual Funds Act:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31561: · deposit banks
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31562: · investment firms
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31563: · fund management companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31564: · life insurance companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31565: · insurance intermediaries
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31566: · Finnish branches of foreign credit institutions, investment firms, management compa- nies and life insurance companies authorised in non-EEA member states.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31567: These regulations and guidelines also apply to Finnish branches of other financial market participants as referred to in section 5 of the Act on the Financial Supervisory Authority, to Finnish branches of foreign EEA supervised entities as referred to in section 6 of said Act, and to Finnish branches of entities as referred to in sections 4 and 18 a of the Mutual Funds Act:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31568: · foreign credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31569: · foreign investment firms
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31570: · foreign management companies and undertakings for collective investment in transfer- able securities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31571: · foreign life insurance companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31572: · foreign insurance intermediaries
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31573: These regulations and guidelines additionally apply to the following foreign supervised enti- ties authorised in countries other than Finland, other financial market participants as re- ferred to in sections 5 and 6 of the Act on the Financial Supervisory Authority, and entities as referred to in sections 4, 18 b and 18 o of the Mutual Funds Act, if these provide ser- vices in Finland without establishing a branch:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31574: · foreign credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31575: · foreign investment firms
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_31576: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31577: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31578: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31579: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31580: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31581: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31583: · foreign management companies and undertakings for collective investment in transfer- able securities
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31584: · foreign life insurance companies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31585: · foreign insurance intermediaries
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31586: With the exception of section 4, paragraph 8, these regulations and guidelines do not apply to insurance brokers, branches of foreign insurance brokers, or foreign insurance brokers providing services in Finland without establishing a branch.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31587: These regulations and guidelines do not apply to the following supervised entities as re- ferred to in the Act on the Financial Supervisory Authority:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31588: · life insurance companies that ceased to grant new insurance before entry into force of these regulations and guidelines (so-called run-off insurance companies) and
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31589: · foreign life insurance companies and branches that ceased to grant new insurance before entry into force of these regulations and guidelines (so-called run-off insur- ance companies).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31590: These regulations and guidelines are applicable to the disclosure and calculation of ex- penses and returns for savings agreements as referred to in the Act on Restricted Long- term Savings and the following insurance policies, if the insurance applicant or policy buyer is a consumer or other natural person or legal person comparable to a consumer as re- ferred to in section 3, subsection 2 of the Insurance Contracts Act :
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31591: · pension insurance policies with guaranteed interest as referred to in section 13, subsection 1 of the Act on insurance classes and unit-linked insurance policies as referred to in section 15 of said Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31592: · endowment insurance policies with guaranteed return as referred to in section 13, subsection 1 of the Act on insurance classes and unit-linked insurance policies as referred to section 15 of said Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31593: · endowment insurance components of such combination insurance policies includ- ing both a endowment insurance as referred to in section 13, subsection 1 or sec- tion 15 of the Act on insurance classes and other personal insurance as referred to in section 13, subsection 2 of said Act, provided the insurance includes a savings amount payable at the expiry of the insurance period
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31594: · capital redemption agreements with guaranteed return and unit-linked capital re- demption agreements as referred to in section 18 of the Act on insurance classes.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31595: These regulations and guidelines are not applicable to the following types of insurance:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31596: · group insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31597: · insurance contracts with guaranteed return concluded before entry into force of these regulations and guidelines, such that the accrued savings cannot be allocated to a unit-linked component.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_31598: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31599: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31600: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31601: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 6 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31602: 1.2 Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31603: For the purposes of these regulations and guidelines, the following terms shall have the following meanings:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31604: · expenses refer to all charges, commissions and fees which reduce the savings as- sets or accrued savings, excluding insurance compensations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31605: · zero return calculation is the calculation referred to in section 4 of the Council of State Decree on the service provider's disclosure obligation on restricted long-term saving, where the return on the savings assets is zero, as well as a corresponding calculation for insurance contracts. The calculation assumes that the return on in- vestments linked to the agreement before deduction of expenses to be taken into account in the illustration is zero.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31606: · justified realistic return expectation is the justified realistic return expectation re- ferred to in section 4 of the Council of State Decree on the service provider's disclo- sure obligation on restricted long-term saving or a justified realistic return expecta- tion concerning the investments linked to an insurance contract or the return expec- tation of an insurance policy with a guaranteed return
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31607: · PS agreement is a savings agreement as referred to in section 1, subsection 1 of the Act on restricted long-term saving
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31608: · reporting period is a period of up to one year as agreed with the saver, for which in- formation is provided during the contractual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31609: · saver is a natural person as referred to in section 2, subsection 1, paragraph 2 of the Act on restricted long-term saving, policy holder as referred to in section 2, sub- section 1, paragraph 4 of the Insurance Contracts Act and insurance applicant as referred to in section 5 of the Insurance Contracts Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31610: · saving period is the saving period as referred to in section 10, subsection 1, para- graph 5 of the Act on restricted long-term saving, which begins at the payment of the first instalment under the agreement and ends when repayment of the savings begins; and in the context of insurance contracts, the period which begins at the payment of the first premium under the insurance contract and ends when the sav- ings are repaid or payment of pension instalments begins
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31611: · savings withdrawal period is, in the context of PS agreements, the period beginning at the end of the saving period and ending when the savings assets have been re- paid and, in the context of insurance contracts, the period between the beginning and end of the payment of pension instalments
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31612: · person entitled to the savings assets is a natural person as referred to in section 2, subsection 1, paragraph 5 of the Act on restricted long-term saving
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31613: · savings assets are savings assets as referred to in section 2, subsection 1, para- graph 4 of the Act on restricted long-term saving
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31614: · accrued savings are accrued savings from which items resulting from potential re- purchase have not been deducted
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31615: · supervised entity as referred to in section 1.1 above is an entity or natural person belonging to the scope of application of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_31616: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31617: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31618: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31619: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31620: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31621: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 7 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31622: 2 Legislative background and interna- tional recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31623: 2.1 Legislation
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31624: The following legal provisions relate to matters addressed in these regulations and guide- lines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31625: · Act on Restricted Long-term Savings (1183/2009, PS Act)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31626: · Insurance Contracts Act (543/1994)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31627: · Act on insurance classes (526/2008)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31628: · Insurance mediation Act (570/2005)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31629: · Council of State Decree on the service provider's disclosure obligation on restricted long-term saving (1748/2009, PS Decree)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31630: · Ministry of Justice Decree on information to be provided on life insurance (177/2011)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31631: · Decree on the indication of the prices in marketing consumer products (1359/1999)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31632: · Ministry of Justice Decree on the actual annual interest rate on consumer credit (824/2010).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31633: 2.2 European Union Directives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31634: The following European Union Directive relates to matters addressed in these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31635: · Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance (OJ L 345, 19.12.2002, p. 1 - 51).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31636: 2.3 FIN-FSA's authority to issue regulations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31637: FIN-FSA's authority to issue binding regulations on matters covered by these regulations and guidelines is based on the following legal provisions:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31638: · section 7, subsection 3 and section 8, subsection 2 of the PS Act
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31639: · section 9 a, subsection 2 of the Insurance Contracts Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_31640: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31641: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31642: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31643: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 8 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31644: 2.4 International recommendations
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31645: The following recommendation of the Committee of European Securities Regulators (CESR), which was kept in force as such by CESR's successor, the European Securities Market Authority (ESMA), has been taken into account in drafting these regulations and guidelines:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31646: · CESR's guidelines on the methodology for calculation of the ongoing charges fig- ure in the Key Investor Information Document; CESR/10-674; CESR Guidelines). The Guidelines are available at ESMA's website at www.esma.europa.eu.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_31647: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31648: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31649: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31650: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 9 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31651: 3 Objectives
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31652: (1) The objective of these regulations and guidelines is to ensure that customers of super- vised entities get a adequate and essential information on the expenses and returns that will assist in making decisions on financial products and services. These regula- tions and guidelines indicate what information on expenses and returns give a adequate and essential information for choosing a PS agreement or insurance contract and what information the customer should receive during the validity of the agreements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31653: (2) Another objective is to enable comparison of similar products on the basis of uniformly based assumptions, and in particular, to align the disclosure obligation related to PS agreements and pension insurance policies so that savers can compare products which are similar in terms of objectives and tax treatment.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_31654: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31655: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31656: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31657: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31658: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31659: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 10 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31660: 4 Disclosure obligation before conclu- sion of the agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31661: 4.1 Information to be provided before conclusion of the agreement
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31662: (1) According to section 7, subsection 3 of the PS Act, more detailed provisions on the in- formation the service provider must give to the saver before conclusion of a contract can be issued in a Council of State Decree. FIN-FSA may issue more detailed provi- sions on the manner of presentation of the information referred to in section 7, subsec- tion 3 of the Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31663: (2) According to section 9 a, subsection 2 of the Insurance Contracts Act, FIN-FSA may is- sue regulations on the manner of calculation and disclosure of the expenses and re- turns of endowment and pension insurance.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31664: REGULATION (paragraphs 3-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31665: (3) Before conclusion of a PS agreement, the supervised entity must give the saver an il- lustration and a summary illustration compiled in accordance with the regulations pro- vided in sections 4.2.1, 4.2.3, 4.3 and 4.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31666: (4) Before conclusion of a pension insurance contract, the supervised entity must give the saver an illustration and a summary illustration compiled in accordance with the regula- tions provided in sections 4.2.2, 4.2.3, 4.3 and 4.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31667: (5) Before conclusion of an endowment insurance contract, the supervised entity must give the saver the key information on illustration compiled in accordance with the regulations provided in section 4.4. In calculating the key information, the expenses referred to in section 4.6 must be taken into account. There is no obligation to give an illustration on an endowment insurance policy. If the saver is provided an illustration, he must also be provided the calculations compiled in accordance with the provisions issued in chapters 4.2.2, 4.2.3 and 4.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31668: (6) Without prejudice to paragraphs 3 - 5, the supervised entity may also provide other il- lustrations to the saver.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31669: GUIDELINE (paragraphs 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31670: (7) The supervised entity should ensure that its agents provide the information required in these regulations and guidelines to the savers.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_31671: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31672: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31673: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 11 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31675: In accordance with section 25, subsection 1 of the Insurance Mediation Act, an insur- ance broker must, in the conduct of its duties, ensure that the customer receives all in- formation necessary for evaluating his insurance needs and choosing insurance, such as information on the available forms of insurance, insurance premiums and insurance terms and conditions. FIN-FSA considers that the illustration, summary illustration and key information as referred to in section 4 of these regulations and guidelines constitute such information that must be provided by the insurance broker to the customer in ac- cordance with section 25, subsection 1 of the Insurance Mediation Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31677: Illustration
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31679: Illustrations for PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31681: In accordance with section 4 of the PS Decree, the saver must be provided at least two calculations on the accumulation of savings assets and expenses charged over the en- tire savings period under the agreement. One calculation must be based on the as- sumption that the return on savings assets is zero. The other calculation must give a justified realistic estimate of the expected return on the investment selected.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31682: REGULATION (paragraphs 10-14)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31684: A supervised entity must determine a justified realistic return expectation based on the allocation of investments offered to the saver. The return expectation is determined as gross return.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31686: The estimates referred to in section 4 of the PS Decree must be stated in euro for each year throughout the saving period in a table format. a. savings assets at the beginning of the year; b. savings assets at the end of the year; c. savings instalments made during the year; d. return accruing on the savings instalments after expenses; e. expenses resulting from following the investment plan.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31688: The illustrations must present the combined savings instalments, returns and expenses during the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31690: The illustrations must be made without taking taxation into account. The calculations may take account of discounts granted to the customer only insofar as they are binding on the supervised entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31692: If the illustrations are done only for the saving period, they must indicate that expenses may be charged during the savings withdrawal period and that these are not taken into account in the illustrations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31693: GUIDELINE (paragraph 15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31695: FIN-FSA recommends that the illustrations also cover the savings withdrawal period. Furthermore, these calculations should take into account the expenses charged for withdrawing the savings assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_31696: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31697: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31698: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 12 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31700: Illustrations for pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31701: REGULATION (paragraphs 16-22)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31703: The illustration provided to the saver must contain at least two calculations, one based on a justified realistic return expectation and the other on the zero-return assumption.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31705: The supervised entity must use a justified realistic return expectation based on the allo- cation of investments offered to the saver. The realistic return expectation in an insur- ance or savings component with guaranteed return is the combined amount of the guaranteed return and the assumed annual customer bonuses. The mortality bonus of insurance must be taken into account as return.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31707: In an illustration for guaranteed-return insurance policy, the guaranteed interest rate under the agreement must be used instead of the zero-return assumption as the ex- pected return when the investment plan has been formulated so as to allocate all insur- ance premiums to the guaranteed-return part.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31709: The illustration must present, in a table format, an estimate in euro terms of the figures below for each year during the entire saving period:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31710: a. accrued savings at the beginning of the year; b. accrued savings at the end of the year; c. insurance premiums per annum; d. return accruing on the insurance premiums after expenses; e. expenses resulting from following the insurance contract.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31712: The illustrations must present the combined insurance premiums, returns and expenses during the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31714: The illustrations must be made without taking taxation into account. The calculations may only take into account such discounts granted to the customer that are binding on the supervised entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31716: If the illustrations are only made for the saving period, they must indicate that expenses may be charged during the savings withdrawal period and these are not taken into ac- count in the illustrations.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31717: GUIDELINE (paragraph 23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31719: FIN-FSA recommends that the illustrations also cover the pension withdrawal period. The calculation should also take into account any expenses charged on the pension. In calculating lifelong pension, the calculation should use 100 years as the terminal age.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31721: Presentation of illustrations for PS agreements and pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31722: REGULATION (paragraphs 24-27)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31724: The illustration must be made so that the savings instalments or insurance premiums are constant throughout the payment period if the agreement concerns regular savings instalments. The calculation must also be made where the customer's payment plan on- ly includes a single savings instalment or single premium.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_31725: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31726: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31727: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31728: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 13 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31729: (25) In calculating the expenses and returns presented in the calculation, the customer's in- dividual investment plan, including eg investment allocation and frequency of securities trading, must be taken into account.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31730: (26) An illustration under these regulations and guidelines must indicate that it is an illustra- tion compliant with FIN-FSA regulations and guidelines. The calculation must state that it is not a promise of future returns or capital accumulation, nor a binding disclosure of the expenses to be charged but rather it has been complied to facilitate the assessment and comparison of the agreements available. The calculation must also state that the figures presented may only realise provided that the instalment and investment plans assumed in the calculation are followed, the return estimates realise and the expenses charged on the agreement and the investments do not change during the agreement period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31731: (27) An illustration as referred to in these regulations and guidelines must be provided to the saver as an integrated whole so that the saver can distinguish it from the rest of the ma- terial. The calculation may not be presented or submitted in a manner that may lead the saver to consider the information contained in it is less important than other information provided on the agreement.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31732: 4.3 Summary illustration for PS agreements and pension insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31733: REGULATION (paragraphs 28-31)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31734: (28) The saver must be provided with a summary illustration in accordance with the models included in paragraph 9.1 of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31735: (29) The summary must illustrate the situation of the agreement at the end of the saving pe- riod, before the savings withdrawal period. The summary must contain the following in- formation calculated on the basis of a justified realistic return expectation and the zero- return assumption.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31736: a. savings instalments or insurance premiums;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31737: b. return after expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31738: c. amount of savings assets or accrued savings;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31739: d. as regards PS agreements, an estimate of withdrawable assets (eg euro per month) and as regards pension insurance, a pension estimate (euro per month);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31740: e. expenses payable during the saving period;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31741: f. expenses charged during the saving period expressed as an annualised per- centage deduction from the return (annual expenses, per cent).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31742: g. all expenses payable during the saving period relative to the savings assets the saver would receive if no expenses were charged.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31743: The summary must indicate that it is compliant with FIN-FSA regulations and guide- lines. The summary must state that it is not a promise of future returns or capital accu- mulating nor a binding disclosure of the expenses charged, but is presented to assist in the assessment and comparison of agreements. The summary must also state that the figures presented can only be realised only if the instalment and investment plans as- sumed in the calculation are followed, the return estimates are realised and the ex-
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_31745: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31746: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31747: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 14 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31748: penses charged on the agreement and the investments do not change during the agreement period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31750: The summary must be provided to the saver as an integrated whole so that the saver can distinguish it from the rest of the material. The summary shall not be presented or
+it is less important than other information provided on the agreement.
+submitted in a manner that might suggest to the saver that the information contained in
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31752: Key information and illustrations for endowment insurance
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31753: REGULATION (paragraphs 32-40)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31755: Investors must be provided with the key information on endowment insurance in ac- cordance with the models included in paragraph 9.2 of these regulations and guidelines must be provided to the investors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31757: The key information must illustrate the situation of the agreement at the end of the sav- ing period before the savings withdrawal period. The key information must contain the following information on unit-linked insurance calculated on the bases of the zero-return assumption and on the specified return for insurance with guaranteed return. a. total insurance premiums payable; b. amount of accrued savings; c. expenses paid during the saving period in euro; d. expenses payable expressed as an annualised percentage deduction from the return (annual expenses, percent).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31759: Insurance with guaranteed return is such insurance as referred to in paragraph 33 for which all insurance premiums are allocated to a component with guaranteed return.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31761: The key information must indicate that it is in conformity with FIN-FSA rules and guide- lines. The key information must state that it is not a promise of future returns or capital accumulation nor a binding disclosure of the expenses to be charged, but is presented to assist in the assessment and comparison of agreements offered. The key information must also state that the figures presented will be realised only if the instalment and in- vestment plans assumed in the calculation are followed, the return estimates are realised and the expenses charged and the investments do not change during the agreement period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31763: The key information must be provided to the saver as an integrated whole so that the saver can distinguish it from the rest of the material. The key information may not be presented or submitted in a manner that might lead the saver to consider the infor- mation contained in it be less important than other provided information concerning the contract.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31765: There is no need to provide an illustration on endowment insurance. If the saver is pro- vided an illustration, he must also be provided the illustrations done in accordance with the provisions here in sections 4.2.2, 4.2.3 and 4.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31767: If the saver is provided an illustration on a unit-linked insurance or insurance including both a unit-linked and a guaranteed-return component, the saver must also be provided with the key information referred to above in paragraph 32 and on the basis of a justi- fied realistic return expectation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_31768: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31769: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31770: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31771: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 15 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31772: (39) The supervised entity must determine a justified realistic return expectation based on the allocation of investments offered to the saver. The realistic return expectation of a savings component with guaranteed return is the combined amount of the guaranteed return and the assumed annual customer bonuses. The mortality bonus for the insur- ance must be treated as an additional return.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31773: (40) The illustrations must be done without taking taxation into account. The illustrations may take into account such discounts granted to the customer as are binding on the supervised entity.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31774: 4.5 Key information and illustrations for capital redemption contracts
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31775: GUIDELINE (paragraph 41)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31776: (41) FIN-FSA recommends that the supervised entity provide the saver with the key infor- mation referred to in section 4.4 before conclusion of a capital redemption agreement. The key information should take account of the expenses referred to in section 4.6. If the saver is provided illustrations, one of these should be done in accordance with sec- tions 4.2.2, 4.2.3 and 4.6.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31777: 4.6 Expenses to be taken into account in the illustration, summary illustra- tion and key information
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31778: REGULATION (paragraphs 42-47)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31779: (42) The following expenses must be taken into account in the illustration, summary illustra- tion and key information:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31780: a. expenses charged on savings instalments or insurance premiums;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31781: b. expenses charged on savings assets or accrued savings;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31782: c. other regular expenses charged by the supervised entity on the contract;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31783: d. expenses charged in order to retain the death cover;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31784: e. expenses of UCITS investment funds, non-UCITS investment funds and other similar investments (eg investment baskets) and the difference, if any, between the sale and purchase prices of the fund units or baskets, if such is defined in the rules;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31785: f. purchase and sale commissions and custody fees of securities linked to the agreement;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31786: g. fees charged for subscription and redemption of units in UCITS investment funds, non-UCITS investment funds and other similar investments (eg invest- ment baskets);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31787: h. expenses of book-entry accounts linked to the agreement;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31788: i. asset management expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31789: j. other expenses comparable to those listed in paragraphs e-j relating to the in- vestment of the assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31790: (43) In connection with guaranteed-return saving policies only paragraph 42, subparagraphs a-d are taken into account as expenses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_31791: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_31792: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_31793: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 16 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_31795: Such transaction fees need not be taken into account as expenses charged by the su- pervised entity as are not related to the investment of the assets, for example fees charged for calculations expressly requested by the saver.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31797: In calculating expenses under paragraph 42, subparagraph e, the ongoing charges for investments must be taken into account in accordance with the annex in section 8.3 of these regulations and guidelines. In addition to the ongoing charges, any performance- related fees for investments must be included in the investment charges.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31799: Where the performance-related fee cannot be calculated reliably due to a short operat- ing history, or if the history does not give a sufficiently reliable indication of the invest- ment fees due to significant changes in the fee structure, the best justified estimate must be used as investment charges. The saver must be informed of the use of an es- timate and the underlying reasons.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31801: If the supervised entity does not have access to information on the ongoing charges of an investment and these cannot be obtained with reasonable effort, the best justified estimate must be used as investment charges. The saver must be informed use of an estimate and the underlying reasons.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_31802: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31803: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31804: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31805: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31806: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31807: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31809: 5 Disclosure obligation during contrac- tual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31810: 5.1 Information to be provided during contractual relationship
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31811: (1) According to section 8, subsection 2 of the PS Act, more detailed provisions on infor- mation that the service provider must give to the saver and other persons entitled to the savings assets during the contractual relationship can be issued in a Council of State Decree. FIN-FSA may issue more detailed provisions on the manner of presentation of the information referred to in section 8, subsection 2 of the Act.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31812: (2) According to section 9 a, subsection 2 of the Insurance Contracts Act, FIN-FSA may is- sue regulations on the manner of calculation and disclosure of the expenses and re- turns of endowment and pension insurance.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31813: REGULATION (paragraphs 3-6)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31814: (3) The supervised entity must give the saver and the person entitled to the savings assets a statement of the accumulated savings, expenses and returns, in accordance with sec- tions 5.2 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31815: (4) The supervised entity must give the saver a disclosure of the accumulated savings, ex- penses and returns on pension insurance contracts concluded after entry into force of these regulations and guidelines, in accordance with sections 5.3 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31816: (5) The supervised entity must give the saver a disclosure of the accumulated savings, ex- penses and returns on pension insurance contracts concluded before entry into force of these regulations and guidelines, in accordance with sections 5.4 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31817: (6) The supervised entity must give the saver a disclosure of the accumulated savings, ex- penses and returns on endowment insurance contracts concluded after entry into force of these regulations and guidelines, in accordance with sections 5.5 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31818: GUIDELINE (paragraphs 7-8)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31819: (7) FIN-FSA recommends that the supervised entity provide the saver with a disclosure of the accumulated savings, expenses and returns on endowment insurance contracts concluded before entry into force of these regulations and guidelines, in accordance with sections 5.5 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31820: (8) The supervised entity should ensure that its agents provide savers with the information required in these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_31821: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31822: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31823: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31824: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 18 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31825: 5.2 PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31827: In accordance with section 5, subsection 1 of the PS Decree, the service provider must, at least annually, give the saver a disclosure including at least the information described in the Decree.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31828: REGULATION (paragraphs 10-15)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31830: The information as referred to in section 5, subsection 1 of the PS Decree must be pro- vided to the saver broken down by item for the reporting period and the entire lapsed part of the agreement period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31832: For the reporting period, the information as referred to in section 5, subsection 1 of the PS Decree must be provided to the saver broken down as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31833: a. total amount of savings instalments added to the savings account;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31834: b. payments made from the savings account;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31835: c. accumulated payments in the savings account resulting from the liquidation of investments, interest, dividends and other profit distribution items;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31836: d. market value of the savings assets at the beginning and end of the reporting pe- riod;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31837: e. return on the savings assets, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31838: f. . annualised return on the savings assets taking savings instalments into account without deducting the expenses charged on them;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31839: g. all expenses related to the agreement, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31840: h. expenses charged in percentage terms relative to the gross savings assets ac- cumulated;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31841: i. disclosure of the grounds for expenses charged to the saver;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31842: j. changes, if any, related to the determination of returns and expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31843: k. grounds for determination of the market value of the savings assets.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31844: (12) For the entire lapsed part of the agreement period, the information as referred to in sec- tion 5, subsection 1 of the PS Decree must be provided to the saver broken down as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31845: a. total amount of savings instalments added to the savings account;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31846: b. cumulative return on the savings assets for the saving period, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31847: c. annualised return on the savings assets for the entire saving period, taking ac- count of savings instalments without deducting charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31848: d. all expenses related to the agreement for the entire saving period, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31849: e. ratio of expenses charged for the saving period relative to gross savings assets, as an annualised percentage.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31850: (13) The annual return referred to in section 5, subsection 1, paragraphs 5 and 6 of the PS Decree must be calculated as an effective annual return.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31851: (14) As regards the disclosure referred to in paragraph 1, subparagraph i, it is insufficient to make reference to a price list or price lists.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31852: (15) The information as referred to in paragraph 12, subparagraphs c and e need be provid- ed only during the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_31853: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31854: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31855: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31856: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 19 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31857: GUIDELINE (paragraphs 16-17)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31858: (16) FIN-FSA considers it sufficient that the supervised entity provides the information as re- ferred to in section 8 of the PS Act only for the period when the saver and supervised entity have had a contractual relationship. The supervised entity need not report sav- ings, expenses and returns accumulated during any contractual relationship between the saver and a previous service provider.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31859: (17) FIN-FSA considers that payments from the savings account as referred to in section 5, subsection 1 of the PS Decree are payments made in connection with the execution and management of investments1.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31860: 5.3 Pension insurance contracts concluded after entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31861: REGULATION (paragraphs 18-23)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31862: (18) As regards pension insurance contracts concluded after entry into force of these regula- tions and guidelines, the saver must be provided at least annually with a disclosure in- cluding at least the information specified in paragraphs 19 and 20. The information must be broken down by item for the reporting period and the entire lapsed part of the con- tract period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31863: (19) For the reporting period, the saver must be provided with the following information:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31864: a. total amount of insurance premiums paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31865: b. total amount of pensions paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31866: c. changes in the accrued savings broken down by investment, in euro, (fund switches, purchases and sales of other investments);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31867: d. returns other than those due to changes in the values of investments (eg guar- anteed interest, bonuses and dividends);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31868: e. accrued savings at the beginning and end of the reporting period;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31869: f. net return on accrued savings, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31870: g. annualised return on the accrued savings, as effective annualised return taking insurance premiums into account without deducting the charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31871: h. all expenses related to the agreement, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31872: i. expenses charged, in percentage terms relative to the gross accrued savings;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31873: j. disclosure of the grounds for expenses charged to the saver;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31874: k. changes, if any, related to the determination of returns and expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31875: l. grounds for determining the value of accrued savings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31876: (20) For the entire lapsed part of the agreement period, the following information must be provided:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31877: a. total amount of insurance premiums paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31878: b. net return on accrued savings for the saving period, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31879: 1 P. 6 of a memorandum of the Ministry of Finance dated 22.10.2009.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_31880: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31881: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31882: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31883: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31884: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31885: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 20 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31886: c. annualised return on the accrued savings for the entire lapsed part of the saving period, as effective annualised return taking insurance premiums into account without deducting the charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31887: d. all expenses related to the agreement for the entire lapsed part of the saving period, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31888: e. ratio of charged expenses for the saving period relative to accrued savings, as annualised percentage;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31889: (21) As regards the disclosure referred to in paragraph 19, subparagraph j, it is not sufficient to make reference to a price list or price lists.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31890: (22) The supervised entity must provide a disclosure as referred to in this section at least for the period when the saver and supervised entity have had a contractual relationship. The supervised entity need not report savings, expenses and returns accumulated dur- ing any contractual relationship between the saver and a previous service provider. In the context of a portfolio transfer between two supervised entities, the contractual rela- tionship is considered to have begun at the commencement of the contractual relation- ship between the saver and the assigning company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31891: (23) The information as referred to in paragraph 20, subparagraphs c and e need be provid- ed only during the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31892: 5.4 Pension insurance contracts concluded before entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31893: REGULATION (paragraphs 26-31)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31894: (26) As regards pension insurance contracts concluded before entry into force of these regu- lations and guidelines, the saver must be provided at least annually with a disclosure including at least the information stated in paragraphs 27 and 28. The information must be provided to the saver broken down by item for the reporting period and for the period subsequent to entry into force of these regulations and guidelines ..
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31895: (27) For the reporting period, the saver must be provided with the following information:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31896: a. total amount of insurance premiums paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31897: b. total amount of pensions paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31898: c. accrued savings at the beginning and end of the reporting period;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31899: d. net return on accrued savings, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31900: e. annualised return on the accrued savings as effective annualised return taking account of insurance premiums without deducting the charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31901: f. expenses related to the insurance contract excluding the expenses for invest- ments, in euro;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31902: g. expenses charged on the insurance contract excluding the expenses for in- vestments, in percentage terms relative to the gross accumulated accrued sav- ings;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31903: h. the capital-weighted average, , of ongoing charges for investment funds and baskets linked to the insurance policy at the end of the reporting period;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_31904: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31905: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31906: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 21 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31907: i. expenses for investments linked to the contract by investment (eg ongoing charges for each investment fund and performance related fees, if any, in per- centage terms); j. disclosure of grounds for expenses charged during the reporting period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31909: For the period after entry into force of these regulations and guidelines, the following in- formation must be provided: a. total amount of insurance premiums paid; b. net return of accrued savings, in euro; c. annualised return on accrued savings, as effective annualised return taking ac- count of insurance premiums without deducting charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31911: The supervised entity must provide a disclosure as referred to in paragraph 26, at least for the period during which the saver and the supervised entity have had a contractual relationship. The supervised entity needs not report savings, expenses and accumulat- ed returns for any contractual relationship the saver has had with a previous service provider. In the context of a portfolio transfer between two supervised entities, the con- tractual relationship is considered to have begun at the commencement of the contrac- tual relationship between the saver and the assigning company.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31913: If the supervised entity does not have information as referred to in paragraph 27, sub- paragraphs h and i available and it cannot be obtained with reasonable effort, the su- pervised entity must so inform the saver about the lack of information and give the rea- sons thereof in the disclosure referred to in paragraph 26.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31915: The supervised entity must keep a list of circumstances referred to in section 30.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31916: GUIDELINE (paragraph 32)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31918: FIN-FSA recommends that the supervised entity provide such information as referred to in paragraph 28 in the disclosure referred to in paragraph 26 for the entire contract pe- riod. If it is impossible for the supervised entity to provide the information for the entire agreement period, FIN-FSA recommends that the supervised entity provide the infor- mation for as long a period as possible.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31920: Endowment insurance contracts concluded after entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31921: REGULATION (paragraphs 33-38)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31923: As regards life insurance contracts concluded after entry into force of these regulations and guidelines, the saver must be provided at least annually with a disclosure including at least the information specified in paragraphs 34 and 35. The information must be provided to the saver broken down by item for the reporting period and for the period lapsed since entry into force of these regulations and guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31925: For the reporting period, the saver must be provided with the following information: a. total amount of insurance premiums paid;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31926: b. total amount of insurance compensation paid; c. accrued savings at the beginning and end of the reporting period;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_31927: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31928: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31929: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 22 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31930: d. net return on accrued savings, in euro; e. annualised return on the accrued savings, as effective annualised return taking account of insurance premiums without deducting charged expenses; f. expenses related to the insurance contract excluding the expenses for invest- ments, in euro; g. expenses charged on the insurance contract excluding investment-related ex- penses, in percentage terms relative to the gross accrued savings; h. the capital-weighted average of ongoing charges for investment funds and bas- kets linked to the insurance policy at the end of the reporting period; i. expenses for investments linked to the contract, by investment (eg ongoing charges for each investment fund and performance related fees, if any, in per- centage terms); j. disclosure of grounds for expenses charged for the reporting period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31932: For the period after entry into force of these regulations and guidelines, the following in- formation must be provided: a. total amount of insurance premiums paid; b. net return on accrued savings, in euro; c. annualised return on the accrued savings, as effective annualised return taking account of insurance premiums without deducting charged expenses;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31934: The supervised entity must provide a disclosure as referred to in paragraph 33 at least for the period when the saver and the supervised entity have had a contractual relation- ship. The supervised entity needs not report savings, expenses and returns accumulat- ed during any contractual relationship the saver has had with a previous service provid- er. In the context of a surrender of stock between two supervised entities, the contrac- tual relationship is considered to have begun at the commencement of the contractual relationship between the saver and the surrender of the stock.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31936: If the supervised entity does not have the information as referred to in paragraph 34, subparagraphs h and i available and it cannot be obtained with reasonable efforts, the supervised entity must inform the saver about the lack of the information and the reason thereof in the disclosure referred to in paragraph 33.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31938: The supervised entity must keep a list of circumstances referred to in section 37.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31940: Endowment insurance contracts concluded before entry into force of these regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31941: GUIDELINE (paragraph 39)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31943: FIN-FSA recommends that the supervised entity provide the saver with a disclosure on endowment insurance contracts concluded before entry into force of these regulations and guidelines, in accordance with sections 5.5 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_31944: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31945: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31946: 19 September 2012 10/2012 Disclosure of expenses and returns of long-term savings 1 April.2013 until further notice agreements and insurance policies 23 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31948: Capital redemption contracts
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31949: GUIDELINE (paragraph 40)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31951: FIN-FSA recommends that the supervised entity provide the saver with a disclosure on capital redemption contracts, in accordance with sections 5.5 and 5.8.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31953: Calculation of returns and expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31954: REGULATION (paragraphs 41-45)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31956: Annual return must be calculated as effective annual return. In calculating the effective annual return, all additions and reductions to the savings under the agreement must be taken into account as items comparable to expenses. In calculating the effective annual return, the principles stated in Ministry of Justice Decree on the actual annual interest on consumer credit (824/2010) must be observed. In calculating the effective annual re- turn, the additions and reductions to the savings under the agreement can be assumed to occur once a year, either at the beginning or end of the reporting period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31958: For any period for which the supervised entity is unable to obtain the information nec- essary for calculating the effective annual return, the following simplifications are ac- ceptable:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31959: - only insurance premiums are taken into account and/or - payments and possible expenses are allocated to the beginning of the insur- ance period.
+:unselected:
+:unselected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31960: begin at the moment for which the information is available. In this case, the savings are
+If the insurance premiums paid for a given period are not available, calculation may
+not taken into account for the period during which the insurance premiums are not available.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31962: In calculating expenses, one must include the expenses defined in section 4, paragraph 42 charged to the saver during the year as well as those defined in section 4, para- graphs 43-47. However, the expenses for investment funds, non-UCITS funds and simi- lar investments (eg investment baskets) may be presented as an estimate under the fol- lowing assumptions: - capital: average of monthly observations during the reporting period; - investment allocation: allocation at the end of the reporting period; - expense load: capital-weighted average based on the allocation at the end of the reporting period.
+:unselected: :unselected:
+:unselected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31964: Gross savings assets as referred to in paragraphs 11 and 12 of this section and gross accrued savings as referred to in paragraphs 19, 20 and 27 must be calculated by add- ing all expenses charged for the agreement to the savings assets or accrued savings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31966: In calculating the net return in euro, as referred to in sections 5.2, 5.3, 5.4 and 5.5, po- tential withdrawals of savings assets or surrenders are taken into account in regard to the savings assets and accrued savings.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_31967: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31968: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31969: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31970: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 24 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31971: 6 Transitional provisions and entry into force
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31972: (1) Regulations and guidelines related to PS agreements provided in these regulations and guidelines apply as from 1 April 2013.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31973: (2) Regulations and guidelines related to insurance contracts provided in these regulations and guidelines apply as from 1 April 2013.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31974: (3) Regulations and guidelines on insurance contracts provided in section 5 of these regu- lations and guidelines apply as from 1 July 2013.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31975: (4) By way of derogation from paragraph (3), insurance contracts concluded before 1 April 2013 are subject to the regulations and guidelines provided in section 5 of these regula- tions and guidelines as from 1 July 2014.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_31976: (5) By way of derogation from paragraphs 2 and 3, a supervised entity may, between 1 April and 31 December 2013, refrain from providing illustrations, summary illustrations or key information on the illustration as referred to in section 4, paragraphs 4-5 or re- ports as referred to in section 5, paragraphs 4 and 6 of these regulations and guide- lines, if it is impossible for the supervised entity to produce them for IT-related reasons. The supervised entity must inform the saver of the lack of the abovementioned illustra- tions, illustration summaries and key information on the illustration or reports and the reasons thereof. (Issued on 6 March 2013, valid from 1 April 2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_31977: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31978: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31979: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31980: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 25 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31981: 7 Repealed regulations and guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31982: (1) When these regulations and guidelines enter into force, the following FIN-FSA disclo- sures are affected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31983: - Statement of the Insurance Supervisory Authority on marketing of accrued sav- ings (J. No. 1/002/2002) is repealed as regards the indication of expenses and returns
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31984: - Statement of the Insurance Supervisory Authority on good sales practices in the marketing of life and pension insurance policies to personal customers (J. No.9/002/2007) is repealed as regards the reporting of expenses and returns.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_31985: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31986: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31987: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31988: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 26 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31989: 8 Revision history
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31990: These regulations and guidelines have been amended after their entry into force as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31991: (Issued on 6 March 2013, valid from 1 April 2013)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31993: - Paragraph 5 added to section 6
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31994: - Model replaced in section 9.1.3
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_31995: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_31996: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_31997: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_31998: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 27 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32000: 9.1 Summary illustration models
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32001: 9.1.1 PS agreements
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32002: This estimate of savings assets accumulation and charged expenses for the saving period is based on the assumption that the agreement fails to generate any returns. It shows the minimum returns that must be generated in order to cover the charged expenses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32003: expected return 0% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32004: savings instalments, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32005: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32006: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32007: -XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32008: savings assets, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32009: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32010: estimate of assets withdrawable, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32011: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32012: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32013: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32014: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32015: x.x%
+:selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32016: charged expenses for the saving period relative to the savings instalments
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32017: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32018: This estimate of savings assets accumulation and charged expenses for the saving period is based the investment plan's assumed returns.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32019: expected return xx % p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32020: savings instalments, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32021: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32022: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32023: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32024: savings assets, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32025: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32026: estimate of assets withdrawable, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32027: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32028: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32029: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32030: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32031: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32032: charged expenses for the saving period relative to the savings assets obtained by the customer if charged expenses are charged
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32033: x.x% :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32034: This summary illustration complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32035: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of agreements.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32036: The figures in the illustration will obtain only if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32037: . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32038: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32039: . the charged expenses for the agreement and investments do not change during the agreement period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_32040: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32041: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32042: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32043: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32044: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32045: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 28 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32046: 9.1.2 Unit-linked pension insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32047: This estimate of insurance assets accumulation and charged expenses for the saving period is based on the assumption that the contract fails to generate any returns. It shows the minimum returns that must be generated to cover the charged expenses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32048: expected return 0% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32049: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32050: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32051: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32052: -XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32053: accrued savings, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32054: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32055: estimated pension, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32056: xx :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32057: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32058: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32059: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32060: x.x% :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32061: charged expenses for the saving period relative to the insurance premiums
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32062: x.x% :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32063: This estimate of the insurance savings accumulation and charged expenses for the saving period is based on the insurance plan's expected returns.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32064: expected return xx % p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32065: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32066: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32067: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32068: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32069: accrued savings, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32070: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32071: estimated pension, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32072: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32073: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32074: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32075: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32076: :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32077: charged expenses for the saving period relative to the insurance savings obtained by the customer with zero charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32078: :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32079: This summary illustration complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32080: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32081: The figures in the illustration will obtain only if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32082: . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32083: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32084: . the charged expenses for the contract and investments do not change during the contractual period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_32085: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32086: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32087: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32088: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 29 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32089: 9.1.3 Pension insurance policies with guaranteed interest
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32090: This estimate of insurance savings accumulation and charged expenses for the saving period is based on the contract's guaranteed interest.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32091: guaranteed interest xx% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32092: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32093: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32094: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32095: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32096: accrued savings, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32097: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32098: estimated pension, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32099: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32100: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32101: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32102: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32103: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32104: charged expenses for the saving period relative to the insurance premiums
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32105: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32106: This estimate of insurance assets accumulation and charged expenses for the saving period is based on the contracts guaranteed interest and expected customer bonuses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32107: guaranteed interest and customer bonuses total % p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32108: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32109: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32110: return after charged expenses, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32111: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32112: accrued savings, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32113: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32114: estimated pension, EUR/month
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32115: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32116: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32117: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32118: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32119: x.x% :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32120: charged expenses for the saving period relative to the insurance savings receivable by the customer if charged expenses are zero
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32121: x.x% :selected: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32122: This summary illustration complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32123: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32124: The figures in the illustration will obtain only if . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32125: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32126: . the charged expenses for the contract and investments do not change during the contractual period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32127: 9.2 Key Information model
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32128: 9.2.1 Unit-linked life insurance policies and capital redemption contracts (if no illustration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32129: This estimate of insurance assets accumulation and charged expenses for the saving period is based on the assumption that the contract fails to generate any returns. It shows the minimum returns that must be generated to cover the charged expenses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32130: expected return 0% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32131: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32132: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32133: accrued savings at the end of the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32134: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32135: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32136: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32137: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32138: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32139: This key information complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32140: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32141: The figures in the illustration will obtain only if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32142: . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32143: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32144: . the charged expenses for the contract and investments do not change during the contractual period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_32145: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32146: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32147: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32148: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 30 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32149: 9.2.2 Life insurance policies and capital redemption contracts with guaranteed interest (if no illustration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32150: This estimate of insurance savings accumulation and charged expenses for the saving period is based on the guaranteed interest under the contract.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32151: guaranteed interest xx% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32152: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32153: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32154: accrued savings at the end of the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32155: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32156: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32157: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32158: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32159: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32160: This key information complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32161: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32162: The figures in the illustration will obtain only if . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32163: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32164: . the charged expenses for the contract and investments do not change during the contractual period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32165: 9.2.3 Unit-linked life insurance policies and capital redemption contracts (if illus- tration is provided to the saver)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32166: This estimate of insurance assets accumulation and charged expenses for the saving period is based on the assumption that the contract fails to generate any returns. It shows the minimum returns that must be generated to cover the charged expenses.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32167: expected return 0% p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32168: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32169: xx :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32170: accrued savings at the end of the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32171: xx :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32172: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32173: XX :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32174: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32175: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32176: This estimate of the insurance savings accumulation and charged expenses for the saving period are based on the investment plan's expected returns.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32177: expected return x % p.a.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32178: insurance premiums, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32179: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32180: accrued savings, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32181: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32182: charged expenses for the saving period, EUR
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32183: :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32184: annual charged expenses
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32185: x.x% :selected:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32186: This key information complies with FIN-FSA regulations and illustrates the situation at the end of the saving period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32187: The illustration is not a promise of future returns or capital accumulation, nor a binding statement of the charged expenses, but is presented to assist in the assessment and comparison of contracts.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32188: The figures in the illustration will obtain only if
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32189: . the instalment and investment plans assumed in the calculation are followed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32190: . the return assumptions are realised
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32191: . the charged expenses for the contract and investments do not change during the contractual period.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_32192: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32193: Issued on: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32194: 19 September 2012 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32195: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 31 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32196: 9.3 Methodology for calculation of the ongoing charges figure in the Key Investor Information Document2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32197: Date: 1 July 2010
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32198: Ref .: CESR/10-674
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32199: CESR's guidelines on the methodology for calculation of the ongoing charges figure in the Key Investor Information Document
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32200: Executive Summary
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32201: 1. CESR delivered its advice to the European Commission on the format and content of Key Information Document disclosures in October 2009 (Ref. CESR/09-949). That advice was supplemented by two detailed technical methodologies on the risk and re- ward indicator (Ref. CESR/09-1026) and the ongoing charges figure (Ref. CESR/09- 1028) that were delivered in December 2009. The Commission has indicated that it sees these methodologies as being more appropriately adopted via binding technical standards by the new European Securities and Markets Authority (ESMA) rather than as level 2 implementing measures. During the period leading up to the establishment of ESMA, CESR has agreed to adopt the methodologies as level 3 guidelines in order to provide clarity to the industry in implementing the new package of UCITS require- ments.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32202: 2. The methodology for calculation of the ongoing charges figure set out in these guide- lines applies to all UCITS and aims at ensuring a harmonised approach to the calcula- tion of this figure, thereby enabling investors to compare UCITS more easily. The methodology identifies clearly which items should be included in the ongoing charges figure. There is a presumption that all costs borne by the fund must be taken into ac- count unless they are explicitly excluded, while performance-related fees and transac- tion costs are among the costs excluded from the calculation (as are entry and exit charges borne by the investor). An ex-post calculation based on audited accounts should be used wherever possible. The methodology also takes account of the adaptation necessary in the case of new funds, or where there is a significant change to the costs of an existing fund.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32203: 2 CESR's guidelines on the methodology for calculation of the ongoing charges figure in the Key Investor Information Document
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_32204: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32205: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32206: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32207: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32208: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32209: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32211: Background and introduction
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32212: 1. In its technical advice to the European Commission on the Key Information Document for UCITS (CESR/09-949), published on 28 October 2009 (hereafter the Advice), CESR made a number of recommendations on an improved approach to charges dis- closure, including a clearer separation of the different types of charge and a harmo- nised approach to their presentation. As part of this, CESR proposed that each UCITS disclose in its Key Investor Information a single figure representing all annual charges and other payments taken from the assets of the UCITS on a periodic basis. This fig- ure, to be referred to as the 'ongoing charges figure', was to be calculated using a harmonised methodology. CESR submitted that methodology to the Commission as part of the package of level 2 advice delivered in December 2009 (Ref. CESR/09- 1028). CESR also published a feedback statement setting out how the respons- es to the consultation had been reflected in the advice (Ref. CESR/09-995).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32213: 2. Following submission of CESR's advice, the European Commission began work to prepare the level 2 implementing measures that would support the requirements of the revised UCITS Directive (2009/65/EC) at level 1. The advice that CESR submitted on charges disclosure - in particular Section 5 of Ref. CESR/09-949 - was incorporated into the level 2 implementing measures without any substantive changes to the con- tent. This is reflected in Articles 10 to 14, 24, 30, 33 and Annex II of the KII implement- ing Regulation1.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32214: 3. During the preparation of the implementing measures, the Commission explained that the technical methodologies, which it considered formed a central element of the ad- vice, would not be best suited to delivery by means of measures at level 2, but instead as binding technical standards under the new EU supervisory framework. This covers both the detailed methodology for calculating each UCITS' ongoing charg- es figure and the methodology for calculation of the synthetic risk and reward indicator (on the latter, see document Ref. CESR/10-673).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32215: 4. The Commission considers the methodologies an important element in the op- eration and uniform application of the requirements on Key Investor Information and takes the view that they should be harmonised and legally binding on all UCITS. The Commission has further acknowledged that, due to their highly technical features which are tailored to the current market, it is likely that the methodologies will require work by CESR in the future to reflect developments in the market in an appropriate and timely manner. This will allow sufficient flexibility in monitoring the application of the methodologies over time and appropriate adjustments to be made.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32216: 5. Taking these points into account, the Commission decided that it would be preferable to allow the future European Securities and Markets Authority (ESMA) to adopt the methodologies as technical standards in their entirety. In the interim, CESR has agreed to adopt the methodologies as level 3 guidelines. This provides clarity and certainty to the industry for the purposes of implementing the new UCITS requirements as a package. Stakeholders should note that the substance of the methodology itself has not changed and is exactly the same as the version published on 22 December 2009 (Ref. CESR/09-1028).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_32217: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32218: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32219: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32220: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32221: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32222: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32224: Methodology for calculation of the ongoing charges figure
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32225: The following calculation methodology should be used by UCITS management companies for the purposes of calculating the ongoing charges figure referred to in Article 10(2)(b) of the KII implementing Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32226: 1. The management company of the UCITS shall:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32227: (a) be responsible for the calculation of the ongoing charges figure and for its accurate statement in the KID;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32228: (b) establish procedures that are consistent with this methodology and are adequately documented;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32229: (c) keep records of each calculation for a period of 5 years after the last date on which that version of the KID was available to be issued.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32230: Definition of ongoing charges to be disclosed
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32231: 2. In the context of the KID, 'ongoing charges' are payments deducted from the assets of a UCITS where such deductions are required or permitted by national law and regulation, the fund rules or instrument of incorporation of the UCITS, or its prospectus. The figure to be disclosed in the KID shall be based on the total of all such payments made over a spe- cific period, excluding the exceptions identified in (5) below.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32232: 3. The ongoing charges figure shall include all types of cost borne by the UCITS, whether they represent expenses necessarily incurred in its operation, or the remuneration of any party connected with it or providing services to it. These costs may be expressed or calcu- lated in a variety of ways (e.g. a flat fee, a proportion of assets, a charge per transaction, etc).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32233: 4. The following list is indicative but not exhaustive of the types of ongoing charge that, if they are deducted from the assets of a UCITS, shall be taken into account in the amount to be disclosed:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32234: (a) all payments to the following persons, including any person to whom they have dele- gated any function:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32235: - the management company of the UCITS directors of the UCITS if an investment company -
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32236: - the depositary
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32237: - the custodian(s)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32238: - any investment adviser;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32239: (b) all payments to any person providing outsourced services to any of the above, includ- ing:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32240: - providers of valuation and fund accounting services
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32241: - shareholder service providers, such as the transfer agent and broker dealers that are record owners of the UCITS' shares and provide sub-accounting services to the beneficial owners of those shares;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32242: (c) registration fees, regulatory fees and similar charges; (d) audit fees;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_32243: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32244: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32245: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32246: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32247: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32248: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32250: (e) payments to legal and professional advisers;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32251: (f) any costs of distribution.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32252: 5. The following charges and payments shall not form part of the amount to be disclosed as ongoing charges in the KID:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32253: (a) entry / exit charges or commissions, or any other amount paid directly by the investor or deducted from a payment received from or due to the investor;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32254: (b) a performance-related fee payable to the management company or any investment adviser; (c) interest on borrowing;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32255: (d) payments to third parties to meet costs necessarily incurred in connection with the ac- quisition or disposal of any asset for the UCITS' portfolio, whether those costs are explicit (e.g. brokerage charges, taxes and linked charges) or implicit (e.g. costs of dealing in fixed- interest securities, market impact costs);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32256: (e) payments incurred for the holding of financial derivative instruments (e.g. margin calls);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32257: (f) the value of goods or services received by the management company or any connect- ed person in exchange for placing of dealing orders (soft commissions or any similar ar- rangement).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32258: 6. The exclusion in 5(d) for transaction-related costs shall not extend to:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32259: (a) transaction-based payments made to any of the persons listed in 4(a) or (b), in respect of which the recipient is not accountable to the UCITS; all such amounts shall be taken into account in the published figure;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32260: (b) the costs of acquiring or disposing of units in other UCITS or collective investment un- dertakings (CIUs), which shall be taken into account in accordance with 8(f) below.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32261: 7. Under a fee-sharing agreement, the management company or another party may be meeting, in whole or in part, operating costs that should normally be included in the ongo- ing charges figure.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32262: (a) Any remuneration of the management company (or another person) that derives from such fee-sharing agreements shall be taken into account and added to the total ongoing charges figure. Possible examples include the remuneration of a management company through a fee-sharing agreement with a broker on transaction costs, or with a custodian on stock-lending income.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32263: (b) There is generally no need to take into account fee-sharing agreements on expenses that are already accounted for in the ongoing charges disclosure (for example, the remu- neration of a management company through a fee-sharing agreement with a fund which is captured under paragraph 4(a) above). However, in the specific case of a UCITS investing in other CIUs, any fee-sharing agreement between the management company of the UCITS and the CIU or its operator or management company shall be taken into ac- count if it is not already captured under paragraph 8 below.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32264: 8. Where a UCITS invests a substantial proportion of its assets in other UCITS or CIUs, and so makes the disclosures required by the second paragraph of Article 50(3) of the UCITS Directive, its ongoing charges figure shall take account of the ongoing charges in- curred in the underlying CIUs. The following shall be included in the calculation:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_32265: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32266: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32267: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32268: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32269: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32270: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32272: (a) if the underlying CIU is a UCITS (or a non-harmonised CIU which elects to comply with the KID disclosure requirements) its most recently available ongoing charges figure shall be used; this may be the figure published by the CIU or its operator or management com- pany, or a figure calculated by a reliable third-party source if more up-to-date than the pub- lished figure;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32273: (b) if the underlying CIU is operated by the UCITS management company or any linked company (i.e. within the definition in the first paragraph of Article 50(3) of the Directive), but does not fall within (a), the UCITS management company shall make a best estimate of its ongoing charges according to this methodology;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32274: (c) if the underlying CIU does not fall within (a) or (b) and does not publish an ongoing charges figure, the UCITS management company shall either use any published infor- mation that represents a reasonable substitute for that figure (e.g. a total expense ratio published by a reliable source) or else shall make a best estimate of its maximum level based on scrutiny of the CIU's current prospectus and most recently published report and accounts;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32275: (d) where CIUs falling within (c) represent less than 15% of the UCITS' assets, it shall be sufficient to use the published annual management charge for each of those CIUs instead of estimating their ongoing charges;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32276: (e) in all cases, the ongoing charges figure may be reduced to the extent that there is any arrangement in place (and that is not already reflected in the fund's profit and loss account) for the investing UCITS to receive a rebate or retrocession of charges from the underlying CIU;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32277: (f) in cases where subscription and / or redemption fees are payable by the UCITS in rela- tion to the acquisition or disposal of units in an underlying CIU, the monetary value of those fees shall be aggregated for the period under review and taken into account in the calcula- tion of the ongoing charges figure.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32278: 9. In the case of a UCITS which is an umbrella, each constituent compartment or sub- fund
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32279: shall be treated separately for the purpose of this section, but any charges attributable to the UCITS as a whole shall be apportioned among all of the sub-funds on a basis that is fair to all investors.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32280: Methodology for calculation (except for new funds)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32281: 10. The ongoing charges figure shall be the ratio of the total discloseable costs to the av- erage net assets of the UCITS, calculated according to this section. The figure shall be ex- pressed as a percentage to two decimal places.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32282: 11. As provided for in section 3 of the KII implementing Regulation, the ongoing charges figure shall be calculated at least once a year, on a ex-post basis. Where it is considered unsuitable to use the ex-post figure because of a material change (e.g. an increase in management fees), an estimate may be used instead until reliable ex-post figures reflecting the impact of the material change become available.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:35]
+PARAGRAPH_32283: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32284: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32285: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32286: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32287: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32288: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies 36 (37)
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32289: 12. A separate calculation shall be performed for each share class, but if the units of two or more classes rank pari passu, a single calculation may be performed for them (see also Ar- ticle 26
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32290: of the KII implementing Regulation on the use of a representative class).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32291: 13. The ex-post figure shall be based on recent cost calculations which the management company has determined on reasonable grounds to be appropriate for that purpose. The figure may be based on the costs set out in the UCITS' statement of operations published in its latest annual or half-yearly report, if this is sufficiently recent; if it is not, a comparable calculation based on the costs charged during a more recent 12-month period shall be used instead. The costs are assessed on an 'all taxes included' basis, which means that the gross value of expenses shall be used.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32292: 14. The average net assets shall relate to the same period as the costs, and be calculated using figures based on the UCITS' net assets at each calculation of the NAV (e.g. daily NAVs where this is the normal frequency of calculation approved by the UCITS competent authority).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32293: 15. Where the ongoing charges attributable to an underlying CIU are to be taken into ac- count: (a) the ongoing charges figure (or equivalent) of each underlying CIU is pro-rated according to
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32294: the proportion of the UCITS' net asset value which that CIU represents at the relevant date (being the date at which the UCITS figures are taken);
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32295: (b) all the pro-rated figures are added to the ongoing charges figure of the investing UCITS itself, thus presenting a single total (a 'synthetic' ongoing charges figure).
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32296: 16. Information about the ongoing charges figures that were applicable during previous years / periods should be published at the location (e.g. the management company's web- site) which is specified in the KID as the general source of further information for investors who require it.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32297: Methodology for calculation for new funds
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32298: 17. The same methodology shall apply as for an ex-post calculation, subject to the follow- ing differences:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32299: (a) paragraphs 13 and 14 above do not apply and estimates shall be used instead in ac- cordance with Article 13 of the KII implementing Regulation;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32300: (b) if, in the management company's opinion, expressing a figure to two decimal places would be likely to suggest a spurious degree of accuracy to investors, it shall be sufficient to express that figure to one decimal place;
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32301: (c) it shall be assumed, unless there is a statement in the prospectus to the contrary, that no rebates or fee waivers will be received to the benefit of the fund
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36] [REQ_TYPE:MANDATORY]
+PARAGRAPH_32302: 18. The management company shall ensure that the accuracy of the estimated figure is kept under review. The management company shall determine when it is appropriate to begin using ex-post figures rather than an estimate; but in any case it shall, no later than 2
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:36]
+PARAGRAPH_32303: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32304: Issued on:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32305: 19 September 2012
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32306: Valid from:
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32307: 1 April.2013 until further notice
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32308: 10/2012 Disclosure of expenses and returns of long-term savings agreements and insurance policies
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32310: months after the date on which units were first offered for sale in any Member State, review the accuracy of the estimate by calculating a figure on an ex-post basis.
+
+[JURISDICTION:FINNISH] [SOURCE:FIVA_MOK] [CATEGORY:FINANCIAL_REGULATION] [PAGE:37]
+PARAGRAPH_32311: FINANSSIVALVONTA FINANSINSPEKTIONEN FINANCIAL SUPERVISORY AUTHORITY
+

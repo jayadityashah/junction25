@@ -1,0 +1,1136 @@
+METADATA: {"document_id": 64, "filename": "Guidelines on MLTF risk management and access to financial services.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "EBA", "jurisdiction": "FINNISH", "page_count": 34, "paragraph_count": 465}
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_79536: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_79537: EBA/GL/2023/04
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_79538: 31 March 2023
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79539: Final Report
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_79540: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_79541: on policies and controls for the effective management of money laundering and terrorist financing (ML/TF) risks when providing access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79542: FINAL REPORT - GUIDELINES ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79544: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79547: Executive summary
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79550: Background and rationale
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79553: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79555: 1.Compliance and reporting obligations
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79557: 2.Subject matter, scope and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79559: 3. Implementation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_79562: Accompanying documents
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79565: FINAL REPORT - GUIDELINES ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79566: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79567: 1. Executive summary
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79568: De-risking refers to decisions made by credit and financial institutions to refuse to enter into, or to terminate, business relationships with individual customers or categories of customers associated with higher money laundering and terrorist financing (ML/TF) risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79569: In January 2022, the EBA published an Opinion on the scale and impact of de-risking in the EU.1 This Opinion identified the main drivers of de-risking and the negative impact unwarranted de-risking can have on customers and access to financial services and the fight against financial crime. It also high- lighted the steps competent authorities and co-legislators should take to address unwarranted de- risking and mitigate its negative impact.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79570: The European Commission welcomed the EBA's Opinion and asked the EBA to issue guidelines on the steps institutions should take to facilitate access to financial services by those categories of customers that the EBA's analysis had highlighted as particularly vulnerable to unwarranted de-risking.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79571: In response to this request, the EBA issued Guidelines on policies and controls for the effective man- agement of ML/TF risks when providing access to financial services. The guidelines complement the EBA's separate Guidelines on ML/TF risk factors by specifying further the policies, procedures and con- trols credit and financial institutions should have in place to mitigate and effectively manage ML/TF risks in accordance with Article 8(3) of Directive (EU) 2015/849, including in situations where the pro- visions in Article 16 of Directive (EU) 2014/92 apply, which introduces the right of individuals to open and maintain a payment account with basic features.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79572: Through these guidelines, the EBA fosters a common understanding by institutions and AML/CFT su- pervisors of effective ML/TF risk management practices in situations where access by customers to financial products and services should be ensured.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79573: Next steps
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79574: The guidelines will be translated into the official EU languages and published on the EBA website. The deadline for competent authorities to report whether they comply with the guidelines will be two months after the publication of the translations. The guidelines will apply three months after publica- tion in all EU official languages.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_79575: 1 EBA/Op/2022/01
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79577: FINAL REPORT - GUIDELINES ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79578: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79579: 2. Background and rationale
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79580: 2.1 Background
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79581: In January 2022, the EBA published an Opinion on de-risking.2 It assessed the scale of de-risking in the EU and the impact of credit and financial institutions' decisions to refuse to enter into or to terminate business relationships with individual customers or categories of customers associated with higher money laundering and terrorist financing (ML/TF) risk. The EBA found that across the EU, de-risking affected a variety of customers or potential customers of institutions. The EBA made clear that de- risking of entire categories of customers, without due consideration of individual customers' risk pro- files, may be unwarranted and a sign of ineffective ML/TF risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79582: The publication of the EBA Opinion on de-risking led the European Commission to ask the EBA to issue new guidelines on the steps institutions should take to facilitate access to financial services by those categories of customers that the EBA's analysis had highlighted as particularly vulnerable to unwar- ranted de-risking.3 This coincided with the outbreak of the war in Ukraine, which further demonstrated the adverse impact of de-risking on vulnerable customers, such as asylum seekers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79583: To respond to the Commission's request, the EBA prepared draft guidelines that foster a common un- derstanding by institutions and AML/CFT supervisory authorities of effective ML/TF risk management practices in situations where access by customers to financial products and services is at risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79584: These guidelines complement the EBA's Guidelines on ML/TF risk factors (EBA/GL/2021/02) and spec- ify further the policies, procedures and controls credit and financial institutions should have in place to mitigate and effectively manage ML/TF risks in accordance with Article 8(3) of Directive (EU) 2015/849, including in situations where the provisions in Article 16 of Directive (EU) 2014/92 (the Pay- ment Accounts Directive - PAD) apply.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79585: The EBA consulted the public on a version of these guidelines between 6 December 2022 and 6 Febru- ary 2023. It received 25 responses, which came from various categories of stakeholders: representa- tives of credit and financial institutions, of the diamond industry and of the not-for-profit sector, as well as individuals.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79586: 2.2 Rationale
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79587: Access to financial products and services is a prerequisite for participation in modern economic and social life. For the most vulnerable, preventing such access can lead to severe economic outcomes,
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79588: 2 EBA/Op/2022/01
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_79589: 3 ARES(2022)1932799
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79591: FINAL REPORT - GUIDELINES ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_79592: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_79593: affect everyday life and in some cases increase the risks of being exploited. At the same time, it is important that financial crime risks are effectively managed. Through these guidelines, the EBA clari- fies the interplay between access to financial services and institutions' AML/CFT obligations. It also sets out the steps institutions should take when considering whether to refuse or terminate a business relationship with a customer based on ML/TF risk or AML/CFT compliance grounds.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79594: The guidelines also make clear that credit and financial institutions should document any decisions to refuse a business relationship or to apply risk-mitigating measures. These decisions must be propor- tionate and aligned with the principle of non-discrimination as enshrined in Article 15 of the PAD and Article 21 of the EU Charter of Fundamental Rights and must be made readily available to competent authorities.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_79595: The guidelines finally include aspects related to complaint mechanism institutions should have in place to ensure customers can complain if they feel they have been treated unfairly. The Joint Guidelines on complaints-handling for the securities and banking sectors4 also provide useful information on this as- pect.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_79596: 4 JC 2018 35.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79598: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_79600: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_79601: 3. Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79603: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_79605: EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_79606: EBA/GL/2023/04
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_79607: 31 March 2023
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_79608: Guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_79609: on policies and controls for the effective management of money laundering and terrorist financing (ML/TF) risks when providing access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79611: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79612: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79613: 1. Compliance and reporting obligations
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79614: Status of these guidelines
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79615: 1. This document contains guidelines issued pursuant to Article 16 of Regulation (EU) No 1093/20105. In accordance with Article 16(3) of Regulation (EU) No 1093/2010, competent authorities and credit and financial institutions must make every effort to comply with the guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79616: 2. Guidelines set the EBA view of appropriate supervisory practices within the European Sys- tem of Financial Supervision or of how Union law should be applied in a particular area. Competent authorities as defined in Article 4(2) of Regulation (EU) No 1093/2010 to whom guidelines apply should comply by incorporating them into their practices as appropriate (e.g. by amending their legal framework or their supervisory processes), including where guidelines are directed primarily at institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79617: Reporting requirements
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79618: 3. According to Article 16(3) of Regulation (EU) No 1093/2010, competent authorities must notify the EBA as to whether they comply or intend to comply with these guidelines, or otherwise with reasons for non-compliance, by [dd.mm.yyyy]. In the absence of any notifi- cation by this deadline, competent authorities will be considered by the EBA to be non- compliant. Notifications should be sent by submitting the form available on the EBA web- site with the reference 'EBA/GL/2023/04'. Notifications should be submitted by persons with appropriate authority to report compliance on behalf of their competent authorities. Any change in the status of compliance must also be reported to EBA.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79619: 4. Notifications will be published on the EBA website, in line with Article 16(3).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_79620: 5 Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Com- mission Decision 2009/78/EC, (OJ L 331, 15.12.2010, p.12).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79622: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79623: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79624: 2. Subject matter, scope and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79625: Subject matter and scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79626: 5. These guidelines complement the EBA's Guidelines on ML/TF risk factors (EBA/GL/2021/02) and specify further the policies, procedures and controls credit and financial institutions should have in place to mitigate and effectively manage ML/TF risks in accordance with Article 8(3) of Directive (EU) 2015/849, including measures with respect to the provision of a basic payment account in accordance with Article 16 of Directive (EU) 2014/92.6
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79627: Addressees
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79628: 6. These guidelines are addressed to credit and financial institutions as defined in Article 3(1) and 3(2) of Directive (EU) 2015/849, which are financial sector operators as defined in Ar- ticle 4(1a) of Regulation (EU) No 1093/2010. These guidelines are also addressed to com- petent authorities as defined in Article 4(2) point (iii) of Regulation (EU) No 1093/2010. Competent authorities should use these guidelines when assessing the adequacy of credit and financial institutions' risk assessments and anti-money laundering and counter-terror- ist financing (AML/CFT) policies and procedures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79629: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79630: 7. Unless otherwise specified, terms used and defined in Directive (EU) 2015/849 have the same meaning in the guidelines. In addition, for the purposes of these guidelines, the fol- lowing definitions apply:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79631: De-risking
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79632: a refusal to enter into or a decision to terminate business relationships with individual customers or categories of customers associated with higher ML/TF risk, or to refuse to carry out higher ML/TF risk transactions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79633: ML/TF risk
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79634: the likelihood and impact of ML/TF taking place.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79635: ML/TF risk factors
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79636: variables that, either on their own or in combination, may increase or de- crease ML/TF risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79637: Risk-based approach
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79638: means an approach whereby competent authorities and credit and finan- cial institutions identify, assess and understand the ML/TF risks to which institutions are exposed and take AML/CFT measures that are proportion- ate to those risks.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_79639: Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees re- lated to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214-246)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79641: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79642: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79643: Jurisdictions associated
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79644: with higher ML/TF risk
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79645: means countries that, based on an assessment of the risk factors set out in Title I of these guidelines, present a higher ML/TF risk. This excludes 'high-risk third countries' identified as having strategic deficiencies in their AML/CFT regime, which pose a significant threat to the Union's financial system (Article 9 of Directive (EU) 2015/849).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79646: 3. Implementation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79647: Date of application
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79648: 8. The guidelines will apply three months after publication in all EU official languages.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79649: Title 1: General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79650: RISK ASSESSMENT
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79651: 9. Credit and financial institutions should set up their policies, controls and procedures in a way that enables them to identify relevant risk factors and to assess ML/TF risks associated with individual business relationships in line with the EBA ML/TF risk factors guidelines.7 As part of this, credit and financial institutions should differentiate between the risks associated with a particular category of customers and the risks associated with individual customers that belong to this category.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79652: 10. Credit and financial institutions should ensure that the implementation of these policies, pro- cedures and controls does not result in the blanket refusal or termination of business relation- ships with entire categories of customers that they have assessed as presenting higher ML/TF risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79653: CDD MEASURES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79654: 11. Credit and financial institutions should put in place risk-sensitive policies and procedures to ensure that their approach to applying customer due diligence (CDD) measures does not result in them unduly denying customers legitimate access to financial services. To comply with their obligations under Article 14(4) of Directive (EU) 2015/849, credit and financial institutions should set out in their policies and procedures the criteria they will use to determine on which grounds they will decide that a business relationship may be rejected or terminated or that a transaction may be denied. As part of this, they should set out in their policies, procedures and controls all options for mitigating higher ML/TF risks that they will consider applying before
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_79655: 7 Guidelines on customer due diligence and the factors credit and financial institutions should consider when assessing the money laundering and terrorist financing risk associated with individual business relationships and occasional trans- actions ('The ML/TF Risk Factors Guidelines') under Articles 17 and 18(4) of Directive (EU) 2015/849, EBA/GL/2021/02.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79657: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79658: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79659: deciding to reject a customer on ML/TF risk grounds. These options should at least include ad- justing the level and intensity of monitoring and, where this is permitted under national law, the application of targeted restrictions to products or services. Institutions' policies and proce- dures should set out clearly in which situations the application of these mitigating measures may be appropriate.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79660: 12. Before taking a decision to reject or to terminate a business relationship, credit and financial institutions should satisfy themselves that they have considered and rejected all possible miti- gating measures that could reasonably be applied in the particular case, taking into account the ML/TF risk associated with the existing or prospective business relationship.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79661: REPORTING AND RECORD KEEPING
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79662: 13. For the purposes of reporting obligations under Article 33 of Directive (EU) 2015/849, credit and financial institutions should set out in their policies and procedures the criteria that will be used to determine the reasonable grounds on which they would suspect that ML/TF is taking place or is being attempted.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79663: 14. Credit and financial institutions should document any decision to refuse or terminate a business relationship and the reason for doing so, and should be prepared to make this documentation available to their competent authority upon request.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79664: PROVISIONS SPECIFIC TO THE INTERPLAY WITH DIRECTIVE 2014/92/EU
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79665: 15. In relation to the right of access to a payment account with basic features in accordance with Articles 16(2) and 17 of Directive 2014/92/EU, credit institutions obliged to offer such basic accounts should set out in their account opening policies and procedures how they can adjust their customer due diligence requirements to account for the fact that the limited functionali- ties of a basic payment account help mitigate the risk that the customer could abuse these products and services for financial crime purposes.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79666: 16. When ensuring non-discriminatory access to a basic payment account under Article 15 of Di- rective 2014/92/EU, credit institutions should make sure that where digital onboarding solu- tions are in place, these also comply with the aforementioned directive and with these guide- lines and that the digital solutions do not produce automated rejections, which would conflict with the directive and these guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79667: 17. Over time and as their understanding of the ML/TF risk associated with individual business re- lationships grows, credit institutions should update the individual risk assessment of the cus- tomer and adjust the extent of monitoring and the type of products and services for which that customer is eligible.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_79668: Title 2: Adjusting the intensity of monitoring measures
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79670: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79671: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79672: 18. Credit and financial institutions should set out in their policies and procedures how they adjust the level and intensity of monitoring in a way that is commensurate with the ML/TF risk asso- ciated with the customer and in line with the customer's risk profile, as set out in the EBA's risk factors guidelines and in particular guidelines 4.69 to 4.75. To effectively manage ML/TF risk associated with a customer, monitoring should at least include the following steps:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79673: a. . setting expectations of the customer's behaviour, such as the likely nature, amount, source and destination of transactions, so as to enable the institution to spot unusual transactions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79674: b. ensuring that the customer's account is reviewed regularly to understand whether changes to the customer's risk profile are justified.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79675: C. ensuring that any changes to the previously obtained CDD information that might af- fect the institution's assessment of the ML/TF risk associated with the individual busi- ness relationship are taken into account.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79676: 19. Credit and financial institutions' policies and procedures should contain guidance on handling applications from individuals that may have credible and legitimate reasons to be unable to provide traditional forms of identity documentation. These should set out at least:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79677: a. The steps to take where the customer is a person seeking asylum under the Geneva Convention of 28 July 1951 relating to the Status of Refugees, the Protocol thereto of 31 January 1967 and other relevant international treaties, and cannot provide the credit and financial institution with a traditional form of identification, such as a passports or ID card. Institutions' policies and procedures should specify which alternative, independent documentation it can rely upon to meet its CDD obliga- tions, where permitted by national law. These documents should be sufficiently reliable, i.e., up to date, issued by an official national or local authority and con- taining, as a minimum, the applicant's full name and date of birth.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79678: b. The steps to take where the customer is vulnerable and cannot provide traditional forms of identification or an address, for example because the customer is a refu- gee under the 1951 Geneva Convention or other relevant international treaties, or does not have a fixed address. Institutions' policies and procedures should specify which alternative, independent documentation it can rely upon. This documenta- tion may include, where permitted under national law, expired identity documents and documentation provided by an official authority, such as social services or a well-established not-for-profit organisation working on behalf of official authorities (Red Cross or similar), which also provides assistance to this customer.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_79679: c. Similar steps may also be applied to individuals who are not granted a residence permit but whose expulsion is impossible for legal or factual reasons. In such situ- ations, credit and financial institutions' policies and procedures should have regard
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79681: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79682: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79683: to certificates or documentation produced by an official authority or by an organi- sation providing support or legal assistance to those individuals on behalf of an official authority, where permitted by national law. Such authorities may include social work departments, home affairs ministries and migration services. These documents may be used as proof that the individual cannot be expulsed expelled in accordance with EU law.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79684: d. In cases where support for the persons referred to in points a., b. and c. is disbursed in the form of prepaid cards and where the conditions related to simplified due diligence are met as set out in guidelines 4.41, 9.15, 10.18 of the EBA's ML/TF Risk Factors Guidelines, policies and procedures should indicate that credit and financial institutions may postpone the application of initial customer due diligence measures to a later date.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79685: e. In cases where the persons referred to in points a., b. and c. apply for access to a payment account and are considered as presenting low ML/TF risks, policies and procedures should indicate which alternative forms of ID the institution may ac- cept and the options for postponing the application of full CDD until after the establishment of the business relationship.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79686: Title 3: Targeted and proportionate limitation of access to products or services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79687: 20. Credit and financial institutions' policies and procedures should, where permitted by national law, include options and criteria on adjusting the features of products or services offered to a given customer on an individual and risk-sensitive basis. These should include the following options:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79688: a. offer payment accounts with basic features, where a credit institution is obliged to offer such accounts under the national transposition of Di- rective 2014/92/EU; or
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_79689: b. impose targeted restrictions on financial products and services, such as the amount, the type or the number of transfers or the amount of trans- actions to and from third countries, in particular where these third coun- tries are associated with higher ML/TF risk, where permitted under na- tional law.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79690: 21. In relation to ML/TF risks associated with customers who are particularly vulnerable, such as those persons referred to in paragraph 19, credit and financial institutions should ensure that their controls and procedures specify that possible limitations of products and services set out in paragraph 20 (b) are applied taking into consideration the personal situation of the individu-
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79692: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79693: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79694: als, the ML/TF risks associated therewith and their financial basic needs. In those cases, proce- dures should include the assessment of the following options to potentially mitigate the asso- ciated risks:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79695: a. no provision of credit or overdraft facilities;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79696: b. monthly turnover limits (unless the rationale for larger or unlimited turnover can be ex- plained and justified);
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79697: c. limits on the amount, the type and/or number of transfers (further or larger transfers are possible on a case-by-case basis);
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79698: d. limits on the amount of transactions to and from third countries (while considering the cumulative effect of frequent smaller transactions within a set period of time), in particular where these third countries are associated with higher ML/TF risk;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79699: e. limits on the size of deposits;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79700: f. limits third party payments to those made by the authority that disburses support for such customers;
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79701: g. limits on payments received from third parties that the institution has not verified; and
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79702: h. prohibiting cash withdrawals from third countries.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79703: Title 4: Information on complaint mechanisms
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79704: 22. Credit and financial institutions' policies and procedure should specify that when they com- municate a decision to refuse or terminate a business relationship with a customer or potential customer, they must advise that person of their right to contact the relevant competent au- thority or designated alternative dispute resolution body and they must provide the relevant contact details. Institutions may also provide the customer with the weblink of the EBA's sug- gestions on the submission of complaints to national bodies.8
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_79705: 8 https://www.eba.europa.eu/consumer-corner/how-to-complain
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79707: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79708: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79709: 4. Accompanying documents
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79710: 4.1 Cost-benefit analysis / impact assessment
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79711: As per Article 16(2) of Regulation (EU) No 1093/2010 (EBA Regulation), any guidelines and recom- mendations developed by the EBA must be accompanied by an impact assessment (IA), which anal- yses 'the potential related costs and benefits'.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79712: This analysis presents the IA of the main policy options included in this consultation paper on the draft guidelines on policies and controls for the effective management of ML/TF risks when provid- ing access to financial services ('the draft guidelines on access to financial services' or 'the draft guidelines').
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79713: The IA is at a high level and qualitative in nature.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79714: A. Problem identification and background
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79715: In January 2022, the EBA published an Opinion on de-risking in which it assessed the scale and impact of de-risking in the EU9. De-risking in this context refers to decisions by credit and financial institutions to refuse to enter into or decisions to terminate business relationships with individual customers or categories of customers associated with higher money laundering and terrorist fi- nancing (ML/TF) risk. The EBA found that across the EU, de-risking affected a variety of customers or potential customers of institutions. The EBA made clear that de-risking of entire categories of customers, without due consideration of individual customers' risk profiles, may be unwarranted and a sign of ineffective ML/TF risk management.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79716: This Opinion led the European Commission to ask the EBA in a letter dated March 2022 to ask the EBA to:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79717: "work on Guidelines ( ... ) on the articulation of PAD rules ( ... ) and the AML framework. The Guidelines should consider the de-risking issue in its broadest financial inclusion dimension ( ... )" and to "broaden the scope of such guidelines beyond the interaction of AML and PAD requirements( ... )".
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79718: Following the Commission's request, the EBA assessed existing EBA guidance, in particular its ML/TF RFGLs, which were revised in March 2021. The EBA performed a gap analysis to establish how best to respond to the Commission's request without duplicating existing provisions. On this basis, the EBA recognised that several aspects would indeed benefit from further regulatory clarifications, as it pointed out in its Opinion on de-risking. Following this gap analysis and to respond to the Com-
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_79719: 9 Opinion of the European Banking Authority on 'de-risking', EBA/Op/2022/01.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79721: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79722: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79723: mission's request without duplicating existing provisions, the EBA, having consulted with the com- petent authorities that are responsible for the AML/CFT supervision of financial institutions, is pro- posing to issue a new set of guidelines ('the draft guidelines on access to financial services'), which build on the right to access a payment account and clarify different ways of mitigating ML/TF risks in an efficient manner.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79724: B. Policy objectives
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79725: The draft guidelines on access to financial services address financial access in a broad sense and provide general principles for the provision of such access for all types of customers. The overall objective of these draft guidelines is to address the main drivers of unwarranted de-risking of legit- imate customers, as identified in the above-mentioned EBA Opinion on de-risking.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79726: The draft guidelines on access to financial services give details on how ML/TF risks associated with certain types of customers can be mitigated effectively, such as by adjusting the intensity of moni- toring measures or by limiting the access to targeted products or services, in line with a risk-based approach. These details are divided into a general part that relates to all types of customers and a more specific part that deals with customers that are likely to be excluded from access to financial services (such as refugees or homeless individuals) and for whom access to financial services is a prerequisite for the fulfilment of their basic or essential needs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79727: C. Options considered, assessment of the options and preferred options
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79728: Section C presents the main policy options discussed and the decisions made by the EBA during the development of the draft guidelines on access to financial services. The advantages and disad- vantages, as well as potential costs and benefits from the qualitative perspective of the policy op- tions and the preferred options resulting from this analysis, are outlined.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79729: In the section on the adjustment of the intensity of monitoring measures, add a specific part about individuals that may have credible and legitimate reasons for being unable to provide traditional forms of identity documentation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_79730: The draft guidelines on access to financial services contain a section on the adjustment of the in- tensity of monitoring measures. A first and general point requests institutions to set out in their policies and procedures how they adjust the level and intensity of monitoring in a way that is com- mensurate with the ML/TF risk associated with the customer, and this point also broadly outlines the steps that these monitoring measures should include. In addition to this broad point covering all types of customers, the EBA evaluated the possibility of providing institutions with more specific and detailed guidance on the adjustment of these monitoring measures in situations where indi- viduals may have credible and legitimate reasons for being unable to provide traditional forms of identity documentation, which are usually required for accessing financial services. Two options have been considered by the EBA in this regard:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79732: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79733: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79734: Option 1a: Adding specific guidance about individuals that may have credible and legitimate rea- sons for being unable to provide traditional forms of identity documentation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79735: Option 1b: Not adding specific guidance about individuals that may have credible and legitimate reasons for being unable to provide traditional forms of identity documentation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79736: As highlighted by the EBA Opinion on de-risking and the EBA's Consumer Trends Reports10, an in- creasing number of individuals face difficulties opening a bank account. This is leading to the finan- cial exclusion and further marginalisation of such individuals in EU societies. The move towards a cashless society makes access to financial services all the more crucial for fulfilling basic needs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79737: As described by several organisations' reports, vulnerable individuals (such as homeless persons or refugees) are particularly affected by these difficulties 11. This is because very often these individu- als are unable to provide traditional forms of identity documentation. Even though the Payment Accounts Directive sets out in Article 16 a 'right of access to a payment account with basic features' for all individuals legally resident in the EU, this can be in conflict with the requirements of Article 13 of the AMLD, which requires financial institutions to 'identify the customer and verify the cus- tomer's identity on the basis of documents'. This due diligence requirement can be a strong disin- centive for institutions to provide access to financial services when a prospective customer is una- ble to provide such documentation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79738: As a result of those observations, providing additional guidance to institutions to support them in handling applications for the opening of bank accounts for those individuals with no traditional form of identity documentation proves necessary. Such guidance would equip them to effectively manage financial crime risks whilst not excluding vulnerable customers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79739: To evaluate and accept alternatives in situations where a customer has credible and legitimate rea- sons to be unable to provide traditional forms of identity documentation, institutions would need to implement more granular and tailored policies and procedures for their account opening pro- cess. The draft guidelines on access to financial services would give guidance on the type of docu- ments that could be used in this regard by institutions to facilitate the opening of a bank account for these specific categories of customers. Furthermore, having such policies in place would result in a reputational gain for the institutions, who would be able to demonstrate their commitment to facilitating the financial inclusion of vulnerable customers. As the guidance would apply to all cus- tomers that may have credible and legitimate reasons for being unable to provide traditional forms of identity documentation, this approach would strengthen social inclusion at EU level. In addition to these reputational benefits, institutions could benefit from the incomes - although not signifi- cant - resulting from opening more customer accounts.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79740: 10 Opinion of the European Banking Authority on 'de-risking', EBA/Op/2022/01; EBA Consumer Trends Report, EBA/REP/2021/04.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_79741: 11 Finance Watch, Financial exclusion: Making the invisible visible. A study on societal groups encountering barriers to accessing financial services in the EU, March 2020; FEANTSA, Homelessness services provide solutions to increase finan- cial inclusion of people experiencing homelessness in increasingly cashless societies, 2022.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79743: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79744: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79745: On these grounds, Option 1a has been chosen as the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79746: Documentation of refusal of a business relationship and the reason for doing so
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79747: As explained above, the draft guidelines on access to financial services first contain general princi- ples that apply to all types of customers and provide details on how ML/TF risks associated with certain types of customers can be mitigated effectively, such as by adjusting the intensity of moni- toring measures and by limiting the access to targeted products or services, in line with a risk-based approach. To enhance the impact of the new guidelines and to monitor their implementation in the institutions, the EBA considered two options:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79748: Option 2a: Adding a requirement to document the decision to refuse a business relationship and the reason for doing so.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79749: Option 2b: Not adding a requirement to document the decision to refuse a business relationship and the reason for doing so.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79750: Decisions made by institutions to reject or terminate a business relationship might have several negative consequences. In addition to the above-mentioned exclusion of vulnerable individuals, the negative consequences can also affect other types of de-risked customers, such as payment insti- tutions, fund managers, FinTech firms, NPOs and diamond-trade businesses. De-risking can unfairly exclude legitimate customers in certain cases. Moreover, once rejected by institutions, these cus- tomers may resort to alternative payment and banking channels where they will be monitored less and, as a consequence, AML/CFT prevention could be hampered. Enhancing the quality and granu- larity of the decision process to de-risk a particular customer is thus crucial, and all the principles disclosed in the current draft guidelines provide added value in this context.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79751: Nevertheless, in the EBA's view, not documenting the decision and reasons behind the refusal of business relationships would impede institutions' internal controls on correct implementation of EBA's guidance and strongly alter the objectives of the draft guidelines. It would also make effective supervision difficult. Moreover, the requirement to document the decisions will naturally stream- line the entire account opening process before a potential refusal. In addition, documenting the decisions would allow institutions to better defend their decisions in case of claims by rejected customers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79752: As this documenting requirement would be a strong pillar supporting the correct implementation of the draft guidelines on access to financial services, it would indirectly trigger reputational gains for the institutions described in the section on Option 1 and would also generate financial income from the opening of more customer accounts.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79753: As a result, the costs incurred by the requirement to document decisions made to refuse business relationship are more than offset by the above-mentioned benefits.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_79754: For these reasons, Option 2a has been chosen as the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79756: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79757: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79758: Add a specific section for other categories of customers particularly affected by de-risking
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79759: The afore-mentioned letter from the European Commission of March 2022 requested that the EBA take into consideration some specific situations where de-risking is particularly acute, for instance when it affects individuals that are politically exposed persons ('PEPs') or customers who appear to be excluded from access to financial services because they are subject to the US tax regime (e.g. 'accidental Americans').
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79760: Based on this suggestion from the European Commission and the EBA's own findings, the EBA con- sidered two options:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79761: Option 3a: Adding a specific new set of guidelines related to other categories of customers par- ticularly affected by de-risking.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79762: Option 3b: Not adding a specific new set of guidelines related to other categories of customers particularly affected by de-risking.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79763: As mentioned previously, the EBA performed a gap analysis to establish how best to respond to the Commission's request without duplicating existing provisions. As regards PEPs, the RFGLs already provide a number of clarifications that support credit and financial institutions in managing ML/TF risks associated with individual business relationships in an effective manner when customers are PEPs. A detailed guide for institutions on how to approach PEPs is thus not needed. On the other hand, the draft guidelines on access to financial services will apply to all type of customers, includ- ing PEPs. These draft guidelines will as such enhance the effectiveness of institutions' ML/TF risk management when providing PEPs with access to financial services and clarify the different ways of mitigating their ML/TF risks in an efficient manner. The principles in these draft guidelines' will enhance the implementation of the already existing provisions related to PEPs outlined in the RFGLS - for instance, with the requirement to document the decision to refuse or terminate a business relationship and the reason for doing so.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79764: 'Accidental Americans' who are EU citizens or who legally reside in the EU, are entitled to access to a payment account with basic features, and therefore the draft guidelines on access to financial services that the EBA is proposing are applicable in this context. Therefore, as for PEPs, the appli- cation of these draft guidelines will enhance the effectiveness of institutions' ML/TF risk manage- ment when providing access to financial services to 'accidental Americans'. These draft guidelines will also clarify the different ways to mitigate ML/TF risks in an efficient manner. The EBA in this regard stresses that reporting obligations under the Foreign Account Tax Compliance Act (FATCA) do not constitute grounds for denying such access under the PAD.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_79765: Therefore, the EBA considered that the specific situation of PEPs, 'accidental Americans' or any other customers (including legal entities) affected by unwarranted de-risking, would be addressed
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79767: FINAL REPORT ON EFFECTIVE ML/TF RISK MANAGEMENT AND ACCESS TO FINANCIAL SERVICES
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79768: EBA EUROPEAN BANKING AUTHORITY
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79769: via the requirements set out in the draft guidelines on access to financial services. Finally, not add- ing a specific new set of guidelines for each of these customer categories will mean no additional costs for the institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79770: For all these reason, Option 3b has been chosen as the preferred option.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79771: D. Conclusion
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79772: The development of the draft guidelines on policies and controls for the effective ML/TF risk man- agement when providing access to financial services, which clarify the different ways to mitigate ML/TF risks in an efficient manner, was deemed necessary to mitigate the negative impact of un- warranted de-risking and to decrease as a result the exclusion of legitimate and in some cases vul- nerable customers. These new guidelines will improve the due diligence process required at the onboarding stage and in the course of the business relationship, and ultimately will help to improve the social impact of credit and financial institutions. The costs associated with more granular, tai- lored customer due diligence policies and procedures will be exceeded by the afore-mentioned benefits. Hence, these new guidelines should achieve their objective of providing better and fairer access to financial services with acceptable costs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79773: 4.2 Feedback on the public consultation
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79774: The EBA consulted the public on the draft proposal contained in this paper. The consultation pe- riod lasted for two months and ended on 6 February 2023. 25 responses were received, of which 20 were published on the EBA website. Respondents came from various backgrounds: credit and financial institutions, diamond trade associations, representatives of NPOs and NPO umbrella or- ganisations, and individuals.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79775: Several industry bodies made similar comments, or the same body repeated its comments in re- sponse to different questions. In such cases, the comments and the EBA analysis are included in the feedback table where EBA considers them most appropriate.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79776: Changes to the draft guidelines have been incorporated as a result of the responses received dur- ing the public consultation. The amendments mainly cover:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79777: · clarification related to the reporting obligations of credit and financial institutions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79778: · clarification on the types of products that can be restricted/limited
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79779: · further alignment with the EBA's Guidelines on ML/TF risk factors
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_79780: The following table presents a summary of the key points and other comments arising from the consultation, the analysis and discussion triggered by these comments, and the actions taken to address them if deemed necessary.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79782: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79783: Summary of responses to the consultation and the EBA's analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79784: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79785: Section: Subject matter, scope and definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79787: Summary of responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79788: EBA analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79789: Amendments to the proposal
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79790: Addresses/
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79791: A respondent argued that these guidelines were only relevant for credit institutions. A respondent asked if the guidelines would also apply to investment services. Respondents asked whether account information services (AIS), payment initiation services (PIS) and payment institutions were in scope.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79792: As specified in the 'Addressees' section, the guidelines are addressed to credit and financial institutions as defined in Article 3(1) and 3(2) of Directive (EU) 2015/849, which are financial sector operators as defined in Article 4 (1a) of Reg- ulation (EU) No 1093/2010. These are the institutions that are in the EBA's remit in relation to AML/CFT. The guidelines specify the instances in which only credit institutions cov- ered by the PAD requirement are concerned.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79795: A respondent recommended that the EBA extend the scope of the guidelines on effective manage- ment of ML/TF risks when providing access to fi- nancial services to also include the offering of bank accounts to payment institutions (PIS).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79796: The report annexed to the Opinion on de-risking stressed that payment institutions can make decisions to de-risk cus- tomers, but they may also be subject to de-risking by credit institutions. The guidelines cover all types of customers, whether they are individuals, individuals covered by the PAD, or legal entities. However, the EBA considered that de- risking of PIs required a distinct approach from that re- quired for other customers to be effective, and therefore it has decided to tackle this issue in a more detailed manner as part of the current revision of PSD2. Please refer to the EBA's response to the Commission's Call for advice pub- lished in June 2022 for further details.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79798: A respondent implied that these guidelines were not applicable to NPO customers but only to indi- viduals and asked whether the EBA could recom- mend that a basic account be made available to legal entities too.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:21]
+PARAGRAPH_79799: The guidelines cover all types of customers, whether they are individuals, individuals covered by the PAD, or legal en- tities. The guidelines specify the instances in which only the PAD requirement would apply.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79802: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79803: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79804: Definitions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79805: A respondent recommended amending the defi- nition of 'ML/TF risk' and deleting the 'impact' cri- terion from the definition.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79806: The definition of ML/TF risk is the EBA's and is used across all of the EBA's products.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79808: Several respondents recommended amending the definition of de-risking and aligning it with the FATF definition.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79809: The EBA acknowledges that its definition of de-risking dif- fers from the FATF's definition. This is because the EBA makes a distinction, as explained in its Opinion on de-risk- ing, between a decision to reject a customer as a result of the application of Article 14(4) of the AMLD and a decision to reject a customer without due consideration of the indi- vidual customer's risk profile (i.e. unwarranted de-risking).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79811: A respondent recommended that the EBA include the risk of 'proliferation financing' and align with the FATF in that regard.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79812: The guidelines are based on the EU AMLD, which does not cover proliferation financing.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79814: A respondent asked whether refugees are in- cluded in the asylum seeker category and sug- gested referring to 'forcibly displaced persons' to ensure further clarity.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79815: The EBA agrees that the guideline should distinguish be- tween asylum seekers and refugees, since both these cate- gories of customers are vulnerable and may face different difficulties to access financial services, because their legal status is different. Therefore, paragraph 19 has been amended to reflect this, as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79816: Amendment in paragraph 19
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79817: 19.a. The steps to take where the customer is a person seek- ing asylum under the Geneva Convention of 28 July 1951 re- lating to the Status of Refugees, the Protocol thereto of 31 January 1967 and other relevant international treaties and cannot provide the credit and financial institution with tra- ditional forms of identification, such as passports or ID cards.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:22]
+PARAGRAPH_79818: 19.b. The steps to take where the customer is vulnerable and cannot provide traditional forms of identification or an address, for example because the customer is a refugee un- der the 1951 Geneva Convention or other relevant interna- tional treaties, or does not have a fixed address
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79820: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79821: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79822: Section: General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79824: Summary of responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79825: EBA analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79826: Amendments to the proposal
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79827: General comments
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79828: A respondent recommended that it should be made clearer that financial institutions' staff should receive adequate training on applying these guidelines. Another recommended provid- ing more details on the engagement of NCAs to promote more effective financial inclusion measures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79829: These guidelines must be approached in conjunction with the EBA's Guidelines on ML/TF risk factors, which already cover training of staff in guideline 6.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79831: Several respondents were concerned that these guidelines only cover decisions to reject custom- ers on ML/TF grounds, and not those connected to ESG-related concerns. They argued that credit and financial institutions often rely on ESG consid- erations to justify a blanket refusal or termination of customers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79832: For ESG-related concerns, the legal basis of these guidelines is the applicable EU AML/CFT legal framework. These guide- lines consider AML/CFT and thus ESG-related matters to the extent that they are also relevant from an AML perspective.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79834: Several respondents were of the view that the guidelines affect their freedom to conduct busi- ness, as enshrined in Art 16 of the EU Charter.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79835: The guidelines do not restrict the freedom to conduct busi- ness as enshrined in Art 16 of the EU Charter. They however make clear that AML/CFT can never be an excuse to deny legitimate customers access to financial services.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79837: A respondent recommended that the guidelines should require the institutions to make their poli- cies and procedures public.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79838: There is currently no provision at EU level that would re- quire a financial institution to make their policies and pro- cedures publicly available.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79840: Paragraph 9
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79841: A respondent suggested adding the following sen- tence at the end of the paragraph: 'Such a differ- entiation should facilitate individual evaluations when people belonging to pre-established high- risk customer categories access financial services,
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:23]
+PARAGRAPH_79842: This aspect is covered as part of the following paragraph, which makes clear that policies, procedures and controls should not result in the blanket refusal or termination of
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79845: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79846: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79847: preventing individuals from being automatically excluded without proper customer due diligence.'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79848: business relationships with entire categories of customers that they have assessed as presenting higher ML/TF risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79849: Paragraph 10
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79850: Several respondents said that not every financial service or product is a prerequisite for participa- tion in society. They were of the view that only payment accounts as envisaged by the PAD are a prerequisite for participation. They also recom- mended defining what a customer is in that con- text, using the definition of 'consumer' as in the PAD. Some were also of the view that the banks' right to decide the level and intensity of the CCD requirements (also in terms of information re- quired) based on the risk of the client should be re-affirmed.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79851: The paragraph is clear that CDD measures should not result in unduly denying customers legitimate access to financial services. Therefore, this requirement goes beyond the pay- ment account with basic features envisaged by the PAD and that only applies to individuals who are legally residing in the EU. The paragraph is equally clear that institutions should put in place risk-sensitive policies and procedures.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79853: A respondent asked the EBA to clarify whether the term 'entire categories of customers' included customers suspected or convicted of involvement with organised crime.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79854: The EBA's Guidelines on ML/TF risk factors provide guid- ance on the risk factors to consider when identifying the risk associated with a customer's reputation. This includes alle- gations of criminality or terrorism, or the fact that the cus- tomer is publicly known to be under investigation for ter- rorist activity or has been convicted for terrorist activity. The AMLD furthermore specifies that suspicious transac- tions and other information relevant to money laundering, associated predicate offences and terrorist financing should be reported to the Financial Intelligence Unit (in line with Article 33 of the Directive).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79856: Paragraph 11
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24]
+PARAGRAPH_79857: One respondent suggested adding to this para- graph: 'Options for mitigating higher ML/TF risks should consider barriers that people in vulnerable situations may face in producing requested docu- mentation, but which do not lead necessarily to a high level of risk (such as the example of people facing homelessness, destitute mobile EU citizens or asylum seekers who may not have an address).'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:24] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79858: This aspect is already covered in paragraph 21, which makes clear that credit and financial institutions should ensure that their controls and procedures should take into consid- eration the personal situation of the individuals who are vulnerable and their basic financial needs.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79861: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_79862: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_79863: Paragraph 12
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79864: A respondent recommended the guidelines spec- ify that credit and financial institutions must keep a record of the mitigating measures that have been considered in concrete cases, together with the reasons why these measures were considered to be insufficient. It would also be very much wel- comed if in particular cases credit and financial in- stitutions were required to produce proof of the fact that these measures have effectively been considered.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_79865: This aspect is covered by paragraph 14, which requires fi- nancial institutions to document any decision to refuse or terminate a business relationship and the reason for doing SO.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_79867: Paragraph 13
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79868: Several respondents recommended that it should be made clear that a customer may be rejected if it is not possible to assess how risk can be miti- gated or in case of criminal conduct or suspected criminal conduct. Similarly, a respondent recommended that the guidelines could consider differentiating between situations in which a financial institution has re- ported a customer for suspected ML/TF activity.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79869: To clarify further paragraph 13 and to reflect the respond- ents' concerns, paragraphs 11 and 13 are amended as fol- lows: 11. Credit and financial institutions should put in place risk-sensitive policies and procedures to ensure that their approach to applying customer due diligence (CDD) measures does not result in unduly denying customers le- gitimate access to financial services. To comply with their obligations under Article 14(4) of Directive (EU) 2015/849, credit and financial institutions should set out in their poli- cies and procedures the criteria they will use to determine on which grounds they will decide that a business relation- ship is rejected or terminated, or a transaction denied. As part of this, credit and financial institutions should set out in their policies, procedures and controls all options for mit- igating higher ML/TF risk that they will consider applying before deciding to reject a customer on ML/TF risk grounds. These options should at least include adjusting the level and intensity of monitoring and, where this is permitted under national law, the application of targeted restrictions to products or services. Institutions' policies and procedures should set out clearly in which situations the application of these mitigating measures may be appropriate.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:25]
+PARAGRAPH_79870: Amendment of paragraph 11 and 13
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79872: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79873: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79874: 13. For the purposes of reporting obligations under Article 33 of Directive (EU) 2015/849, credit and financial in- stitutions should set out in their policies and procedures the criteria that will be used to determine the reasonable grounds on which they would suspect that ML/TF is taking place or is being attempted.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79875: Several respondents asked, in relation to FATCA, if the EBA considered that a lack of Tax Identifica- tion Number (TIN) or a client's refusal to provide a TIN should be considered as an indicator for tax evasion.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79876: Applicable rules under FATCA are not within the scope of these guidelines, as FATCA is a US matter.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79878: Paragraph 14
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79879: One respondent suggested modifying the para- graph as follows: 'Credit and financial institutions should document [in writing] any decision to re- fuse or terminate a business relationship and the reason for doing so, [by the deadline set out in the PAD Directive: 'without undue delay and at the latest ten business days after receiving a com- plete application.]'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79880: The requirement in paragraph 14 does not cover infor- mation to be provided to the customer who has been re- jected, but rather information for the competent authori- ties to be able to check whether financial institutions have taken the appropriate steps before making a decision to re- ject the customer. To make this point clearer, the paragraph is amended as follows: 14. Credit and financial institutions should document any decision to refuse or terminate a business relationship and the reason for doing so, and Furthermore, they they should be prepared to make this documentation available to their competent authority upon request.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79881: Amendment of paragraph 14
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79882: Several respondents were also of the view that clarification was needed that only refusals and terminations of client relationships for AML/CFT reasons should be documented. If a client rela- tionship is refused or terminated for other rea- sons (e.g. ESG framework, client non-responsive- ness), documenting the decision would be dispro- portionate and not in line with the General Data Protection Regulation (GDPR). Another respond- ent was of the view that financial institutions
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:26]
+PARAGRAPH_79883: ESG-related matters and financial institutions' customer ac- ceptance policies are outside the scope of these guidelines.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79886: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79887: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79888: should be given the option to reject companies or certain industries without further explanations. According to the respondent, if banks were re- quired to document decisions to reject certain le- gal entities, this would put them in the difficult position of having to explain why they reject cor- porate customers in, for instance, the red-light in- dustry (whenever legal in the respective country), where there is no concrete evidence of criminal behaviour, instead of managing the ML/TF risks related to them.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79889: Paragraph 15
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79890: Several respondents were of the view that this paragraph gives the impression that that CDD re- quirements for basic payment accounts should be less rigorous than regular CDD requirements. Another respondent, for clarity purposes, sug- gested reformulating this paragraph as follows: 'The limited functionalities of a basic payment ac- count help mitigate the risk that the customer could abuse these products and services for finan- cial crime purposes. In relation to the right of ac- cess to a payment account with basic features in accordance with Articles 16(2) and 17 of Directive 2014/92/EU, credit institutions obliged to offer such basic accounts should set out in their ac- count opening policies and procedures how they can adjust their customer due diligence require- ments to account for this fact.'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79891: The paragraph makes clear that basic accounts' limited functionalities mitigate the risk that the customer could abuse these accounts for financial crime purposes. The par- agraph furthermore specifies that CDD measures should therefore be adjusted in accordance with the risks identi- fied.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79893: Paragraph 16
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79894: Several respondents said that non-face-to-face in- teractions may represent additional risks and that financial institutions may want to apply a risk- based approach to take measures commensurate with the risks associated with their customers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:27]
+PARAGRAPH_79895: Risks associated with non-face-to-face interactions are ad- dressed in the EBA's Guidelines on remote onboarding (EBA/GL/2022/15). The issue addressed in paragraph 16 is about digital onboarding solutions that may produce auto- mated rejections of customers on the basis, for instance, of the customer's nationality. This would be contrary to the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79898: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79899: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79900: right of non-discriminatory access to a basic payment ac- count under Article 15 of Directive 2014/92/EU.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79901: Section: Adjusting level of monitoring
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79903: Summary of responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79904: EBA analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79905: Amendments to the proposal
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79906: Paragraph 18
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79907: Several respondents commented that this para- graph would benefit from conveying more clearly that there is an expectation of lower monitoring in low-risk cases. A suggestion was to add, at the end of paragraph 18, the following sentence: 'The measures re- ferred to in points a) to c) should be used in a way and with a frequency that is proportionate so as not to constitute an unduly onerous obligation on customers constituting a low risk. Credit and fi- nancial institutions should ensure that ongoing monitoring is less intensive for customers identi- fied as lower risk where they continue to carry out their activities within the profile established under point a).'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79908: The paragraph starts by reminding credit and financial insti- tutions that they should set out in their policies and proce- dures how to adjust the level and intensity of monitoring in a way that is commensurate with the ML/TF risk associated with the customer, as set out in the EBA's Guidelines on risk factors. To ensure further clarity, the paragraph is amended as follows: 18. Credit and financial institutions should set out in their policies and procedures how they adjust the level and in- tensity of monitoring in a way that is commensurate with the ML/TF risk associated with the customer and in line with the customer's risk profile, as set out in the EBA's Guidelines on risk factors and in particular guidelines 4.69 to 4.75
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79909: Amendment of paragraph 18
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79910: Another respondent commented that the term 'destination of transactions' was unclear as this could be interpreted as the purpose of the rela- tionship or as the geographical destination of the transaction.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79911: The term refers to enhanced due diligence (EDD) measures set out in Article 18(1), which requires credit and financial institutions to apply EDD measures in cases of links with high-risk third countries or high-risk jurisdictions. The term is the one used in the EBA's Guidelines on ML/TF risk fac- tors, which contain further details on this point.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79913: One respondent noted that the EBA should recog- nise that in industry practice, the expectations of the customer's behaviour are often based on in-
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:28]
+PARAGRAPH_79914: The guidelines specify that institutions should set expecta- tions of the customer's behaviour, so as to enable the insti- tution to spot unusual transactions. This is in line with re- lated provisions in the EBA's Guidelines on ML/TF risk fac- tors.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79917: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79918: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79919: formation provided by the customer and ex- pected transactional activity across groups of cus- tomers with common characteristics.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79920: Several respondents noted that the requirement to regularly review the customer's account does not reflect current industry practice.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79921: The EBA's Guidelines on ML/TF risk factors are clear that credit and financial institutions should put in place systems and controls to keep their assessments of the ML/TF risk as- sociated with their business and with their individual busi- ness relationships under review to ensure that their assess- ment of ML/TF risk remains up to date and relevant (see guideline 1.6.). This concerns all customers. Guideline 1.9. is equally clear that the systems and controls that institu- tions should put in place to identify emerging risks should include processes to ensure that internal information, such as information obtained as part of a firm's ongoing moni- toring of business relationships, is reviewed regularly to identify trends and emerging issues in relation to both indi- vidual business relationships and the firm's business. Guide- line 1.10 specifies that firms should determine the fre- quency of wholesale reviews of their business-wide and in- dividual risk assessment methodology on a risk-sensitive basis. These provisions of the EBA's Guidelines on ML/TF risk factors are therefore consistent with the content of par- agraph 18.b.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79923: A respondent asked whether, for refugees and vulnerable customers who are unable to provide traditional documents, a rental agreement or a utility bill would be sufficient to prove residence. Several respondents suggested providing an ex- haustive list of the alternatives that could be used for identification purposes.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79924: Paragraph 19 accounts for the fact that national laws differ across Member States and as a result specifies 'where per- mitted by national law' where relevant. For the same rea- son, the EBA cannot provide an exhaustive list of docu- ments that would be acceptable, since national laws may differ on this aspect. Therefore the possible alternatives presented in this paragraph are for illustrative purposes.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:29]
+PARAGRAPH_79926: Respondents also asked for clarification on what is a sufficiently reliable document for identifica- tion and verification.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79928: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79929: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79930: Paragraph 19
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79931: A respondent suggested amending paragraph 19b as follows: 'This documentation may include ex- pired identity documents and, where permitted under national law, documentation provided by an official authority, such as social services or a well-established not-for-profit organisation work- ing on behalf of official authorities (Red Cross or established service providers in the homelessness sector) which also provides assistance to this cus- tomer.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79932: The EBA notes that the word 'or similar' in the paragraph accounts for the fact that other organisations may be con- sidered. The EBA is also of the view that the term 'working on behalf of official authorities' accounts for the fact that documents provided in this context could be considered as reliable enough.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79934: Another respondent was of the view that the term 'working on behalf of official authorities' was unduly restrictive and misaligned with local law in several Member States. Therefore the re- spondent suggested amending this paragraph as follows: ' ... This documentation may include ex- pired identity documents and, where permitted under national law, documentation provided by an official authority, such as social services or a well-established not-for-profit organisation work- ing on behalf of official authorities (e.g. Red Cross or similar) which also provides assistance to this customer.'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79935: A respondent stressed that many institutions have implemented automated transaction moni- toring systems to help them carry out ongoing monitoring of customer accounts. Underlying rules may be calibrated in a way that may impact disadvantaged customer segments and conse- quently limit their financial inclusion. It is im- portant, therefore, that a system's rules and the underlying data are regularly reviewed to ensure
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:30]
+PARAGRAPH_79936: Paragraph 10 of the guidelines already specifies that credit and financial institutions' policies, procedures and controls should not result in the blanket refusal or termination of business relationships with entire categories of customers that they have assessed as presenting a higher ML/TF risk.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79939: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79940: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79941: that they are free from bias and do not dispropor- tionately impact any groups of disadvantaged cus- tomers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79942: Another respondent recommended that in para- graph 19.d., further clarity should provided on how long the initial customer due diligence can reasonably be postponed.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79943: With respect to the length of the postponement of the ini- tial CDD, the appropriate date to perform full CDD after the establishment of the relationship would be decided on a case-by-case basis and on a risk-sensitive basis, and there- fore the EBA cannot prescribe in this context a 'one-size- fits-all' approach. The EBA's Guidelines on ML/TF risk fac- tors (EBA/GL/2021/02) contain further details on this point.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79945: Section: Targeted restrictions of products/services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79947: Summary of responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79948: EBA analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79949: Amendments to the proposal
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79950: Paragraph 20
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79951: A respondent is of the view that this paragraph should make clearer that the refusal or termina- tion of the business relationship and the options chosen by credit and financial institutions should be proportional and in line with the principle of non-discrimination.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79952: Regarding the first comment, paragraphs 11-12 are already clear that a number of options need to be considered be- fore making a decision to reject a customer.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79954: Several respondents said that the proposal to im- pose targeted restrictions, such as the amount or the number of person-to-person transfers or the amount of transactions to and from third coun- tries is in contradiction with the PAD.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79955: With respect to the point related to the PAD, paragraph 20 clearly distinguishes between restrictions that can be ap- plied by credit institutions covered by the PAD (in para- graph 20.a.) and restrictions that can be applied by institu- tions not covered by PAD-related obligations (in 20.b.).
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79957: A respondent stressed that while the restrictions identified by the EBA may be appropriate ways of managing risks, it is also important that the re- strictions do not, in and of themselves, hinder fi- nancial inclusion, for example by reducing the
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:31]
+PARAGRAPH_79958: Paragraph 21 addresses the point made by the respondent by requiring that credit and financial institutions 'should en- sure that their controls and procedures specify that possible limitations of products and service set out in paragraph 20
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79961: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79962: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79963: utility of a service or product to the extent that it does not provide any benefits to the consumer.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79964: (b) are applied taking into consideration the personal situa- tion of the individuals, the ML/TF risks associated therewith and their financial basic needs'.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79965: Paragraph 21
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79966: A respondent pointed to the costs associated with the implementation of new products and ser- vices. They recommended the following amend- ment: 'In those cases, procedures should, where possible (technically and without incurring large costs), include the assessment of the following options to potentially mitigate the associated risks:'
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79967: As explained in the cost/benefit analysis of these guidelines, the objective of financial inclusion of vulnerable customers outweighs the costs caused by the handling of such custom- ers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79969: In relation to paragraph 21c, a respondent was of the view that the intention of the 'person-to-per- son' restriction was unclear. The respondent stressed that if the intention is to restrict transac- tions to other private individuals, execution is highly dependent on the technical capability to establish whether the counterparty account holder is a private individual or legal entity.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79970: The EBA agrees that the term 'person-to-person' is insuffi- ciently clear and has amended the paragraph accordingly. Therefore, the paragraph is amended as follows: 21. c. limits on the amount, the type and/or number of per- son to person of transfers (further or larger transfers are possible on a case-by-case basis);
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79971: Amendment of paragraph 21.c.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79972: Another respondent also said that the risk miti- gating measures should include accounts that only allow deposits by a specific counterparty, i.e., the social service agency that disburses aid to ref- ugees.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79973: The EBA agrees to add a reference to deposits made by a specific counterparty as a possible targeted measure, as fol- lows: 21.f. limits third party payments to those made by identified third parties (e.g. the authority that disburses support for such customers)
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79974: Amendment of paragraph 21.f.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79975: Another respondent recommended that para- graph 21e should be further clarified, as it was un- clear when a party qualifies as 'unidentified' and when a deposit or transfer qualifies as 'unex- pected'.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79976: The EBA has amended the paragraph and aligned the word- ing with the EBA Guidelines on ML/TF risk factors: 21.g. limits on payments received from third parties that the institution has not verified
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:32]
+PARAGRAPH_79977: Amendment of paragraph 21.g.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79979: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79980: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79981: Another respondent was of the view that the pro- visions offered in the paragraph could potentially be abused, and therefore recommended specify- ing that the provisions of this paragraph apply to customers who are particularly vulnerable, such as refugees and homeless individuals, who may have credible and legitimate reasons for being un- able to provide traditional forms of identity docu- mentation.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79982: The EBA is of the view that since this paragraph aims at providing guidance on how limits on access to products and services can be introduced as risk-mitigating measures, there is limited potential for abuse by vulnerable custom- ers.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79984: Section: Complaints Mechanism
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79986: Summary of responses received
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79987: EBA analysis
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79988: Amendments to the proposal
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33]
+PARAGRAPH_79989: Paragraph 22
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79990: Several respondents pointed to the fact that the inclusion of this obligation would mean an addi- tional workload for entities subject to it. Several respondents stressed that it was im- portant to ensure that complaint mechanisms are accessible to all. Not all marginalised groups have access to a phone or email, so having the compe- tent authority's or designated alternative dispute resolution body's contact details physically would be key. This would ensure that complaints suc- cessfully reach the intended point of contact. Also, due to lack of access to technology for some marginalised groups, it would be beneficial for them to have the option to mail the EBA to submit complaints to national bodies rather than solely use a weblink. Several respondents said that it was also key to ensure institutions provide written evidence of why an individual person is rejected. One re- spondent in particular recommended that the EBA should consider whether there is more that
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:33] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79991: With respect to the first comment, the EBA recalls that the PAD includes a requirement for credit institutions to imme- diately inform the consumer of the refusal and of the spe- cific reason for that refusal unless such disclosure would be contrary to objectives of national security, public policy or the provisions of the AMLD. The AMLD specifies in article 39 that entities subject to it must not disclose to a customer the fact that information is being, will be or has been trans- mitted to the FIU or that a money laundering or terrorist financing analysis is being or may be carried out. This prohi- bition however does not include disclosure to the compe- tent authorities. The PAD also specifies that in the event of refusal, the credit institution must advise the consumer of the procedure to submit a complaint against the refusal, and of the con- sumer's right to contact the relevant competent authority and designated alternative dispute resolution body, and it must provide the relevant contact details. Therefore, the EBA is of the view that the information on the complaint mechanism envisaged in paragraph 22, com- bined with the requirement of documenting the decision to
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34] [REQ_TYPE:MANDATORY]
+PARAGRAPH_79994: Final report - Guidelines on effective ML/TF risk management and access to financial services
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_79995: GLs on ML/TF risk management and financial access
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_79996: can be said here about communication to clients. The aim would be to provide customers with a way to understand why their access to a financial service has been refused, particularly if there are steps they may be able to take to address the is- sue, without 'tipping them off' about any specific ML/TF concerns.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_79997: reject a customer and making this documentation available to competent authorities proposed in paragraph 14 pro- vides the right balance between the requirements of the PAD and the AMLD.
+
+[JURISDICTION:FINNISH] [SOURCE:EBA] [CATEGORY:FINANCIAL_REGULATION] [PAGE:34]
+PARAGRAPH_79998: The Joint Guidelines on complaints handling for the securi- ties and banking sectors also provide useful information on this aspect (JC 2018 35). The objective of these guidelines is to provide EU consumers with a single set of complaints handling arrangements, irrespective of the type of product or service and of the geographical location of the firm in question. This will also allow institutions to streamline and standardise their complaints handling arrangements and al- low national regulators to supervise the same requirements across all sectors of financial services.
+

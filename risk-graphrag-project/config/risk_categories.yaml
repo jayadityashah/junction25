@@ -1,0 +1,262 @@
+# Risk Categories Configuration for GraphRAG Processing
+# Based on actual risk mentions found in the regulatory corpus
+
+risk_categories:
+  # Top-tier risks (high mention frequency)
+  CREDIT_RISK:
+    primary_terms:
+      - "credit risk"
+      - "default risk"
+      - "counterparty risk"
+      - "credit exposure"
+    synonyms:
+      - "loan risk"
+      - "lending risk"
+      - "debtor risk"
+      - "borrower risk"
+    regulatory_context: ["CRR", "CRD", "Basel", "EBA"]
+    
+  MARKET_RISK:
+    primary_terms:
+      - "market risk"
+      - "price risk"
+      - "interest rate risk"
+      - "trading risk"
+    synonyms:
+      - "portfolio risk"
+      - "investment risk"
+      - "asset price risk"
+    regulatory_context: ["MiFID", "MiFIR", "CRR", "EBA"]
+    
+  LIQUIDITY_RISK:
+    primary_terms:
+      - "liquidity risk"
+      - "funding risk"
+      - "cash flow risk"
+    synonyms:
+      - "liquid assets"
+      - "funding liquidity"
+      - "market liquidity"
+    regulatory_context: ["CRR", "EBA", "BRRD"]
+    
+  OPERATIONAL_RISK:
+    primary_terms:
+      - "operational risk"
+      - "process risk"
+      - "system risk"
+      - "human error risk"
+    synonyms:
+      - "business continuity risk"
+      - "procedural risk"
+      - "execution risk"
+    regulatory_context: ["CRR", "EBA", "FIVA_MOK"]
+
+  # Mid-tier risks
+  FOREIGN_EXCHANGE_RISK:
+    primary_terms:
+      - "foreign exchange risk"
+      - "FX risk"
+      - "currency risk"
+      - "exchange rate risk"
+    synonyms:
+      - "forex risk"
+      - "translation risk"
+      - "transaction risk"
+    regulatory_context: ["CRR", "IFRS"]
+    
+  SYSTEMIC_RISK:
+    primary_terms:
+      - "systemic risk"
+      - "system-wide risk"
+      - "contagion risk"
+    synonyms:
+      - "spillover risk"
+      - "interconnectedness risk"
+      - "network risk"
+    regulatory_context: ["BRRD", "EBA", "Basel"]
+    
+  CONCENTRATION_RISK:
+    primary_terms:
+      - "concentration risk"
+      - "single name exposure"
+      - "large exposure"
+    synonyms:
+      - "portfolio concentration"
+      - "sector concentration"
+      - "geographic concentration"
+    regulatory_context: ["CRR", "EBA"]
+    
+  MODEL_RISK:
+    primary_terms:
+      - "model risk"
+      - "modelling risk"
+      - "model uncertainty"
+    synonyms:
+      - "validation risk"
+      - "parameter risk"
+      - "estimation risk"
+    regulatory_context: ["EBA", "Basel"]
+    
+  REPUTATIONAL_RISK:
+    primary_terms:
+      - "reputational risk"
+      - "reputation risk"
+      - "image risk"
+    synonyms:
+      - "brand risk"
+      - "public perception risk"
+      - "trust risk"
+    regulatory_context: ["EBA", "FIVA_MOK"]
+    
+  LEGAL_RISK:
+    primary_terms:
+      - "legal risk"
+      - "compliance risk"
+      - "regulatory risk"
+    synonyms:
+      - "litigation risk"
+      - "regulatory compliance"
+      - "legal exposure"
+    regulatory_context: ["MiFID", "MiFIR", "SFDR"]
+
+  # Lower-tier risks
+  INSURANCE_RISK:
+    primary_terms:
+      - "insurance risk"
+      - "underwriting risk"
+      - "actuarial risk"
+    synonyms:
+      - "claims risk"
+      - "mortality risk"
+      - "longevity risk"
+    regulatory_context: ["IFRS", "FIVA_MOK"]
+    
+  SOVEREIGN_RISK:
+    primary_terms:
+      - "sovereign risk"
+      - "country risk"
+      - "government risk"
+    synonyms:
+      - "political risk"
+      - "sovereign exposure"
+      - "state risk"
+    regulatory_context: ["CRR", "EBA"]
+    
+  SETTLEMENT_RISK:
+    primary_terms:
+      - "settlement risk"
+      - "delivery risk"
+      - "clearing risk"
+    synonyms:
+      - "delivery versus payment"
+      - "DVP risk"
+      - "clearing and settlement"
+    regulatory_context: ["MiFIR", "EBA"]
+    
+  CLIMATE_RISK:
+    primary_terms:
+      - "climate risk"
+      - "environmental risk"
+      - "ESG risk"
+    synonyms:
+      - "sustainability risk"
+      - "green risk"
+      - "carbon risk"
+    regulatory_context: ["SFDR", "EBA"]
+    
+  VOLATILITY_RISK:
+    primary_terms:
+      - "volatility risk"
+      - "price volatility"
+      - "market volatility"
+    synonyms:
+      - "variance risk"
+      - "fluctuation risk"
+      - "instability risk"
+    regulatory_context: ["MiFID", "CRR"]
+    
+  BUSINESS_RISK:
+    primary_terms:
+      - "business risk"
+      - "strategic risk"
+      - "commercial risk"
+    synonyms:
+      - "enterprise risk"
+      - "competitive risk"
+      - "market position risk"
+    regulatory_context: ["EBA", "FIVA_MOK"]
+    
+  INFLATION_RISK:
+    primary_terms:
+      - "inflation risk"
+      - "purchasing power risk"
+      - "real value risk"
+    synonyms:
+      - "erosion risk"
+      - "monetary risk"
+      - "price level risk"
+    regulatory_context: ["IFRS", "EBA"]
+    
+  CYBER_RISK:
+    primary_terms:
+      - "cyber risk"
+      - "cybersecurity risk"
+      - "IT risk"
+    synonyms:
+      - "information security risk"
+      - "data breach risk"
+      - "technology risk"
+    regulatory_context: ["EBA", "FIVA_MOK"]
+    
+  PENSION_RISK:
+    primary_terms:
+      - "pension risk"
+      - "retirement risk"
+      - "pension obligation"
+    synonyms:
+      - "post-employment benefit risk"
+      - "defined benefit risk"
+      - "actuarial pension risk"
+    regulatory_context: ["IFRS", "FIVA_MOK"]
+    
+  LEVERAGE_RISK:
+    primary_terms:
+      - "leverage risk"
+      - "gearing risk"
+      - "debt risk"
+    synonyms:
+      - "capital structure risk"
+      - "borrowing risk"
+      - "financial leverage"
+    regulatory_context: ["CRR", "Basel"]
+
+# Dimensional mappings
+jurisdictions:
+  EU:
+    sources: ["BRRD", "CRD", "CRR", "EBA", "MiFID", "MiFIR", "SFDR", "IFRS"]
+    description: "European Union regulations and directives"
+  FINNISH:
+    sources: ["FIVA_MOK", "VYL", "LLL", "FINLAND"]
+    description: "Finnish national laws and regulations"
+  INTERNATIONAL:
+    sources: ["Basel"]
+    description: "International regulatory standards"
+
+requirement_types:
+  MANDATORY:
+    indicators: ["shall", "must", "required to", "obligated to"]
+    description: "Legally binding requirements"
+  RECOMMENDED:
+    indicators: ["should", "recommended", "advised", "encouraged"]
+    description: "Best practice recommendations"
+  GUIDANCE:
+    indicators: ["may", "could", "consider", "guidance"]
+    description: "Interpretive guidance and suggestions"
+
+severity_levels:
+  HIGH:
+    criteria: ["material", "significant", "critical", "major"]
+  MEDIUM:
+    criteria: ["moderate", "important", "relevant"]
+  LOW:
+    criteria: ["minor", "limited", "supplementary"]

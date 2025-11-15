@@ -1,0 +1,644 @@
+METADATA: {"document_id": 88, "filename": "599_2010_amendments_up_to_1200_2014.di.json", "category": "FINANCIAL_REGULATION", "subcategory": "LLL", "jurisdiction": "FINNISH", "page_count": 20, "paragraph_count": 240}
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137159: Unofficial translation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137160: Amendments up to 1200/2014 included
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137161: Act on the Amalgamation of Deposit Banks, 24 June 2010/599
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137162: In accordance with the decision of Parliament, the following is enacted:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137163: Chapter 1 General provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137165: Scope of application
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137166: This Act lays down requirements set for the operations of a cooperative acting as a central institution ("central institution") for an amalgamation ("amalgamation") of deposit banks and a deposit bank as a member of the central institution or other credit institutions as well as other companies belonging to the amalgamation. The Co-operatives Act (421/2010) shall apply to the central institution and the Act on Credit Institutions (610/2014) shall apply to a member credit institution, unless otherwise provided by this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137167: Section 2 Amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137168: An amalgamation comprises:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137169: 1) a central institution;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137170: 2) companies belonging to the central institution's consolidation group;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137171: 3) member credit institutions;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137172: 4) companies belonging to the member credit institutions' consolidation groups;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137173: 5) member credit institutions, financial institutions and service companies in which the above-mentioned institutions jointly hold more than half of the voting rights.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137174: An amalgamation is established when the central institution has been registered or, if a previously registered cooperative society has applied for the central institution's licence, its bylaws under this Act have been registered and it is authorised to act as the central institution of the amalgamation under this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:1]
+PARAGRAPH_137175: Within the scope of application of this Act, an insurance company which is not to a considerable extent engaged in business other than issuing credit insurance policies to the member credit institutions of the amalgamation is regarded as a service company.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137177: Dissolution of an amalgamation is provided for in Section 10.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137179: General conditions for the establishment of an amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137180: The general conditions for the establishment of an amalgamation are as follows:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137181: 1) The central institution shall control and supervise its member credit institutions in accordance with this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137182: 2) The minimum consolidated capital requirement for and the liquidity of the companies within the amalgamation shall be controlled on a consolidated basis at the amalgamation level in accordance with this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137183: 3) The central institution shall be liable for its member credit institutions' debts and the member credit institutions shall participate in any necessary support measures aimed at preventing another member credit institution from going into liquidation, and pay a debt for an individual member credit institution in accordance with this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137184: 4) The majority of the member credit institutions shall be deposit banks.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137185: Section 4 Central institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137186: The central institution is a cooperative, as referred to in Chapter 1, Section 1 of the Co- operatives Act, which is authorised to control its credit institutions. The central institution must hold a licence as referred to in Chapter 2 below.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137187: The central institution may provide services needed by the companies belonging to the amalgamation, hold shares and participations in the companies belonging to the amalgamation and engage in other investment activities that may be justified from the perspective of the amalgamation. The central institution may not engage in any other business to a considerable extent. Within the scope of application of this subsection, a company belonging to a financial and insurance conglomerate, as referred to in the Act on the Supervision of Financial and Insurance Conglomerates (699/2004), is also comparable with a company belonging to the amalgamation, if the central institution or its member credit institution is a holding company of the conglomerate within the meaning of said Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137188: The central institution's consolidation group includes the central institution and such a credit institution, foreign credit institution, financial institution and service company comparable thereto that is the central institution's subsidiary as referred to in the Accounting Act (1336/1997).
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2]
+PARAGRAPH_137189: Section 5 Central institution bylaws
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:2] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137190: In addition to what is provided for in Chapter 2, Section 3 of the Co-operatives Act, the bylaws of the central institution shall stipulate that:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137192: 1) the central institution is the amalgamation's central institution, as referred to in this Act, which constitutes an amalgamation together with the other companies specified in Section 2 above;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137193: 2) the central institution may accept as its member only a credit institution whose bylaws or articles of association are in compliance with Section 6 below;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137194: 3) the central institution is liable for the debts and commitments of its member credit institutions in accordance with this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137195: 4) on the basis of this Act the central institution is under an obligation to supervise the operations of its member credit institutions, issue instructions to them on risk management, good corporate governance and internal control to secure liquidity and capital adequacy, as well as instructions on compliance with standardised accounting policies in the preparation of the amalgamation's consolidated financial statements;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137196: 5) the members of the credit institution accept unlimited refinancing liability in the case of the central institution's liquidation or bankruptcy, as referred to in Chapter 15, Section 11 of the Co-operatives Act, which is determined by the member credit institution's total assets based on the last adopted balance sheet.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137197: 6) the central institution has the right to confirm general principles to be followed by the member credit institutions in operations relevant to their amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137198: The bylaws of the central institution may stipulate that, notwithstanding Chapter 5, Section 10 of the Co-operatives Act, a subsidiary of the central institution may attend a cooperative meeting and that said subsidiary has the right to speak at the meeting but not the right to vote.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137200: Bylaws or articles of association of a member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137201: In addition to what is prescribed elsewhere in the law, the bylaws or the articles of association of the central institution shall stipulate that:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137202: 1) the member credit institution is a member of the central institution mentioned in the bylaws and belongs to the amalgamation within the meaning of this Act;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137203: 2) the central institution supervises the operations of its member credit institution as specified in this Act, confirms the operating principles referred to in Section 5 above with which it must comply, and issue instructions to the member credit institution on capital adequacy and risk management, good corporate governance and internal control to secure liquidity and capital adequacy, as well as instructions on compliance with standardised accounting policies in the preparation of the amalgamation's consolidated financial statements;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:3]
+PARAGRAPH_137204: 3) the member credit institution is obliged to participate in any necessary support measures aimed at preventing another member credit institution from going into liquidation, and to pay a debt for another member credit institution as referred to in Section 5 above.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_137206: An alteration of the member credit institution's bylaws or articles of association other than that governing withdrawal from the central institution's membership, as referred to in Section 8 below, may not be registered in the Trade Register, unless the central institution has approved such an alteration.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_137208: Becoming a member of the central institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137209: A credit institution may be accepted as the central institution's member, provided that its bylaws or articles of association under Section 6 above have been adopted. The decision on the adoption of the bylaws or the articles of association shall be valid only if the related proposal is supported by at least a two-thirds vote given by those at a cooperative meeting or meeting of trustees or if it is supported by at least a two-thirds vote given by those at a general meeting of shareholders and two-thirds of shares represented at the meeting.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4]
+PARAGRAPH_137211: Member credit institution's withdrawal and expulsion from the central institution, and merger of a member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137212: A member credit institution has the right to withdraw from its central institution membership by deciding to alter its bylaws or articles of association referred to in Section 6 above, and by notifying the central institution's board of directors in writing thereof, if, after such withdrawal, the consolidated capital of the companies within the amalgamation remains at the level as prescribed by Section 19 below. The decision shall be valid only if the related proposal is supported by the two-thirds majority vote as referred to in Section 7 above. A calculation certified by the central institution's auditors shall serve as proof of the maintenance of capital adequacy.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137213: A member credit institution may be expelled from the central institution as specified in Chapter 3, Section 3 of the Co-operatives Act or in case a member credit institution has failed to comply with the instructions, issued by the central institution by virtue of Section 17 of this Act, in a manner that significantly endangers the management of liquidity or capital adequacy or the application of the standardised accounting policies or supervision of compliance with said policies, or in case a member credit institution otherwise acts in material breach of the amalgamation's general operating principles adopted by the central institution. The central institution must notify the Financial Supervisory Authority of the grounds for such expulsion and of the meeting of the cooperative's body convened to make a decision on the expulsion no later than the date on which the cooperative provides the member with a written notification referred to in Chapter 3, Section 3, Subsection 2 of the Co-operatives Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:4] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137214: In addition to what is prescribed elsewhere in the law, a precondition for a merger of a member credit institution into a credit institution other than another member credit institution is that the board of directors of the central institution shall be notified in writing of said merger prior to approval of the merger plan and that the consolidated capital of the companies within the amalgamation remains at the level as prescribed by Section 19 below. What Section 27 provides in respect of a withdrawn or expelled member credit institution shall apply to the acquiring credit institution or another company. The time limit prescribed in
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_137216: said Section is calculated from the balance sheet date following the date of the registration of the merger.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5]
+PARAGRAPH_137217: Section 9 Financial statements and audit
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137218: The provisions of the Act on Credit Institutions shall apply to the preparation of the central institution's financial statements and consolidated financial statements and audit. A member credit institution shall not be subject to provisions governing interim and annual reports prescribed by Chapter 12, Section 12 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137219: The central institution shall prepare its financial statements based on the accounts of its member credit institutions consolidated into those of the central institution or on the consolidated financial statements, complying with the International Financial Reporting Standards referred to in Chapter 7a, Section 1 of the Accounting Act, unless otherwise laid down below in this subsection. The consolidated financial statements also include institutions over which the abovementioned institutions jointly have control as prescribed in the Accounting Act. Where the International Financial Reporting Standards cannot be applied owing to the special structure of the amalgamation, the central institution's board of directors shall adopt comparable accounting standards suited to the structure of the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137220: The central institution's auditors shall audit the consolidated financial statements, by complying with the provisions of the Act on Credit Institutions where applicable, which must be presented and notified to the annual cooperative meeting of the central institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137221: The central institution's member credit institution shall keep a copy of the financial statements, as referred to in Subsection 2 above, available for everyone's inspection and provide copies thereof in compliance with the provisions under Chapter 12, Section 11, Subsections 2 and 4 of the Act on Credit Institutions. The financial statements of the central institution and its member credit institutions as well as their subsidiaries must be combined to form the consolidated interim and annual financial statements pursuant, as appropriate, to the provisions of Subsection 2 herein and Chapter 12, Section 12 of the Act on Credit Institutions. The central institution's member credit institution must give a copy of the consolidated interim report to anyone who requests it, as prescribed by Chapter 12, Section 11 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:5] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137222: A member credit institution shall provide the central institution with the information necessary for the consolidation of accounts. In addition, the central institution and its auditor shall have the right to obtain a copy of the documents relating to the member credit institution's audit for carrying out the audit of the consolidated financial statements, notwithstanding provisions elsewhere in the law governing confidentiality in respect of the credit institution and its auditor. The provisions of this Subsection regarding a member credit institution shall correspondingly apply to the other institution referred to in Subsection 2.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_137224: Section 10 Cessation of application of the provisions governing the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137225: Unless the requirements laid down herein for the amalgamation are not fulfilled, the central institution must forthwith notify the Financial Supervisory Authority thereof and take measures to fulfil said requirements. After having received the aforementioned notification or otherwise information on the non-fulfilment of the requirements, the Financial Supervisory Authority must stipulate a time for the central institution within which the requirements must be fulfilled. Unless the requirements have been fulfilled within this time, the Financial Supervisory Authority may cancel the central institution's licence.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137226: The application of this Act shall cease once the central institution's licence is cancelled.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_137227: Chapter 2 Central institution's licence
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_137228: Section 11 Licence application
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137229: Upon application, the Financial Supervisory Authority shall issue a licence to a central institution. Documents that must be appended to the licence application are governed by a decree issued by the Ministry of Finance.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137230: If any material change occurs in the information related to the conditions for issuing a licence, referred to in Subsection 1, after the issue of the licence, the central institution shall notify the Financial Supervisory Authority thereof in a manner specified in greater detail by the Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_137231: Section 12 Licence decision
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137232: The Financial Supervisory Authority shall issue its decision on the licence within six months of receipt of the application or, in the case of insufficient and complete information in the application, from the date on which the applicant provided the required documents and information. Nevertheless, a decision on the licence must always be made within 12 months of receipt of the application.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6]
+PARAGRAPH_137233: After hearing the applicant, the Financial Supervisory Authority has the right to include restrictions and conditions in the licence set for the central institution's activity and necessary for supervision. After the issue of the licence, the Financial Supervisory Authority may change the terms and conditions of the licence upon the central institution's application.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:6] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137234: If a decision on the licence has not been issued within the time prescribed by Subsection 1 above, the applicant may submit an appeal. An appeal shall be submitted and handled in the same manner as any appeal of the rejection of applications is submitted and handled. Such an appeal may not be submitted until the decision has been issued. The Financial Supervisory Authority shall notify the relevant appeal authority of the issue of its decision, if the decision has been issued after the appeal. Section 73 of the Act on Financial
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137236: Supervisory Authority (878/2008) shall in other respects apply to the submission and handling of appeals as referred to in this Subsection.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137237: Section 13 Conditions for the issue of a licence
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137238: A licence must be issued if it can be ascertained on the basis of the information received that the central institution and other companies within the amalgamation fulfil the requirements for their activity and for the financial position of the entire amalgamation laid down in this Act, and that the central institution is managed in a professional manner complying with sound and prudent business principles.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137239: A licence may also be issued to the central institution prior to its registration.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137240: Section 14 Reporting a licence for registration
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137241: The Financial Supervisory Authority shall report the licence for registration.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137242: 15 § Commencement of operations
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137243: Unless otherwise provided by the terms and conditions of the licence, the central institution may commence to operate upon the issue of the licence and it has provided the Financial Supervisory Authority with the information referred to in Subsection 2 and, if the licence has been issued to a cooperative to be established, upon the registration of the cooperative.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137244: The central institution may not commence to operate before it has provided the Financial Supervisory Authority with:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137245: 1) the central institution's complete extract from the Trade Register, the bylaws included;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137246: 2) the names of members and deputy members of the board of directors, managing director and his deputy, and auditors and deputy auditors, and other required information;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137247: 3) if the central institution has a supervisory board, the names of members and deputy members of the supervisory board and other required information, and the general guidelines adopted by the supervisory board governing the activities of the central institution and the internal auditors elected by the supervisory board.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137248: Any change in information stated in Subsection 2 must be promptly notified to the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7]
+PARAGRAPH_137249: 16 § Cancelling a licence
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:7] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137250: The Financial Supervisory Authority may cancel the central institution's licence unless the central institution fulfils the requirements laid down in Section 19 below, and on conditions laid down in Section 26, Subsection 1, Paragraphs 1 and 2, and Subsection 2 of the Act on Financial Supervisory Authority. In addition, Subsections 3-5 of said Section shall apply to cancellation of the licence.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137252: The rights and obligations of the central institution, based on the provisions of Chapter 5, which have been established prior to cancellation of the licence, shall not expire owing to said cancellation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137253: Chapter 3 Control, risk management and capital adequacy of the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137254: 17 § Control of the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:LIQUIDITY_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137255: The central institution controls the operations of the amalgamation. The central institution shall hold instructions applying to the companies belonging to the amalgamation on the qualitative requirements to secure liquidity and capital adequacy and risk management, good corporate governance and internal control as well as on compliance with standardised accounting policies in the preparation of the amalgamation's consolidated financial statements. The provisions in Chapters 7-9 and 12 of the Act on Credit Institutions shall be taken into account in the instructions referred to in this section. Insofar as the instructions referred to in this section apply to a member credit institution, subject to the exceptions referred to in sections 21 and 21 a, the Financial Supervisory Authority shall approve the instructions in advance. In the manner specified in its by-laws, the central institution may also confirm the general principles to be followed by its member credit institutions in their operations relevant to the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137256: The central institution's obligation to supervise compliance with the instructions is provided for in Section 20 below.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137257: The Financial Supervisory Authority may issue further provisions on the specific content of the instructions referred to in subsection 1.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137258: Section 18
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137259: A general provision on the corporate governance of the companies belonging to the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [RISK:LIQUIDITY_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137260: A company belonging to the amalgamation may not, in the course of its operations, take any risk of such magnitude that it poses a substantial danger to the consolidated capital adequacy or liquidity of the companies within the amalgamation. The central institution must pursue good corporate governance that enables effective risk management and have in place sufficient internal control and risk management systems in view of the performance of the amalgamation. The central institution shall meet the requirements set for the parent company of the consolidation group in Chapters 7-9 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8]
+PARAGRAPH_137261: Section 19 Requirements relating to the financial position of the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:8] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137262: The companies belonging to the amalgamation shall have a minimum capital base in the amount referred to in Chapter 10, section 1 of the Act on Credit Institutions. The amount referred to in this subsection is calculated in compliance with the provisions in Regulation (EU) No. 575/2013 of the European Parliament and of the Council on prudential
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_137264: requirements for credit institutions and in-vestment firms and amending Regulation (EU) No. 648/2012, hereinafter the Capital Requirements Regulation, on the calculation of the amount of consolidated own funds, unless otherwise provided for in subsections 2 and 3.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_137265: The required minimum capital, referred to in subsection 1 above, is calculated as follows: the capital base less capital certificates and other equity instruments issued by a member credit institution or a company belonging to its consolidation group, which have been subscribed for by a guarantee fund, as referred to in Chapter 13 of the Act on Credit Institutions, of which the member credit institution is a member.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137266: When calculating the amalgamation's capital base, this section shall apply to an insurance company which is not to a significant extent engaged in business other than issuing credit insurance policies to the member credit institutions of the amalgamation. The equalization amount of such an insurance company is comparable to the items referred to in Article 62 of the Capital Requirements Regulation. In other respects, the insurance company's capital base and the calculation of its minimum capital requirement shall be subject to the provisions of said Regulation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137267: In other respects, the provisions in the Capital Requirements Regulation and in Chapters 10 and 11 of the Act on Credit Institutions on the requirements set for the consolidated financial position of the credit institution, notification of consolidated information concerning the financial position and consolidated supervision shall apply to the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137268: The provisions in the Capital Requirements Regulation and in the Act on Credit Institutions on the parent company shall apply to the central institution and the provisions on subsidiaries shall apply to the other companies belonging to the amalgamation, as applicable, unless otherwise provided for in this Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137269: The Financial Supervisory Authority shall issue further provisions on the implementation of this section.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9]
+PARAGRAPH_137270: Section 20 Capital adequacy supervision
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137271: The central institution shall exercise oversight to ensure that the companies within the amalgamation operate in accordance with the laws and decrees governing their financial position, regulations issued by the relevant authorities, their own bylaws or articles of association, and the instructions issued by the central institution by virtue of Section 17 above.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:9] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137272: If the central institution discovers that a company within the amalgamation operates in violation of the aforementioned rules and regulations, it shall promptly notify the Financial Supervisory Authority thereof. If the central institution discovers that a company within the amalgamation has failed to comply with the instructions it has issued, by virtue of Section 17 above, in a manner that will significantly jeopardise the application of the shared principles within the amalgamation governing liquidity or capital adequacy management or the accounting policies, or the supervision of their compliance, or that is likely to jeopardise the member credit institution's capital adequacy or liquidity, the central institution shall notify the
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137274: Financial Supervisory Authority thereof and present any required measures to ensure compliance with the instructions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137275: A company belonging to the amalgamation is under an obligation to provide the central institution, within a reasonable time stipulated by the central institution, with all the information and reports that it requires necessary to enable the central institution to perform its duties prescribed herein.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137276: Notwithstanding the duty of non-disclosure or secrecy prescribed by the Act on the Openness of Government Activities (621/1999), the Financial Supervisory Authority shall have the right to disclose information within the meaning of this Subsection to the central institution, if the central institution cannot receive such information from the company belonging to the amalgamation within the time it has stipulated.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137277: Section 20 a (1200/2014) Recovery plan and resolution plan
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137278: The provisions in Chapter 8 a of the Act on Credit Institutions on the recovery plan of the consolidation group shall apply to the recovery plan of the amalgamation. The provisions in Chapter 2 of the Act on Resolution of Credit Institutions and Investment Firms (1194/2014) on the group resolution plan shall apply to the resolution plan of the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137279: Chapter 4 Member credit institution's capital adequacy and its supervision
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137280: 21 § A member credit institution's capital base
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137281: The Financial Supervisory Authority may grant the central institution permission to decide to exempt its member credit institutions from the application of the provisions in Chapter 10 of the Act on Credit Institutions and in parts 2-4 of the Capital Requirements Regulation on the requirements to be set for the credit institution's capital base. The Financial Supervisory Authority must grant the permission referred to in this subsection, if the central institution fulfils the requirements set for it in section 17 and in the regulations of the Financial Supervisory Authority issued by virtue thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10]
+PARAGRAPH_137282: The central institution may not grant the exemption referred to in subsection 1 to a member credit institution, if they have materially or repeatedly neglected to follow the instructions issued by the central institution, referred to in section 17, or the obligations provided for a member credit institution in section 23 or obligations pursuant to the permission granted by the Financial Supervisory Authority by virtue of said section.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:10] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137283: The central institution may grant the exemption referred to in subsection 1 for a maximum of three years at a time. The central institution must, on its own initiative or if the Financial Supervisory Authority so demands, cancel the exemption or restrict it, if a member credit institution materially or repeatedly neglects to follow the instructions issued by the central institution by virtue of section 17.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137285: A member credit institution, which subsection 1 is applied to, shall have a minimum capital base equivalent to 80 per cent of the aggregate amount of the capital requirements referred to in Chapter 10, section 1 of the Act on Credit Institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137286: If subsection 1 is applied to a member credit institution, the amount of exposure to customers referred to in part 4 of the Capital Requirements Regulation cannot exceed 40 percent of the credit institution's capital base. If the customer corporation is a credit institution or an investment firm, customer exposure may not exceed 40 percent of the credit institution's capital base or, if said amount is less than EUR 240 million, be greater than the amount internally confirmed by the credit institution, which cannot exceed EUR 240 million or exceed 100 percent of the credit institution's capital base. The Financial Supervisory Authority may, for a special reason, grant the credit institution permission to deviate from the latter limit. In the application of this subsection, customer expo-sure concerning a credit institution or investment firm also refers to customer exposure concerning a group of connected customers to which at least one credit institution or investment firm belongs. In the application of this subsection, the combined customer exposure of customers belonging to a group of connected customers other than credit institutions or investment firms cannot, however, exceed 40 per cent of the credit institution's capital base. Chapter 10, section 11(3) of the Act on Credit Institutions shall be applied to the calculation of the restriction pursuant to this subsection. The legal provisions laid down on customer exposure related to a company belonging to the same consolidation group as a credit institution shall also be applied to customer exposure related to a company belonging to the same amalgamation as a member credit institution. The restrictions concerning large customer exposure may, subject to the consent of the central institution, not be applied in full or in part to the customer exposure of a member credit institution which is based on the centralised liquidity management of the member credit institutions belonging to an amalgamation. The provisions in subsections 2 and 3 shall be applied to the consent of the central institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_137287: If subsection 1 is applied to a member credit institution, the member credit institution may not in-vest more, in terms of the investments referred to in Article 89 of the Capital Requirements Regulation, than an amount equivalent to 25 per cent of the credit institution's capital base. A member credit institution may have investments referred to in subsection 1 at a maximum total amount equivalent to 75 per cent of the credit institution's capital base.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_137288: The Financial Supervisory Authority may, upon application by the central institution, grant the credit institution permission to deviate, in full or in part, from the restrictions provided for in sub-sections 4-6.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137289: The provisions of this section on the requirements set for a member credit institution's financial position shall also apply to the equivalent consolidated demands concerning the member credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11]
+PARAGRAPH_137290: Section 21 a Liquidity of a member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:11] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137291: The Financial Supervisory Authority may grant the central institution permission to decide that the provisions in part 6 of the Capital Requirements Regulation and in the EU regulations issued by virtue thereof on the requirements imposed on a credit institution's liquidity shall not apply to its member credit institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137293: The Financial Supervisory Authority must grant the permission referred to in subsection 1, if the central institution fulfils the requirements set for it in section 17 and in the regulations of the Financial Supervisory Authority issued by virtue thereof and the funds available to fulfil the liquidity requirements referred to in the Capital Requirements Regulation of the companies belonging to the amalgamation can be, in an adequate amount, immediately transferred to a member credit institution, which cannot fulfil its obligations.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137294: The central institution may not grant the exemption referred to in subsection 1 to a member credit institution which neglects to follow the instructions issued by the central institution, referred to in section 17, or the obligations provided for the member credit institution in section 23 or obligations pursuant to the permission granted by the Financial Supervisory Authority by virtue of said section and the negligence cannot be considered petty.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137295: The central institution may grant the exemption referred to in subsection 1 for a maximum of three years at a time. The central institution must, on its own initiative or if the Financial Supervisory Authority so demands, cancel the exemption or restrict it, if a member credit institution materially or repeatedly neglects to follow the instructions issued by the central institution by virtue of section 17.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137296: The provisions of this section on the requirements set for a member credit institution's financial position shall also apply to equivalent consolidated demands concerning the member credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137297: Section 21 b
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137298: Duty to publish information on the financial position of a member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137299: Part 8 of the Capital Requirements Regulation shall not apply to a member credit institution. However, the member credit institution shall, in accordance with the Capital Requirements Regulation, publish at least the following:
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137300: 1) information confirming that the member credit institution belongs to the amalgamation of deposit banks;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137301: 2) information on which central institution's financial statements contain the information concerning the amalgamation's capital adequacy;
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12]
+PARAGRAPH_137302: 3) the amount by which the minimum capital requirement is lower than each capital requirement pursuant to the Act on Credit Institutions, referred to in section 21, as well as other information on the application of the exemptions, referred to in sections 21 and 21 a, to a member credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:12] [RISK:CREDIT_RISK] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137303: The Financial Supervisory Authority may grant the central institution permission to decide that the provisions in Article 409 of the Capital Requirements Regulation on publication of information concerning the transferred credit risk of a credit institution shall not apply to its member credit institutions. The Financial Supervisory Authority must grant the permission referred to in this subsection, if the central institution fulfils the requirements set for it in section 17 and in the regulations of the Financial Supervisory Authority issued by virtue thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137305: The central institution may not grant the exemption referred to in subsection 2 to a member credit institution which has materially or repeatedly neglected to follow the instructions issued by the central institution, referred to in section 17, or the obligations provided for a member credit institution in section 23 or obligations pursuant to the permission granted by the Financial Supervisory Authority by virtue of said section.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137306: The central institution may grant the exemption referred to in subsection 2 for a maximum of three years at a time. The central institution must, on its own initiative or if the Financial Supervisory Authority so demands, cancel the exemption or restrict it, if a member credit institution materially or repeatedly neglects to follow the instructions issued by the central institution by virtue of section 17.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137307: Section 22
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137308: Application of certain provisions of the Act on Credit Institutions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137309: A member credit institution shall notify the central institution instead of the Financial Supervisory Authority of the information referred to in Chapter 11, section 1 of the Act on Credit Institutions as provided in said section, unless otherwise decided by the Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137310: The central institution shall prepare an evaluation referred to in Chapter 11, section 2 of the Act on Credit Institutions on whether the member credit institutions fulfil the requirements set for their financial position in this Chapter.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137311: Section 23
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137312: Exemptions concerning risk management of a company belonging to an amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137313: The Financial Supervisory Authority may grant the central institution permission to decide to exempt, in full or in part, its member credit institutions and companies belonging to their consolidation group from the application of the provisions in Chapter 9 of the Act on Credit Institutions and in the Capital Requirements Regulation on the qualitative risk management of a credit institution and a company belonging to its consolidation group. The Financial Supervisory Authority must grant the permission referred to in this subsection, if the central institution fulfils the requirements set for it in section 17 and in the regulations of the Financial Supervisory Authority issued by virtue thereof.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13]
+PARAGRAPH_137314: The central institution may not grant the exemption referred to in subsection 1 to a member credit institution which has materially or repeatedly neglected to follow the instructions issued by the central institution, referred to in section 17, or the obligations provided for a member credit institution in section 23 or obligations pursuant to the permission granted by the Financial Supervisory Authority by virtue of said section.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:13] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137315: The central institution may grant the exemption referred to in subsection 1 for a maximum of three years at a time. The central institution must, on its own initiative or if the Financial Supervisory Authority so demands, cancel the exemption or restrict it, if a member credit institution materially or repeatedly neglects to follow the instructions issued by the central institution by virtue of section 17.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137317: Chapter 5 Central institution's liability for debt and joint liability of member credit institutions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137318: Section 24 Central institution's liability for debt
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137319: As a support measure referred to in this Chapter, the central institution shall be liable to pay any of its member credit institutions an amount that is necessary to prevent from the credit institution being placed in liquidation. As laid down in this Chapter, the central institution shall be liable for the debts of a member credit institution which cannot be paid using the member credit institution's capital.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137320: Section 25
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137321: Joint liability of member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137322: Each member credit institution shall be liable to pay, on the grounds laid down in this Chapter, a proportionate share of the amount which the central institution has paid to either another member credit institution as part of support action or to a creditor of such member credit institution in payment of an amount overdue which the creditor has not received from its debtor. Furthermore, upon insolvency of the central institution, a member credit institution shall have unlimited refinancing liability for the central institution's debts as laid down in Chapter 14, section 11 of the Co-operatives Act.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137323: Each member credit institution's liability for the amount the central institution has paid to the creditor on behalf of one of the member credit institutions shall be divided between the member credit institutions in proportion to their last adopted balance sheets.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137324: Section 26 Member credit institution's obligation to participate in support actions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137325: If the capital base of any member credit institution or consolidated capital falls below the minimum laid down in the Act on Credit Institutions or, where lower capital requirements under Section 21 are applicable to the member credit institution, below the minimum laid down in said Section, the amalgamation's central institution shall have the right to receive credit from the other member credit institutions within the amalgamation on the grounds specified in greater detail in the central institution's bylaws by collecting from said credit institutions additional, repayable amounts to be spent on support actions as referred to in Subsection 2 to prevent the credit institution from going into liquidation. The combined annual amount collected from each member credit institution on this basis may in each financial year account for a maximum of five thousandths of the last adopted balance sheet of each member credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:14]
+PARAGRAPH_137326: Support actions within the meaning of this Section refer to a subordinated loan granted to a member credit institution and share capital, cooperative capital, or initial reserve capital contributed to the member credit institution. The capital contribution referred to in this Subsection may be made directly to an acquiring credit institution into which the member credit institution referred to in Subsection 1 merges.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137328: The central institution shall promptly repay to the member credit institutions the amount collected from them under this Subsection according as the central institution accumulates funds in terms of refund of contributed capital referred to in Subsection 2 in proportion to the amounts collected from each member credit institution. Furthermore, the central institution shall, on the same grounds, pay to the member credit institutions the amount which it receives in terms of a return on the capital contributed referred to in this Subsection.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137329: The amount equalling the member credit institution's receivable referred to in Subsection 1 above from the central institution, adjusted for any tax liability, shall be deducted from the member credit institution's own capital.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_137330: Section 27
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_137331: Central institution's liability to pay a member credit institution's overdue debt
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_137332: A creditor who has not received payment of an overdue amount (principal debt) may demand payment from the central institution when the principal debt falls due.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137333: If liquidators of a member credit institution in liquidation have discovered in liquidation proceedings, in the case other than that referred to in Subsection 1, that the member credit institution's liabilities exceed its assets, the liquidators shall prepare a statement of this deficit and demand that the central institution pay to the member credit institution the amount of this deficit.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137334: If the demand referred to in Subsection 1 or 2 has been made to the central institution, it shall prepare a calculation (refinancing calculation) on each member credit institution's liability laid down in Section 25 without delay but no later than after 30 days of the date on which the demand was made, and notify the member credit institutions thereof. The member credit institution shall pay its share of the amount to the central institution within the time stipulated in the bylaws of the central institution but no later than after 30 days of the date on which the calculation referred to in this Subsection has been brought to its attention.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137335: The central institution shall have the right to recover the amount from the member credit institution that it has paid to the member credit institution's creditor or the member credit institution by virtue of this Section. After having recovered from the credit institution the amount referred to in this Subsection in full or in part, the central institution shall promptly pay back the recovered amount to the credit institutions referred to in Subsection 3 in proportion to their share of the liability laid down in Section 25 above.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:15]
+PARAGRAPH_137336: The member credit institution referred to in Subsection 1 above may not be adjudicated bankrupt upon a creditor's petition before the creditor has demanded from the central institution repayment of the principal debt referred to in Subsection 1 in the manner laid down in said Subsection, and the time prescribed for payment in Subsection 3 has expired. The member credit institution referred to in Subsection 2 above may not be adjudicated bankrupt before liquidators have made the demand referred to in Subsection 2 on the central institution and the time prescribed for payment in Subsection 3 has expired.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137338: Section 28 Payment liability of a member credit institution in liquidation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137339: The provisions of this Chapter governing payment liability of a member credit institution shall also apply to a member credit institution in liquidation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137340: The assets of a member credit institution in liquidation may not be distributed to shareholders or cooperative owners before five years have passed from the end of the calendar year in which the liquidation began, unless a shareholder or cooperative owner lodges a sufficient security.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137341: Section 29
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137342: Payment liability of a member credit institution withdrawn or expelled from the central institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137343: The provisions of this Chapter governing payment liability of a member credit institution shall also apply to a former member credit institution which has withdrawn or expelled from the central institution, if less than five years have passed from the end of the calendar year of the member credit institution's withdrawal or expulsion from the central institution when a demand regarding payment liability is made on the credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137344: Section 30 Exception to payment liability of a member credit institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137345: The provisions above of this Chapter governing payment liability of a member credit institution shall not apply to a member credit institution whose capital or consolidated capital falls below the minimum, or as a consequence of fulfilment of the payment liability, would fall below the minimum requirement for capital or consolidated capital prescribed by the Act on Credit Institutions, or if the lower requirements laid down in Section 21 of said Act applies to the member credit institution, below the minimum requirement for capital or consolidated capital laid down in said Section. The member credit institution referred to herein shall not be taken into account in calculating the member credit institutions' proportionate share of the amount of their liability referred to in Section 25.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137346: Section 31
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16]
+PARAGRAPH_137347: Member credit institution's non-fulfilment of payment liability
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:16] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137348: If a member credit institution has failed to effect the payment referred to in this Chapter to the central institution, the amount of this payment may be collected through recovery proceedings on the basis of the confirmed refinancing calculation approved by the Financial Supervisory Authority, in the manner as enacted on the enforcement of a legally final judgement. If the amount cannot be recovered from some member credit institution, the central institution shall prepare a new refinancing calculation on the basis of which the payment liability based on the missing amount shall be divided amongst the other member credit institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_137350: Chapter 6 Supervision
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_137351: Section 32 Supervision of companies belonging to the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137352: The Financial Supervisory Authority shall supervise the central institution of the amalgamation as laid down herein and the Act on Financial Supervisory Authority. The central institution's member credit institutions and other companies within the amalgamation shall be supervised by the Financial Supervisory Authority as laid down herein and the Act on Financial Supervisory Authority, and by the central institution as laid down herein.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137353: The central institution shall exercise oversight to ensure that the companies within the amalgamation operate in accordance with the laws, decrees and regulations issued by the relevant authorities governing financial markets, and their own bylaws or articles of associations and the instructions issued by the central institution by virtue of Section 17 above. Furthermore, Section 3 prescribes the central institution's duties to supervise the financial position of the companies within the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137354: The Financial Supervisory Authority shall oversee the central institution so that it controls and supervises the operations of its member credit institutions in accordance with the provisions of this Act and that the companies within the amalgamation fulfil the requirements laid down herein.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137355: If a company belonging to the amalgamation has failed to comply with the instructions referred to in Section 20 above and in the manner referred to in said Section, the Financial Supervisory Authority shall stipulate a reasonable time within which the company must take the necessary measures to ensure satisfactory compliance with the instructions. If said company has not taken the required measures within the stipulated time, the Financial Supervisory Authority may decide, in addition to what is prescribed elsewhere in the law in respect of its powers, that the provisions in Sections 21 and 23 shall not apply to the member credit institution.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137356: The Financial Supervisory Authority shall hear the central institution prior to making the decision referred to in Subsection 3 which may have a significant effect on the operations or operating conditions of the member credit institution or on control, risk management or capital adequacy of the amalgamation within the meaning of Chapter 3.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_137357: The Financial Supervisory Authority manages the tasks provided for it herein and elsewhere in law, unless otherwise provided for in Council Regulation (EU) No 1024/2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_137358: Section 33
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17]
+PARAGRAPH_137359: Central institution's reporting requirement and duty of disclosure
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:17] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137360: The central institution shall quarterly report to the Financial Supervisory Authority information necessary for supervision of the capital adequacy of the amalgamation and its
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137362: member credit institutions as well as customer exposures and restrictions regarding ownership of business or industrial corporations, and for the monitoring of risk concentrations and internal business operations, and annually provide the assessment referred to in Section 23 above. Furthermore, the central institution is under an obligation to provide the Financial Supervisory Authority with all information and reports it requires necessary for supervision of the companies belonging to the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137363: The Financial Supervisory Authority may issue regulations on the content of the reporting requirement prescribed herein to the central institution necessary for supervision of the amalgamation.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137364: Section 34
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137365: Reporting requirement of a company belonging to the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137366: A company belonging to the amalgamation is under an obligation to provide the Financial Supervisory Authority with all information and reports it requires necessary for consolidated supervision of the amalgamation and for consolidated supervision of the central institution and its member credit institutions.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137367: Chapter 7 Miscellaneous provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137369: Account terms and conditions for deposits
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137370: The account terms and conditions for deposits with a member credit institution must indicate that the member credit institution belongs to the amalgamation referred to herein.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137371: Section 36
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137372: Principle of equality
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137373: When issuing instructions, performing supervision or otherwise fulfilling its duties referred to herein, the central institution may not treat the companies within the amalgamation unequally without a justified reason.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137374: Section 37
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18]
+PARAGRAPH_137375: Powers and responsibility of the central institution
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137376: When the central institution performs its supervisory duties referred to herein, its rights shall be, where applicable, in force as laid down in the provisions of Section 32 of the Act on Financial Supervisory Authority governing the right to convene and be present at a meeting, Section 29 of said Act governing a representative appointed by the Financial Supervisory Authority, and Sections 18, 19, 23 and 24 of said Act governing the right of inspection and the right to receive information.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:18] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137377: When performing his supervisory task as the representative for the central institution referred to in Chapter 6, his responsibility and any lack of impartiality shall be in force as laid down in the provisions of Section 34 of the Act on Financial Supervisory Authority.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137379: 38 § Confidentiality
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137380: The provisions in Chapter 15, sections 14 and 15 of the Act on Credit Institutions on confidentiality and the right to disclose information on a credit institution shall also apply to the central institution Companies belonging to the amalgamation, a guarantee fund to which the member credit institutions of the central institution belong, and the member credit institutions' mutual insurance company may disclose information to each other, notwithstanding said sections. Nevertheless, information referred to in this Section may be disclosed only to a person who is bound by confidentiality laid down in the aforementioned Sections or by confidentiality equivalent thereto.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137381: 39 § Bringing an action on behalf of a deposit bank
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137382: The central institution shall have the right to bring an action for damages on behalf of a deposit bank as member of the central institution against a person or institution referred to in Chapter 21, Section 1 of the Act on Credit Institutions, if it considers that depositors' best interests so require.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137383: 40 § Implementing and transition provisions
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137384: This Act shall come into force on 1 July 2010.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137385: Prior entry into force of this Act, the central institution established in accordance with the Act on Cooperative Banks and Other Cooperative Credit Institutions (1504/2001) shall apply for a licence referred to herein and the central institution and its member credit institutions shall amend their bylaws in compliance with this Act no later than 18 months of the date of entry into force of this Act. The provisions of Section 11, Subsection 1 governing documents appended to the licence application shall not apply to the licence application within the meaning of this subsection.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137386: Entry into force and implementing of changes
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137387: 30.12.2010/1359
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137388: This Act shall come into force on 31 December 2010.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137389: 14.6.2013/425
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137390: This Act shall come into force on 1 January 2014.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19]
+PARAGRAPH_137391: 8.8.2014/616
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137392: This Act shall come into force on 15 August 2014.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:19] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137393: A central institution, which is authorised at the time of entry into force of this Act, shall issue the instructions referred to in section 17 to the companies belonging to the amalgamation
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137395: and notify the Financial Supervisory Authority of said instructions within six months after the entry into force of the Act at the latest. The Financial Supervisory Authority shall make the decision referred to sections 21, 21 a, 21 b and 23 within six months after receipt of the notification at the latest. Sections 21 and 23 shall apply, as they are upon the entry into force of this Act, to a member credit institution until the Financial Supervisory Authority has made the decision referred to in this subsection or, if the central institution has not made the notification referred to in this subsection within the time limit provided for in the subsection, until the expiry of the time limit.
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20]
+PARAGRAPH_137396: 19.12.2014/1200
+
+[JURISDICTION:FINNISH] [SOURCE:LLL] [CATEGORY:FINANCIAL_REGULATION] [PAGE:20] [REQ_TYPE:MANDATORY]
+PARAGRAPH_137397: This Act shall come into force on 1 January 2014.
+
