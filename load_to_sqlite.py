@@ -75,9 +75,7 @@ def create_database():
 def determine_category(filepath):
     """Determine document category from filepath"""
     parts = Path(filepath).parts
-    if "EU_LEG_IN_FORCE_GOLD" in parts:
-        return "EU_LEGISLATION", "EU"
-    elif "FINANCIAL_REGULATION_EU_AND_LOCAL_IN_FORCE_GOLD" in parts:
+    if "FINANCIAL_REGULATION_EU_AND_LOCAL_IN_FORCE_GOLD" in parts:
         # Try to get subcategory (Basel, BRRD, CRD, etc.)
         for part in parts:
             if part in ["Basel", "BRRD", "CRD", "CRR", "EBA", "FIVA_MOK", "IFRS", "LLL", "MiFID", "MiFIR", "SFDR", "VYL"]:
@@ -85,7 +83,7 @@ def determine_category(filepath):
         return "FINANCIAL_REGULATION", "OTHER"
     elif "OTHER_RELATED_NATIONAL_LAWS" in parts:
         return "NATIONAL_LAWS", "FINLAND"
-    return "UNKNOWN", "UNKNOWN"
+    return None, None  # Skip documents that don't match our categories
 
 def process_json_file(filepath, conn, commit=True):
     """Process a single JSON file and insert into database"""
@@ -100,6 +98,10 @@ def process_json_file(filepath, conn, commit=True):
         
         # Get category
         category, subcategory = determine_category(filepath)
+        
+        # Skip documents that don't match our target categories
+        if category is None:
+            return False
         
         # Convert to relative path (relative to DATA_PATH)
         try:
