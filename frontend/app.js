@@ -8,6 +8,8 @@ async function init() {
     await loadAnalysisData();
     showLandingPage();
     setupBackButton();
+    setupTabs();
+    setupChat();
 }
 
 // Load analysis JSON data
@@ -911,6 +913,125 @@ function getGradientColor(index) {
         'linear-gradient(135deg, #30cfd0 0%, #330867 100%)',
     ];
     return gradients[index % gradients.length];
+}
+
+// Tab switching
+function setupTabs() {
+    const tabButtons = document.querySelectorAll('.tab-button');
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tab = button.dataset.tab;
+            tabButtons.forEach(b => b.classList.remove('active'));
+            button.classList.add('active');
+            document.querySelectorAll('.tab-content').forEach(content => {
+                content.classList.remove('active');
+                content.style.display = 'none';
+            });
+            const activeTab = document.getElementById(`${tab}-tab`);
+            activeTab.classList.add('active');
+            activeTab.style.display = 'block';
+        });
+    });
+}
+
+// Chat functionality
+function setupChat() {
+    const chatInput = document.getElementById('chat-input');
+    const chatSend = document.getElementById('chat-send');
+    const chatMessages = document.getElementById('chat-messages');
+    let isProcessing = false;
+
+    async function sendMessage() {
+        const message = chatInput.value.trim();
+        if (!message || isProcessing) return;
+
+        // Set processing state
+        isProcessing = true;
+        chatInput.disabled = true;
+        chatSend.disabled = true;
+        chatSend.classList.add('loading');
+        chatSend.textContent = '';
+
+        addUserMessage(message);
+        chatInput.value = '';
+
+        const loadingMsg = addLoadingMessage();
+
+        try {
+            const response = await fetch('/api/graphrag/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message, method: 'local' })
+            });
+
+            const data = await response.json();
+            removeLoadingMessage(loadingMsg);
+
+            if (data.success) {
+                addBotMessage(data.response);
+            } else {
+                addBotMessage('Error: ' + (data.error || 'Query failed'));
+            }
+        } catch (error) {
+            removeLoadingMessage(loadingMsg);
+            addBotMessage('Error: ' + error.message);
+        } finally {
+            // Reset processing state
+            isProcessing = false;
+            chatInput.disabled = false;
+            chatSend.disabled = false;
+            chatSend.classList.remove('loading');
+            chatSend.textContent = 'Send';
+            chatInput.focus();
+        }
+    }
+
+    chatSend.addEventListener('click', sendMessage);
+    chatInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey && !isProcessing) {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+
+    function addUserMessage(text) {
+        const msg = document.createElement('div');
+        msg.className = 'chat-message user';
+        msg.innerHTML = `<div class="message-content"><p>${escapeHtml(text)}</p></div>`;
+        chatMessages.appendChild(msg);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    function addBotMessage(text) {
+        const msg = document.createElement('div');
+        msg.className = 'chat-message bot';
+        msg.innerHTML = `<div class="message-content">${formatBotMessage(text)}</div>`;
+        chatMessages.appendChild(msg);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+    }
+
+    function addLoadingMessage() {
+        const msg = document.createElement('div');
+        msg.className = 'chat-message bot loading-message';
+        msg.innerHTML = '<div class="message-content"><div class="loading-dots"><span></span><span></span><span></span></div></div>';
+        chatMessages.appendChild(msg);
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+        return msg;
+    }
+
+    function removeLoadingMessage(msg) {
+        if (msg) msg.remove();
+    }
+
+    function formatBotMessage(text) {
+        return escapeHtml(text).replace(/\n/g, '<br>');
+    }
+
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
 }
 
 // Initialize app when DOM is ready

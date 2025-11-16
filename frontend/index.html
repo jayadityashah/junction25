@@ -11,12 +11,40 @@
     <!-- Landing page with risk categories -->
     <div id="landing-page" class="container">
         <header>
-            <h1>🏦 EU Financial Document Analysis</h1>
+            <h1>EU Financial Document Analysis</h1>
             <p class="subtitle">Explore overlaps and contradictions in regulatory documents</p>
+            <div class="nav-tabs">
+                <button class="tab-button active" data-tab="graph">Graph View</button>
+                <button class="tab-button" data-tab="chat">GraphRAG Chat</button>
+            </div>
         </header>
 
-        <div class="risk-categories" id="risk-categories">
-            <!-- Risk category cards will be added here -->
+        <div id="graph-tab" class="tab-content active">
+            <div class="risk-categories" id="risk-categories">
+                <!-- Risk category cards will be added here -->
+            </div>
+        </div>
+
+        <div id="chat-tab" class="tab-content" style="display: none;">
+            <div class="chat-container">
+                <div class="chat-messages" id="chat-messages">
+                    <div class="chat-message bot">
+                        <div class="message-content">
+                            <p>Hello! I can help you query the GraphRAG knowledge graph of regulatory documents.</p>
+                            <p>Try asking questions like:</p>
+                            <ul>
+                                <li>"What are the credit risk requirements in EU regulations?"</li>
+                                <li>"Compare liquidity risk requirements between EU and Finnish regulations"</li>
+                                <li>"What are the capital requirements under CRR?"</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="chat-input-container">
+                    <input type="text" id="chat-input" placeholder="Ask a question about regulatory documents..." />
+                    <button id="chat-send" class="send-button">Send</button>
+                </div>
+            </div>
         </div>
     </div>
 
