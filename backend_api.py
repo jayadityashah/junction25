@@ -6,6 +6,9 @@ from flask import Flask, jsonify, send_from_directory, request
 from flask_cors import CORS
 import sqlite3
 from pathlib import Path
+import subprocess
+import os
+import sys
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for frontend requests
@@ -13,6 +16,7 @@ CORS(app)  # Enable CORS for frontend requests
 SCRIPT_DIR = Path(__file__).parent
 DB_PATH = SCRIPT_DIR / "legal_documents.db"
 FRONTEND_DIR = SCRIPT_DIR / "frontend"
+GRAPHRAG_DIR = SCRIPT_DIR / "risk-graphrag-project"
 
 @app.route('/')
 def index():
@@ -298,7 +302,7 @@ def get_stats():
         conn = sqlite3.connect(str(DB_PATH))
         conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
-        
+
         # Document counts by category
         cursor.execute("""
             SELECT category, subcategory, COUNT(*) as count
@@ -306,21 +310,21 @@ def get_stats():
             GROUP BY category, subcategory
             ORDER BY category, subcategory
         """)
-        
+
         categories = [dict(row) for row in cursor.fetchall()]
-        
+
         # Total counts
         cursor.execute("SELECT COUNT(*) as count FROM documents")
         total_docs = cursor.fetchone()["count"]
-        
+
         cursor.execute("SELECT COUNT(*) as count FROM pages")
         total_pages = cursor.fetchone()["count"]
-        
+
         cursor.execute("SELECT COUNT(*) as count FROM paragraphs")
         total_paragraphs = cursor.fetchone()["count"]
-        
+
         conn.close()
-        
+
         return jsonify({
             "total_documents": total_docs,
             "total_pages": total_pages,
@@ -329,6 +333,44 @@ def get_stats():
         })
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+@app.route('/api/graphrag/chat', methods=['POST'])
+def graphrag_chat():
+    """Chat interface endpoint for GraphRAG queries"""
+    try:
+        data = request.get_json()
+        message = data.get('message', '')
+        method = data.get('method', 'local')
+
+        if not message:
+            return jsonify({"error": "Message is required"}), 400
+
+        cmd = f'uv run graphrag query --root . --method {method} --query "{message}"'
+
+        result = subprocess.run(
+            cmd,
+            shell=True,
+            capture_output=True,
+            text=True,
+            timeout=120,
+            cwd=str(GRAPHRAG_DIR)
+        )
+
+        if result.returncode == 0:
+            return jsonify({
+                "success": True,
+                "response": result.stdout
+            })
+        else:
+            return jsonify({
+                "success": False,
+                "error": result.stderr or "Query failed"
+            }), 500
+
+    except subprocess.TimeoutExpired:
+        return jsonify({"success": False, "error": "Query timeout"}), 504
+    except Exception as e:
+        return jsonify({"success": False, "error": str(e)}), 500
 
 if __name__ == '__main__':
     print(f"🚀 Starting API server...")
