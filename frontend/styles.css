@@ -186,27 +186,22 @@ header h1 {
 
 /* Graph Sidebar */
 .sidebar-toggle {
-    position: absolute;
-    top: 1.5rem;
-    right: 1.5rem;
-    width: 40px;
-    height: 40px;
-    background: white;
-    border: 2px solid var(--border-color);
+    background: rgba(255, 255, 255, 0.2);
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    color: white;
+    padding: 0.625rem 1.25rem;
     border-radius: 8px;
     cursor: pointer;
-    font-size: 1.25rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    z-index: 150;
+    font-size: 0.95rem;
+    font-weight: 600;
     transition: all 0.2s ease;
-    box-shadow: var(--shadow);
+    white-space: nowrap;
+    margin-left: auto;
 }
 
 .sidebar-toggle:hover {
-    background: var(--bg-color);
-    border-color: var(--primary-color);
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.8);
 }
 
 .graph-sidebar {
