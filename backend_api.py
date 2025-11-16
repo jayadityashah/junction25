@@ -6,6 +6,9 @@ from flask import Flask, jsonify, send_from_directory, request
 from flask_cors import CORS
 import sqlite3
 from pathlib import Path
+import subprocess
+import os
+import sys
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for frontend requests
@@ -13,6 +16,7 @@ CORS(app)  # Enable CORS for frontend requests
 SCRIPT_DIR = Path(__file__).parent
 DB_PATH = SCRIPT_DIR / "legal_documents.db"
 FRONTEND_DIR = SCRIPT_DIR / "frontend"
+GRAPHRAG_DIR = SCRIPT_DIR / "risk-graphrag-project"
 
 @app.route('/')
 def index():
@@ -298,7 +302,7 @@ def get_stats():
         conn = sqlite3.connect(str(DB_PATH))
         conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
-        
+
         # Document counts by category
         cursor.execute("""
             SELECT category, subcategory, COUNT(*) as count
@@ -306,21 +310,21 @@ def get_stats():
             GROUP BY category, subcategory
             ORDER BY category, subcategory
         """)
-        
+
         categories = [dict(row) for row in cursor.fetchall()]
-        
+
         # Total counts
         cursor.execute("SELECT COUNT(*) as count FROM documents")
         total_docs = cursor.fetchone()["count"]
-        
+
         cursor.execute("SELECT COUNT(*) as count FROM pages")
         total_pages = cursor.fetchone()["count"]
-        
+
         cursor.execute("SELECT COUNT(*) as count FROM paragraphs")
         total_paragraphs = cursor.fetchone()["count"]
-        
+
         conn.close()
-        
+
         return jsonify({
             "total_documents": total_docs,
             "total_pages": total_pages,
@@ -330,71 +334,43 @@ def get_stats():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-@app.route('/api/requirements/analysis', methods=['GET'])
-def get_requirements_analysis():
-    """Get the complete requirements analysis for frontend"""
+@app.route('/api/graphrag/chat', methods=['POST'])
+def graphrag_chat():
+    """Chat interface endpoint for GraphRAG queries"""
     try:
-        from pathlib import Path
-        analysis_file = SCRIPT_DIR / 'frontend' / 'requirements_analysis.json'
-        
-        if not analysis_file.exists():
-            return jsonify({"error": "Requirements analysis not found. Run the pipeline first."}), 404
-        
-        with open(analysis_file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-        
-        return jsonify(data)
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        data = request.get_json()
+        message = data.get('message', '')
+        method = data.get('method', 'local')
 
-@app.route('/api/requirements/<path:filename>', methods=['GET'])
-def get_document_requirements(filename):
-    """Get all requirements for a specific document"""
-    try:
-        import json as json_module
-        conn = sqlite3.connect(str(DB_PATH))
-        conn.row_factory = sqlite3.Row
-        cursor = conn.cursor()
-        
-        # Get document ID
-        cursor.execute("""
-            SELECT id FROM documents
-            WHERE filename = ? OR filepath = ?
-        """, (filename, filename))
-        
-        doc = cursor.fetchone()
-        if not doc:
-            return jsonify({"error": "Document not found"}), 404
-        
-        doc_id = doc["id"]
-        
-        # Get all requirements for this document
-        cursor.execute("""
-            SELECT 
-                id,
-                requirement_text,
-                risk_category,
-                start_page,
-                end_page
-            FROM requirements
-            WHERE document_id = ?
-            ORDER BY start_page, id
-        """, (doc_id,))
-        
-        requirements = []
-        for row in cursor.fetchall():
-            requirements.append({
-                "id": row["id"],
-                "text": row["requirement_text"],
-                "risk_category": row["risk_category"],
-                "start_page": row["start_page"],
-                "end_page": row["end_page"]
+        if not message:
+            return jsonify({"error": "Message is required"}), 400
+
+        cmd = f'uv run graphrag query --root . --method {method} --query "{message}"'
+
+        result = subprocess.run(
+            cmd,
+            shell=True,
+            capture_output=True,
+            text=True,
+            timeout=120,
+            cwd=str(GRAPHRAG_DIR)
+        )
+
+        if result.returncode == 0:
+            return jsonify({
+                "success": True,
+                "response": result.stdout
             })
-        
-        conn.close()
-        return jsonify(requirements)
+        else:
+            return jsonify({
+                "success": False,
+                "error": result.stderr or "Query failed"
+            }), 500
+
+    except subprocess.TimeoutExpired:
+        return jsonify({"success": False, "error": "Query timeout"}), 504
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return jsonify({"success": False, "error": str(e)}), 500
 
 if __name__ == '__main__':
     print(f"🚀 Starting API server...")
