@@ -330,6 +330,72 @@ def get_stats():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route('/api/requirements/analysis', methods=['GET'])
+def get_requirements_analysis():
+    """Get the complete requirements analysis for frontend"""
+    try:
+        from pathlib import Path
+        analysis_file = SCRIPT_DIR / 'frontend' / 'requirements_analysis.json'
+        
+        if not analysis_file.exists():
+            return jsonify({"error": "Requirements analysis not found. Run the pipeline first."}), 404
+        
+        with open(analysis_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/requirements/<path:filename>', methods=['GET'])
+def get_document_requirements(filename):
+    """Get all requirements for a specific document"""
+    try:
+        import json as json_module
+        conn = sqlite3.connect(str(DB_PATH))
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+        
+        # Get document ID
+        cursor.execute("""
+            SELECT id FROM documents
+            WHERE filename = ? OR filepath = ?
+        """, (filename, filename))
+        
+        doc = cursor.fetchone()
+        if not doc:
+            return jsonify({"error": "Document not found"}), 404
+        
+        doc_id = doc["id"]
+        
+        # Get all requirements for this document
+        cursor.execute("""
+            SELECT 
+                id,
+                requirement_text,
+                risk_category,
+                start_page,
+                end_page
+            FROM requirements
+            WHERE document_id = ?
+            ORDER BY start_page, id
+        """, (doc_id,))
+        
+        requirements = []
+        for row in cursor.fetchall():
+            requirements.append({
+                "id": row["id"],
+                "text": row["requirement_text"],
+                "risk_category": row["risk_category"],
+                "start_page": row["start_page"],
+                "end_page": row["end_page"]
+            })
+        
+        conn.close()
+        return jsonify(requirements)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     print(f"🚀 Starting API server...")
     print(f"📁 Database: {DB_PATH}")

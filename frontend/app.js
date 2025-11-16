@@ -10,16 +10,32 @@ async function init() {
     setupBackButton();
 }
 
-// Load analysis JSON data
+// Load analysis JSON data (requirements-based)
 async function loadAnalysisData() {
     try {
-        const response = await fetch('analysis_results.json');
+        const response = await fetch('requirements_analysis.json');
         if (!response.ok) {
-            throw new Error('Analysis file not found');
+            throw new Error('Requirements analysis file not found. Please run the pipeline first.');
         }
         analysisData = await response.json();
     } catch (error) {
         console.error('Error loading analysis data:', error);
+        document.body.innerHTML = `
+            <div style="padding: 2rem; text-align: center;">
+                <h2>⚠️ Requirements Analysis Not Found</h2>
+                <p>Please run the requirement extraction pipeline first:</p>
+                <pre style="background: #f3f4f6; padding: 1rem; border-radius: 8px; margin: 1rem auto; max-width: 600px; text-align: left;">
+# Step 1: Extract requirements
+python risk_requirement_pipeline/requirement_extraction_pipeline.py
+
+# Step 2: Find relationships
+python risk_requirement_pipeline/requirement_relationship_pipeline.py
+
+# Step 3: Export for frontend
+python risk_requirement_pipeline/export_for_frontend.py
+                </pre>
+            </div>
+        `;
         analysisData = { risk_categories: [] };
     }
 }
@@ -779,7 +795,7 @@ async function showNodeDetails(filename, risk) {
                     </div>
                     <p class="connection-others">${conn.others.join(', ')}</p>
                     <p class="connection-reason">${conn.data.reason.substring(0, 150)}...</p>
-                    <button class="view-paragraphs-btn">View Paragraphs →</button>
+                    <button class="view-paragraphs-btn">View Requirements →</button>
                 </div>
             `).join('')}
         </div>
@@ -793,7 +809,7 @@ window.showConnectionDetails = function(connectionData, type) {
     showEdgeDetailsFromData(connectionData, type);
 };
 
-// Show edge details from connection data
+// Show edge details from connection data (requirements-based)
 async function showEdgeDetailsFromData(item, type) {
     const panel = document.getElementById('detail-panel');
     const content = document.getElementById('panel-content');
@@ -811,41 +827,42 @@ async function showEdgeDetailsFromData(item, type) {
             <p>${item.reason}</p>
         </div>
         
-        <h3>Relevant Paragraphs</h3>
-        <div id="paragraphs-loading" class="loading">Loading paragraphs...</div>
-        <div id="paragraphs-container"></div>
+        <h3>Relevant Requirements</h3>
+        <div id="content-loading" class="loading">Loading requirements...</div>
+        <div id="content-container"></div>
     `;
     
     panel.classList.add('open');
     
-    // Load paragraphs for all documents
-    const paragraphsContainer = document.getElementById('paragraphs-container');
-    const loadingDiv = document.getElementById('paragraphs-loading');
+    const contentContainer = document.getElementById('content-container');
+    const loadingDiv = document.getElementById('content-loading');
     
     for (const docInfo of item.documents) {
-        const paragraphs = await loadSpecificParagraphs(docInfo.filename, docInfo.relevant_paragraphs);
         const metadata = await getDocInfo(docInfo.filename);
         
         const docSection = document.createElement('div');
         docSection.className = 'document-section';
+        
+        // Display requirements
+        const requirements = docInfo.requirements || [];
         docSection.innerHTML = `
             <div class="doc-section-header">
                 <h4>${metadata.display_name}</h4>
                 ${metadata.pdf_path ? `<a href="/${metadata.pdf_path}" target="_blank" class="pdf-link-small">📄 PDF</a>` : ''}
             </div>
-            ${paragraphs.length === 0 ? '<p class="loading">No paragraphs found</p>' : ''}
-            ${paragraphs.map(p => `
-                <div class="paragraph-highlight">
-                    <div class="paragraph-meta">
-                        <span class="page-tag">Page ${p.page}</span>
-                        <span class="para-tag">Para ${p.index}</span>
+            ${requirements.length === 0 ? '<p class="loading">No requirements found</p>' : ''}
+            ${requirements.map(req => `
+                <div class="requirement-highlight">
+                    <div class="requirement-meta">
+                        <span class="page-tag">Pages ${req.start_page}-${req.end_page}</span>
+                        ${req.risk_category ? `<span class="risk-tag">${req.risk_category.replace(/_/g, ' ')}</span>` : ''}
                     </div>
-                    <div class="paragraph-text">${p.content}</div>
+                    <div class="requirement-text">${req.text}</div>
                 </div>
             `).join('')}
         `;
         
-        paragraphsContainer.appendChild(docSection);
+        contentContainer.appendChild(docSection);
     }
     
     loadingDiv.remove();
@@ -859,31 +876,19 @@ async function showEdgeDetails(edge) {
     await showEdgeDetailsFromData(item, edgeData.type);
 }
 
-// Load specific paragraphs from document
-async function loadSpecificParagraphs(filename, paragraphRefs) {
+// Load requirements for a document (if needed for future features)
+async function loadDocumentRequirements(filename) {
     try {
-        const response = await fetch(`/api/document/${encodeURIComponent(filename)}/paragraphs`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(paragraphRefs)
-        });
+        const response = await fetch(`/api/requirements/${encodeURIComponent(filename)}`);
         
         if (!response.ok) {
-            console.error('Error fetching paragraphs:', filename);
+            console.error('Error fetching requirements:', filename);
             return [];
         }
         
-        const paragraphs = await response.json();
-        
-        return paragraphs.map(p => ({
-            page: p.page_number,
-            index: p.paragraph_index,
-            content: p.content
-        }));
+        return await response.json();
     } catch (error) {
-        console.error('Error loading paragraphs:', error);
+        console.error('Error loading requirements:', error);
         return [];
     }
 }
