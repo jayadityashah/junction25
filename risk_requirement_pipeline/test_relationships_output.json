@@ -1,0 +1,781 @@
+{
+  "risk_category": "LEGAL_RISK",
+  "total_requirements": 2450,
+  "total_documents": 86,
+  "total_relationships": 12,
+  "token_usage": {},
+  "overlaps": [
+    {
+      "type": "OVERLAP",
+      "description": "These requirements all mandate that credit risk mitigation techniques, such as collateral, netting agreements, and guarantees, must be legally effective and enforceable in all relevant jurisdictions to be recognized for regulatory capital purposes. They consistently emphasize the need for institutions to conduct sufficient legal review and, in many cases, obtain formal legal opinions to confirm this enforceability, particularly in the event of a counterparty's default, insolvency, or bankruptcy. The requirements are complementary, reinforcing the same principle of legal certainty across different regulatory frameworks (Basel, CRR, IFRS, EBA Guidelines).",
+      "documents": [
+        {
+          "filename": "CELEX_32023R1803_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 160,
+              "text": "To meet the criterion in paragraph 42(a), an entity must currently have a legally enforceable right of set-off, meaning the right must not be contingent on a future event and must be legally enforceable in all of the following circumstances: (i) the normal course of business; (ii) the event of default; and (iii) the event of insolvency or bankruptcy of the entity and all of the counterparties.",
+              "start_page": 3,
+              "end_page": 987,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Guidelines on CRM for A-IRB institutions.di.json",
+          "requirements": [
+            {
+              "id": 3252,
+              "text": "Institutions shall establish internal requirements that ensure that the collateral agreement (FCP) is legally effective and enforceable, ensuring the power of the creditor to enforce the realisation of the collateral.",
+              "start_page": 9,
+              "end_page": 44,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 3255,
+              "text": "Institutions should obtain a legal opinion confirming the legal effectiveness and enforceability of the FCP in all relevant jurisdictions. This opinion should be provided in a written form by a legal counsel who is independent from the credit decision process and is not responsible for originating or renewing the exposures under consideration. Legal opinions should be obtained at least for each type of collateral arrangement rather than for each specific collateral arrangement. Where a single legal opinion is issued for multiple collateral arrangements, that legal opinion must relate to the same applicable law and must be in relation to the same type of obligor. Any substantive variation to the terms of the collateral arrangement that could affect the legal effectiveness and enforceability of the specific collateral arrangement should trigger the need for an additional legal opinion.",
+              "start_page": 9,
+              "end_page": 44,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 3257,
+              "text": "Institutions should obtain a legal opinion confirming the legal effectiveness and enforceability of the UFCP in all relevant jurisdictions, as required in Article 183(1)(c) of the CRR. This legal opinion should be provided in written form by a legal counsel who is independent from the credit decision processes responsible for originating or renewing the exposures under consideration. Legal opinions should be obtained for each type of UFCP contract rather than for each specific UFCP contract (noting that a single legal opinion can be obtained for multiple UFCP contracts, if they are subject to the same applicable law). Institutions should obtain an additional legal opinion relating to any substantive variation to the terms of the contract that could affect the legal effectiveness and enforceability of the arrangement of the specific unfunded credit protection.",
+              "start_page": 9,
+              "end_page": 44,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Guidelines on management of non-performing and forborne exposures.di.json",
+          "requirements": [
+            {
+              "id": 3428,
+              "text": "For movable property, credit institutions shall conduct a sufficient legal review confirming the enforceability of the collateral, including an assessment of the legal right to enforce and liquidate the collateral in the event of default, within a reasonable timeframe.",
+              "start_page": 54,
+              "end_page": 54,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "BaselFramework.di.json",
+          "requirements": [
+            {
+              "id": 6596,
+              "text": "To obtain capital relief for any use of CRM techniques, all documentation for collateralised transactions, on-balance sheet netting agreements, guarantees, and credit derivatives must be binding on all parties and legally enforceable in all relevant jurisdictions. Banks must have conducted sufficient legal review to verify enforceability, have a well-founded legal basis for this conclusion, and undertake further review as necessary to ensure continuing enforceability.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 6597,
+              "text": "The legal mechanism for pledging or transferring collateral must ensure the bank can liquidate or take possession of it in a timely manner upon counterparty default, insolvency, bankruptcy, or other defined credit events. Banks must take all necessary steps to fulfill local requirements for maintaining an enforceable security interest (e.g., registration) or exercising set-off rights.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 6598,
+              "text": "The effects of bilateral netting agreements covering SFTs may be recognized on a counterparty-by-counterparty basis if they are legally enforceable in each relevant jurisdiction upon an event of default, regardless of counterparty insolvency or bankruptcy. Netting agreements must provide the non-defaulting party the right to terminate/close out transactions timely upon default (including insolvency), net gains/losses (including collateral value) to a single net amount owed, allow prompt liquidation/set-off of collateral, and be legally enforceable in all relevant jurisdictions upon default, irrespective of insolvency.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 6614,
+              "text": "For collateral recognition in IRB, any claim on collateral must be legally enforceable in all relevant jurisdictions, properly filed timely, reflect a perfected lien (all legal requirements fulfilled), and the legal mechanism must ensure the bank can realize the collateral's value within a reasonable timeframe with clear rights over proceeds. Banks must take all steps necessary to fulfill local requirements for enforcing security interests (e.g., registration). A framework allowing the potential lender a perfected first priority claim over the collateral should exist. All documentation must be binding and legally enforceable, verified by sufficient legal review. In case of obligor distress/default, the bank should have legal authority to sell/assign receivables without obligor consent. Compliance with loan covenants, environmental restrictions, and other legal requirements should be reviewed regularly. Only first liens or charges are permissible, except for specified prior claims, ensuring the bank has priority over all other lenders to realized proceeds. General Security Agreements (floating charges) can provide a registered claim over assets.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "CELEX_32013R0575_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 10360,
+              "text": "The technique used to provide the credit protection together with the actions and steps taken and procedures and policies implemented by the lending institution shall be such as to result in credit protection arrangements which are legally effective and enforceable in all relevant jurisdictions. The lending institution shall provide, upon request of the competent authority, the most recent version of the independent, written and reasoned legal opinion or opinions that it used to establish whether its credit protection arrangement or arrangements meet the condition laid down in the first subparagraph.",
+              "start_page": 101,
+              "end_page": 294,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 10362,
+              "text": "Master netting agreements covering repurchase transactions, securities or commodities lending or borrowing transactions or other capital market driven transactions shall qualify as an eligible form of credit risk mitigation where the collateral provided under those agreements meets all the requirements laid down in Article 207(2) to (4) and where all the following conditions are met: (a) they are legally effective and enforceable in all relevant jurisdictions, including in the event of the bankruptcy or insolvency of the counterparty; (b) they give the non-defaulting party the right to terminate and close-out in a timely manner all transactions under the agreement upon the event of default, including in the event of the bankruptcy or insolvency of the counterparty; (c) they provide for the netting of gains and losses on transactions closed out under an agreement so that a single net amount is owed by one party to the other.",
+              "start_page": 101,
+              "end_page": 294,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 10363,
+              "text": "Institutions shall fulfil any contractual and statutory requirements in respect of, and take all steps necessary to ensure, the enforceability of the collateral arrangements under the law applicable to their interest in the collateral. Institutions shall have conducted sufficient legal review confirming the enforceability of the collateral arrangements in all relevant jurisdictions. The protection agreement and the legal process underpinning it enable the institution to realise the value of the protection within a reasonable timeframe [for immovable property collateral]. Institutions shall take all steps necessary to fulfil local requirements in respect of the enforceability of security interest [for receivables collateral]. Lending institutions shall have a first priority claim over the collateral although such claims may still be subject to the claims of preferential creditors provided for in legislative provisions [for receivables collateral]. Institutions shall have conducted sufficient legal review confirming the enforceability of the collateral arrangements in all relevant jurisdictions [for receivables collateral]. Institutions shall have in place procedures that ensure that any legal conditions required for declaring the default of a borrower and timely collection of collateral are observed [for receivables collateral]. In the event of a borrower's financial distress or default, institutions shall have legal authority to sell or assign the receivables to other parties without consent of the receivables obligors [for receivables collateral]. They shall also review, on a regular basis, compliance with loan covenants, environmental restrictions, and other legal requirements [for receivables collateral].",
+              "start_page": 101,
+              "end_page": 294,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 10367,
+              "text": "Credit protection deriving from a guarantee or credit derivative shall qualify as eligible unfunded credit protection where all the following conditions are met: (a) the credit protection is direct; (b) the extent of the credit protection is clearly defined and incontrovertible; (c) the credit protection contract does not contain any clause, the fulfilment of which is outside the direct control of the lender, that would allow unilateral cancellation, increased effective cost due to credit deterioration, prevention of timely payout, or reduction of maturity by the protection provider; (d) the credit protection contract is legally effective and enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit agreement. An institution shall fulfil any contractual and statutory requirements in respect of, and take all steps necessary to ensure, the enforceability of its unfunded credit protection under the law applicable to its interest in the credit protection. An institution shall have conducted sufficient legal review confirming the enforceability of the unfunded credit protection in all relevant jurisdictions. The guarantee is an explicitly documented obligation assumed by the guarantor. Where the protection purchaser's right and ability to transfer the underlying obligation to the protection provider is required for settlement, the terms of the underlying obligation provide that any required consent to such transfer shall not be unreasonably withheld. Where the payout structure of the credit protection provides for physical settlement, there is legal certainty with respect to the deliverability of a loan, bond, or contingent liability. The terms and conditions of credit protection arrangements are legally confirmed in writing by both the protection provider and the institution.",
+              "start_page": 101,
+              "end_page": 294,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements establish a consistent obligation for financial institutions to implement internal whistleblowing procedures. They all mandate the creation of a specific, independent, and autonomous channel for employees to report potential or actual breaches of laws, regulations, and internal policies. The requirements are complementary, ensuring that staff across different types of financial entities have a protected mechanism to escalate compliance concerns, in line with both specific financial regulations and broader EU directives on whistleblower protection.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1575,
+              "text": "Obliged entities shall have in place procedures allowing its employees or agents to report any suspected violations of this Act and the provisions issued under it by means of an independent channel within the obliged entity (whistleblowing procedures). Obliged entities shall take appropriate and adequate steps to protect whistleblowers.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final report on Guidelines on internal governance under CRD.di.json",
+          "requirements": [
+            {
+              "id": 5292,
+              "text": "Institutions should put in place and maintain appropriate internal alert policies and procedures for staff to report potential or actual breaches of regulatory or internal requirements, including, but not limited to, those of Regulation (EU) No 575/2013 and national provisions transposing Directive 2013/36/EU, or of internal governance arrangements, through a specific, independent and autonomous channel.",
+              "start_page": 44,
+              "end_page": 44,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Guidelines on Internal Governance (EBA-GL-2017-11).di.json",
+          "requirements": [
+            {
+              "id": 5829,
+              "text": "Institutions should put in place and maintain appropriate internal alert policies and procedures for staff to report potential or actual breaches of regulatory or internal requirements (including those of Regulation (EU) No 575/2013 and national provisions transposing Directive 2013/36/EU, or of internal governance arrangements) through a specific, independent and autonomous channel. These alert procedures should ensure the protection of the personal data of both the person who reports the breach and the natural person who is allegedly responsible for the breach, in accordance with Directive 95/46/EC, and provide clear rules that ensure that information on the reporting and the reported persons and the breach are treated confidentially, unless disclosure is required under national law in the context of further investigations or subsequent judicial proceedings. The procedures should also ensure that the potential or actual breaches raised are assessed and escalated, including as appropriate to the relevant competent authority or law enforcement agency.",
+              "start_page": 40,
+              "end_page": 41,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Report on GL on internal governance under IFD.di.json",
+          "requirements": [
+            {
+              "id": 6290,
+              "text": "Investment firms must implement appropriate internal alert policies and procedures for staff to report potential or actual breaches of Regulation (EU) No 2019/2033 and national provisions transposing Directive (EU) 2019/2034 through a specific, independent, and autonomous channel. Firms must also implement processes to comply with obligations under the national implementation of Directive (EU) 2019/1937 (whistleblowing). Staff should be able to report breaches outside regular reporting lines (e.g., via compliance or internal audit). Alert procedures must protect the personal data of both the reporter and the alleged responsible person, in accordance with GDPR (Regulation (EU) 2016/679).",
+              "start_page": 41,
+              "end_page": 41,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "610_2014_amendments_up_to_395_2019.di.json",
+          "requirements": [
+            {
+              "id": 9124,
+              "text": "A credit institution must have internal procedures for employees to report suspected infringements of financial market provisions through an independent channel. These procedures must include instructions for protecting the identity of the reporting person unless otherwise provided by law for investigation or authority access to information. Information shall be deleted five years after submission, unless further retention is necessary for criminal investigation, pending judicial proceedings, authority investigations, or to safeguard the rights of the reporting or reported person. The necessity of further retention must be reviewed no later than after three years. A reported person shall not have the right of access under GDPR Article 15 to information related to the report if such access could impede the investigation of suspected infringements.",
+              "start_page": 26,
+              "end_page": 166,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "CELEX_32014L0065_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 9485,
+              "text": "Member States shall ensure that competent authorities establish effective mechanisms to enable reporting of potential or actual infringements of the provisions of Regulation (EU) No 600/2014 and of the national provisions adopted in the implementation of this Directive to competent authorities. These mechanisms shall include at least: protection of the identity of both the person who reports the infringements and the natural person who is allegedly responsible for an infringement, at all stages of the procedures unless such disclosure is required by national law in the context of further investigation or subsequent administrative or judicial proceedings.",
+              "start_page": 104,
+              "end_page": 137,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements all mandate that supervised entities must establish and maintain a permanent, independent, and effective compliance function. This function is consistently tasked with managing compliance risk, advising the management body, and ensuring the institution adheres to all applicable laws, regulations, and internal policies. The requirements from different regulatory sources are aligned, reinforcing the critical role of the compliance function in the internal governance framework of a financial institution.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1573,
+              "text": "Obliged entities shall also designate a compliance officer, providing this is justified with regard to the size and nature of the obliged entity.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "maaraykset-ja-ohjeet-3_2025.di.json",
+          "requirements": [
+            {
+              "id": 2057,
+              "text": "Compliance-toiminnon organisoinnin, ohjeiden ja menettelyjen on oltava riittävät riippumattoman compliance-toiminnan varmistamiseksi Kevan toiminnassa. Toiminnon tulee toimia säännöllisessä yhteistyössä hallintoelinten, toimivan johdon, lakiasioiden, keskeisten toimintojen sekä sisäisen ja ulkoisen tarkastuksen kanssa.",
+              "start_page": 11,
+              "end_page": 20,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "maaraykset-ja-ohjeet-11_2021.di.json",
+          "requirements": [
+            {
+              "id": 2117,
+              "text": "Compliance-toiminto on järjestettävä siten, että se voi hoitaa tehtävänsä tehokkaasti, puolueettomasti, oikeudenmukaisesti ja riippumattomasti.",
+              "start_page": 17,
+              "end_page": 17,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "2017_02.m2.di.json",
+          "requirements": [
+            {
+              "id": 3133,
+              "text": "Compliance-toiminnon organisoinnin, ohjeiden ja menettelyjen on oltava riittävät riippumattoman compliance-toiminnan varmistamiseksi yhtiön toiminnassa.",
+              "start_page": 10,
+              "end_page": 28,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final report on Guidelines on internal governance under CRD.di.json",
+          "requirements": [
+            {
+              "id": 5306,
+              "text": "Institutions should establish a permanent and effective compliance function to manage compliance risk, and should appoint a person to be responsible for this function across the entire institution (the compliance officer or head of compliance).",
+              "start_page": 57,
+              "end_page": 57,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Guidelines on Internal Governance (EBA-GL-2017-11).di.json",
+          "requirements": [
+            {
+              "id": 5834,
+              "text": "Institutions should establish a permanent and effective compliance function to manage compliance risk and should appoint a person to be responsible for this function across the entire institution (the compliance officer or head of compliance). The compliance function, including the head of compliance, should be independent of the business lines and internal units it controls and have sufficient authority, stature and resources. Staff within the compliance function should possess sufficient knowledge, skills and experience in relation to compliance and relevant procedures, and should have access to regular training. The compliance function may be assisted by the RMF or combined with the RMF or other appropriate functions, e.g. the legal division or human resources.",
+              "start_page": 52,
+              "end_page": 52,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Report on GL on internal governance under IFD.di.json",
+          "requirements": [
+            {
+              "id": 6296,
+              "text": "Investment firms must establish a permanent and effective compliance function to manage compliance risk, appointing a dedicated compliance officer responsible across the entire firm. The role of the compliance officer may be combined with the head of the Risk Management Function (RMF) or performed by another senior person (e.g., head of legal) if appointing a dedicated person is not proportionate, provided there is no conflict of interest. Staff within the compliance function must have sufficient knowledge, skills, and experience, and access to regular training.",
+              "start_page": 52,
+              "end_page": 52,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "BaselFramework.di.json",
+          "requirements": [
+            {
+              "id": 6672,
+              "text": "Banks must have adequate policies and processes, including robust, risk-based Customer Due Diligence (CDD) rules and effective compliance functions, to promote high ethical standards and prevent criminal use of the bank. The CDD management programme (group-wide) must include: a customer acceptance policy identifying relationships to avoid/terminate based on risk; ongoing identification, verification, and due diligence (including beneficial ownership, understanding purpose, and risk-based reviews); transaction monitoring policies to identify unusual/suspicious transactions or those related to UN sanctions; enhanced due diligence for high-risk accounts (escalating decisions to senior management); enhanced due diligence for Politically Exposed Persons (including family/associates, escalating decisions to senior management); and clear rules for record-keeping (CDD and transactions) with at least a five-year retention period.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements consistently obligate financial institutions to develop and implement comprehensive risk assessments, policies, procedures, and controls to identify, manage, and mitigate the risks of money laundering and terrorist financing (ML/TF). They all emphasize a risk-based approach that considers customers, products, geographies, and services. The requirements from various Finnish regulations and EBA guidelines are mutually reinforcing, establishing a harmonized framework for AML/CFT compliance across different types of financial entities.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1558,
+              "text": "A supervised entity's risk assessment shall present the justified view of how the products and services provided by it can be utilised in money laundering and financing terrorism.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "08_2018.M1.di.json",
+          "requirements": [
+            {
+              "id": 2139,
+              "text": "Maatalousyrittäjien eläkelaitoksella tulee olla riittävät riskienhallintamenetelmät rahanpesun ja terrorismin rahoituksen torjuntaan, mukaan lukien asiakkaan tunnistamiseen ja riskipersusteiseen arviointiin tarvittavat menettelyt.",
+              "start_page": 18,
+              "end_page": 18,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "2015_06.m4.di.json",
+          "requirements": [
+            {
+              "id": 2182,
+              "text": "Vakuutusyhtiön on tunnettava asiakkaansa ja sillä on oltava riittävät riskienhallintajärjestelmät, joilla se voi arvioida asiakkaista toiminnalleen aiheutuvia rahanpesun ja terrorismin rahoittamisen riskejä. Lisäksi vakuutusyhtiön tulee kartoittaa toimialaansa, tuotteisiinsa, palveluihinsa, teknologian kehitykseen sekä asiakkaisiinsa ja näiden liiketoimintaan ja -toimiin liittyvät rahanpesun ja terrorismin rahoittamisen riskit.",
+              "start_page": 19,
+              "end_page": 20,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "2017_10.m1.di.json",
+          "requirements": [
+            {
+              "id": 3218,
+              "text": "Merimieseläkekassalla tulee olla riittävät riskienhallintamenetelmät rahanpesun ja terrorismin rahoituksen torjuntaan mukaan lukien asiakkaan tunnistamiseen ja riskiperusteiseen arviointiin tarvittavat menettelyt.",
+              "start_page": 18,
+              "end_page": 18,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "EBA GL 2020 06 Final Report on GL on loan origination and monitoring.di.json",
+          "requirements": [
+            {
+              "id": 3913,
+              "text": "Institutions should specify in their policies how they identify, assess and manage the money laundering and terrorist financing (ML/TF) risks to which they are exposed as a result of their credit-granting activities.",
+              "start_page": 23,
+              "end_page": 23,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final report on Guidelines on internal governance under CRD.di.json",
+          "requirements": [
+            {
+              "id": 5301,
+              "text": "Institutions should implement appropriate processes and procedures that ensure that they comply with their obligations in the context of combating money laundering and terrorist financing.",
+              "start_page": 47,
+              "end_page": 47,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Report on GL on internal governance under IFD.di.json",
+          "requirements": [
+            {
+              "id": 6294,
+              "text": "Investment firms must implement appropriate processes and procedures to comply with obligations in combating money laundering and terrorist financing (ML/TF). Firms must assess their exposure to ML/TF risks and take mitigating measures to reduce these risks and associated operational/reputational risks. Firms must ensure staff are aware of ML/TF risks and their impact on the firm and financial system integrity.",
+              "start_page": 44,
+              "end_page": 44,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "BaselFramework.di.json",
+          "requirements": [
+            {
+              "id": 6672,
+              "text": "Banks must have adequate policies and processes, including robust, risk-based Customer Due Diligence (CDD) rules and effective compliance functions, to promote high ethical standards and prevent criminal use of the bank. The CDD management programme (group-wide) must include: a customer acceptance policy identifying relationships to avoid/terminate based on risk; ongoing identification, verification, and due diligence (including beneficial ownership, understanding purpose, and risk-based reviews); transaction monitoring policies to identify unusual/suspicious transactions or those related to UN sanctions; enhanced due diligence for high-risk accounts (escalating decisions to senior management); enhanced due diligence for Politically Exposed Persons (including family/associates, escalating decisions to senior management); and clear rules for record-keeping (CDD and transactions) with at least a five-year retention period.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "444_2017.di.json",
+          "requirements": [
+            {
+              "id": 10797,
+              "text": "An obliged entity shall prepare a risk assessment to identify and assess the risks of money laundering and terrorist financing, and this risk assessment shall be updated on a regular basis.",
+              "start_page": 17,
+              "end_page": 77,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements all state that outsourcing of functions is permissible only if it does not hinder effective supervision by the competent authority and that the institution remains fully and ultimately responsible for all its regulatory obligations. They consistently articulate that outsourcing cannot be used to delegate regulatory accountability. The requirements from FIN-FSA guidelines and EBA guidelines are complementary, creating a unified set of principles for governing outsourcing arrangements.",
+      "documents": [
+        {
+          "filename": "01_2012.m5_en.di.json",
+          "requirements": [
+            {
+              "id": 1243,
+              "text": "Payment institutions may outsource activities material to the provision of payment services, unless this is likely to be significantly detrimental to the supervision conducted by the Financial Supervisory Authority.",
+              "start_page": 9,
+              "end_page": 21,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 1244,
+              "text": "The exchange may outsource a function with material impact on its operation, with the exception of the operation of a regulated market, if the outsourcing does not hinder the supervision conducted by the Financial Supervisory Authority.",
+              "start_page": 9,
+              "end_page": 21,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final report on Guidelines on internal governance under CRD.di.json",
+          "requirements": [
+            {
+              "id": 5246,
+              "text": "The outsourcing policy should make it clear that outsourcing does not relieve the institution of its regulatory obligations and its responsibilities to its customers.",
+              "start_page": 36,
+              "end_page": 36,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 5247,
+              "text": "The outsourcing policy should state that outsourcing arrangements should not hinder effective on-site or off-site supervision of the institution and should not contravene any supervisory restrictions on services and activities.",
+              "start_page": 36,
+              "end_page": 36,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "Final Guidelines on Internal Governance (EBA-GL-2017-11).di.json",
+          "requirements": [
+            {
+              "id": 5826,
+              "text": "The outsourcing policy should make it clear that outsourcing does not relieve the institution of its regulatory obligations and its responsibilities to its customers, and should state that outsourcing arrangements should not hinder effective on-site or off-site supervision of the institution and should not contravene any supervisory restrictions on services and activities.",
+              "start_page": 34,
+              "end_page": 34,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "EBA revised Guidelines on outsourcing arrangements.di.json",
+          "requirements": [
+            {
+              "id": 6111,
+              "text": "The management body is at all times fully responsible and accountable for ensuring that the institution or payment institution meets on an ongoing basis the conditions with which it must comply to remain authorised, including any conditions imposed by the competent authority.",
+              "start_page": 30,
+              "end_page": 31,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 6121,
+              "text": "With regard to outsourcing to service providers located in third countries, financial institutions are expected to take particular care that compliance with EU legislation and regulatory requirements (e.g. professional secrecy, access to information and data, protection of personal data) is ensured and that the competent authority is able to effectively supervise financial institutions, in particular regarding critical or important functions outsourced to service providers.",
+              "start_page": 4,
+              "end_page": 5,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements establish a consistent framework for imposing sanctions for non-compliance with financial regulations. The EU Directives (1830, 1980) mandate that Member States implement effective, proportionate, and dissuasive penalties, setting minimums such as fines up to 10% of turnover or EUR 5 million. The Finnish laws (425, 1816, 2134) are the national implementation of these directives, specifying the actual penalties, which align with the EU framework. This demonstrates a clear overlap between the EU-level requirement and its national-level transposition.",
+      "documents": [
+        {
+          "filename": "CELEX_72021L2118FIN_202402559_FI_TXT.di.json",
+          "requirements": [
+            {
+              "id": 1008,
+              "text": "Joka tahallaan rikkoo kieltoa arvopapereiden ottamisesta säännellylle markkinalle, rikkoo tilintarkastuskertomusta koskevia säännöksiä, toimii välikätenä äänioikeuden rajoittamista koskevan määräyksen kiertämiseksi, tai jakaa vakuutusyhtiön varoja vastoin säännöksiä, on tuomittava vakuutusyhtiörikoksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.",
+              "start_page": 145,
+              "end_page": 146,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "610_2014_amendments_up_to_395_2019.di.json",
+          "requirements": [
+            {
+              "id": 9217,
+              "text": "A person who intentionally: 1) distributes funds of a credit institution or its consolidation group contrary to specified laws or FSA decisions; or 2) violates provisions on granting loans/security or accepting pledges of own shares/parent company instruments, shall be sentenced for violation of provisions concerning fund distribution to a fine or imprisonment for at most one year, if the act is not of minor significance and no more severe penalty is provided elsewhere.",
+              "start_page": 26,
+              "end_page": 166,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "CELEX_32014L0065_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 9480,
+              "text": "Member States shall, in conformity with national law, provide that competent authorities have the power to take and impose at least the following administrative sanctions and measures for infringements of this Directive or Regulation (EU) No 600/2014: a public statement indicating the natural or legal person and the nature of the infringement (in accordance with Article 71); an order requiring the natural or legal person to cease the conduct and to desist from a repetition of that conduct; in the case of an investment firm, a market operator authorised to operate an MTF or OTF, a regulated market, an APA, a CTP and an ARM, withdrawal or suspension of the authorisation (in accordance with Articles 8, 43 and 65); a temporary ban against any member of the investment firm's management body or any other natural person, who is held responsible, to exercise management functions in investment firms; a temporary ban on any investment firm being a member of or participant in regulated markets or MTFs or any client of OTFs; in the case of a legal person, maximum administrative fines of at least EUR 5 000 000, or the corresponding value in national currency on 2 July 2014, or up to 10 % of the total annual turnover; in the case of a natural person, maximum administrative fines of at least EUR 5 000 000, or the corresponding value in national currency on 2 July 2014; and maximum administrative fines of at least twice the amount of the benefit derived from the infringement where that benefit can be determined, even if that exceeds the maximum amounts specified above.",
+              "start_page": 104,
+              "end_page": 137,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "CELEX_32014L0059_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 9692,
+              "text": "Member States' laws, regulations, and administrative provisions must provide for penalties/measures for failure to notify intention to provide group financial support (Article 25) and failure of management body to notify failure/likely failure (Article 81(1)). Penalties for infringements referred to in Article 111(1) must include at least an order to cease and desist. For legal persons, administrative fines can reach up to 10% of preceding year's total annual net turnover. For natural persons, fines can reach up to EUR 5,000,000 (or national currency equivalent). Fines can also reach up to twice the benefit derived from the infringement, where determinable.",
+              "start_page": 32,
+              "end_page": 153,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "444_2017.di.json",
+          "requirements": [
+            {
+              "id": 10892,
+              "text": "Penalty payments imposed by the FSA on a credit institution or financial institution may amount to no more than 10% of the preceding year's turnover (or EUR 5 million, whichever is higher), based on consolidated group turnover if applicable, or recent information if statements are unavailable. For a natural person, the penalty payment may be no more than EUR 5 million. Notwithstanding these limits, the penalty payment may amount to no more than twice the determined gain resulting from the act or failure to act.",
+              "start_page": 17,
+              "end_page": 77,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements consistently mandate a data retention period of five years for customer due diligence (CDD) information after the termination of the customer relationship. This obligation is repeated across the Finnish AML Act, FIN-FSA regulations, and the Basel Framework, creating a harmonized standard for the retention of AML/CFT-related data across different regulatory sources.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1587,
+              "text": "Obliged entities shall ensure that all documents and data concerning customer due diligence and customer transactions are up to date and relevant. The data shall be retained in a reliable manner for a period of five years after the end of the permanent customer relationship. In the case of occasional transactions referred to in section 2, subsection 1, paragraphs 1 and 2 or in subsection 2 of the said section, customer due diligence data shall be retained for a period of five years from the conclusion of the transaction.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "BaselFramework.di.json",
+          "requirements": [
+            {
+              "id": 6672,
+              "text": "Banks must have adequate policies and processes, including robust, risk-based Customer Due Diligence (CDD) rules and effective compliance functions, to promote high ethical standards and prevent criminal use of the bank. The CDD management programme (group-wide) must include: a customer acceptance policy identifying relationships to avoid/terminate based on risk; ongoing identification, verification, and due diligence (including beneficial ownership, understanding purpose, and risk-based reviews); transaction monitoring policies to identify unusual/suspicious transactions or those related to UN sanctions; enhanced due diligence for high-risk accounts (escalating decisions to senior management); enhanced due diligence for Politically Exposed Persons (including family/associates, escalating decisions to senior management); and clear rules for record-keeping (CDD and transactions) with at least a five-year retention period.",
+              "start_page": 9,
+              "end_page": 1827,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "444_2017.di.json",
+          "requirements": [
+            {
+              "id": 10816,
+              "text": "Customer due diligence data shall be retained in a reliable manner for a period of five years after the end of the permanent customer relationship, or for five years from the conclusion of the occasional transaction.",
+              "start_page": 17,
+              "end_page": 77,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements specify identical procedures for notifying creditors in other EEA states during the liquidation or bankruptcy of a financial institution. Both the Finnish Insurance Companies Act (318, 323) and the Act on Credit Institutions (1639, 1653) mandate that notifications must have a specific heading in all official EEA languages and that creditors may submit their claims in their own language, provided the submission has a heading in Finnish or Swedish. This demonstrates a consistent, overlapping approach to cross-border insolvency communication for different types of financial institutions.",
+      "documents": [
+        {
+          "filename": "CELEX_72021L2118FIN_202402559_FI_TXT.di.json",
+          "requirements": [
+            {
+              "id": 901,
+              "text": "Vakuutusyhtiön velkojille tehtävä ilmoitus on tehtävä joko suomeksi tai ruotsiksi, ja siinä on käytettävä lomaketta, jossa on kaikilla ETA-valtioiden virallisilla kielillä otsikko 'Kehotus saatavan ilmoittamiseen ja huomautusten esittämiseen; noudatettavat määräajat'. Jos vakuutusvelkojan tavanomainen asuinpaikka, kotipaikka tai pääkonttori on toisessa ETA-valtiossa kuin Suomessa, ilmoitus on kuitenkin tehtävä jollakin kyseisen ETA-valtion virallisella kielellä.",
+              "start_page": 105,
+              "end_page": 105,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 906,
+              "text": "Velkoja, jonka tavanomainen asuinpaikka, kotipaikka tai pääkonttori on muussa ETA-valtiossa kuin Suomessa, voi ilmoittaa saatavansa tai esittää saataviin liittyviä huomautuksia tämän toisen valtion jollakin virallisella kielellä, mutta otsikon on oltava suomeksi tai ruotsiksi.",
+              "start_page": 105,
+              "end_page": 105,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "1501_2001_amendments_up_to_642_2006.di.json",
+          "requirements": [
+            {
+              "id": 8805,
+              "text": "The notification in the liquidation summons shall be submitted at least in Finnish and Swedish and shall bear, in all the official languages of the States belonging to the European Economic Area (an EEA State), the heading \"Invitation to lodge a claim or to submit observations relating to a claim. Time limits to be observed\".",
+              "start_page": 14,
+              "end_page": 14,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 8819,
+              "text": "A creditor who has his place of residence, domicile or head office in another EEA State may lodge or secure his claim or submit observations relating to his claim also in the official language of that other State. In that event, the lodgement or securing of his claim or the submission of observations on his claim shall bear the heading \"Lodgement or securing of claim\" or correspondingly \"Submission of observations relating to claims\" in either Finnish or Swedish.",
+              "start_page": 17,
+              "end_page": 17,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements from two different FIN-FSA regulations both specify the same annual deadline of February 28th for submitting the RA-reporting framework data. Requirement 555 pertains to the assessment of ML/TF risks, while requirement 574 pertains to the assessment of internal controls for sanctions compliance. This shows an overlap where the same reporting framework and deadline are used for different but related compliance risk assessments.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1595,
+              "text": "Supervised entities shall submit the information required by the FIN-FSA for the assessment of ML/TF risks under the RA-reporting framework valid at the time. This information shall be submitted on an annual basis by 28 February.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "04_2023.m3_en.di.json",
+          "requirements": [
+            {
+              "id": 1631,
+              "text": "Supervised entities shall submit the information required by the FIN-FSA for the assessment of the supervised entity's internal control and risk management methods under the RA-reporting framework valid at the time. This information shall be submitted on an annual basis by 28 February.",
+              "start_page": 49,
+              "end_page": 49,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "OVERLAP",
+      "description": "These requirements consistently obligate obliged entities to report suspicious transactions to the Financial Intelligence Unit (FIU) 'without delay'. This core AML/CFT obligation is identically phrased in both the FIN-FSA regulations and guidelines (553) and the underlying Finnish Act on Preventing Money Laundering and Terrorist Financing (2104), demonstrating a clear overlap and reinforcement of the requirement.",
+      "documents": [
+        {
+          "filename": "maaraykset-ja-ohjeet-2_2023_en.m3-clean.di.json",
+          "requirements": [
+            {
+              "id": 1593,
+              "text": "Having fulfilled their obligation to obtain information provided in chapter 3, section 4(3) of the AML Act, obliged entities shall, without delay, report any suspicious transaction to the Financial Intelligence Unit referred to in the Act on the Financial Intelligence Unit. A suspicious transaction report shall be submitted irrespective of whether a customer relationship has been established or refused, and of whether the transaction has been carried out, suspended or refused.",
+              "start_page": 15,
+              "end_page": 83,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "444_2017.di.json",
+          "requirements": [
+            {
+              "id": 10862,
+              "text": "Obliged entities shall, without delay, report any suspicious transaction to the Financial Intelligence Unit (FIU) after fulfilling the obligation to obtain information (Chapter 3, Section 4, Subsection 3). Such a report must be submitted irrespective of whether a customer relationship was established/refused, or the transaction was carried out, suspended, or refused. Money remittance service providers shall report every payment or remittance of at least EUR 1,000 (single or linked).",
+              "start_page": 17,
+              "end_page": 77,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "contradictions": [
+    {
+      "type": "CONTRADICTION",
+      "description": "These requirements present conflicting timelines for submitting annual financial statements to the Financial Supervisory Authority (FIN-FSA) after they have been confirmed. Requirement 711, applicable to credit institutions and investment firms, mandates submission within two weeks. In contrast, requirement 774, applicable to the insurance and pension sector, allows for a one-month submission period. This creates a contradiction in regulatory deadlines for the same type of supervisory reporting, albeit for different sectors.",
+      "documents": [
+        {
+          "filename": "2016_02.m4.di.json",
+          "requirements": [
+            {
+              "id": 2270,
+              "text": "Muiden valvottavien kuin ulkomaisten sivuliikkeiden on toimitettava sähköisesti Finanssivalvonnalle vuosittain kahden viikon kuluessa siitä, kun valvottavan tilinpäätös on vahvistettu, seuraavat asiakirjat: jäljennös tilinpäätöksestä ja konsernitilinpäätöksestä sekä toimintakertomuksesta, jäljennös tilintarkastuskertomuksesta, sekä jäljennös tilinpäätöstä käsitelleen yhtiökokouksen tai sitä vastaavan elimen kokouksen pöytäkirjasta.",
+              "start_page": 104,
+              "end_page": 104,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "04_2015.m7.di.json",
+          "requirements": [
+            {
+              "id": 2705,
+              "text": "Valvottavan on toimitettava taulukossa 2 mainitut asiakirjat yhtenä kokonaisuutena kuukauden kuluessa siitä kokouksesta, joka on tilinpäätöksen vahvistanut. Valvottavan on tilinpäätöksen vahvistamisen jälkeen toimitettava luvun 4.2.1 mukaisesti Excel-taulukoina toimitetut tiedot samassa muodossa ja korjattuna niiltä osin kuin tiedot ovat muuttuneet. Tiedot on toimitettava kuukauden kuluessa siitä kokouksesta, joka on tilinpäätöksen vahvistanut. Eläkekassan ja lisäeläkekassan on toimitettava vuosittain yhtenä kokonaisuutena yhden kuukauden kuluessa siitä kassan kokouksesta, jossa tilinpäätös on vahvistettu, tilinpäätös, toimintakertomus, tilintarkastuskertomus sekä tilinpäätöstä käsitelleen kassankokouksen pöytäkirja. Hautaus- ja eroavustuskassan, jonka vastuuvelka muodostuu vakuutusmaksu- ja korvausvastuusta, on toimitettava vuosittain yhtenä kokonaisuutena yhden kuukauden kuluessa siitä kassan kokouksesta, jossa tilinpäätös on vahvistettu, määrämuotoinen kertomus kassan toiminnasta ja tilasta (tilastokertomus, liite 7). Tilastokertomukseen on liitettävä seuraavat asiakirjat: tilinpäätös ja toimintakertomus; tilintarkastuskertomus; matemaatikon lausunto vastuuvelan määrästä; kateluettelo (liite 5); arvostuserolaskelma (liite 6); tilinpäätöstä käsitelleen kassakokouksen pöytäkirja. Valvottavan on toimitettava seuraavat asiakirjat yhtenä kokonaisuutena kuukauden kuluessa siitä kokouksesta, joka on tilinpäätöksen vahvistanut: jäljennös vahvistetusta tilinpäätöksestä sekä toimintakertomuksesta; jäljennös tilintarkastuslain mukaisesta tilintarkastuskertomuksesta; Kevan valtuutettujen kokouksen pöytäkirjaote, josta käy ilmi tilinpäätöksen vahvistaminen. Valvottavan on toimitettava seuraavat asiakirjat yhtenä kokonaisuutena kuukauden kuluessa siitä kokouksesta, joka on tilinpäätöksen vahvistanut: jäljennös vahvistetusta tilinpäätöksestä sekä toimintakertomuksesta; jäljennös tilintarkastuslain mukaisesta tilintarkastuskertomuksesta; Maatalousyrittäjien eläkelaitoksen valtuuskunnan kokouksen / merimieseläkekassan valtuuskunnan kokouksen pöytäkirjaote, josta käy ilmi tilinpäätöksen vahvistaminen.",
+              "start_page": 11,
+              "end_page": 17,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "CONTRADICTION",
+      "description": "These requirements create a potential conflict between adhering to International Financial Reporting Standards (IFRS) and complying with national supervisory mandates. Requirements 2 and 103 mandate an unreserved statement of compliance with IFRSs and state that financial statements with material errors (deviations) do not comply. However, requirement 708 obligates a supervised entity to change its accounting principles if a FIN-FSA regulation demands it. This is a contradiction because if FIN-FSA issues a regulation that deviates from IFRS, the entity would be legally forced by 708 to violate the principle of unreserved IFRS compliance required by 2 and 103.",
+      "documents": [
+        {
+          "filename": "CELEX_32023R1803_EN_TXT.di.json",
+          "requirements": [
+            {
+              "id": 2,
+              "text": "An entity shall make an explicit and unreserved statement of compliance with IFRSs in the notes.",
+              "start_page": 3,
+              "end_page": 987,
+              "risk_category": "LEGAL_RISK"
+            },
+            {
+              "id": 103,
+              "text": "Financial statements do not comply with IFRSs if they contain either material errors or immaterial errors made intentionally to achieve a particular presentation of an entity's financial position, financial performance or cash flows.",
+              "start_page": 3,
+              "end_page": 987,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        },
+        {
+          "filename": "2016_02.m4.di.json",
+          "requirements": [
+            {
+              "id": 2267,
+              "text": "Valvottavan tulee muuttaa tilinpäätöksen laatimisperiaatteita, jos laki, sen nojalla annettu asetus tai Finanssivalvonnan määräys vaatii muutosta.",
+              "start_page": 22,
+              "end_page": 22,
+              "risk_category": "LEGAL_RISK"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

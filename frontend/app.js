@@ -55,26 +55,38 @@ function showLandingPage() {
         return;
     }
     
-    analysisData.risk_categories.forEach((risk, index) => {
+    // Sort risk categories by total relationships (overlaps + contradictions) descending
+    const sortedCategories = analysisData.risk_categories.sort((a, b) => {
+        const aRelationships = (a.overlaps ? a.overlaps.length : 0) + (a.contradictions ? a.contradictions.length : 0);
+        const bRelationships = (b.overlaps ? b.overlaps.length : 0) + (b.contradictions ? b.contradictions.length : 0);
+        return bRelationships - aRelationships; // Descending order
+    });
+
+    sortedCategories.forEach((risk, index) => {
         const overlapCount = risk.overlaps ? risk.overlaps.length : 0;
         const contradictionCount = risk.contradictions ? risk.contradictions.length : 0;
-        
+        const requirementCount = risk.total_requirements || 0;
+
         // Calculate unique document count from overlaps and contradictions
         const allDocs = new Set();
         [...(risk.overlaps || []), ...(risk.contradictions || [])].forEach(item => {
             item.documents.forEach(doc => allDocs.add(doc.filename));
         });
         const docCount = allDocs.size;
-        
+
         const card = document.createElement('div');
         card.className = 'risk-card';
         card.style.background = getGradientColor(index);
         card.onclick = () => showGraphView(risk, index);
-        
+
         card.innerHTML = `
             <h2>${risk.risk_name}</h2>
             <p class="description">${risk.description}</p>
             <div class="metrics">
+                <div class="metric">
+                    <span class="metric-value">${requirementCount}</span>
+                    <span class="metric-label">Requirements</span>
+                </div>
                 <div class="metric">
                     <span class="metric-value">${docCount}</span>
                     <span class="metric-label">Documents</span>
@@ -89,7 +101,7 @@ function showLandingPage() {
                 </div>
             </div>
         `;
-        
+
         container.appendChild(card);
     });
 }
@@ -186,9 +198,9 @@ function positionDisconnectedComponents(nodes, edges, components) {
     const cols = Math.ceil(Math.sqrt(numComponents));
     const rows = Math.ceil(numComponents / cols);
     
-    // Spacing between component centers
-    const spacingX = 600;
-    const spacingY = 500;
+    // Spacing between component centers - increased dramatically
+    const spacingX = 1500;
+    const spacingY = 1200;
     
     // Get all edges
     const allEdges = edges.get();
@@ -215,21 +227,36 @@ function positionDisconnectedComponents(nodes, edges, components) {
         });
         
         if (hubs.length > 0) {
-            // Component has hub(s) - position hub at center, docs around it
-            hubs.forEach(hubId => {
+            // Component has hub(s) - position each hub individually in a grid
+            hubs.forEach((hubId, hubIdx) => {
+                // Calculate position for each hub in a sub-grid
+                const hubCols = Math.ceil(Math.sqrt(hubs.length));
+                const hubRows = Math.ceil(hubs.length / hubCols);
+                const hubRow = Math.floor(hubIdx / hubCols);
+                const hubCol = hubIdx % hubCols;
+
+                // Position hubs in a tighter grid within the component area
+                const hubSpacingX = spacingX / Math.max(hubCols, 2);
+                const hubSpacingY = spacingY / Math.max(hubRows, 2);
+                const hubX = centerX + (hubCol - (hubCols - 1) / 2) * hubSpacingX;
+                const hubY = centerY + (hubRow - (hubRows - 1) / 2) * hubSpacingY;
+
                 nodes.update({
                     id: hubId,
-                    x: centerX,
-                    y: centerY
-                    // Hubs are now draggable!
+                    x: hubX,
+                    y: hubY,
+                    physics: {
+                        enabled: false  // Disable physics for hubs to keep them in position
+                    }
                 });
             });
-            
-            // Position document nodes in a circle around the hub
+
+            // Position document nodes in a circle around the component center
+            // (simplified approach - all docs in this component go around the center)
             docs.forEach((nodeId, nodeIdx) => {
                 const angle = (2 * Math.PI * nodeIdx) / docs.length;
-                const radius = 250;  // Fixed radius for clean circle
-                
+                const radius = Math.max(200, docs.length * 30);
+
                 nodes.update({
                     id: nodeId,
                     x: centerX + radius * Math.cos(angle),
@@ -560,21 +587,21 @@ async function buildNetworkGraph(risk) {
         physics: {
             enabled: true,
             barnesHut: {
-                gravitationalConstant: -40000,  // Strong repulsion to prevent overlaps
+                gravitationalConstant: -80000,  // Even stronger repulsion
                 centralGravity: 0.0,  // No central gravity
-                springLength: 250,  // Moderate edge length
-                springConstant: 0.02,  // Moderate springs for balance
-                damping: 0.3,  // Lower damping for more responsive drag
+                springLength: 300,  // Longer spring length
+                springConstant: 0.01,  // Weaker springs to maintain separation
+                damping: 0.5,  // Higher damping for stability
                 avoidOverlap: 1  // Maximum overlap avoidance
             },
             stabilization: {
                 enabled: true,
-                iterations: 1000,  // Good number of iterations
+                iterations: 1500,  // More iterations for better stabilization
                 updateInterval: 25,
                 fit: true
             },
             solver: 'barnesHut',
-            minVelocity: 0.5,  // Reasonable threshold
+            minVelocity: 0.1,  // Lower threshold for finer stabilization
             adaptiveTimestep: true  // Better responsiveness during interaction
         },
         interaction: {

@@ -1,23 +1,21 @@
 """
-Requirement Relationship Pipeline
-Finds overlaps and contradictions between requirements from different documents
+Test script to find relationships for the largest risk category
+Outputs results to JSON without touching the database
 """
 
 import sqlite3
 import json
 from pathlib import Path
-from typing import List, Dict, Any, Tuple
+from typing import List, Dict, Any
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
-from langchain_core.messages import HumanMessage
-from tqdm import tqdm
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv()
 
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
 DB_PATH = PROJECT_ROOT / "legal_documents.db"
+OUTPUT_PATH = SCRIPT_DIR / "test_relationships_output.json"
 
 
 def get_requirements_by_risk_category(conn: sqlite3.Connection, risk_category: str) -> List[Dict[str, Any]]:
@@ -62,11 +60,11 @@ def find_relationships_all_at_once(
     requirements: List[Dict[str, Any]],
     risk_category: str,
     llm: ChatGoogleGenerativeAI
-) -> List[Dict[str, Any]]:
+) -> tuple[List[Dict[str, Any]], Dict[str, Any]]:
     """Find groups of overlaps and contradictions by analyzing all requirements together"""
 
     if len(requirements) < 2:
-        return []
+        return [], {}
 
     # Group requirements by document for the prompt
     by_document = {}
@@ -133,8 +131,35 @@ Each group should represent one coherent relationship topic. Return empty array 
 """
 
     try:
-        response = llm.invoke([HumanMessage(content=prompt)])
-        content = response.content.strip()
+        print("  🤖 Calling Gemini API...")
+        # Use generate with proper message format
+        from langchain_core.messages import HumanMessage
+        response = llm.generate([[HumanMessage(content=prompt)]])
+        
+        # Extract token usage - try different locations
+        token_stats = {}
+        
+        # Check generations[0] for usage info
+        if response.generations and len(response.generations) > 0:
+            gen = response.generations[0][0]
+            if hasattr(gen, 'generation_info') and gen.generation_info:
+                gen_info = gen.generation_info
+                if 'usage_metadata' in gen_info:
+                    usage = gen_info['usage_metadata']
+                    token_stats = {
+                        'prompt_tokens': usage.get('prompt_token_count', 0),
+                        'completion_tokens': usage.get('candidates_token_count', 0),
+                        'total_tokens': usage.get('total_token_count', 0)
+                    }
+                    print(f"  📊 Token usage:")
+                    print(f"     - Input tokens: {token_stats['prompt_tokens']:,}")
+                    print(f"     - Output tokens: {token_stats['completion_tokens']:,}")
+                    print(f"     - Total tokens: {token_stats['total_tokens']:,}")
+        
+        if not token_stats:
+            print(f"  ⚠️  Token usage not found in response")
+        
+        content = response.generations[0][0].text.strip()
 
         # Clean markdown
         if content.startswith('```'):
@@ -165,28 +190,13 @@ Each group should represent one coherent relationship topic. Return empty array 
                             'requirement_ids': actual_req_ids
                         })
 
-        return relationships
+        return relationships, token_stats
 
     except Exception as e:
         print(f"    ⚠️  Error finding relationships: {e}")
-        return []
-
-
-def find_grouped_relationships(
-    requirements: List[Dict[str, Any]],
-    risk_category: str,
-    llm: ChatGoogleGenerativeAI
-) -> List[Dict[str, Any]]:
-    """Find groups of overlaps and contradictions by analyzing all requirements together"""
-
-    print(f"  📊 {len(requirements)} requirements from {len(set(req['document_id'] for req in requirements))} documents")
-
-    # Find relationships using all-at-once analysis
-    relationships = find_relationships_all_at_once(requirements, risk_category, llm)
-
-    print(f"  ✓ Found {len(relationships)} relationship groups")
-
-    return relationships
+        import traceback
+        traceback.print_exc()
+        return [], {}
 
 
 def convert_to_document_relationships(
@@ -253,94 +263,43 @@ def convert_to_document_relationships(
     return document_relationships
 
 
-def save_relationships_to_db(
-    conn: sqlite3.Connection,
-    risk_category: str,
-    relationships: List[Dict[str, Any]]
-):
-    """Save document-level relationships to database
+def main():
+    """Test relationship finding for the largest risk category"""
     
-    Clears existing relationships for this risk category before saving new ones.
-    This makes the pipeline idempotent - safe to re-run.
-    """
+    print("=" * 70)
+    print("TEST RELATIONSHIP FINDING - LARGEST RISK CATEGORY")
+    print("=" * 70)
     
+    # Connect to database (read-only)
+    conn = sqlite3.connect(str(DB_PATH))
     cursor = conn.cursor()
     
-    # Clear existing relationships for this risk category
+    # Use LEGAL_RISK for testing
+    print("\n📊 Using LEGAL_RISK for testing...")
+    risk_category = "LEGAL_RISK"
     cursor.execute("""
-        DELETE FROM relationship_requirements 
-        WHERE relationship_id IN (
-            SELECT id FROM requirement_relationships WHERE risk_category = ?
-        )
+        SELECT COUNT(*) as count
+        FROM requirements
+        WHERE risk_category = ?
     """, (risk_category,))
     
+    count = cursor.fetchone()[0]
+    print(f"  ✓ Risk category: {risk_category} ({count} requirements)")
+    
+    # Get number of documents for this risk
     cursor.execute("""
-        DELETE FROM requirement_relationships WHERE risk_category = ?
+        SELECT COUNT(DISTINCT document_id)
+        FROM requirements
+        WHERE risk_category = ?
     """, (risk_category,))
     
-    print(f"    Cleared existing relationships for {risk_category}")
+    num_docs = cursor.fetchone()[0]
+    print(f"  ✓ Across {num_docs} documents")
     
-    # Insert new relationships
-    for rel in relationships:
-        # Insert relationship
-        cursor.execute("""
-            INSERT INTO requirement_relationships (relationship_type, risk_category, description)
-            VALUES (?, ?, ?)
-        """, (rel['type'], risk_category, rel['description']))
-        
-        relationship_id = cursor.lastrowid
-        
-        # Insert junction records for the requirements involved
-        for doc in rel['documents']:
-            for req in doc['requirements']:
-                cursor.execute("""
-                    INSERT INTO relationship_requirements (relationship_id, requirement_id)
-                    VALUES (?, ?)
-                """, (relationship_id, req['id']))
-    
-    conn.commit()
-
-
-def process_risk_category(
-    risk_category: str,
-    conn: sqlite3.Connection,
-    llm: ChatGoogleGenerativeAI
-):
-    """Process all requirements for a single risk category"""
-
-    print(f"\n{'='*70}")
-    print(f"Processing: {risk_category}")
-    print('='*70)
-
     # Get requirements
+    print(f"\n📋 Loading requirements for {risk_category}...")
     requirements = get_requirements_by_risk_category(conn, risk_category)
-
-    if len(requirements) < 2:
-        print(f"  ⚠️  Only {len(requirements)} requirement(s) found - skipping")
-        return
-
-    # Find grouped relationships (analyzing all requirements together)
-    relationships = find_grouped_relationships(requirements, risk_category, llm)
-
-    if not relationships:
-        print("  ⚠️  No relationships found")
-        return
-
-    # Convert to document-level relationships
-    document_relationships = convert_to_document_relationships(relationships, requirements, risk_category)
-
-    # Save to database
-    print("  💾 Saving to database...")
-    save_relationships_to_db(conn, risk_category, document_relationships)
-    print("  ✅ Saved")
-
-
-def find_all_relationships():
-    """Main pipeline for finding relationships"""
-    
-    print("=" * 70)
-    print("REQUIREMENT RELATIONSHIP PIPELINE")
-    print("=" * 70)
+    print(f"  ✓ Loaded {len(requirements)} requirements")
     
     # Initialize Gemini
     print("\n🤖 Initializing Gemini...")
@@ -350,45 +309,52 @@ def find_all_relationships():
     )
     print("  ✓ Gemini initialized (gemini-2.5-pro)")
     
-    # Connect to database
-    conn = sqlite3.connect(str(DB_PATH))
-    cursor = conn.cursor()
+    # Find relationships
+    print(f"\n🔍 Finding relationships for {risk_category}...")
+    relationships, token_stats = find_relationships_all_at_once(requirements, risk_category, llm)
+    print(f"  ✓ Found {len(relationships)} relationship groups")
     
-    # Get all risk categories with requirements
-    cursor.execute("""
-        SELECT DISTINCT risk_category, COUNT(*) as count
-        FROM requirements
-        GROUP BY risk_category
-        ORDER BY count DESC
-    """)
+    # Convert to document-level relationships
+    document_relationships = convert_to_document_relationships(relationships, requirements, risk_category)
     
-    risk_categories = cursor.fetchall()
+    # Prepare output
+    output = {
+        'risk_category': risk_category,
+        'total_requirements': len(requirements),
+        'total_documents': num_docs,
+        'total_relationships': len(document_relationships),
+        'token_usage': token_stats,
+        'overlaps': [rel for rel in document_relationships if rel['type'] == 'OVERLAP'],
+        'contradictions': [rel for rel in document_relationships if rel['type'] == 'CONTRADICTION']
+    }
     
-    print(f"\n📋 Found {len(risk_categories)} risk categories with requirements")
-    for cat, count in risk_categories:
-        print(f"  - {cat}: {count} requirements")
+    # Save to JSON
+    print(f"\n💾 Saving results to {OUTPUT_PATH}...")
+    with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
+        json.dump(output, f, indent=2, ensure_ascii=False)
     
-    # Process categories concurrently
-    results = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_category = {
-            executor.submit(process_risk_category, risk_category, conn, llm): risk_category
-            for risk_category, count in risk_categories if count >= 2
-        }
-
-        for future in as_completed(future_to_category):
-            category = future_to_category[future]
-            try:
-                future.result()
-            except Exception as e:
-                print(f"  ❌ Error processing {category}: {e}")
+    print(f"  ✓ Saved to {OUTPUT_PATH}")
+    
+    # Summary
+    print("\n" + "=" * 70)
+    print("📊 SUMMARY")
+    print("=" * 70)
+    print(f"Risk Category: {risk_category}")
+    print(f"Requirements: {len(requirements)}")
+    print(f"Documents: {num_docs}")
+    print(f"Total Relationships: {len(document_relationships)}")
+    print(f"  - Overlaps: {len(output['overlaps'])}")
+    print(f"  - Contradictions: {len(output['contradictions'])}")
+    if token_stats:
+        print(f"\nToken Usage:")
+        print(f"  - Input tokens: {token_stats.get('prompt_tokens', 0):,}")
+        print(f"  - Output tokens: {token_stats.get('completion_tokens', 0):,}")
+        print(f"  - Total tokens: {token_stats.get('total_tokens', 0):,}")
+    print("=" * 70)
     
     conn.close()
-    
-    print("\n" + "=" * 70)
-    print("✅ RELATIONSHIP FINDING COMPLETE")
-    print("=" * 70)
 
 
 if __name__ == "__main__":
-    find_all_relationships()
+    main()
+

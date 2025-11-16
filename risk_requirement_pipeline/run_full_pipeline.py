@@ -43,10 +43,13 @@ def main():
     # Check if user wants to limit documents or force reprocess
     limit = None
     force_reprocess = False
+    skip_extraction = True
 
     for arg in sys.argv[1:]:
         if arg == "--force" or arg == "--reprocess":
             force_reprocess = True
+        elif arg == "--skip-extraction":
+            skip_extraction = True
         elif arg.isdigit():
             limit = int(arg)
 
@@ -54,18 +57,23 @@ def main():
         print(f"\n📝 Note: Processing only {limit} documents (test mode)")
     if force_reprocess:
         print("  🔄 Force reprocessing enabled - will reprocess all documents")
+    if skip_extraction:
+        print("  ⏭️  Skipping requirement extraction - using existing requirements")
     
-    # Step 1: Extract requirements
-    args = []
-    if limit:
-        args.append(str(limit))
-    if force_reprocess:
-        args.append("--force")
-    run_step(
-        "requirement_extraction_pipeline.py",
-        "Extract Requirements from Documents",
-        args
-    )
+    # Step 1: Extract requirements (optional)
+    if not skip_extraction:
+        args = []
+        if limit:
+            args.append(str(limit))
+        if force_reprocess:
+            args.append("--force")
+        run_step(
+            "requirement_extraction_pipeline.py",
+            "Extract Requirements from Documents",
+            args
+        )
+    else:
+        print("\n⏭️  Skipping requirement extraction step")
     
     # Step 2: Find relationships
     run_step(

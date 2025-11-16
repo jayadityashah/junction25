@@ -202,6 +202,7 @@ def export_analysis():
         category_data = {
             'risk_name': risk_category.replace('_', ' ').title(),
             'description': f"Requirements related to {risk_category.replace('_', ' ').lower()}",
+            'total_requirements': len(requirements),
             'overlaps': relationships['overlaps'],
             'contradictions': relationships['contradictions']
         }
