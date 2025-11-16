@@ -358,7 +358,7 @@ def extract_all_requirements(limit_docs: Optional[int] = None, force_reprocess: 
     print("\n🤖 Initializing Gemini...")
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash-lite-preview-09-2025",
-        temperature=0.1
+        temperature=0.4
     )
     print("  ✓ Gemini initialized (gemini-2.5-flash-lite-preview-09-2025)")
     

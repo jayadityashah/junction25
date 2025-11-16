@@ -127,6 +127,8 @@ def get_document_metadata(filename):
         filepath = filepath.replace('_GOLD/', '_BRONZE/')
         # Remove '/output_simple/' from path
         filepath = filepath.replace('/output_simple/', '/')
+        # Remove '/EN_TRANSLATION/' for Finnish documents (LLL folder only)
+        filepath = filepath.replace('/LLL/EN_TRANSLATION/', '/LLL/')
         # Replace extension and add bronze_data prefix
         pdf_path = f"bronze_data/{filepath.replace('.di.json', '.pdf')}"
         

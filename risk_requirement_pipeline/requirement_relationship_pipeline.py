@@ -346,7 +346,7 @@ def find_all_relationships():
     print("\n🤖 Initializing Gemini...")
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-pro",
-        temperature=0.1
+        temperature=0.4
     )
     print("  ✓ Gemini initialized (gemini-2.5-pro)")
     
@@ -367,21 +367,15 @@ def find_all_relationships():
     print(f"\n📋 Found {len(risk_categories)} risk categories with requirements")
     for cat, count in risk_categories:
         print(f"  - {cat}: {count} requirements")
-    
-    # Process categories concurrently
-    results = []
-    with ThreadPoolExecutor(max_workers=5) as executor:
-        future_to_category = {
-            executor.submit(process_risk_category, risk_category, conn, llm): risk_category
-            for risk_category, count in risk_categories if count >= 2
-        }
+    # Process categories sequentially
+    for risk_category, count in risk_categories:
+        if count < 2:
+            continue
 
-        for future in as_completed(future_to_category):
-            category = future_to_category[future]
-            try:
-                future.result()
-            except Exception as e:
-                print(f"  ❌ Error processing {category}: {e}")
+        try:
+            process_risk_category(risk_category, conn, llm)
+        except Exception as e:
+            print(f"  ❌ Error processing {risk_category}: {e}")
     
     conn.close()
     
