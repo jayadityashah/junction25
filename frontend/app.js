@@ -10,6 +10,7 @@ async function init() {
     setupBackButton();
     setupTabs();
     setupChat();
+    setupGraphSidebar();
 }
 
 // Load analysis JSON data (requirements-based)
@@ -146,6 +147,9 @@ async function showGraphView(risk, riskIndex) {
     document.getElementById('graph-title').textContent = risk.risk_name;
     document.getElementById('graph-subtitle').textContent = risk.description;
     
+    // Populate sidebar with documents and relationships
+    await populateGraphSidebar(risk);
+    
     // Build and render network graph
     await buildNetworkGraph(risk);
 }
@@ -193,17 +197,19 @@ function findDisconnectedComponents(nodes, edges) {
 
 // Position disconnected components in separate regions to prevent overlap
 function positionDisconnectedComponents(nodes, edges, components) {
+    // Only position components if there are multiple disconnected ones
+    if (components.length <= 1) {
+        return; // Let vis.js handle single component naturally
+    }
+    
     // Calculate grid layout based on number of components
     const numComponents = components.length;
     const cols = Math.ceil(Math.sqrt(numComponents));
     const rows = Math.ceil(numComponents / cols);
     
-    // Spacing between component centers - increased dramatically
-    const spacingX = 1500;
-    const spacingY = 1200;
-    
-    // Get all edges
-    const allEdges = edges.get();
+    // Spacing between component centers
+    const spacingX = 2000;
+    const spacingY = 1500;
     
     components.forEach((component, idx) => {
         const row = Math.floor(idx / cols);
@@ -213,75 +219,39 @@ function positionDisconnectedComponents(nodes, edges, components) {
         const centerX = (col - (cols - 1) / 2) * spacingX;
         const centerY = (row - (rows - 1) / 2) * spacingY;
         
-        // Separate hubs from document nodes
-        const hubs = [];
-        const docs = [];
-        
-        component.forEach(nodeId => {
+        // Find hubs in this component
+        const hubs = component.filter(nodeId => {
             const node = nodes.get(nodeId);
-            if (node && node.isHub) {
-                hubs.push(nodeId);
-            } else {
-                docs.push(nodeId);
-            }
+            return node && node.isHub;
         });
         
+        // Only fix hub positions to anchor each component, let everything else flow naturally
         if (hubs.length > 0) {
-            // Component has hub(s) - position each hub individually in a grid
             hubs.forEach((hubId, hubIdx) => {
-                // Calculate position for each hub in a sub-grid
-                const hubCols = Math.ceil(Math.sqrt(hubs.length));
-                const hubRows = Math.ceil(hubs.length / hubCols);
-                const hubRow = Math.floor(hubIdx / hubCols);
-                const hubCol = hubIdx % hubCols;
-
-                // Position hubs in a tighter grid within the component area
-                const hubSpacingX = spacingX / Math.max(hubCols, 2);
-                const hubSpacingY = spacingY / Math.max(hubRows, 2);
-                const hubX = centerX + (hubCol - (hubCols - 1) / 2) * hubSpacingX;
-                const hubY = centerY + (hubRow - (hubRows - 1) / 2) * hubSpacingY;
-
+                // If multiple hubs in component, spread them slightly
+                const offset = hubs.length > 1 ? (hubIdx - (hubs.length - 1) / 2) * 400 : 0;
+                
                 nodes.update({
                     id: hubId,
-                    x: hubX,
-                    y: hubY,
-                    physics: {
-                        enabled: false  // Disable physics for hubs to keep them in position
-                    }
-                });
-            });
-
-            // Position document nodes in a circle around the component center
-            // (simplified approach - all docs in this component go around the center)
-            docs.forEach((nodeId, nodeIdx) => {
-                const angle = (2 * Math.PI * nodeIdx) / docs.length;
-                const radius = Math.max(200, docs.length * 30);
-
-                nodes.update({
-                    id: nodeId,
-                    x: centerX + radius * Math.cos(angle),
-                    y: centerY + radius * Math.sin(angle),
-                    physics: {
-                        enabled: true
-                    }
+                    x: centerX + offset,
+                    y: centerY,
+                    fixed: { x: true, y: true },  // Fix hub position completely
+                    physics: false  // Disable physics for hubs
                 });
             });
         } else {
-            // No hub - simple circular layout
-            component.forEach((nodeId, nodeIdx) => {
-                const angle = (2 * Math.PI * nodeIdx) / component.length;
-                const radius = Math.max(150, component.length * 25);
-                
-                nodes.update({
-                    id: nodeId,
-                    x: centerX + radius * Math.cos(angle),
-                    y: centerY + radius * Math.sin(angle),
-                    physics: {
-                        enabled: true
-                    }
-                });
+            // No hubs - just pin one node to anchor the component
+            const anchorNode = component[0];
+            nodes.update({
+                id: anchorNode,
+                x: centerX,
+                y: centerY,
+                fixed: { x: true, y: true },
+                physics: false
             });
         }
+        
+        // All other nodes get physics enabled - they'll naturally arrange around the anchors
     });
 }
 
@@ -306,11 +276,10 @@ async function buildNetworkGraph(risk) {
         const docInfo = await getDocInfo(filename);
         nodes.add({
             id: filename,
-            label: docInfo.short_name,
+            label: `<b>${docInfo.short_name}</b>`,
             title: docInfo.display_name,
             shape: 'box',
             margin: 12,
-            font: { size: 14, face: 'arial', bold: true },
             color: {
                 background: '#ffffff',
                 border: '#2563eb',
@@ -477,7 +446,7 @@ async function buildNetworkGraph(risk) {
                             type: 'curvedCW',
                             roundness: 0.2
                         },
-                        length: 250,  // Shorter edges to hubs
+                        length: 400,  // Longer edges to hubs to match increased spacing
                         groupId: overlap.id || `overlap-${overlapIndex}`,
                         data: {
                             type: 'overlap',
@@ -545,7 +514,7 @@ async function buildNetworkGraph(risk) {
                             type: 'curvedCW',
                             roundness: 0.2
                         },
-                        length: 250,  // Shorter edges to hubs
+                        length: 400,  // Longer edges to hubs to match increased spacing
                         groupId: contradiction.id || `contradiction-${contradictionIndex}`,
                         data: {
                             type: 'contradiction',
@@ -572,7 +541,11 @@ async function buildNetworkGraph(risk) {
             margin: 20,
             widthConstraint: { maximum: 200 },
             heightConstraint: { minimum: 40 },
-            mass: 3  // Heavier to push edges away
+            font: {
+                size: 18,
+                face: 'arial',
+                multi: 'html'
+            }
         },
         edges: {
             smooth: {
@@ -581,28 +554,26 @@ async function buildNetworkGraph(risk) {
                 roundness: 0.2
             },
             arrows: { to: false },
-            hoverWidth: 0,
-            length: 300  // Longer edges to reduce crossing area
+            hoverWidth: 0
         },
         physics: {
             enabled: true,
             barnesHut: {
-                gravitationalConstant: -80000,  // Even stronger repulsion
-                centralGravity: 0.0,  // No central gravity
-                springLength: 300,  // Longer spring length
-                springConstant: 0.01,  // Weaker springs to maintain separation
-                damping: 0.5,  // Higher damping for stability
-                avoidOverlap: 1  // Maximum overlap avoidance
+                gravitationalConstant: -30000,  // Good repulsion without being excessive
+                centralGravity: 0.1,  // Slight central gravity for cohesion
+                springLength: 200,  // Natural spring length
+                springConstant: 0.04,  // Balanced spring strength
+                damping: 0.4,  // Good damping for stability
+                avoidOverlap: 0.5  // Reasonable overlap avoidance
             },
             stabilization: {
                 enabled: true,
-                iterations: 1500,  // More iterations for better stabilization
+                iterations: 1000,
                 updateInterval: 25,
                 fit: true
             },
             solver: 'barnesHut',
-            minVelocity: 0.1,  // Lower threshold for finer stabilization
-            adaptiveTimestep: true  // Better responsiveness during interaction
+            adaptiveTimestep: true
         },
         interaction: {
             hover: true,
@@ -1063,6 +1034,102 @@ function setupChat() {
         const div = document.createElement('div');
         div.textContent = text;
         return div.innerHTML;
+    }
+}
+
+// Setup graph sidebar
+function setupGraphSidebar() {
+    const toggleBtn = document.getElementById('sidebar-toggle');
+    const sidebar = document.getElementById('graph-sidebar');
+    const tabButtons = document.querySelectorAll('.sidebar-tab-button');
+    
+    // Toggle sidebar
+    toggleBtn.addEventListener('click', () => {
+        sidebar.classList.toggle('collapsed');
+    });
+    
+    // Tab switching
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tab = button.dataset.sidebarTab;
+            tabButtons.forEach(b => b.classList.remove('active'));
+            button.classList.add('active');
+            
+            document.querySelectorAll('.sidebar-tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.getElementById(`sidebar-${tab}`).classList.add('active');
+        });
+    });
+}
+
+// Populate sidebar with documents and relationships
+async function populateGraphSidebar(risk) {
+    const documentsList = document.getElementById('documents-list');
+    const relationshipsList = document.getElementById('relationships-list');
+    
+    // Clear existing content
+    documentsList.innerHTML = '';
+    relationshipsList.innerHTML = '';
+    
+    // Get all unique documents
+    const allFilenames = new Set();
+    [...(risk.overlaps || []), ...(risk.contradictions || [])].forEach(item => {
+        item.documents.forEach(doc => {
+            allFilenames.add(doc.filename);
+        });
+    });
+    
+    // Populate documents list
+    for (const filename of allFilenames) {
+        const docInfo = await getDocInfo(filename);
+        const docItem = document.createElement('div');
+        docItem.className = 'sidebar-item';
+        docItem.innerHTML = `
+            <div class="sidebar-item-title">${docInfo.display_name}</div>
+        `;
+        docItem.onclick = () => showNodeDetails(filename, risk);
+        documentsList.appendChild(docItem);
+    }
+    
+    // Populate relationships list - overlaps
+    if (risk.overlaps) {
+        for (const overlap of risk.overlaps) {
+            const docNames = [];
+            for (const doc of overlap.documents) {
+                const info = await getDocInfo(doc.filename);
+                docNames.push(info.short_name);
+            }
+            
+            const relItem = document.createElement('div');
+            relItem.className = 'sidebar-item overlap';
+            relItem.innerHTML = `
+                <div class="sidebar-item-title">🔗 Overlap</div>
+                <div class="sidebar-item-subtitle">${docNames.join(' • ')}</div>
+            `;
+            relItem.onclick = () => showEdgeDetailsFromData(overlap, 'overlap');
+            relationshipsList.appendChild(relItem);
+        }
+    }
+    
+    // Populate relationships list - contradictions
+    if (risk.contradictions) {
+        for (const contradiction of risk.contradictions) {
+            const docNames = [];
+            for (const doc of contradiction.documents) {
+                const info = await getDocInfo(doc.filename);
+                docNames.push(info.short_name);
+            }
+            
+            const relItem = document.createElement('div');
+            relItem.className = 'sidebar-item contradiction';
+            relItem.innerHTML = `
+                <div class="sidebar-item-title">⚠️ Contradiction</div>
+                <div class="sidebar-item-subtitle">${docNames.join(' • ')}</div>
+            `;
+            relItem.onclick = () => showEdgeDetailsFromData(contradiction, 'contradiction');
+            relationshipsList.appendChild(relItem);
+        }
     }
 }
 

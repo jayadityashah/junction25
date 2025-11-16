@@ -202,8 +202,26 @@ def get_short_name(filename, subcategory):
     elif 'CRM' in name:
         return 'EBA CRM'
     else:
-        # Use subcategory
-        return subcategory or name[:15]
+        # Try to create a readable short name from the filename
+        # Remove common prefixes and clean up
+        clean = name.replace('Final ', '').replace('Draft ', '').replace('Report on ', '')
+        clean = clean.replace('Guidelines on ', '').replace('GL_', '')
+        
+        # If it starts with EBA, keep that prefix
+        if clean.startswith('EBA'):
+            # Take first meaningful words
+            words = clean.split()[:3]
+            return ' '.join(words)
+        
+        # If still too long, truncate intelligently
+        if len(clean) > 20:
+            # Try to get first few meaningful words
+            words = clean.replace('_', ' ').split()
+            if len(words) > 1:
+                return ' '.join(words[:2])
+            return clean[:20]
+        
+        return clean.replace('_', ' ')
 
 @app.route('/api/document/by-filename/<path:filename>', methods=['GET'])
 def get_document_by_filename(filename):

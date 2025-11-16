@@ -39,20 +39,20 @@ body {
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 2rem;
+    padding: 1rem 2rem;
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     align-items: center;
 }
 
 header h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    font-size: 1.75rem;
+    margin-bottom: 0.25rem;
     font-weight: 700;
 }
 
 .subtitle {
-    font-size: 1.1rem;
+    font-size: 0.95rem;
     opacity: 0.95;
 }
 
@@ -169,17 +169,157 @@ header h1 {
 /* Graph View */
 .graph-container {
     position: relative;
-    height: calc(100vh - 180px);
+    height: calc(100vh - 120px);
     min-height: 600px;
-    padding: 2rem;
+    padding: 1.5rem;
+    display: flex;
+    gap: 1rem;
 }
 
 .network {
-    width: 100%;
+    flex: 1;
     height: 100%;
     border: 2px solid var(--border-color);
     border-radius: 12px;
     background: white;
+}
+
+/* Graph Sidebar */
+.sidebar-toggle {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 150;
+    transition: all 0.2s ease;
+    box-shadow: var(--shadow);
+}
+
+.sidebar-toggle:hover {
+    background: var(--bg-color);
+    border-color: var(--primary-color);
+}
+
+.graph-sidebar {
+    width: 320px;
+    height: 100%;
+    background: white;
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    order: 2;
+}
+
+.graph-sidebar.collapsed {
+    width: 0;
+    min-width: 0;
+    border: none;
+    padding: 0;
+    opacity: 0;
+}
+
+.network {
+    order: 1;
+}
+
+.sidebar-header {
+    background: var(--bg-color);
+    border-bottom: 2px solid var(--border-color);
+    padding: 0.5rem;
+}
+
+.sidebar-tabs {
+    display: flex;
+    gap: 0.25rem;
+}
+
+.sidebar-tab-button {
+    flex: 1;
+    padding: 0.625rem 1rem;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+}
+
+.sidebar-tab-button:hover {
+    background: rgba(37, 99, 235, 0.1);
+    color: var(--primary-color);
+}
+
+.sidebar-tab-button.active {
+    background: var(--primary-color);
+    color: white;
+}
+
+.sidebar-tab-content {
+    display: none;
+    flex: 1;
+    overflow-y: auto;
+}
+
+.sidebar-tab-content.active {
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 0.75rem;
+}
+
+.sidebar-item {
+    padding: 0.875rem;
+    margin-bottom: 0.5rem;
+    background: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.sidebar-item:hover {
+    background: white;
+    border-color: var(--primary-color);
+    transform: translateX(4px);
+    box-shadow: var(--shadow);
+}
+
+.sidebar-item-title {
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+    color: var(--text-color);
+}
+
+.sidebar-item-subtitle {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+.sidebar-item.overlap {
+    border-left: 4px solid var(--overlap-color);
+}
+
+.sidebar-item.contradiction {
+    border-left: 4px solid var(--danger-color);
 }
 
 /* Detail Panel (slides in from right) */
