@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-google-genai
+faiss-cpu
+openai
+google-generativeai
+python-dotenv
+pyyaml
+tqdm
+flask
+flask-cors

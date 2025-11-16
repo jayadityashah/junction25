@@ -293,7 +293,7 @@ def process_document(
             return []
 
     # Process chunks concurrently with max 10 workers
-    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=200) as executor:
         chunk_results = list(executor.map(process_chunk_with_progress, enumerate(chunks, 1)))
 
     # Flatten results
