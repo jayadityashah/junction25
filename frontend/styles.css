@@ -413,7 +413,54 @@ header h1 {
     border-bottom: 2px solid var(--border-color);
 }
 
-/* Paragraph Highlights */
+/* Requirement Highlights */
+.requirement-highlight {
+    background: var(--highlight-color);
+    padding: 1.25rem;
+    border-radius: 6px;
+    border-left: 4px solid #10b981;
+    margin-bottom: 1rem;
+    transition: all 0.2s ease;
+}
+
+.requirement-highlight:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.requirement-meta {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.page-tag {
+    padding: 0.3rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    background: white;
+    color: var(--primary-color);
+}
+
+.risk-tag {
+    padding: 0.3rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.requirement-text {
+    color: var(--text-color);
+    line-height: 1.8;
+    font-size: 0.95rem;
+    font-weight: 400;
+}
+
+/* Legacy paragraph support (if needed) */
 .paragraph-highlight {
     background: var(--highlight-color);
     padding: 1.25rem;
@@ -422,25 +469,12 @@ header h1 {
     margin-bottom: 1rem;
 }
 
-.paragraph-meta {
-    display: flex;
-    gap: 0.75rem;
-    margin-bottom: 0.75rem;
-}
-
-.page-tag, .para-tag {
+.para-tag {
     padding: 0.3rem 0.75rem;
     border-radius: 4px;
     font-size: 0.8rem;
     font-weight: 700;
     background: white;
-}
-
-.page-tag {
-    color: var(--primary-color);
-}
-
-.para-tag {
     color: var(--text-muted);
 }
 
