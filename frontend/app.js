@@ -10,6 +10,7 @@ async function init() {
     setupBackButton();
     setupTabs();
     setupChat();
+    setupGraphSidebar();
 }
 
 // Load analysis JSON data (requirements-based)
@@ -145,6 +146,9 @@ async function showGraphView(risk, riskIndex) {
     
     document.getElementById('graph-title').textContent = risk.risk_name;
     document.getElementById('graph-subtitle').textContent = risk.description;
+    
+    // Populate sidebar with documents and relationships
+    await populateGraphSidebar(risk);
     
     // Build and render network graph
     await buildNetworkGraph(risk);
@@ -1030,6 +1034,102 @@ function setupChat() {
         const div = document.createElement('div');
         div.textContent = text;
         return div.innerHTML;
+    }
+}
+
+// Setup graph sidebar
+function setupGraphSidebar() {
+    const toggleBtn = document.getElementById('sidebar-toggle');
+    const sidebar = document.getElementById('graph-sidebar');
+    const tabButtons = document.querySelectorAll('.sidebar-tab-button');
+    
+    // Toggle sidebar
+    toggleBtn.addEventListener('click', () => {
+        sidebar.classList.toggle('collapsed');
+    });
+    
+    // Tab switching
+    tabButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const tab = button.dataset.sidebarTab;
+            tabButtons.forEach(b => b.classList.remove('active'));
+            button.classList.add('active');
+            
+            document.querySelectorAll('.sidebar-tab-content').forEach(content => {
+                content.classList.remove('active');
+            });
+            document.getElementById(`sidebar-${tab}`).classList.add('active');
+        });
+    });
+}
+
+// Populate sidebar with documents and relationships
+async function populateGraphSidebar(risk) {
+    const documentsList = document.getElementById('documents-list');
+    const relationshipsList = document.getElementById('relationships-list');
+    
+    // Clear existing content
+    documentsList.innerHTML = '';
+    relationshipsList.innerHTML = '';
+    
+    // Get all unique documents
+    const allFilenames = new Set();
+    [...(risk.overlaps || []), ...(risk.contradictions || [])].forEach(item => {
+        item.documents.forEach(doc => {
+            allFilenames.add(doc.filename);
+        });
+    });
+    
+    // Populate documents list
+    for (const filename of allFilenames) {
+        const docInfo = await getDocInfo(filename);
+        const docItem = document.createElement('div');
+        docItem.className = 'sidebar-item';
+        docItem.innerHTML = `
+            <div class="sidebar-item-title">${docInfo.display_name}</div>
+        `;
+        docItem.onclick = () => showNodeDetails(filename, risk);
+        documentsList.appendChild(docItem);
+    }
+    
+    // Populate relationships list - overlaps
+    if (risk.overlaps) {
+        for (const overlap of risk.overlaps) {
+            const docNames = [];
+            for (const doc of overlap.documents) {
+                const info = await getDocInfo(doc.filename);
+                docNames.push(info.short_name);
+            }
+            
+            const relItem = document.createElement('div');
+            relItem.className = 'sidebar-item overlap';
+            relItem.innerHTML = `
+                <div class="sidebar-item-title">🔗 Overlap</div>
+                <div class="sidebar-item-subtitle">${docNames.join(' • ')}</div>
+            `;
+            relItem.onclick = () => showEdgeDetailsFromData(overlap, 'overlap');
+            relationshipsList.appendChild(relItem);
+        }
+    }
+    
+    // Populate relationships list - contradictions
+    if (risk.contradictions) {
+        for (const contradiction of risk.contradictions) {
+            const docNames = [];
+            for (const doc of contradiction.documents) {
+                const info = await getDocInfo(doc.filename);
+                docNames.push(info.short_name);
+            }
+            
+            const relItem = document.createElement('div');
+            relItem.className = 'sidebar-item contradiction';
+            relItem.innerHTML = `
+                <div class="sidebar-item-title">⚠️ Contradiction</div>
+                <div class="sidebar-item-subtitle">${docNames.join(' • ')}</div>
+            `;
+            relItem.onclick = () => showEdgeDetailsFromData(contradiction, 'contradiction');
+            relationshipsList.appendChild(relItem);
+        }
     }
 }
 

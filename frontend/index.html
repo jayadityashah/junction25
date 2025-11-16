@@ -75,6 +75,33 @@
       <div class="graph-container">
         <div id="network" class="network"></div>
 
+        <!-- Right Sidebar Toggle Button -->
+        <button id="sidebar-toggle" class="sidebar-toggle">☰</button>
+
+        <!-- Right Sidebar -->
+        <div id="graph-sidebar" class="graph-sidebar collapsed">
+          <div class="sidebar-header">
+            <div class="sidebar-tabs">
+              <button class="sidebar-tab-button active" data-sidebar-tab="documents">Documents</button>
+              <button class="sidebar-tab-button" data-sidebar-tab="relationships">Relationships</button>
+            </div>
+          </div>
+
+          <!-- Documents Tab -->
+          <div id="sidebar-documents" class="sidebar-tab-content active">
+            <div id="documents-list" class="sidebar-list">
+              <!-- Documents will be populated here -->
+            </div>
+          </div>
+
+          <!-- Relationships Tab -->
+          <div id="sidebar-relationships" class="sidebar-tab-content">
+            <div id="relationships-list" class="sidebar-list">
+              <!-- Relationships will be populated here -->
+            </div>
+          </div>
+        </div>
+
         <!-- Visual Legend -->
         <div class="graph-legend">
           <div class="legend-item">
