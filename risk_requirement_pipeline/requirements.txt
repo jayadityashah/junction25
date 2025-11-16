@@ -11,3 +11,7 @@ pyyaml
 tqdm
 flask
 flask-cors
+torch
+transformers
+numpy
+scikit-learn

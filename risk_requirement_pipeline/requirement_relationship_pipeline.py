@@ -11,6 +11,7 @@ from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage
 from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv()
 
@@ -321,7 +322,7 @@ def find_all_relationships():
     print("\n🤖 Initializing Gemini...")
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash-lite-preview-09-2025",
-        temperature=0.1
+        temperature=0.5
     )
     print("  ✓ Gemini initialized (gemini-2.5-flash-lite-preview-09-2025)")
     
@@ -343,14 +344,20 @@ def find_all_relationships():
     for cat, count in risk_categories:
         print(f"  - {cat}: {count} requirements")
     
-    # Process each category
-    for risk_category, count in risk_categories:
-        if count >= 2:  # Need at least 2 requirements to compare
+    # Process categories concurrently
+    results = []
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        future_to_category = {
+            executor.submit(process_risk_category, risk_category, conn, llm): risk_category
+            for risk_category, count in risk_categories if count >= 2
+        }
+
+        for future in as_completed(future_to_category):
+            category = future_to_category[future]
             try:
-                process_risk_category(risk_category, conn, llm)
+                future.result()
             except Exception as e:
-                print(f"  ❌ Error processing {risk_category}: {e}")
-                continue
+                print(f"  ❌ Error processing {category}: {e}")
     
     conn.close()
     
@@ -361,4 +368,3 @@ def find_all_relationships():
 
 if __name__ == "__main__":
     find_all_relationships()
-

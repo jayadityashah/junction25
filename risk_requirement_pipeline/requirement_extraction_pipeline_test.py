@@ -89,6 +89,8 @@ def create_requirements_schema(conn: sqlite3.Connection):
     print("✅ Requirements schema created")
 
 
+
+
 def get_document_pages(conn: sqlite3.Connection, doc_id: int) -> List[Dict[str, Any]]:
     """Get all pages with paragraphs for a document"""
     cursor = conn.cursor()
