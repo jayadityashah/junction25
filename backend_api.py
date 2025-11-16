@@ -392,6 +392,14 @@ def graphrag_chat():
     except Exception as e:
         return jsonify({"success": False, "error": str(e)}), 500
 
+@app.route('/api/graphrag/visualization')
+def graphrag_visualization():
+    """Serve the GraphRAG knowledge graph visualization HTML"""
+    try:
+        return send_from_directory(FRONTEND_DIR, 'graphrag_knowledge_graph.html')
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 if __name__ == '__main__':
     print(f"🚀 Starting API server...")
     print(f"📁 Database: {DB_PATH}")

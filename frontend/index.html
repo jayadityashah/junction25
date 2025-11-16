@@ -18,6 +18,7 @@
         <div class="nav-tabs">
           <button class="tab-button active" data-tab="graph">Graph View</button>
           <button class="tab-button" data-tab="chat">GraphRAG Chat</button>
+          <button class="tab-button" data-tab="graphrag-viz">GraphRAG Visualization</button>
         </div>
       </header>
 
@@ -58,6 +59,24 @@
             />
             <button id="chat-send" class="send-button">Send</button>
           </div>
+        </div>
+      </div>
+
+      <div id="graphrag-viz-tab" class="tab-content" style="display: none; overflow-x: auto; overflow-y: hidden;">
+        <div style="padding: 1rem; background: #f1f5f9; margin: 1rem; border-radius: 8px;">
+          <p style="color: #64748b; font-size: 0.9rem; margin: 0;">
+            <strong>Interactive Knowledge Graph:</strong> Use the controls in the top-right corner to zoom, pan, and interact with the graph.
+            Hover over elements for details. The legend is on the right side - scroll horizontally if needed.
+          </p>
+        </div>
+        <div class="graphrag-viz-container" style="min-width: 1400px;">
+          <iframe
+            id="graphrag-iframe"
+            src="/api/graphrag/visualization"
+            style="width: 100%; height: calc(100vh - 260px); border: none; background: white;"
+            title="GraphRAG Knowledge Graph Visualization"
+            sandbox="allow-same-origin allow-scripts allow-forms">
+          </iframe>
         </div>
       </div>
     </div>
